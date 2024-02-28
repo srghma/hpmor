@@ -11,6 +11,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 
 # install core packages
 RUN apt-get update
+RUN apt-get dist-upgrade -y
 RUN apt-get install -y python3 git
 
 # for pdf, copied from scripts/install_requirements_pdf.sh
@@ -25,17 +26,25 @@ WORKDIR /app
 VOLUME /app
 
 # default command: build 1-vol pdf and all ebook formats
-CMD latexmk hpmor ; ./scripts/make_ebooks.sh
+# CMD latexmk hpmor ; ./scripts/make_ebooks.sh
 
-# build/update image via
-# docker build -t hpmor .
+# 1. preparation
+# 1.1 build/update image from Dockerfile
+#  docker build -t hpmor
 
-# run default commands (see above) via
-# docker run -it --mount type=bind,src="$(pwd)",dst=/app hpmor
+# 1.2 create container that mounts current working dir to /app
+#  docker run --name hpmor-en -it --mount type=bind,src="$(pwd)",dst=/app hpmor bash
+#  exit
 
-# run specific command or script
-# docker run -it --mount type=bind,src="$(pwd)",dst=/app hpmor latexmk hpmor-1
-# docker run -it --mount type=bind,src="$(pwd)",dst=/app hpmor ./scripts/make_ebooks.sh
+# note: in Windows you need to replace "$(pwd)" by "%cd%" for the following commands
 
-# login via
-# docker run -it --mount type=bind,src="$(pwd)",dst=/app hpmor bash
+# 2. use container
+#  docker start -ai hpmor-en
+#  latexmk hpmor ; ./scripts/make_ebooks.sh
+#  exit
+
+# 3. optionally: cleanup/delete hpmor from docker
+# delete container
+#  docker rm hpmor-en
+# delete image
+#  docker rmi hpmor
