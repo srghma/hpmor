@@ -46,13 +46,14 @@ cont = re.sub(
     count=7,
 )
 
-# set language
-cont = re.sub(
-    r'(<html [^>]*) lang="" xml:lang=""',
-    r'\1 lang="en" xml:lang="en"',
-    cont,
-    count=1,
-)
+# now done via pandoc -V lang=en in 5.sh
+# # set language
+# cont = re.sub(
+#     r'(<html [^>]*) lang="" xml:lang=""',
+#     r'\1 lang="en" xml:lang="en"',
+#     cont,
+#     count=1,
+# )
 
 # remove training slashes to satisfy https://validator.w3.org
 cont = cont.replace("<br />", "<br>")
