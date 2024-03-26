@@ -3,6 +3,7 @@
 """
 Modify flattened .tex file.
 """
+
 import datetime as dt
 import os
 import re
@@ -87,18 +88,21 @@ cont = re.sub(
     r"\\section{Lord of the Rationality}\n",
     cont,
     flags=re.DOTALL,
+    count=1,
 )
 cont = re.sub(
     r"\\OmakeIVspecialsection[^\n]+\{NarniaBLL\}.*?\n\n",
     r"\\section{The Witch and the Wardrobe}\n",
     cont,
     flags=re.DOTALL,
+    count=1,
 )
 cont = re.sub(
     r"\\OmakeIVspecialsection[^\n]+\{Thundercats\}.*?\n\n",
     r"\\section{ThunderSmarts}\n",
     cont,
     flags=re.DOTALL,
+    count=1,
 )
 
 cont = re.sub(
@@ -106,6 +110,41 @@ cont = re.sub(
     r"\\section{Utilitarian Twilight}\n",
     cont,
     flags=re.DOTALL,
+    count=1,
+)
+
+# # remove Deathly_Hallows_Sign.pdf and other pdf images
+# # \includegraphics[scale=0.125]{images/Deathly_Hallows_Sign.pdf}
+# cont = re.sub(
+#     # r"\\includegraphics.*?\{images/Deathly_Hallows_Sign.*?\}",
+#     r"\\includegraphics.*?\.pdf\}",
+#     "",
+#     cont,
+# )
+
+# remove all images
+cont = re.sub(
+    r"\\includegraphics\[.*?\]\{.*?\}",
+    "",
+    cont,
+    flags=re.DOTALL,
+)
+
+# remove empty envs
+cont = re.sub(
+    r"\\begin\{([^\}]*)\}\s*\\end\{\1}",
+    "",
+    cont,
+    flags=re.DOTALL,
+)
+
+# remove end stuff
+cont = re.sub(
+    r"(.*)\\end\{chapterOpeningAuthorNote\}.*?\\end\{document\}",
+    r"\1\\end{chapterOpeningAuthorNote}\n\\end{document}",
+    cont,
+    flags=re.DOTALL,
+    count=1,
 )
 
 with open(target_file, mode="w", encoding="utf-8", newline="\n") as fhOut:

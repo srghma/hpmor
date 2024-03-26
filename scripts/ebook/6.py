@@ -3,6 +3,7 @@
 """
 HTML modifications.
 """
+
 import os
 import re
 import sys
@@ -24,20 +25,47 @@ cont = re.sub(
     r"\1",
     cont,
     flags=re.DOTALL | re.IGNORECASE,
+    count=1,
 )
 
 # cleanup hp-intro leftovers
-cont = cont.replace(
+cont = re.sub(
     """<p>Fanfiction based on the characters of</p>
 <p>J. K. ROWLING</p>
 <p>and her books:</p>""",
     "<p>Fanfiction based on the characters of J. K. Rowling and her books:</p>",
+    cont,
+    count=1,
 )
-cont = cont.replace("<p>Year at Hogwarts</p>\n", "")
-cont = cont.replace(
+
+cont = re.sub("<p>Year at Hogwarts</p>\n", "", cont, count=7)
+cont = re.sub(
     "</em></p>\n<p><em>Harry Potter and the",
-    "<br/>\nHarry Potter and the",
+    "<br>\nHarry Potter and the",
+    cont,
+    count=7,
 )
+
+# set language
+cont = re.sub(
+    r'(<html [^>]*) lang="" xml:lang=""',
+    r'\1 lang="en" xml:lang="en"',
+    cont,
+    count=1,
+)
+
+# remove training slashes to satisfy https://validator.w3.org
+cont = cont.replace("<br />", "<br>")
+cont = cont.replace("<hr />", "<hr>")
+
+cont = re.sub(
+    r"(<meta [^>]*) />",
+    r"\1>",
+    cont,
+)
+
+# remove bad span ids (containing spaces) from newspaper spans
+cont = re.sub(r'<span id="[^"]+" label="[^"]+">', r"<span>", cont, count=5)
 
 # doc structure (not needed any more, using calibi --level1-toc flag instead)
 # sed -i 's/<h1 /<h1 class="part"/g' $target_file
