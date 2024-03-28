@@ -11,6 +11,7 @@ lang: EN, DE, FR, ...
 raise_error: true -> script exits with error, used for autobuild of releases
 print_diff: true : print line of issues
 """
+
 import difflib
 import glob
 import json
