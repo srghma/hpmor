@@ -9,7 +9,7 @@ on:
       version_number:
         description: "Version number"
         required: true
-        default: "v1.2.4"
+        default: "v1.2.9"
       version_text:
         description: "Description"
         required: true
@@ -27,26 +27,29 @@ jobs:
 
       # steps are copied from make.yml
 
-      - name: checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 1 # 0 if you want to push to repo
 
-      - name: Python setup
-        uses: actions/setup-python@v4
+      - name: Python set up
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
+          # cache: "pip"
 
-      - name: set up Python cache
-        uses: actions/cache@v3
+      - name: Python cache set up
+        uses: actions/cache@v4
         with:
           path: ${{ env.pythonLocation }}
           key: ${{ env.pythonLocation }}-py-cache
 
-      - name: quality check of chapters for known issues
+      - name: Check of chapters for known issues
         run: python3 scripts/check-chapters.py
 
-      - name: run pre-commit tests
-        # configured in .pre-commit-config.yaml and setup.cfg
-        uses: pre-commit/action@v3.0.0
+      - name: Check pre-commit tests
+        uses: pre-commit/action@v3.0.1
 
       - name: install requirements
         run: sh scripts/install_requirements.sh > /dev/null
@@ -58,7 +61,7 @@ jobs:
         run: sh scripts/make_ebooks.sh
 
       - name: "create release"
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: "${{ inputs.version_number }}"
           body: "${{ inputs.version_text }}"

@@ -11,21 +11,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-22.04
-    # runs-on: ubuntu-latest
+
     steps:
       - name: print start date
         run: date +%Y-%m-%d_%H:%M
 
-      - name: checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 1 # 0 if you want to push to repo
 
-      - name: Python setup
-        uses: actions/setup-python@v4
+      - name: Python set up
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
+          # cache: "pip"
 
-      - name: set up Python cache
-        uses: actions/cache@v3
+      - name: Python cache set up
+        uses: actions/cache@v4
         with:
           path: ${{ env.pythonLocation }}
           key: ${{ env.pythonLocation }}-py-cache
@@ -35,12 +39,11 @@ jobs:
       #     pwd
       #     ls -al
 
-      - name: quality check of chapters for known issues
+      - name: Check of chapters for known issues
         run: python3 scripts/check-chapters.py
 
-      - name: run pre-commit tests
-        # configured in .pre-commit-config.yaml and setup.cfg
-        uses: pre-commit/action@v3.0.0
+      - name: Check pre-commit tests
+        uses: pre-commit/action@v3.0.1
 
       - name: install requirements
         run: sh scripts/install_requirements.sh > /dev/null
