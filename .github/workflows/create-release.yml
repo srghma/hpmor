@@ -1,10 +1,8 @@
 # This manually started workflow builds PDFs and eBooks and creates a new release with these assets.
-# Build part is copied from make.yml .
-
 name: "Create Release"
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # manual triggering
     inputs:
       version_number:
         description: "Version number"
@@ -27,28 +25,42 @@ jobs:
 
       # steps are copied from make.yml
 
-      - name: Checkout repository
+      - name: checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: false
           fetch-depth: 1 # 0 if you want to push to repo
 
-      - name: Python set up
+      - name: caching LaTeX files
+        uses: actions/cache@v4
+        with:
+          path: |
+            chapters/*.aux
+            hpmor*.aux
+            hpmor*.fdb_latexmk
+            hpmor*.fls
+            hpmor*.out
+            hpmor*.pdf
+            hpmor*.toc
+            hpmor*.xdv
+          key: tex-cache
+
+      - name: python set up
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
           # cache: "pip"
 
-      - name: Python cache set up
+      - name: python cache set up
         uses: actions/cache@v4
         with:
           path: ${{ env.pythonLocation }}
           key: ${{ env.pythonLocation }}-py-cache
 
-      - name: Check of chapters for known issues
+      - name: check chapters for known issues
         run: python3 scripts/check_chapters.py
 
-      - name: Check pre-commit tests
+      - name: check pre-commit tests
         uses: pre-commit/action@v3.0.1
 
       - name: install requirements
@@ -60,7 +72,7 @@ jobs:
       - name: make eBooks
         run: sh scripts/make_ebooks.sh
 
-      - name: "create release"
+      - name: publish release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: "${{ inputs.version_number }}"
