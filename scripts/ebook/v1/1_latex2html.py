@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # by Torben Menke https://entorb.net
+
+# ruff: noqa
+
 """
 Converter script.
 
@@ -11,6 +14,7 @@ output dir: output/
 run from within ebook dir via
 python3 1_latex2html.py
 """
+
 import glob
 import os
 import re
@@ -221,7 +225,6 @@ def simplify_tex(s: str) -> str:
 
 
 def tex2html(s: str) -> str:
-
     #
     # Bulk text replacements
     # Chapter 00 - Preface
