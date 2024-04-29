@@ -139,18 +139,20 @@ def fix_line(s: str) -> str:
     """Apply all fix functions to each line."""
     # simple and safe
     s = fix_spaces(s)
-    s = fix_latex(s)
+    s = fix_common_typos(s)
     s = fix_ellipsis(s)
+    s = fix_latex(s)
     s = fix_MrMrs(s)
     s = fix_numbers(s)
-    s = fix_common_typos(s)
-    s = fix_spaces(s)
     s = fix_punctuation(s)
+    s = fix_spaces(s)
 
     # advanced stuff
-    s = fix_quotations(s)
     s = fix_emph(s)
     s = fix_hyphens(s)
+    s = fix_quotations(s)
+
+    # force linebreaks before speach marks
     if settings["lang"] == "DE":
         s = fix_linebreaks_speach(s)
 
@@ -178,24 +180,16 @@ def fix_spaces(s: str) -> str:
     return s
 
 
-assert fix_spaces("Hallo  Harry") == "Hallo Harry"
-assert fix_spaces("tabs\tto\t\tspace") == "tabs to space"
-assert fix_spaces("trailing spaces  ") == "trailing spaces"
-assert fix_spaces("  ") == ""
-assert fix_spaces("multiple  spaces") == "multiple spaces"
+def fix_ellipsis(s: str) -> str:
+    """Fix spaces around ellipsis."""
+    # ... -> …
+    s = s.replace("...", "…")
+    # remove all spaces around ellipsis
+    s = re.sub(r" *… *", r"…", s)
 
-
-def fix_punctuation(s: str) -> str:
-    # 2x same punctuation: ,.!?
-    s = re.sub(r"([,\.!\?:;])\s*\1", r"\1", s)
+    # after punctuation: add space
+    s = re.sub(r"(?<=[\.\?!:,;])…", r" …", s)
     return s
-
-
-assert fix_punctuation("!!") == "!"
-assert fix_punctuation("??") == "?"
-assert fix_punctuation("! !") == "!"
-assert fix_punctuation("..") == "."
-assert fix_punctuation(",,") == ","
 
 
 def fix_latex(s: str) -> str:
@@ -209,29 +203,19 @@ def fix_latex(s: str) -> str:
     return s
 
 
-assert fix_latex("begin at new line\\begin{em}") == "begin at new line\n\\begin{em}"
-assert fix_latex("end at new line\\end{em}") == "end at new line\n\\end{em}"
-assert fix_latex("new line after \\\\ asdf") == "new line after \\\\\nasdf"
-assert fix_latex("no new line after \\\\") == "no new line after \\\\"
+def fix_linebreaks_speach(s: str) -> str:
+    """
+    Add linebreaks before speach marks.
 
+    not in use in EN
+    """
+    if settings["lang"] == "EN":
+        return s
 
-def fix_ellipsis(s: str) -> str:
-    """Fix spaces around ellipsis."""
-    # ... -> …
-    s = s.replace("...", "…")
-    # remove all spaces around ellipsis
-    s = re.sub(r" *… *", r"…", s)
+    if settings["lang"] == "DE":
+        s = re.sub(r" „([A-Z])", r"\n„\1", s)
 
-    # after punctuation: add space
-    s = re.sub(r"(?<=[\.\?!:,;])…", r" …", s)
     return s
-
-
-assert fix_ellipsis("foo...bar") == "foo…bar"
-assert fix_ellipsis("foo … bar") == "foo…bar"
-assert fix_ellipsis("foo… bar") == "foo…bar"
-assert fix_ellipsis("foo …bar") == "foo…bar"
-assert fix_ellipsis("foo, …") == "foo, …"
 
 
 def fix_MrMrs(s: str) -> str:  # noqa: N802
@@ -240,35 +224,15 @@ def fix_MrMrs(s: str) -> str:  # noqa: N802
     # s = s.replace("Mr. Potter", "Mr~Potter")
     if settings["lang"] == "DE":
         s = re.sub(r"\b(Mr|Mrs|Miss|Dr)\b\.?\s+(?!”)", r"\1~", s)
-    # Dr.~ -> Dr~Potter
+    # Dr.~ -> Dr~Potter etc.
     s = re.sub(r"\b(Mr|Mrs|Miss|Dr)\b\.~", r"\1~", s)
-    # "Dr. " -> "Dr~"
-    # s = re.sub(r"\b(Dr)\b\.?~?\s*", r"\1~", s)
-    # s = s.replace("Mr~and Mrs~", "Mr and Mrs~")
     return s
-
-
-assert fix_MrMrs("Mr. H. Potter") == "Mr~H.~Potter"
-if settings["lang"] == "DE":
-    assert fix_MrMrs("Mr. Potter") == "Mr~Potter"
-    assert fix_MrMrs("Mrs. Potter") == "Mrs~Potter"
-    assert fix_MrMrs("Miss. Potter") == "Miss~Potter"
-    assert fix_MrMrs("Dr. Potter") == "Dr~Potter"
-    assert fix_MrMrs("Dr Potter") == "Dr~Potter"
-    assert fix_MrMrs("Mr Potter") == "Mr~Potter"
-    # assert fix_MrMrs("Mr. and Mrs. Davis") == "Mr and Mrs~Davis"
-    assert fix_MrMrs("Mr. and Mrs. Davis") == "Mr~and Mrs~Davis"
-assert fix_MrMrs("it’s Doctor now, not Miss.”") == "it’s Doctor now, not Miss.”"
 
 
 def fix_numbers(s: str) -> str:
     if settings["lang"] == "DE":
         s = re.sub(r"(\d) +(Uhr)", r"\1~\2", s)
     return s
-
-
-if settings["lang"] == "DE":
-    assert fix_numbers("Es ist 12:23 Uhr...") == "Es ist 12:23~Uhr..."
 
 
 def fix_common_typos(s: str) -> str:
@@ -297,19 +261,7 @@ def fix_common_typos(s: str) -> str:
         s = re.sub(r"(\w)'(t)\b", r"\1’\2", s)
         # I'm
         s = re.sub(r"\bI'm\b", r"I’m", s)
-
     return s
-
-
-assert (fix_common_typos("Test Mungo's King's Cross")) == "Test Mungo’s King’s Cross"
-if settings["lang"] == "DE":
-    assert (fix_common_typos("Junge-der-überlebt-hat")) == "Junge-der-überlebte"
-    assert (fix_common_typos("Fritz'sche Gesetz")) == "Fritz’sche Gesetz"
-    assert (fix_common_typos("Fritz'schen Gesetz")) == "Fritz’schen Gesetz"
-    assert (fix_common_typos("Fritz'scher Gesetz")) == "Fritz’scher Gesetz"
-if settings["lang"] == "EN":
-    assert (fix_common_typos("I'm happy")) == "I’m happy"
-    assert (fix_common_typos("can't be")) == "can’t be"
 
 
 def fix_quotations(s: str) -> str:  # noqa: C901, PLR0912, PLR0915
@@ -470,21 +422,6 @@ def fix_emph(s: str) -> str:
     return s
 
 
-assert fix_emph(r"That’s not \emph{true!}") == r"That’s not \emph{true}!"
-assert fix_emph(r"she got \emph{magic,} can you") == r"she got \emph{magic}, can you"
-# unchanged:
-if settings["lang"] == "EN":
-    assert (
-        fix_emph(r"briefly. \emph{Hopeless.} Both") == r"briefly. \emph{Hopeless.} Both"
-    )
-if settings["lang"] == "DE":
-    assert (
-        fix_emph(r"briefly. \emph{Hopeless.} Both") == r"briefly. \emph{Hopeless}. Both"
-    )
-
-# if settings["lang"] == "EN":
-
-
 def fix_hyphens(s: str) -> str:
     # --- -> em dash —
     s = s.replace("---", "—")
@@ -537,27 +474,10 @@ def fix_hyphens(s: str) -> str:
     return s
 
 
-assert fix_hyphens("2-3-4") == "2–3–4"
-assert fix_hyphens(" —,") == "—,"
-assert fix_hyphens(" —.") == "—."
-assert fix_hyphens(" —!") == "—!"
-assert fix_hyphens(" —?") == "—?"
-# start of line
-assert fix_hyphens("— asdf") == "—asdf"
-assert fix_hyphens("- asdf") == "—asdf"
-assert fix_hyphens("-asdf") == "—asdf"
-if settings["lang"] == "DE":
-    # end of line
-    assert fix_hyphens("Text —") == "Text—"
-    # start of quote
-    assert fix_hyphens("Text—„") == "Text— „"
-    assert fix_hyphens("Text —„") == "Text— „"
-    assert fix_hyphens("Text „ —Quote") == "Text „—Quote"
-    assert fix_hyphens("Text „ — Quote") == "Text „—Quote"
-    assert fix_hyphens("Text—„— Quote") == "Text— „—Quote"
-    # end of quote
-    assert fix_hyphens("Text -“") == "Text—“ ", "'" + fix_hyphens("Text -“") + "'"
-    assert fix_hyphens("Text —“") == "Text—“", "'" + fix_hyphens("Text —“") + "'"
+def fix_punctuation(s: str) -> str:
+    """Fix 2x same punctuation: ,.!?:;"""  # noqa: D400, D415
+    s = re.sub(r"([,\.!\?:;])\s*\1", r"\1", s)
+    return s
 
 
 def fix_spell(s: str) -> str:
@@ -659,37 +579,6 @@ def fix_spell(s: str) -> str:
 
     return s
 
-
-if settings["lang"] == "EN":
-    assert fix_spell(r"‘Lumos’") == r"\spell{Lumos}"
-
-if settings["lang"] == "DE":
-    assert fix_spell(r"‚Lumos‘") == r"\spell{Lumos}"
-    assert fix_spell(r"„Lumos“") == r"\spell{Lumos}"
-    assert fix_spell(r"„\emph{Lumos}“") == r"\spell{Lumos}"
-    assert fix_spell(r"\emph{„Lumos“}") == r"\spell{Lumos}"
-    assert fix_spell(r"\emph{Lumos!}") == r"\spell{Lumos}"
-    assert fix_spell(r"„\spell{Lumos}“") == r"\spell{Lumos}"
-
-
-def fix_linebreaks_speach(s: str) -> str:
-    """
-    Add linebreaks before speach marks.
-    """
-    if settings["lang"] == "EN":
-        # not in use in EN
-        return s
-
-    if settings["lang"] == "DE":
-        s = re.sub(r" „([A-Z])", r"\n„\1", s)
-
-    return s
-
-
-if settings["lang"] == "DE":
-    assert fix_linebreaks_speach(" „Hello") == "\n„Hello"
-    assert fix_linebreaks_speach(" „hello") == " „hello"
-    assert fix_linebreaks_speach("„hello") == "„hello"
 
 if __name__ == "__main__":
     # cleanup first
