@@ -151,7 +151,8 @@ def fix_line(s: str) -> str:
     s = fix_quotations(s)
     s = fix_emph(s)
     s = fix_hyphens(s)
-    # s = fix_linebreaks_speach(s)
+    if settings["lang"] == "DE":
+        s = fix_linebreaks_speach(s)
 
     # add spell macro
     if settings["lang"] == "DE":
@@ -427,6 +428,18 @@ def fix_quotations(s: str) -> str:  # noqa: C901, PLR0912, PLR0915
     if settings["lang"] == "DE":
         s = re.sub("”", "“", s)
         # s = re.sub("’", "’", s)
+
+    # TODO: check for uneven quotations
+    # if settings["lang"] == "DE":
+    #     s = re.sub(r"(„[^“]+„)", r"<FIXME: quotations \1>", s)
+    #     s = re.sub(r"(`)", r"<FIXME: quotations: \1>", s)
+
+    #     if "\\\\" not in s:
+    #         if s.count("„") != s.count("“"):
+    #             s = "<FIXME: quotation „/“ mismatch> " + s
+    #         if s.count("‚") != s.count("‘"):
+    #             s = "<FIXME: quotation ‚/‘ mismatch> " + s
+
     return s
 
 
@@ -548,6 +561,9 @@ if settings["lang"] == "DE":
 
 
 def fix_spell(s: str) -> str:
+    if settings["lang"] == "EN":
+        # no spell macro in EN yet
+        return s
     spells = {
         "Accio",
         "Alohomora",
@@ -652,21 +668,28 @@ if settings["lang"] == "DE":
     assert fix_spell(r"„Lumos“") == r"\spell{Lumos}"
     assert fix_spell(r"„\emph{Lumos}“") == r"\spell{Lumos}"
     assert fix_spell(r"\emph{„Lumos“}") == r"\spell{Lumos}"
-    assert fix_spell(r"\emph{Lumos!}") == r"\spell {Lumos}"
+    assert fix_spell(r"\emph{Lumos!}") == r"\spell{Lumos}"
     assert fix_spell(r"„\spell{Lumos}“") == r"\spell{Lumos}"
 
 
-# def fix_linebreaks_speach(s: str) -> str:
-#     """
-#     Add linebreaks before speach marks.
-#     """
-#     s = re.sub(r" „([A-Z])", r"\n„\1", s)
-#     return s
+def fix_linebreaks_speach(s: str) -> str:
+    """
+    Add linebreaks before speach marks.
+    """
+    if settings["lang"] == "EN":
+        # not in use in EN
+        return s
+
+    if settings["lang"] == "DE":
+        s = re.sub(r" „([A-Z])", r"\n„\1", s)
+
+    return s
 
 
-# assert fix_linebreaks_speach(" „Hello") == "\n„Hello"
-# assert fix_linebreaks_speach(" „hello") == " „hello"
-# assert fix_linebreaks_speach("„hello") == "„hello"
+if settings["lang"] == "DE":
+    assert fix_linebreaks_speach(" „Hello") == "\n„Hello"
+    assert fix_linebreaks_speach(" „hello") == " „hello"
+    assert fix_linebreaks_speach("„hello") == "„hello"
 
 if __name__ == "__main__":
     # cleanup first
