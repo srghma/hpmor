@@ -15,7 +15,7 @@ on:
 
 jobs:
   release:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
 
     steps:
       # - name: test print
@@ -25,13 +25,16 @@ jobs:
 
       # steps are copied from make.yml
 
-      - name: checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: false
           fetch-depth: 1 # 0 if you want to push to repo
 
-      - name: caching LaTeX files
+      - name: Touch requirements.txt for pip caching
+        run: touch requirements.txt
+
+      - name: Cache LaTeX files
         uses: actions/cache@v4
         with:
           path: |
@@ -45,34 +48,28 @@ jobs:
             hpmor*.xdv
           key: tex-cache
 
-      - name: python set up
+      - name: Python set up
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
-          # cache: "pip"
+          python-version: "3.12"
+          cache: "pip"
 
-      - name: python cache set up
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.pythonLocation }}
-          key: ${{ env.pythonLocation }}-py-cache
-
-      - name: check chapters for known issues
+      - name: Check chapters for known issues
         run: python3 scripts/check_chapters.py
 
-      - name: check pre-commit tests
+      - name: Check pre-commit tests
         uses: pre-commit/action@v3.0.1
 
-      - name: install requirements
+      - name: Install requirements
         run: sh scripts/install_requirements.sh > /dev/null
 
-      - name: make PDFs
+      - name: Make PDFs
         run: sh scripts/make_pdfs.sh > /dev/null
 
-      - name: make eBooks
+      - name: Make eBooks
         run: sh scripts/make_ebooks.sh
 
-      - name: publish release
+      - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: "${{ inputs.version_number }}"

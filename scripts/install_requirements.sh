@@ -1,11 +1,12 @@
 #!/bin/sh
 
 # update apt list
-sudo apt update --fix-missing
+sudo apt-get update --fix-missing
 
 # pdf
-sudo apt install texlive-xetex latexmk
+sudo apt-get install texlive-xetex texlive-lang-greek latexmk
 
 # ebook
-sudo apt install pandoc calibre texlive-extra-utils
+sudo apt-get install pandoc calibre texlive-extra-utils imagemagick ghostscript
 # texlive-extra-utils for latexpand
+# imagemagick ghostscript : for pdf title page to image conversion
