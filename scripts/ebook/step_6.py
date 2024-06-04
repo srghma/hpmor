@@ -141,9 +141,10 @@ if __name__ == "__main__":
 
     # converting "color-marked" styles of 1.sh back to proper style classes
     cont = re.sub(
-        r'<(div|span) style="color: (parsel|writtenNote|McGonagallWhiteBoard|headline)"',  # noqa: E501
+        r'<(div|span)\s+style="color:\s*(parsel|writtenNote|McGonagallWhiteBoard|headline)"',
         r'<\1 class="\2"',
         cont,
+        flags=re.DOTALL,
     )
 
     # add css style file format for \emph in \emph
