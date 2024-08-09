@@ -29,3 +29,12 @@ release: zip
 		suffix=$${file##*.}; \
 		gh release upload $(TAG) $$file#$(PROJECT)-$(VERSION).$$suffix; \
 	done
+
+docker_build:
+	docker build -t hpmor .
+
+docker_run:
+	docker run -it -v ./:/app hpmor bash
+
+docker_run__latexmk:
+	docker run -it -v ./:/app hpmor latexmk hpmor

@@ -19,11 +19,33 @@ RUN apt-get install -y texlive-xetex texlive-lang-greek texlive-lang-german late
 # for ebook, copied from scripts/install_requirements_ebook.sh
 RUN apt-get install -y texlive-extra-utils pandoc calibre imagemagick ghostscript
 
+RUN apt-get install -y make
+
+# Install necessary packages
+RUN apt-get update && apt-get install -y \
+    wget \
+    unzip \
+    fonts-noto-core \
+    fonts-noto-ui-core \
+    fonts-noto-unhinted \
+    fonts-noto-cjk \
+    fonts-noto-extra \
+    fonts-khmeros \
+    ttf-mscorefonts-installer && \
+    fc-cache -fv
+
+RUN mkdir -p /usr/share/fonts/truetype/khmer
+COPY KhmerMondulkiri-Regular.ttf /usr/share/fonts/truetype/khmer/
+RUN fc-cache -fv
+
 # set working directory
 WORKDIR /app
 
 # mount host directory as volume
 VOLUME /app
+
+# docker build -t hpmor-builder .
+# docker run -it --rm -v `pwd`:/app sha256:88fd68f543625d169df6b2f5d2c0a0fa444f82fdbfc66bd18b13b80ba1a8f78a latexmk hpmor
 
 # default command: build 1-vol pdf and all ebook formats
 # CMD latexmk hpmor ; ./scripts/make_ebooks.sh
