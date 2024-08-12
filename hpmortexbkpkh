@@ -1,0 +1,39 @@
+\RequirePackage[pdf]{layout/hp-book}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{khmer}
+
+\newfontfamily\khmerfont[Scale=0.8,Script=Khmer]{Khmer Mondulkiri}
+\selectlanguage *[numerals=arabic]{khmer}
+\usepackage[Latin,Khmer]{ucharclasses}
+\setTransitionTo{Khmer}{\khmerfont}
+\setTransitionFrom{Khmer}{\rmfamily}
+
+\begin{document}
+{
+\pagestyle{empty}
+\chapter*{ការព្រមានអំពីខ្លឹមសារ}
+\thispagestyle{empty}
+\input{layout/hpmor-title}
+\input{layout/hp-intro}
+
+ការពិភាក្សា (មិនបង្ហាញ) នៃការរួមភេទដែលមិនយល់ព្រម៖ ប្រហែល 60% នៃវិធីតាមរយៈជំពូកទី 7; យ៉ាងខ្លីនៅក្នុង omake ក្នុងជំពូកទី 11 ។
+
+ការពណ៌នាមនុស្សទីមួយ (មានបទពិសោធន៍ដោយចរិតលក្ខណៈ) នៃការបៀតបៀនសាលាយ៉ាងធ្ងន់ធ្ងរ។ ចាប់ផ្តើមពាក់កណ្តាលនៃជំពូកទី 19 ។
+
+ការស្លាប់របស់តួអង្គឃោរឃៅ។ ជំពូក 89 ។
+
+សម្រាប់ព័ត៌មានបន្ថែម (ជាមួយ spoilers!) សូមមើល៖
+
+\begin{center}\url{https://wiki.lesswrong.com/wiki/MethodsOfRationality/TriggerWarnings}\end{center}
+\pagenumbering{gobble}
+\input{layout/hp-contents}
+\include{layout/hp-blurbs}
+\cleartorecto
+}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\end{document}
