@@ -1,0 +1,231 @@
+0: '% Omake section titles'
+1: '%'
+2: '%'
+3: '%'
+4: '%'
+5: '%'
+6: '%'
+7: '% The Witch and the Wardrobe'
+8: '%'
+9: '%'
+10: '%  LocalWords:  Ratîonalît Applejack Fluttershy Sci everypony Velorien Kage'
+11: '%  LocalWords:  Uchiha Sakura Bunshin superintelligence Naruto’s jōnin 40k'
+12: '%  LocalWords:  Uchiha’s Smartingan Naruto genin Beisugakure Kyubey Sasuke'
+13: '%  LocalWords:  Anōōō emotionlessly Sasuke’s Itachi ThunderSmarts Liono Ay'
+14: '%  LocalWords:  Panthro Kvothe Tengen Toppa Gurren Jafar HonoreDB'
+15: '%  LocalWords:  belov’d twas unshriven unlook’d punish’d confess’d philter'
+16: '%  LocalWords:  escap’d stripp’d may’st Neo math'
+17: \begin{chapterOpeningAuthorNote}
+18: \begin{emph}
+19: \begin{playdialog}
+20: \begin{playdialog}
+21: \end{chapterOpeningAuthorNote}
+22: \end{emph}
+23: \end{playdialog}
+24: \end{playdialog}
+25: \makeatletter
+26: \newcommand
+27: \OmakeIVspecialsection
+28: \vspace
+29: \baselineskip
+30: \baselineskip
+31: \baselineskip
+32: \noindent
+33: \hfill
+34: \scalebox
+35: \hfill
+36: \mbox
+37: \vskip
+38: \baselineskip
+39: \baselineskip
+40: \makeatother
+41: \newcommand
+42: \OmakeIVsection
+43: \OmakeIVspecialsection
+44: \MakeUppercase
+45: \chapter
+46: \emph
+47: \emph
+48: \OmakeIVspecialsection
+49: \fontspec
+50: \settowidth
+51: \versewidth
+52: \mbox
+53: \scalebox
+54: \parbox
+55: \versewidth
+56: \centering
+57: \nointerlineskip
+58: \vskip
+59: \raisebox
+60: \emph
+61: \emph
+62: \emph
+63: \emph
+64: \emph
+65: \emph
+66: \emph
+67: \emph
+68: \emph
+69: \emph
+70: \emph
+71: \OmakeIVspecialsection
+72: \fontspec
+73: \emph
+74: \emph
+75: \emph
+76: \OmakeIVsection
+77: \emph
+78: \emph
+79: \emph
+80: \emph
+81: \emph
+82: \emph
+83: \emph
+84: \emph
+85: \emph
+86: \emph
+87: \emph
+88: \emph
+89: \emph
+90: \emph
+91: \clearpage
+92: \OmakeIVsection
+93: \protect
+94: \footnotemark
+95: \footnotetext
+96: \emph
+97: \emph
+98: \emph
+99: \emph
+100: \emph
+101: \emph
+102: \emph
+103: \emph
+104: \emph
+105: \clearpage
+106: \OmakeIVsection
+107: \emph
+108: \emph
+109: \emph
+110: \emph
+111: \emph
+112: \emph
+113: \emph
+114: \emph
+115: \OmakeIVspecialsection
+116: \fontspec
+117: \emph
+118: \emph
+119: \emph
+120: \emph
+121: \emph
+122: \emph
+123: \clearpage
+124: \OmakeIVsection
+125: \emph
+126: \OmakeIVsection
+127: \OmakeIVsection
+128: \emph
+129: \OmakeIVsection
+130: \OmakeIVspecialsection
+131: \fontspec
+132: \protect
+133: \footnotemark
+134: \footnotetext
+135: \emph
+136: \OmakeIVsection
+137: \sout
+138: \OmakeIVsection
+139: \protect
+140: \footnotemark
+141: \footnotetext
+142: \emph
+143: \url
+144: \emph
+145: \OmakeIVsection
+146: \emph
+147: \OmakeIVsection
+148: \emph
+149: \emph
+150: \emph
+151: \emph
+152: \OmakeIVsection
+153: \emph
+154: \emph
+155: \emph
+156: \emph
+157: \emph
+158: \emph
+159: \emph
+160: '€0€
+
+
+  €25€
+
+  €26€'
+161: '€1€
+
+  €28€'
+162: '€2€
+
+  €32€€33€€34€'
+163: €35€€36€
+164: '€3€
+
+  €37€'
+165: €39€€4€
+166: '€40€
+
+
+  €41€'
+167: "€5€\n  €43€"
+168: '€21€
+
+
+  €48€'
+169: "€6€\n  €56€"
+170: €57€€58€
+171: '€7€
+
+  €71€'
+172: '€91€
+
+  €92€'
+173: €93€€94€
+174: '€105€
+
+  €106€'
+175: '€123€
+
+  €124€'
+176: '€22€
+
+
+  €127€'
+177: €132€€133€
+178: €139€€140€
+179: '€8€
+
+  €141€'
+180: €19€€9€
+181: '€23€
+
+
+  €145€'
+182: '€24€
+
+
+  €10€
+
+  €11€
+
+  €12€
+
+  €13€
+
+  €14€
+
+  €15€
+
+  €16€'

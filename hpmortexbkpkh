@@ -4,7 +4,6 @@
 \usepackage{polyglossia}
 \setmainlanguage{english}
 \setotherlanguage{khmer}
-
 \newfontfamily\khmerfont[Scale=0.8,Script=Khmer]{Khmer Mondulkiri}
 \selectlanguage *[numerals=arabic]{khmer}
 \usepackage[Latin,Khmer]{ucharclasses}

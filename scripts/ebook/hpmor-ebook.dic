@@ -1,0 +1,435 @@
+0: \begin{document}
+1: \begin{center}
+2: \end{center}
+3: \end{document}
+4: \include{chapters/hpmor-chapter-000}
+5: \include{chapters/hpmor-chapter-001}
+6: \include{chapters/hpmor-chapter-002}
+7: \include{chapters/hpmor-chapter-003}
+8: \include{chapters/hpmor-chapter-004}
+9: \include{chapters/hpmor-chapter-005}
+10: \include{chapters/hpmor-chapter-006}
+11: \include{chapters/hpmor-chapter-007}
+12: \include{chapters/hpmor-chapter-008}
+13: \include{chapters/hpmor-chapter-009}
+14: \include{chapters/hpmor-chapter-010}
+15: \include{chapters/hpmor-chapter-011}
+16: \include{chapters/hpmor-chapter-012}
+17: \include{chapters/hpmor-chapter-013}
+18: \include{chapters/hpmor-chapter-014}
+19: \include{chapters/hpmor-chapter-015}
+20: \include{chapters/hpmor-chapter-016}
+21: \include{chapters/hpmor-chapter-017}
+22: \include{chapters/hpmor-chapter-018}
+23: \include{chapters/hpmor-chapter-019}
+24: \include{chapters/hpmor-chapter-020}
+25: \include{chapters/hpmor-chapter-021}
+26: \include{chapters/hpmor-chapter-022}
+27: \include{chapters/hpmor-chapter-023}
+28: \include{chapters/hpmor-chapter-024}
+29: \include{chapters/hpmor-chapter-025}
+30: \include{chapters/hpmor-chapter-026}
+31: \include{chapters/hpmor-chapter-027}
+32: \include{chapters/hpmor-chapter-028}
+33: \include{chapters/hpmor-chapter-029}
+34: \include{chapters/hpmor-chapter-030}
+35: \include{chapters/hpmor-chapter-031}
+36: \include{chapters/hpmor-chapter-032}
+37: \include{chapters/hpmor-chapter-033}
+38: \include{chapters/hpmor-chapter-034}
+39: \include{chapters/hpmor-chapter-035}
+40: \include{chapters/hpmor-chapter-036}
+41: \include{chapters/hpmor-chapter-037}
+42: \include{chapters/hpmor-chapter-038}
+43: \include{chapters/hpmor-chapter-039}
+44: \include{chapters/hpmor-chapter-040}
+45: \include{chapters/hpmor-chapter-041}
+46: \include{chapters/hpmor-chapter-042}
+47: \include{chapters/hpmor-chapter-043}
+48: \include{chapters/hpmor-chapter-044}
+49: \include{chapters/hpmor-chapter-045}
+50: \include{chapters/hpmor-chapter-046}
+51: \include{chapters/hpmor-chapter-047}
+52: \include{chapters/hpmor-chapter-048}
+53: \include{chapters/hpmor-chapter-049}
+54: \include{chapters/hpmor-chapter-050}
+55: \include{chapters/hpmor-chapter-051}
+56: \include{chapters/hpmor-chapter-052}
+57: \include{chapters/hpmor-chapter-053}
+58: \include{chapters/hpmor-chapter-054}
+59: \include{chapters/hpmor-chapter-055}
+60: \include{chapters/hpmor-chapter-056}
+61: \include{chapters/hpmor-chapter-057}
+62: \include{chapters/hpmor-chapter-058}
+63: \include{chapters/hpmor-chapter-059}
+64: \include{chapters/hpmor-chapter-060}
+65: \include{chapters/hpmor-chapter-061}
+66: \include{chapters/hpmor-chapter-062}
+67: \include{chapters/hpmor-chapter-063}
+68: \include{chapters/hpmor-chapter-064}
+69: \include{chapters/hpmor-chapter-065}
+70: \include{chapters/hpmor-chapter-066}
+71: \include{chapters/hpmor-chapter-067}
+72: \include{chapters/hpmor-chapter-068}
+73: \include{chapters/hpmor-chapter-069}
+74: \include{chapters/hpmor-chapter-070}
+75: \include{chapters/hpmor-chapter-071}
+76: \include{chapters/hpmor-chapter-072}
+77: \include{chapters/hpmor-chapter-073}
+78: \include{chapters/hpmor-chapter-074}
+79: \include{chapters/hpmor-chapter-075}
+80: \include{chapters/hpmor-chapter-076}
+81: \include{chapters/hpmor-chapter-077}
+82: \include{chapters/hpmor-chapter-078}
+83: \include{chapters/hpmor-chapter-079}
+84: \include{chapters/hpmor-chapter-080}
+85: \include{chapters/hpmor-chapter-081}
+86: \include{chapters/hpmor-chapter-082}
+87: \include{chapters/hpmor-chapter-083}
+88: \include{chapters/hpmor-chapter-084}
+89: \include{chapters/hpmor-chapter-085}
+90: \include{chapters/hpmor-chapter-086}
+91: \include{chapters/hpmor-chapter-087}
+92: \include{chapters/hpmor-chapter-088}
+93: \include{chapters/hpmor-chapter-089}
+94: \include{chapters/hpmor-chapter-090}
+95: \include{chapters/hpmor-chapter-091}
+96: \include{chapters/hpmor-chapter-092}
+97: \include{chapters/hpmor-chapter-093}
+98: \include{chapters/hpmor-chapter-094}
+99: \include{chapters/hpmor-chapter-095}
+100: \include{chapters/hpmor-chapter-096}
+101: \include{chapters/hpmor-chapter-097}
+102: \include{chapters/hpmor-chapter-098}
+103: \include{chapters/hpmor-chapter-099}
+104: \include{chapters/hpmor-chapter-100}
+105: \include{chapters/hpmor-chapter-101}
+106: \include{chapters/hpmor-chapter-102}
+107: \include{chapters/hpmor-chapter-103}
+108: \include{chapters/hpmor-chapter-104}
+109: \include{chapters/hpmor-chapter-105}
+110: \include{chapters/hpmor-chapter-106}
+111: \include{chapters/hpmor-chapter-107}
+112: \include{chapters/hpmor-chapter-108}
+113: \include{chapters/hpmor-chapter-109}
+114: \include{chapters/hpmor-chapter-110}
+115: \include{chapters/hpmor-chapter-111}
+116: \include{chapters/hpmor-chapter-112}
+117: \include{chapters/hpmor-chapter-113}
+118: \include{chapters/hp-exam}
+119: \include{chapters/hpmor-chapter-114}
+120: \include{chapters/hpmor-chapter-115}
+121: \include{chapters/hpmor-chapter-116}
+122: \include{chapters/hpmor-chapter-117}
+123: \include{chapters/hpmor-chapter-118}
+124: \include{chapters/hpmor-chapter-119}
+125: \include{chapters/hpmor-chapter-120}
+126: \include{chapters/hpmor-chapter-121}
+127: \include{chapters/hpmor-chapter-122}
+128: \input{layout/hp-format}
+129: \input{layout/hp-markup}
+130: \input{layout/hp-intro}
+131: \RequirePackage[pdf]{layout/hp-book}
+132: \renewenvironment
+133: \renewenvironment
+134: \renewenvironment
+135: \newcommand
+136: \writtenNoteA
+137: \par
+138: \textcolor
+139: \renewcommand
+140: \parsel
+141: \textcolor
+142: \renewcommand
+143: \McGonagallWhiteBoard
+144: \textcolor
+145: \par
+146: \renewcommand
+147: \headline
+148: \textcolor
+149: \renewcommand
+150: \inlineheadline
+151: \textcolor
+152: \renewcommand
+153: \newspaperHeader
+154: \renewcommand
+155: \hplettrineextrapara
+156: \part
+157: \part
+158: \part
+159: \part
+160: \part
+161: \part
+162: '€131€
+
+
+  €0€
+
+
+  €128€
+
+  €129€
+
+
+  €130€
+
+
+  €132€'
+163: €137€€138€
+164: €1€€148€
+165: '€4€
+
+  €156€'
+166: '€5€
+
+  €6€
+
+  €7€
+
+  €8€
+
+  €9€
+
+  €10€
+
+  €11€
+
+  €12€
+
+  €13€
+
+  €14€
+
+  €15€
+
+  €16€
+
+  €17€
+
+  €18€
+
+  €19€
+
+  €20€
+
+  €21€
+
+  €22€
+
+  €23€
+
+  €24€
+
+  €25€
+
+  €157€'
+167: '€26€
+
+  €27€
+
+  €28€
+
+  €29€
+
+  €30€
+
+  €31€
+
+  €32€
+
+  €33€
+
+  €34€
+
+  €35€
+
+  €36€
+
+  €37€
+
+  €38€
+
+  €39€
+
+  €40€
+
+  €41€
+
+  €158€'
+168: '€42€
+
+  €43€
+
+  €44€
+
+  €45€
+
+  €46€
+
+  €47€
+
+  €48€
+
+  €49€
+
+  €50€
+
+  €51€
+
+  €52€
+
+  €53€
+
+  €54€
+
+  €55€
+
+  €56€
+
+  €57€
+
+  €58€
+
+  €59€
+
+  €60€
+
+  €61€
+
+  €62€
+
+  €63€
+
+  €64€
+
+  €65€
+
+  €66€
+
+  €67€
+
+  €159€'
+169: '€68€
+
+  €69€
+
+  €70€
+
+  €71€
+
+  €72€
+
+  €73€
+
+  €74€
+
+  €75€
+
+  €76€
+
+  €77€
+
+  €78€
+
+  €79€
+
+  €80€
+
+  €81€
+
+  €82€
+
+  €83€
+
+  €84€
+
+  €85€
+
+  €86€
+
+  €87€
+
+  €88€
+
+  €89€
+
+  €160€'
+170: '€90€
+
+  €91€
+
+  €92€
+
+  €93€
+
+  €94€
+
+  €95€
+
+  €96€
+
+  €97€
+
+  €98€
+
+  €99€
+
+  €100€
+
+  €101€
+
+  €102€
+
+  €103€
+
+  €161€'
+171: '€104€
+
+  €105€
+
+  €106€
+
+  €107€
+
+  €108€
+
+  €109€
+
+  €110€
+
+  €111€
+
+  €112€
+
+  €113€
+
+  €114€
+
+  €115€
+
+  €116€
+
+  €117€
+
+  €118€
+
+  €119€
+
+  €120€
+
+  €121€
+
+  €122€
+
+  €123€
+
+  €124€
+
+  €125€
+
+  €126€
+
+  €127€
+
+
+  €3€'

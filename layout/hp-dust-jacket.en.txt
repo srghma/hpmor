@@ -1,0 +1,30 @@
+€111€{bookpagecount}
+€30€{€38€"€39€"}
+€112€{€41€} €113€{€43€}{€44€ * €45€{bookpagecount} / €46€{2.0}}
+€47€{€48€} €114€{€50€}{€51€ + 5mm}
+€115€@=€55€{€56€"€57€"€58€}
+€59€{€60€} €116€{€62€}{€117€@ + 8mm}
+€66€{€67€} €118€{€69€}{€119€@ + 1mm}
+€120€{color}{bg whole}{black}
+€75€{center}{above front}{€121€DUST JACKET}
+€77€{picture}{front}{images/cover0.jpg}
+€78€{normal}{front}{€79€[€80€]{€81€{€82€}}}
+
+€122€{normal}{spine}
+€123€{0.5cm}€124€[origin=c]{90}{€91€[120]{black}{€92€}}
+€125€{normal}{back}
+  €126€{20mm}
+  €96€{110mm}{€127€
+Petunia married a biochemist, and Harry grew up reading science and science fiction. Then came the Hogwarts letter, and a world of intriguing new possibilities to exploit. And new friends, like Hermione Granger, and Professor McGonagall, and Professor Quirrell…
+}
+€128€{normal}{front flap}
+€129€{20mm}
+€101€{40mm}{€130€
+  HPMOR comes from the world of fan-fiction. With J.~K.~Rowling’s approval, it tells the story of an alternate Harry, an auto-didact rationalist who brings all his powers to bear on the strange new vistas of the world of magic.
+
+  €104€ The books introduce the reader to the ways of thinking Yudkowsky lays out in his blog, €105€{lesswrong.com}.}
+€131€{normal}{back flap}
+€132€{20mm}
+€108€{40mm}{€133€
+}
+€134€

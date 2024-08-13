@@ -1,0 +1,104 @@
+0: '%'
+1: '%'
+2: \begin{minipage}
+3: \begin{\textflush}
+4: \begin{minipage}
+5: \begin{\sourceflush}
+6: \begin{\blurbflush}
+7: \begin{minipage}
+8: \end{\textflush}
+9: \end{minipage}
+10: \end{\sourceflush}
+11: \end{minipage}
+12: \end{minipage}
+13: \end{\blurbflush}
+14: \makeatletter
+15: \newlength
+16: \beforeblurbskip
+17: \setlength
+18: \beforeblurbskip
+19: \baselineskip
+20: \newlength
+21: \afterblurbskip
+22: \setlength
+23: \afterblurbskip
+24: \baselineskip
+25: \newlength
+26: \blurbwidth
+27: \setlength
+28: \blurbwidth
+29: \textwidth
+30: \newlength
+31: \blurbrule
+32: \setlength
+33: \blurbrule
+34: \p
+35: \newcommand
+36: \blurbsize
+37: \small
+38: \newcommand
+39: \blurbflush
+40: \newcommand
+41: \blurbfontsize
+42: \def
+43: \blurbsize
+44: \newcommand
+45: \blurbposition
+46: \long
+47: \def
+48: \blurbflush
+49: \newcommand
+50: \blurbtextposition
+51: \def
+52: \textflush
+53: \newcommand
+54: \blurbsourceposition
+55: \def
+56: \sourceflush
+57: \newcommand
+58: \rule
+59: \blurbwidth
+60: \blurbrule
+61: \newcommand
+62: \blurbwidth
+63: \par
+64: \ifdim
+65: \blurbrule
+66: \z
+67: \else
+68: \vspace
+69: \fi
+70: \newcommand
+71: \blurbwidth
+72: \par
+73: \newcommand
+74: \blurb
+75: \vspace
+76: \beforeblurbskip
+77: \blurbsize
+78: \vspace
+79: \afterblurbskip
+80: \makeatother
+81: \thispagestyle
+82: \blurb
+83: \blurb
+84: \thispagestyle
+85: '€14€
+
+  €15€'
+86: €42€€43€
+87: €46€€47€€48€
+88: €51€€52€
+89: €55€€56€
+90: "€0€\n  €2€"
+91: "€63€\n    €64€€65€"
+92: €67€ €68€
+93: "€69€\n  €8€€9€"
+94: "€1€\n  €4€"
+95: "€72€\n  €10€€11€"
+96: "€77€\n\t€6€\n\t\t€7€"
+97: "€12€\n\t€13€\n\t€78€"
+98: '€80€
+
+
+  €81€'

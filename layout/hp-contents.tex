@@ -7,8 +7,8 @@
  \cftpartafterpnum\par}
 \renewcommand*{\cftchapterleader}{\space—\space}
 \renewcommand*{\cftchapterfillnum}[1]{%
- {\cftchapterleader}\nobreak%
- {#1}%
+{\cftchapterleader}\nobreak%
+{#1}%
  \cftchapterafterpnum\par}
 \setrmarg{0em}
 \setlength\cftpartindent{0pt}
@@ -21,7 +21,7 @@
 \renewcommand*{\cftchapterfont}{}
 
 \renewcommand\partnumberline[1]{\hfil\thispagestyle{empty}{\hpfont\textls[30]{\large\MakeUppercase{\partname} #1}}\hfil\strut\par\nopagebreak\hfil}
-\renewcommand\chapternumberline[1]{\hfil\thispagestyle{empty}{\hpfont\textls[30]{\IfInteger{#1}{\NUMBERstringnum{#1}}{Appendix #1}}}\hfil\strut\par\nopagebreak\hfil}
+\renewcommand\chapternumberline[1]{\hfil\thispagestyle{empty}{\hpfont\textls[30]{\IfInteger{#1}{\NUMBERstringnum{#1}}{ឧបសម្ព័ន្ធ #1}}}\hfil\strut\par\nopagebreak\hfil}
 
 \settocdepth{chapter}
 \phantomsection

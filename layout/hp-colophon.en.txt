@@ -1,0 +1,16 @@
+€4€
+{€27€{empty}€28€=0pt plus 1fil€10€=0pt plus 1fil€11€=0pt€29€{
+€13€ 1 0em 18em
+€30€=0pt€16€=0pt€17€=0pt plus 1fil{}This book was
+formatted by fans of the story, and built on
+€18€\ from version €19€.
+The text was set in
+Huerta Tipografica's Alegreya type family.
+Chapter headings were set in Lumos, inspired by
+the display font used in the US editions of the Harry Potter books,
+drawn by Sarah McFalls.
+The book was typeset with €20€, and the cover artwork was created with the GIMP.
+The source code can be found at €21€{https://github.com/rrthomas/hpmor/}.
+}€31€}
+
+€3€

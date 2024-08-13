@@ -1,0 +1,4 @@
+\def\bookfile{hpmor-3.pdf}
+\input{layout/hpmor-title-3}
+
+\input{layout/hp-dust-jacket}

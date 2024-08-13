@@ -1,0 +1,73 @@
+\input{layout/hp-paper-type}
+
+% N.B. All text and images should be 6mm away from all edges
+\newcounter{bookpagecount}
+\setcounter{bookpagecount}{\XeTeXpdfpagecount"\bookfile"}
+\RequirePackage{calc} % This line must be after the previous to avoid an error
+\newlength{\hppaperwidth} % no. of pages ÷ 2 × width per sheet
+\setlength{\hppaperwidth}{\bookpaper * \value{bookpagecount} / \real{2.0}}
+\newlength{\hpspinewidth} % paper thickness + 5mm
+\setlength{\hpspinewidth}{\hppaperwidth + 5mm}
+\makeatletter
+\setbox\z@=\hbox{\XeTeXpdffile"\bookfile"\relax}
+\newlength{\hpcoverwidth} % paper width + 8mm
+\setlength{\hpcoverwidth}{\the\wd\z@ + 8mm}
+\newlength{\hpcoverheight} % coverheight: paper height + 1mm
+\setlength{\hpcoverheight}{\the\ht\z@ + 1mm}
+\makeatother
+% flapwidth: 60mm+3mm each side
+\documentclass[12pt,coverwidth=\the\hpcoverwidth,coverheight=\the\hpcoverheight,spinewidth=\the\hpspinewidth,marklength=0mm,bleedwidth=5mm,flapwidth=63mm]{bookcover}
+
+\input{layout/hp-header}
+
+\usepackage{contour}
+
+\input{layout/hp-title}
+
+\begin{document}
+\begin{bookcover}
+\bookcovercomponent{color}{bg whole}{black}
+\bookcovercomponent{center}{above front}{\bfseries\color{blue}DUST JACKET}
+\bookcovercomponent{picture}{front}{images/cover0.jpg}
+\bookcovercomponent{normal}{front}{\hptitle[\coverwidth]{\fullvolumetitle{\volumenumber}}}
+
+% Spine
+\begin{bookcoverelement}{normal}{spine}
+\centering
+\color{white}\scshape
+\vspace{0.5cm}\huge \volumenumber\\[2ex]\Large
+\vfill
+\rotatebox[origin=c]{90}{\contour[120]{black}{\volumetitle}}
+\vfill
+\end{bookcoverelement}
+
+% Back cover
+\begin{bookcoverelement}{normal}{back}
+  \centering
+  \vspace{20mm}
+  \parbox{110mm}{\color{white}\Large\raggedright
+Petunia married a biochemist, and Harry grew up reading science and science fiction. Then came the Hogwarts letter, and a world of intriguing new possibilities to exploit. And new friends, like Hermione Granger, and Professor McGonagall, and Professor Quirrell…
+}
+\end{bookcoverelement}
+
+% Text on the front flap
+\begin{bookcoverelement}{normal}{front flap}
+\centering
+\vspace{20mm}
+\parbox{40mm}{\color{white}\raggedright\small
+  HPMOR comes from the world of fan-fiction. With J.~K.~Rowling’s approval, it tells the story of an alternate Harry, an auto-didact rationalist who brings all his powers to bear on the strange new vistas of the world of magic.
+
+  \bigskip The books introduce the reader to the ways of thinking Yudkowsky lays out in his blog, \url{lesswrong.com}.}
+\end{bookcoverelement}
+
+% Text on the back flap
+\begin{bookcoverelement}{normal}{back flap}
+\centering
+\vspace{20mm}
+\parbox{40mm}{\color{white}\small\raggedright
+  % PUT YOUR BACK DUST-FLAP TEXT HERE!
+}
+\end{bookcoverelement}
+
+\end{bookcover}
+\end{document}

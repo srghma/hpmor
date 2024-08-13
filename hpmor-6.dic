@@ -1,0 +1,104 @@
+0: \begin{document}
+1: \end{document}
+2: \include{chapters/hpmor-chapter-100}
+3: \include{chapters/hpmor-chapter-101}
+4: \include{chapters/hpmor-chapter-102}
+5: \include{chapters/hpmor-chapter-103}
+6: \include{chapters/hpmor-chapter-104}
+7: \include{chapters/hpmor-chapter-105}
+8: \include{chapters/hpmor-chapter-106}
+9: \include{chapters/hpmor-chapter-107}
+10: \include{chapters/hpmor-chapter-108}
+11: \include{chapters/hpmor-chapter-109}
+12: \include{chapters/hpmor-chapter-110}
+13: \include{chapters/hpmor-chapter-111}
+14: \include{chapters/hpmor-chapter-112}
+15: \include{chapters/hpmor-chapter-113}
+16: \include{chapters/hpmor-chapter-114}
+17: \include{chapters/hpmor-chapter-115}
+18: \include{chapters/hpmor-chapter-116}
+19: \include{chapters/hpmor-chapter-117}
+20: \include{chapters/hpmor-chapter-118}
+21: \include{chapters/hpmor-chapter-119}
+22: \include{chapters/hpmor-chapter-120}
+23: \include{chapters/hpmor-chapter-121}
+24: \include{chapters/hpmor-chapter-122}
+25: \include{layout/hp-colophon}
+26: \input{layout/hpmor-title-6}
+27: \input{layout/hp-intro}
+28: \input{layout/hp-contents}
+29: \pagestyle{empty}
+30: \pagenumbering{gobble}
+31: \pagenumbering{arabic}
+32: \setcounter{page}
+33: \setcounter{page}
+34: \RequirePackage{layout/hp-book}
+35: \cleartorecto
+36: '€34€
+
+
+  €0€'
+37: '€29€
+
+  €26€
+
+  €27€
+
+  €30€
+
+  €28€
+
+  €35€'
+38: '€31€
+
+  €32€'
+39: '€2€
+
+  €3€
+
+  €4€
+
+  €5€
+
+  €6€
+
+  €7€
+
+  €8€
+
+  €9€
+
+  €10€
+
+  €11€
+
+  €12€
+
+  €13€
+
+  €14€
+
+  €15€
+
+  €16€
+
+  €17€
+
+  €18€
+
+  €19€
+
+  €20€
+
+  €21€
+
+  €22€
+
+  €23€
+
+  €24€
+
+
+  €25€
+
+  €1€'

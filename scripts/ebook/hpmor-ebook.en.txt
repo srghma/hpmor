@@ -1,0 +1,19 @@
+€162€{headlines}{}{}
+€133€{writtenNote}{}{}
+€134€{playdialog}{}{}
+
+€135€{€136€}[1]{€163€{writtenNote}{#1}}
+€139€{€140€}[1]{€141€{parsel}{#1}}
+€142€{€143€}[1]{€144€{McGonagallWhiteBoard}{€145€#1}}
+€146€{€147€}[1]{€164€{headline}{#1}€2€}
+€149€{€150€}[1]{€151€{headline}{#1}}
+€152€{€153€}[1]{#1}
+€154€{€155€}[0]{}
+
+€165€{Harry James Potter-Evans-Verres and the Methods of Rationality}
+€166€{Harry James Potter-Evans-Verres and the Professor's Games}
+€167€{Harry James Potter-Evans-Verres and the Shadows of Death}
+€168€{Hermione Jean Granger and the Phoenix's Call}
+€169€{Harry James Potter-Evans-Verres and the Last Enemy}
+€170€{Harry James Potter-Evans-Verres and the Philosopher's Stone}
+€171€

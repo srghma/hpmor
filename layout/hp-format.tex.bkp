@@ -1,0 +1,122 @@
+% This file includes all the generic formatting for HPatMoR. This mostly entails configuring
+% the memoir package, though “configuring” on occasion means “completely messing it up”.
+
+\RequirePackage{fmtcount}
+\RequirePackage{calc}
+
+% Fonts used generally (specific fonts used only once or twice are not here).
+\usepackage{xltxtra}
+\defaultfontfeatures{Ligatures={TeX}}
+\setmainfont[
+  Extension=.otf
+, UprightFont=*-Regular
+, ItalicFont=*-Italic
+, BoldFont=*-Bold
+, BoldItalicFont=*-BoldItalic
+, SmallCapsFont=AlegreyaSC-Regular
+]{Alegreya}
+
+\newfontface\hpfont[ExternalLocation]{Lumos}
+\newfontface\ptsansi[ExternalLocation]{AlegreyaSans-Italic}
+
+% Drop-caps at start of chapters
+\renewcommand{\LettrineFontHook}{\hpfont}
+\renewcommand{\LettrineTextFont}{}
+\renewcommand{\DefaultLoversize}{.2}
+\renewcommand{\DefaultLraise}{0.1}
+
+% Extend lettrine cutout when more than one paragraph goes alongside the drop-cap
+% Copied, with different macro names, from
+% https://tex.stackexchange.com/questions/369868/using-lettrine-with-short-paragraphs
+\newcount\hplettrinecount
+\makeatletter
+\def\hplettrineextrapara{%
+\ifnum\prevgraf<\c@L@lines
+\hplettrinecount\z@
+\loop
+\ifnum\hplettrinecount<\prevgraf
+\advance\hplettrinecount\@ne
+\afterassignment\hplettrinedima\count@\L@parshape\relax
+\repeat
+\parshape\L@parshape
+\fi}
+\def\hplettrinedima{\afterassignment\hplettrinedimb\dimen@}
+\def\hplettrinedimb{\afterassignment\hplettrinedef\dimen@}
+\def\hplettrinedef#1\relax{\edef\L@parshape{\the\numexpr\count@-1\relax\space #1}}
+\makeatother
+\newcommand{\lettrinepara}[3][]{\lettrine[nindent=0pt,#1]{#2}{#3}}
+
+% Allow linebreaks after em-dash and hyphens, except when they’re followed by punctuation
+\newXeTeXintercharclass \punctuationClass
+
+\XeTeXcharclass `\’ \punctuationClass
+\XeTeXcharclass `\‘ \punctuationClass
+\XeTeXcharclass `\“ \punctuationClass
+\XeTeXcharclass `\” \punctuationClass
+\XeTeXcharclass `\. \punctuationClass
+\XeTeXcharclass `\, \punctuationClass
+\XeTeXcharclass `\: \punctuationClass
+\XeTeXcharclass `\? \punctuationClass
+\XeTeXcharclass `\! \punctuationClass
+\XeTeXcharclass `\: \punctuationClass
+
+\newXeTeXintercharclass \digitClass
+\XeTeXcharclass `\0 \digitClass
+\XeTeXcharclass `\1 \digitClass
+\XeTeXcharclass `\2 \digitClass
+\XeTeXcharclass `\3 \digitClass
+\XeTeXcharclass `\4 \digitClass
+\XeTeXcharclass `\5 \digitClass
+\XeTeXcharclass `\6 \digitClass
+\XeTeXcharclass `\7 \digitClass
+\XeTeXcharclass `\8 \digitClass
+\XeTeXcharclass `\9 \digitClass
+
+\newXeTeXintercharclass \dashClass
+\XeTeXcharclass `\— \dashClass % em
+\XeTeXcharclass `\– \dashClass % en
+\XeTeXcharclass `\- \dashClass % hyphen
+\XeTeXcharclass `\… \dashClass
+
+\XeTeXinterchartokenstate = 1
+
+\def\morhyphenpenalty{75}
+\exhyphenpenalty=10000
+
+\XeTeXinterchartoks \dashClass 0 = {\hskip 0pt\penalty \morhyphenpenalty}
+
+% Adjust space around lists
+\setlength{\topsep}{.5\baselineskip plus 1\baselineskip minus .5\baselineskip}
+\setlength{\partopsep}{.5\baselineskip plus 1\baselineskip minus .5\baselineskip}
+
+% Miscellaneous global typesetting parameters
+\frenchspacing
+\setlength{\emergencystretch}{.06\textwidth}
+
+% Try to avoid excessive hyphens
+\doublehyphendemerits=30000
+\finalhyphendemerits=30000
+\adjdemerits=10000
+\brokenpenalty10000\relax
+
+% Make it easier to manage hyphenation
+\makeatletter
+\newcommand{\emdashhyp}{\leavevmode%
+\prw@zbreak—\discretionary{}{}{}\prw@zbreak}
+\makeatother
+
+% Avoid widows and orphans
+% https://mailman.ntg.nl/pipermail/ntg-context/2013/074250.html
+\widowpenalty 10000
+\clubpenalty 10000
+
+% Various packages used
+\usepackage[normalem]{ulem}
+\usepackage{xfrac}
+\usepackage{censor}
+\usepackage[useregional]{datetime2}
+\usepackage[nopagecolor=white,pagecolor=white]{pagecolor}
+\usepackage{afterpage}
+\usepackage{gitinfo2}
+\usepackage{hyphenat}
+\usepackage{comment}

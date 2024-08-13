@@ -1,0 +1,70 @@
+0: '% Paper thicknesses'
+1: '% 70gsm Bond'
+2: '% 80gsm Bond'
+3: '% 90gsm Bond'
+4: '% 100gsm Bond'
+5: '% 115gsm Silk Bond'
+6: '% 115gsm Gloss Bond'
+7: '% 120gsm Bond'
+8: '% 135gsm Silk Bond'
+9: '% 135gsm Gloss Bond'
+10: '% 170gsm Silk Bond'
+11: '% 170gsm Gloss Bond'
+12: \def
+13: \lxxgsm
+14: \def
+15: \lxxxgsm
+16: \def
+17: \xcgsm
+18: \def
+19: \cgsm
+20: \def
+21: \cxvgsmsilk
+22: \def
+23: \cxvgsmgloss
+24: \def
+25: \cxxgsm
+26: \def
+27: \cxxxvgsmsilk
+28: \def
+29: \cxxxvgsmgloss
+30: \def
+31: \clxxgsmsilk
+32: \def
+33: \clxxgsmgloss
+34: '€0€
+
+
+  €1€
+
+  €12€€13€'
+35: '€2€
+
+  €14€€15€'
+36: '€3€
+
+  €16€€17€'
+37: '€4€
+
+  €18€€19€'
+38: '€5€
+
+  €20€€21€'
+39: '€6€
+
+  €22€€23€'
+40: '€7€
+
+  €24€€25€'
+41: '€8€
+
+  €26€€27€'
+42: '€9€
+
+  €28€€29€'
+43: '€10€
+
+  €30€€31€'
+44: '€11€
+
+  €32€€33€'

@@ -40,4 +40,4 @@ docker_run__latexmk:
 	sudo chown -R `whoami`:users ./*
 	sudo chown -R `whoami`:users ./.[^.]*
 	rm -f *.{out,log,toc,xdv,fls,fdb_latexmk,aux,xdv,pdf}
-	docker run -it -v ./:/app hpmor latexmk -f hpmor
+	docker run -it -v ./:/app hpmor latexmk -f hpmor -verbose

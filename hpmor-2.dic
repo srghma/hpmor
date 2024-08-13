@@ -1,0 +1,82 @@
+0: \begin{document}
+1: \end{document}
+2: \include{chapters/hpmor-chapter-022}
+3: \include{chapters/hpmor-chapter-023}
+4: \include{chapters/hpmor-chapter-024}
+5: \include{chapters/hpmor-chapter-025}
+6: \include{chapters/hpmor-chapter-026}
+7: \include{chapters/hpmor-chapter-027}
+8: \include{chapters/hpmor-chapter-028}
+9: \include{chapters/hpmor-chapter-029}
+10: \include{chapters/hpmor-chapter-030}
+11: \include{chapters/hpmor-chapter-031}
+12: \include{chapters/hpmor-chapter-032}
+13: \include{chapters/hpmor-chapter-033}
+14: \include{chapters/hpmor-chapter-034}
+15: \include{chapters/hpmor-chapter-035}
+16: \include{chapters/hpmor-chapter-036}
+17: \include{chapters/hpmor-chapter-037}
+18: \include{layout/hp-colophon}
+19: \input{layout/hpmor-title-2}
+20: \input{layout/hp-intro}
+21: \input{layout/hp-contents}
+22: \pagestyle{empty}
+23: \pagenumbering{gobble}
+24: \pagenumbering{arabic}
+25: \setcounter{page}
+26: \RequirePackage{layout/hp-book}
+27: \cleartorecto
+28: '€26€
+
+
+  €0€'
+29: '€22€
+
+  €19€
+
+  €20€
+
+  €23€
+
+  €21€
+
+  €27€'
+30: '€24€
+
+  €25€'
+31: '€2€
+
+  €3€
+
+  €4€
+
+  €5€
+
+  €6€
+
+  €7€
+
+  €8€
+
+  €9€
+
+  €10€
+
+  €11€
+
+  €12€
+
+  €13€
+
+  €14€
+
+  €15€
+
+  €16€
+
+  €17€
+
+
+  €18€
+
+  €1€'

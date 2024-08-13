@@ -1,0 +1,39 @@
+0: '% Used for the fancy caps at each start of each chapter.'
+1: '% Takes care of spaces after macros'
+2: '% Provides the align environment, used in chapter 13 for the notes'
+3: '% For the many fonts'
+4: '% Redefine \textls for XeTeX'
+5: '%'
+6: '%'
+7: '%'
+8: \usepackage{lettrine}
+9: \usepackage{xspace}
+10: \usepackage{amsmath}
+11: \usepackage{fontspec}
+12: \usepackage{xunicode}
+13: \usepackage{xstring}
+14: \usepackage{eso-pic,picture}
+15: \usepackage{calc}
+16: \usepackage[protrusion=true]{microtype}
+17: "\\usepackage[bookmarks=true,unicode=true,pdfborder={0 0 0},\n\tpdftitle={Harry\
+  \ Potter and the Methods of Rationality},\n\tpdfauthor={Eliezer Yudkowsky}, breaklinks={true},\n\
+  \tpdfkeywords={Harry Potter, rationality, hpmor},pdfencoding=auto\n]{hyperref}"
+18: \input{layout/hp-format}
+19: \input{layout/hp-markup}
+20: \setcounter{hpletterspacing}
+21: \hyphenation
+22: \newcounter
+23: \renewcommand
+24: \textls
+25: \real
+26: \addfontfeature
+27: \thehpletterspacing
+28: "€8€\t\t€0€\n€9€\t\t€1€\n€10€\t\t€2€\n\n€16€\n\n€11€\t\t€3€\n€12€\n\n€13€\n\n\
+  €14€\n\n€17€\n\n€18€\n€19€\n\n€21€"
+29: '€4€
+
+  €15€
+
+  €22€'
+30: "€5€\n  €20€"
+31: "€6€\n  €26€"

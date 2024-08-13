@@ -49,15 +49,15 @@
 % Allow linebreaks after em-dash and hyphens, except when they’re followed by punctuation
 \newXeTeXintercharclass \punctuationClass
 
-\XeTeXcharclass `\’ \punctuationClass
-\XeTeXcharclass `\‘ \punctuationClass
-\XeTeXcharclass `\“ \punctuationClass
-\XeTeXcharclass `\” \punctuationClass
-\XeTeXcharclass `\. \punctuationClass
+\XeTeXcharclass`\'\punctuationClass
+\XeTeXcharclass`\'\punctuationClass
+\XeTeXcharclass`\"\punctuationClass
+\XeTeXcharclass`\"\punctuationClass
+\XeTeXcharclass`\។ \punctuationClass
 \XeTeXcharclass `\, \punctuationClass
-\XeTeXcharclass `\: \punctuationClass
-\XeTeXcharclass `\? \punctuationClass
-\XeTeXcharclass `\! \punctuationClass
+\XeTeXcharclass`\: \punctuationClass
+\XeTeXcharclass`\? \punctuationClass
+\XeTeXcharclass`\! \punctuationClass
 \XeTeXcharclass `\: \punctuationClass
 
 \newXeTeXintercharclass \digitClass
@@ -66,19 +66,19 @@
 \XeTeXcharclass `\2 \digitClass
 \XeTeXcharclass `\3 \digitClass
 \XeTeXcharclass `\4 \digitClass
-\XeTeXcharclass `\5 \digitClass
+\XeTeXcharclass`\5 \digitClass
 \XeTeXcharclass `\6 \digitClass
-\XeTeXcharclass `\7 \digitClass
-\XeTeXcharclass `\8 \digitClass
-\XeTeXcharclass `\9 \digitClass
+\XeTeXcharclass`\7\digitClass
+\XeTeXcharclass`\8\digitClass
+\XeTeXcharclass`\9\digitClass
 
 \newXeTeXintercharclass \dashClass
-\XeTeXcharclass `\— \dashClass % em
-\XeTeXcharclass `\– \dashClass % en
-\XeTeXcharclass `\- \dashClass % hyphen
-\XeTeXcharclass `\… \dashClass
+\XeTeXcharclass`\—\dashClass % em
+\XeTeXcharclass`\–\dashClass % en
+\XeTeXcharclass`\-\dashClass % hyphen
+\XeTeXcharclass`\… \dashClass
 
-\XeTeXinterchartokenstate = 1
+\XeTeXinterchartokenstate=1
 
 \def\morhyphenpenalty{75}
 \exhyphenpenalty=10000
@@ -86,8 +86,8 @@
 \XeTeXinterchartoks \dashClass 0 = {\hskip 0pt\penalty \morhyphenpenalty}
 
 % Adjust space around lists
-\setlength{\topsep}{.5\baselineskip plus 1\baselineskip minus .5\baselineskip}
-\setlength{\partopsep}{.5\baselineskip plus 1\baselineskip minus .5\baselineskip}
+\setlength{\topsep}{.5\baselineskip plus 1\textheight minus .5\baselineskip}
+\setlength{\partopsep}{.5\baselineskip plus 1\textheight minus .5\baselineskip}
 
 % Miscellaneous global typesetting parameters
 \frenchspacing
@@ -107,8 +107,8 @@
 
 % Avoid widows and orphans
 % https://mailman.ntg.nl/pipermail/ntg-context/2013/074250.html
-\widowpenalty 10000
-\clubpenalty 10000
+\widowpenalty10000
+\clubpenalty10000
 
 % Various packages used
 \usepackage[normalem]{ulem}

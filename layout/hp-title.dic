@@ -1,0 +1,76 @@
+0: '%'
+1: '%'
+2: '%'
+3: '%'
+4: '%'
+5: '%'
+6: '%'
+7: '%'
+8: '%'
+9: '%'
+10: '%'
+11: '%'
+12: '%'
+13: '%'
+14: '%'
+15: '%'
+16: '%'
+17: \color{white}
+18: \color{gold}
+19: \color{white}
+20: \color{black}
+21: \definecolor{gold}
+22: \newlength
+23: \hptitlewidth
+24: \newlength
+25: \rationalh
+26: \newcommand
+27: \hptitle
+28: \stockwidth
+29: \setlength
+30: \hptitlewidth
+31: \centering
+32: \vskip
+33: \resizebox
+34: \hptitlewidth
+35: \textls
+36: \vskip
+37: \settoheight
+38: \rationalh
+39: \resizebox
+40: \hptitlewidth
+41: \textls
+42: \resizebox
+43: \rationalh
+44: \textls
+45: \hfil
+46: \resizebox
+47: \rationalh
+48: \textls
+49: \vskip
+50: \resizebox
+51: \hptitlewidth
+52: \textls
+53: \vskip
+54: \resizebox
+55: \hptitlewidth
+56: \textls
+57: \scshape
+58: \vfill
+59: \textls
+60: \scshape
+61: \vskip
+62: \providecommand
+63: \fullvolumetitle
+64: \volumetitle
+65: "€0€\n  €29€"
+66: "€1€\n  €31€€17€€2€\n  €32€"
+67: "€3€\n  €36€"
+68: "€4€\n  €18€€5€\n  €37€"
+69: "€6€\n  €45€€46€"
+70: "€7€\n  €49€"
+71: "€8€\n  €50€"
+72: "€9€\n  €53€"
+73: "€10€\n  €19€€11€\n  €54€"
+74: "€12€\n  €58€€13€\n  €59€"
+75: "€14€\n  €20€€15€\n  €61€"

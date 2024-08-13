@@ -1,0 +1,185 @@
+% Logical markup
+
+% These commands should be used to help make the source easy to understand
+% and consistently typeset.
+% Search for them in the source files to see how to use them.
+
+% Special types of text
+\newcommand{\abbrev}[1]{\textsc{\MakeLowercase{#1}}\xspace}
+
+% Common abbreviations
+\newcommand{\am}{~a.m.\xspace}
+\renewcommand{\pm}{~p.m.\xspace}
+\newcommand{\SPHEW}{\abbrev{SPHEW}}
+% Tone of voice
+\newcommand{\shout}[1]{\textsc{#1}}
+\newcommand{\scream}[1]{\MakeUppercase{#1}}
+\newcommand{\prophesy}[1]{\shout{#1}}
+
+% parsel
+\newcommand{\parselify}[1]{%
+  \StrSubstitute{#1}{ss}{ß}[\parselstring]%
+  \StrSubstitute{\parselstring}{s}{ss}[\parsselstring]%
+  \StrSubstitute{\parsselstring}{ß}{sss}[\parssselstring]%
+}
+% N.B. Other commands, such as \emph, cannot be used inside \parsel
+%
+% parsel
+% old version of parsel
+\newcommand{\parsela}[1]{\parselify{#1}%
+{\ptsansi\parssselstring}}
+%
+% new FR version of parsel by yeKcim
+% note: Other commands, such as \emph, cannot be used inside \parsel
+\newcommand{\parselb}[1]{\parselify{\fontspec[ExternalLocation]{Parseltongue.ttf}#1}%
+{\ptsansi\parssselstring}}
+%
+% select one of above
+\newcommand{\parsel}[1]{\parsela{#1}}
+
+% \spell macro
+\newcommand{\spell}[1]{{\Star}\emph{#1}{\Star}}
+
+% Author’s notes
+% \newcommand{\authorsnotefootnotemark}{\footnotemark}
+% \newcommand{\authorsnotetext}[1]{\footnotetext{Author’s note: #1}}
+\newcommand{\authorsnotefootnotemark}{}
+\newcommand{\authorsnotetext}[1]{}
+
+% McGonagall's board
+\newcommand{\McGonagallWhiteBoard}[1]{%
+  \begin{center}
+    \newsavebox{\hpbox}%
+    \fontspec[ExternalLocation,Color=AA0000]{Florante}
+    \savebox{\hpbox}{\MakeUppercase{#1}}
+    \vspace{0.5ex}
+    \usebox{\hpbox}
+    \settowidth{\versewidth}{\usebox{\hpbox}}
+    \vskip -1ex
+    \fontspec[ExternalLocation,Color=2020FF]{ArchitectsDaughter}
+    \resizebox{\versewidth}{.6ex}{\rotatebox{90}{I}}
+  \end{center}%
+}
+
+
+% Newspaper headlines
+
+\newcommand{\headline}[1]{%
+\begin{center}%
+\textsc{#1}%
+\end{center}}
+
+\newcommand{\inlineheadline}[1]{%
+\textsc{#1}%
+}
+
+\newcommand{\newspaperHeader}[1]{\begin{SingleSpace}\upshape #1\end{SingleSpace}}
+\newcommand{\newspaperName}[1]{\upshape\itshape #1}
+
+\newenvironment{headlines}{%
+  \begin{Spacing}{0.75}
+  \begin{center}
+  \scshape
+  \nonzeroparskip
+}{
+  \end{center}
+  \end{Spacing}
+}
+
+
+% Letters / writtenNote
+
+\newenvironment{writtenNote}{%
+\fontspec[ExternalLocation]{Graphe_Alpha_alt.ttf}\scriptsize%
+\renewcommand{\emph}{\uline}%
+\vskip .1\baselineskip plus .1\baselineskip minus .1\baselineskip%
+\begin{adjustwidth}{\parindent}{\parindent}%
+\par\setlength{\parindent}{0pt}\setlength{\parskip}{\baselineskip}%
+\itshape%
+}
+{%
+\par
+\end{adjustwidth}%
+\vskip 1\baselineskip plus 1\baselineskip minus 1\baselineskip%
+}
+
+% \letterAddress
+\newcommand{\letterAddress}[1]{%
+\pagebreak[1]\fontspec[ExternalLocation]{Graphe_Alpha_alt.ttf}%
+\scriptsize#1\nopagebreak[4]\par%
+}
+
+% \letterClosing
+\newcommand{\letterClosing}[2][\vskip 1\baselineskip]{%
+\nopagebreak[4]\fontspec[ExternalLocation]{Graphe_Alpha_alt.ttf}%
+\par\scriptsize#1%
+\par\nopagebreak[5]#2%
+}
+
+
+% PartChapters
+% \partchapter{The Stanford Prison Experiment}{TSPE}{XIII}{Aftermaths}
+% TOC: TSPE part XIII: Aftermaths
+% Page header: The Stanford Prison Experiment XIII: \\? Aftermaths
+% Title: The Stanford Prison Experiment, Part XIII: \\? Aftermaths
+\newcommand{\partchapter}[3][\relax]{%
+	\chapter[\texorpdfstring{#2, \abbrev{part #3}}{#2, part #3}]%
+		[#2 #3]{#2, Part~#3#1}}
+\newcommand{\namedpartchapter}[5][\relax]{%
+	\chapter[%
+			\texorpdfstring{%
+				\abbrev{#3, part #4}: #5}{%
+				#3, part #4: #5}][%
+			\mbox{#2 #4:} \mbox{#5}]{%
+			#2, Part~#4:\protect\linebreak[1] #5#1}%
+}
+
+% Hanging paras for play scripts (used in Omake IV)
+\newenvironment{playdialog}{\begin{hangparas}{2em}{1}}{\end{hangparas}}
+
+% Chapter openings
+% Definition of chapterOpeningAuthorNote when they are desired to be printed
+% FIXME: Make the environment definition switchable with a flag
+% \newenvironment{chapterOpeningAuthorNote}{%
+% \par\noindent%
+% E.~Y.:~
+% }
+% {%
+% \newline\rule[1ex]{\textwidth}{.1pt}\newline%
+% }
+\excludecomment{chapterOpeningAuthorNote}
+
+\newenvironment{chapterOpeningQuote}{%
+\parindent=0pt%
+\itshape}
+{%
+\\[1\baselineskip]%
+%\newline%
+%\rule[1ex]{\textwidth}{.1pt}\newline%x
+}
+
+% Stars and breaks
+
+% Single “magic star” decoration
+\newcommand{\Star}{{\fontspec[ExternalLocation]{Miscelanea.ttf}*}}
+
+% Three “magic stars” decoration
+\def\Stars{{\large\Star\kern-.6ex\lower1.3ex\hbox{\large\Star}\kern-.1ex\raise.2ex\hbox{\tiny\Star}\spacefactor1000}}
+
+% Text break made of \Stars (only used to define other commands)
+\makeatletter
+\def\sbre@k{\mbox{}\nobreak\hfill\mbox{}\allowbreak\rule{.60\textwidth}{.0pt}\par%
+  \vskip 0pt plus 2\baselineskip\noindent{%
+    \parbox[c][0pt][c]{\textwidth}{%
+      \hfil \hbox{\lower14pt\hbox{\normalsize\Stars}}%
+    }%
+  }}
+
+% A standalone break
+\def\later{\sbre@k%
+  \vskip 0pt plus 2\baselineskip%
+  \par\rule{.5\textwidth}{.0pt}\vskip1pt\noindent}
+
+% A break followed by a new section
+\newcommand{\latersection}[1]{\sbre@k\section{#1}}
+\makeatother

@@ -1,0 +1,214 @@
+0: '%'
+1: '%'
+2: '%'
+3: '%'
+4: '%'
+5: '%'
+6: '%'
+7: '%'
+8: '%'
+9: '%'
+10: '%'
+11: '%'
+12: '%'
+13: '%'
+14: '%'
+15: '% FIXME: For some reason, without this the contents ends up on a verso page (an
+  extra blank page is added)'
+16: '% \chapter{Disclaimer}'
+17: \begin{center}
+18: \begin{center}
+19: \begin{center}
+20: \end{center}
+21: \end{center}
+22: \end{center}
+23: \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{images/cover0.jpg}
+24: \includegraphics[scale=0.5]{images/bubble0.jpg}
+25: \input{layout/hp-title}
+26: \ifcover
+27: \newpagecolor
+28: \afterpage
+29: \restorepagecolor
+30: \newcommand
+31: \BackgroundPic
+32: \put
+33: \parbox
+34: \paperheight
+35: \paperwidth
+36: \vfill
+37: \centering
+38: \vfill
+39: \AddToShipoutPicture
+40: \BackgroundPic
+41: \AddToShipoutPicture
+42: \put
+43: \parbox
+44: \paperheight
+45: \paperwidth
+46: \hptitle
+47: \fullvolumetitle
+48: \volumenumber
+49: \cleartorecto
+50: \fi
+51: \thispagestyle
+52: \hpfont
+53: \Huge
+54: \MakeUppercase
+55: \vspace
+56: \Large
+57: \MakeUppercase
+58: \Large
+59: \vspace
+60: \huge
+61: \MakeUppercase
+62: \normalsize
+63: \vspace
+64: \baselineskip
+65: \fullvolumetitle
+66: \volumenumber
+67: \vfill
+68: \url
+69: \url
+70: \cleartoverso
+71: \vspace
+72: \thispagestyle
+73: \vspace
+74: \Large
+75: \MakeUppercase
+76: \normalsize
+77: \vspace
+78: \vspace
+79: \newcounter
+80: \def
+81: \hpBook
+82: \addtocounter
+83: \textit
+84: \par
+85: \numtoName
+86: \value
+87: \smallskip
+88: \par
+89: \hpBook
+90: \hpBook
+91: \hpBook
+92: \hpBook
+93: \hpBook
+94: \hpBook
+95: \hpBook
+96: \cleartorecto
+97: \newpage
+98: \vspace
+99: \J
+100: \and
+101: \vfill
+102: \today
+103: "\n       "
+104: "\n       "
+105: "\n               "
+106: "\n               "
+107: "\n               "
+108: "\n               "
+109: "\n       "
+110: "\n       "
+111: "\n       "
+112: "\n       "
+113: "\n       "
+114: "\n       "
+115: "\n       "
+116: "\n       "
+117: '€25€
+
+  €26€€0€
+
+  €27€'
+118: €30€€31€
+119: '€1€
+
+  €33€'
+120: '€2€
+
+  €36€€3€
+
+  €37€€4€
+
+  €23€€5€
+
+  €38€€6€'
+121: '€7€
+
+  €41€'
+122: '€8€
+
+  €43€'
+123: '€9€
+
+  €46€'
+124: '€12€
+
+  €49€
+
+  €50€
+
+  €17€
+
+  €51€'
+125: '€52€
+
+  €53€€54€'
+126: €56€€57€
+127: '€13€
+
+
+  €24€
+
+
+  €58€'
+128: €60€ €61€
+129: '€14€
+
+
+  €62€
+
+
+  €63€'
+130: '€20€
+
+
+  €70€
+
+
+  €18€
+
+  €71€'
+131: €74€ €75€
+132: '€76€
+
+
+  €77€'
+133: €103€ €79€
+134: €104€ €80€ €81€
+135: €105€ €82€
+136: €106€ €83€
+137: €84€€107€
+138: €108€ €87€€88€€109€
+139: €110€ €89€
+140: €111€ €90€
+141: €112€ €91€
+142: €113€ €92€
+143: €114€ €93€
+144: €115€ €94€
+145: €116€ €95€
+146: '€21€
+
+  €96€€15€
+
+
+  €16€
+
+  €97€
+
+  €98€'
+147: '€22€
+
+
+  €101€'
