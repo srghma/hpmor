@@ -1,14 +1,14 @@
-€3€{Reductionism}
+€3€<b>Reductionism</b>
 
 €1€
 Whatever can go Rowling will go Rowling.
 
-This should €4€{again go without saying}, but views expressed by Severus Snape are not necessarily those of the author.
-€190€[ante=“]{O}{kay},” Harry said, swallowing. “Okay, Hermione, it’s enough, you can stop.”
+This should <em>again go without saying</em>, but views expressed by Severus Snape are not necessarily those of the author.
+€17€[ante=“]<b>O</b><b>kay</b>,” Harry said, swallowing. “Okay, Hermione, it’s enough, you can stop.”
 
 The white sugar pill in front of Hermione still hadn’t changed shape or colour at all, even though she was concentrating harder than Harry had ever seen, her eyes squeezed shut, beads of sweat on her forehead, hand trembling as it gripped the wand—
 
-“Hermione, €6€{stop}! It’s not going to work, Hermione, I don’t think we can make things that don’t exist yet!”
+“Hermione, <em>stop</em>! It’s not going to work, Hermione, I don’t think we can make things that don’t exist yet!”
 
 Slowly, Hermione’s hand relaxed its grasp on the wand.
 
@@ -20,35 +20,35 @@ There was a lump in Harry’s throat. “You were probably imagining it. Hoping 
 
 Slowly, Harry took his mechanical pencil in his hand, and reached over to the sheet of paper with all the items crossed out, and drew a line through the item that said ‘ALZHEIMER’S CURE’.
 
-They couldn’t have fed anyone a Transfigured pill. But Transfiguration, at least the kind they could do, didn’t enchant the targets—it wouldn’t Transfigure a regular broomstick into a flying one. So if Hermione had been able to make a pill at all, it would have been a €7€{non-magical} pill, one that worked for ordinary material reasons. They could have secretly made pills for a Muggle science lab, let them €8€{study} the pills and try to reverse-engineer them before the Transfiguration wore off…no-one in either world would need to know that magic had been involved, it would just be another scientific breakthrough…
+They couldn’t have fed anyone a Transfigured pill. But Transfiguration, at least the kind they could do, didn’t enchant the targets—it wouldn’t Transfigure a regular broomstick into a flying one. So if Hermione had been able to make a pill at all, it would have been a <em>non-magical</em> pill, one that worked for ordinary material reasons. They could have secretly made pills for a Muggle science lab, let them <em>study</em> the pills and try to reverse-engineer them before the Transfiguration wore off…no-one in either world would need to know that magic had been involved, it would just be another scientific breakthrough…
 
-It hadn’t been the sort of thing a wizard would think of, either. They didn’t respect mere €9€{patterns of atoms} that much, they didn’t think of unenchanted €10€{material} things as objects of power. If it wasn’t magical, it wasn’t interesting.
+It hadn’t been the sort of thing a wizard would think of, either. They didn’t respect mere <em>patterns of atoms</em> that much, they didn’t think of unenchanted <em>material</em> things as objects of power. If it wasn’t magical, it wasn’t interesting.
 
-Earlier, Harry had €11€{very} secretly—he hadn’t even told Hermione—tried to Transfigure nanotechnology a la Eric Drexler. (He’d tried to produce a desktop nanofactory, of course, not tiny self-replicating assemblers, Harry wasn’t insane.) It would have been godhood in a single shot if it’d worked.
+Earlier, Harry had <em>very</em> secretly—he hadn’t even told Hermione—tried to Transfigure nanotechnology a la Eric Drexler. (He’d tried to produce a desktop nanofactory, of course, not tiny self-replicating assemblers, Harry wasn’t insane.) It would have been godhood in a single shot if it’d worked.
 
 “That was it for today, right?” said Hermione. She was slumped back in her chair, leaning her head against the back; and her face showed her tiredness, which was very unusual for Hermione. She liked to pretend she was limitless, at least when Harry was around.
 
-“One more,” Harry said cautiously, “but that one’s small, plus it might actually work. I saved it for last because I was hoping we could end on an up note. It’s real stuff, not like phasers. They’ve already made it in the laboratory, not like the Alzheimer’s cure. And it’s a generic substance, not specific like the lost books you tried to Transfigure copies of. I made a diagram of the molecular structure to show you. We just want to make it €12€{longer} than it’s ever been made before, and with all the tubes aligned, and the endpoints embedded in diamond.” Harry produced a sheet of graph paper.
+“One more,” Harry said cautiously, “but that one’s small, plus it might actually work. I saved it for last because I was hoping we could end on an up note. It’s real stuff, not like phasers. They’ve already made it in the laboratory, not like the Alzheimer’s cure. And it’s a generic substance, not specific like the lost books you tried to Transfigure copies of. I made a diagram of the molecular structure to show you. We just want to make it <em>longer</em> than it’s ever been made before, and with all the tubes aligned, and the endpoints embedded in diamond.” Harry produced a sheet of graph paper.
 
-Hermione sat back up, took it, and studied it, frowning. “These are €13€{all} carbon atoms? And Harry, what’s the name? I can’t Transfigure it if I don’t know what it’s called.”
+Hermione sat back up, took it, and studied it, frowning. “These are <em>all</em> carbon atoms? And Harry, what’s the name? I can’t Transfigure it if I don’t know what it’s called.”
 
-Harry made a disgusted face. He was still having trouble getting used to that sort of thing, it shouldn’t matter what something was €14€{named} if you knew what it €15€{was}. “They’re called buckytubes, or carbon nanotubes. It’s a kind of fullerene that was discovered just this year. It’s about a hundred times stronger than steel and a sixth of the weight.”
+Harry made a disgusted face. He was still having trouble getting used to that sort of thing, it shouldn’t matter what something was <em>named</em> if you knew what it <em>was</em>. “They’re called buckytubes, or carbon nanotubes. It’s a kind of fullerene that was discovered just this year. It’s about a hundred times stronger than steel and a sixth of the weight.”
 
-Hermione looked up from the graph paper, her face surprised. “That’s €16€{real}?”
+Hermione looked up from the graph paper, her face surprised. “That’s <em>real</em>?”
 
 “Yeah,” Harry said, “just hard to make the Muggle way. If we could get enough of the stuff, we could use it to build a space elevator all the way up to geosynchronous orbit or higher, and in terms of delta-v that’s halfway to anywhere in the Solar System. Plus we could throw out solar power satellites like confetti.”
 
-Hermione was frowning again. “Is this stuff €17€{safe}?”
+Hermione was frowning again. “Is this stuff <em>safe</em>?”
 
 “I don’t see why it wouldn’t be,” Harry said. “A buckytube is just a graphite sheet wrapped into a circular tube, basically, and graphite is the same stuff used in pencils—”
 
-“I €18€{know} what graphite is, Harry,” Hermione said. She brushed her hair back absent-mindedly, her eyebrows furrowed as she stared at the sheet of paper.
+“I <em>know</em> what graphite is, Harry,” Hermione said. She brushed her hair back absent-mindedly, her eyebrows furrowed as she stared at the sheet of paper.
 
 Harry reached into a pocket of his robes, and produced a white thread tied to two small grey plastic rings at either end. He’d added drops of superglue where the thread met either ring, to make it all a single object that could be Transfigured as a whole. Cyanoacrylate, if Harry remembered correctly, worked by covalent bonds, and that was as close to being a “solid object” as you ever got in a world ultimately composed of tiny individual atoms. “When you’re ready,” Harry said, “try to Transfigure this into a set of aligned buckytube fibres embedded in two solid diamond rings.”
 
 “All right…” Hermione said slowly. “Harry, I feel like I just missed something.”
 
-Harry shrugged helplessly. €19€{Maybe you’re just tired.} He knew better than to say it out loud, though.
+Harry shrugged helplessly. <em>Maybe you’re just tired.</em> He knew better than to say it out loud, though.
 
 Hermione laid her wand against one plastic ring, and stared for a while.
 
@@ -62,17 +62,17 @@ There was an A-frame Harry had rigged up to do an earlier experiment with diamon
 
 Harry carefully looped one circle of glittering diamond over the thick metal hook at the top of the rig, then attached a thick metal hanger to the bottom ring, and then started attaching weights to the hanger.
 
-(Harry had asked the Weasley twins to Transfigure the apparatus for him, and the Weasley twins had given him an incredulous look, like they couldn’t figure out what sort of prank he could €20€{possibly} want that for, but they hadn’t asked any questions. And their Transfigurations, according to them, lasted for around three hours, so Harry and Hermione still had a while left.)
+(Harry had asked the Weasley twins to Transfigure the apparatus for him, and the Weasley twins had given him an incredulous look, like they couldn’t figure out what sort of prank he could <em>possibly</em> want that for, but they hadn’t asked any questions. And their Transfigurations, according to them, lasted for around three hours, so Harry and Hermione still had a while left.)
 
 “One hundred kilograms,” Harry said about a minute later. “I don’t think a steel thread this thin would hold that. It should go up much higher, but that’s all the weight I’ve got.”
 
 There was a further silence.
 
-Harry straightened up, and went back to their table, and sat down in his chair, and ceremoniously made a check mark next to ‘Buckytubes’. “There,” Harry said. “€21€{That} one worked.”
+Harry straightened up, and went back to their table, and sat down in his chair, and ceremoniously made a check mark next to ‘Buckytubes’. “There,” Harry said. “<em>That</em> one worked.”
 
-“But it’s not really €22€{useful}, Harry, is it?” Hermione said from where she was sitting with her head resting in her hands. “I mean, even if we gave it to a scientist they couldn’t learn how to make lots of buckytubes from studying ours.”
+“But it’s not really <em>useful</em>, Harry, is it?” Hermione said from where she was sitting with her head resting in her hands. “I mean, even if we gave it to a scientist they couldn’t learn how to make lots of buckytubes from studying ours.”
 
-“They might be able to learn €23€{something},” Harry said. “Hermione, €24€{look} at it, that little tiny thread holding up all that weight, we just made something that no Muggle laboratory could make—”
+“They might be able to learn <em>something</em>,” Harry said. “Hermione, <em>look</em> at it, that little tiny thread holding up all that weight, we just made something that no Muggle laboratory could make—”
 
 “But any other witch could make it,” Hermione said. Her exhaustion was coming into her voice, now. “Harry, I don’t think this is working out.”
 
@@ -80,17 +80,17 @@ Harry straightened up, and went back to their table, and sat down in his chair, 
 
 That got a slight grin out of her. “I mean our research.”
 
-“Oh, Hermione, how €25€{could} you?”
+“Oh, Hermione, how <em>could</em> you?”
 
-“You’re sweet when you’re mean,” she said. “But Harry, this is nuts, I’m twelve, you’re eleven, it’s €26€{silly} to think we’re going to discover anything that no-one’s ever figured out before.”
+“You’re sweet when you’re mean,” she said. “But Harry, this is nuts, I’m twelve, you’re eleven, it’s <em>silly</em> to think we’re going to discover anything that no-one’s ever figured out before.”
 
-“Are you really saying we should give up on unravelling the secrets of magic after trying for less than one €27€{month}?” Harry said, trying to put a note of challenge into his voice. Honestly he was feeling some of the same fatigue as Hermione. None of the €28€{good} ideas ever worked. He’d made just one discovery worth mentioning, the Mendelian pattern, and he couldn’t tell Hermione about it without breaking his promise to Draco.
+“Are you really saying we should give up on unravelling the secrets of magic after trying for less than one <em>month</em>?” Harry said, trying to put a note of challenge into his voice. Honestly he was feeling some of the same fatigue as Hermione. None of the <em>good</em> ideas ever worked. He’d made just one discovery worth mentioning, the Mendelian pattern, and he couldn’t tell Hermione about it without breaking his promise to Draco.
 
-“No,” Hermione said. Her young face was looking very serious and adult. “I’m saying right now we should be €29€{studying} all the magic that wizards already know, so we can do this sort of thing after we graduate from Hogwarts.”
+“No,” Hermione said. Her young face was looking very serious and adult. “I’m saying right now we should be <em>studying</em> all the magic that wizards already know, so we can do this sort of thing after we graduate from Hogwarts.”
 
-“Um…” Harry said. “Hermione, I hate to put it this way, but imagine we’d decided to hold off on research until later, and the first thing we tried after we graduated was Transfiguring an Alzheimer’s cure, and it €30€{worked}. We’d feel…I don’t think the word €31€{stupid} would adequately describe how we’d feel. What if there’s something else like that and it does work?”
+“Um…” Harry said. “Hermione, I hate to put it this way, but imagine we’d decided to hold off on research until later, and the first thing we tried after we graduated was Transfiguring an Alzheimer’s cure, and it <em>worked</em>. We’d feel…I don’t think the word <em>stupid</em> would adequately describe how we’d feel. What if there’s something else like that and it does work?”
 
-“That’s not €32€{fair}, Harry!” Hermione said. Her voice was trembling like she was on the verge of breaking out crying. “You can’t €33€{put} that on people! It’s not our €34€{job} to do that sort of thing, we’re €35€{kids}!”
+“That’s not <em>fair</em>, Harry!” Hermione said. Her voice was trembling like she was on the verge of breaking out crying. “You can’t <em>put</em> that on people! It’s not our <em>job</em> to do that sort of thing, we’re <em>kids</em>!”
 
 For a moment Harry wondered what would happen if someone told Hermione she had to fight an immortal Dark Lord, if she would turn into one of the whiny self-pitying heroes that Harry could never stand reading about in his books.
 
@@ -106,7 +106,7 @@ It might not have hurt so much if the same thought hadn’t already come to Harr
 
 “I didn’t mean it like that,” Hermione said, her voice coming out in a frightened whisper.
 
-With an effort, Harry wrenched his gaze away from Hermione. “I’m not angry at €36€{you},” Harry said. His voice was cold, despite his best efforts. “I’m angry at, I don’t know, everything. But I’m not willing to lose, Hermione. Losing isn’t always the right thing to do. I’ll figure out how to do something a grown wizard can’t do, and then I’ll get back to you. How’s that?”
+With an effort, Harry wrenched his gaze away from Hermione. “I’m not angry at <em>you</em>,” Harry said. His voice was cold, despite his best efforts. “I’m angry at, I don’t know, everything. But I’m not willing to lose, Hermione. Losing isn’t always the right thing to do. I’ll figure out how to do something a grown wizard can’t do, and then I’ll get back to you. How’s that?”
 
 There was more silence.
 
@@ -120,105 +120,105 @@ Her voice halted.
 
 Sometimes Harry hated having a dark side, even when he was inside it.
 
-And the part of him that had thought exactly the same thing as Hermione, that no, children €37€{couldn’t} do what grown-ups couldn’t, was saying all the things that Hermione had been too frightened to say, like, €38€{That’s one hell of a difficult challenge you just grabbed for yourself €39€{and} boy are you going to end up with egg on your face this time €40€{and} at least this way you’ll know you’ve failed.}
+And the part of him that had thought exactly the same thing as Hermione, that no, children <em>couldn’t</em> do what grown-ups couldn’t, was saying all the things that Hermione had been too frightened to say, like, <em>That’s one hell of a difficult challenge you just grabbed for yourself €5€<b>and</em> boy are you going to end up with egg on your face this time <em>and</em> at least this way you’ll know you’ve failed.</b>
 
-And the part of him that didn’t enjoy losing replied, in a very cold voice, €41€{Fine, you can shut up and watch.}
+And the part of him that didn’t enjoy losing replied, in a very cold voice, <em>Fine, you can shut up and watch.</em>
 
-€42€
+€6€
 
 It was almost lunchtime, and Harry didn’t care. He hadn’t even bothered grabbing a snack bar from his pouch. His stomach could stand a little starving.
 
-The wizarding world was tiny, they didn’t think like scientists, they didn’t know science, they didn’t question what they’d grown up with, they hadn’t put protective shells on their time machines, they played Quidditch, all of magical Britain was smaller than a small Muggle city, the greatest wizarding school only educated up to the age of seventeen, €43€{silly} wasn’t challenging that at eleven, €44€{silly} was €45€{assuming} wizards knew what they were doing and had already exhausted all the low-hanging fruit a scientific polymath would see.
+The wizarding world was tiny, they didn’t think like scientists, they didn’t know science, they didn’t question what they’d grown up with, they hadn’t put protective shells on their time machines, they played Quidditch, all of magical Britain was smaller than a small Muggle city, the greatest wizarding school only educated up to the age of seventeen, <em>silly</em> wasn’t challenging that at eleven, <em>silly</em> was <em>assuming</em> wizards knew what they were doing and had already exhausted all the low-hanging fruit a scientific polymath would see.
 
 Step One had been to make a list of every magical constraint Harry could remember, all the things you supposedly couldn’t do.
 
-Step Two, mark the constraints that seemed to make the €46€{least} sense from a scientific perspective.
+Step Two, mark the constraints that seemed to make the <em>least</em> sense from a scientific perspective.
 
-Step Three, prioritize constraints that a wizard would be unlikely to question if they €47€{didn’t} know science.
+Step Three, prioritize constraints that a wizard would be unlikely to question if they <em>didn’t</em> know science.
 
 Step Four, come up with avenues for attacking them.
 
-€48€
+€7€
 
 Hermione still felt a little shaky as she sat down next to Mandy at the Ravenclaw table. Hermione’s lunch had two fruits (tomato slices and peeled tangerines), three vegetables (carrots, carrots, and more carrots), one meat (fried Diricawl drumsticks whose unhealthy coating she would carefully remove), and one little piece of chocolate cake that she would earn by eating the other parts.
 
-It hadn’t been as bad as Potions class, sometimes she still had €49€{nightmares} about that. But this time €50€{she} had made it happen and €51€{she’d felt like its target}. Just for a moment, before the terrible cold darkness looked away and said it wasn’t angry with her, because it hadn’t wanted to scare her.
+It hadn’t been as bad as Potions class, sometimes she still had <em>nightmares</em> about that. But this time <em>she</em> had made it happen and <em>she’d felt like its target</em>. Just for a moment, before the terrible cold darkness looked away and said it wasn’t angry with her, because it hadn’t wanted to scare her.
 
 And she still had that feeling like she’d missed something earlier, something really important.
 
 But they hadn’t violated any of the rules of Transfiguration…had they? They hadn’t made any liquids, any gases, they hadn’t taken orders from the Defence Professor…
 
-The €52€{pill}! That had been something to be eaten!
+The <em>pill</em>! That had been something to be eaten!
 
-…well, no, nobody would just eat a pill lying around, it hadn’t €53€{worked} actually, they could have just €54€{Finite Incantatemed} it if it had, but she would still have to tell Harry about that and make sure they didn’t mention it in front of Professor McGonagall, in case they were never allowed to study Transfiguration again…
+…well, no, nobody would just eat a pill lying around, it hadn’t <em>worked</em> actually, they could have just <em>Finite Incantatemed</em> it if it had, but she would still have to tell Harry about that and make sure they didn’t mention it in front of Professor McGonagall, in case they were never allowed to study Transfiguration again…
 
 Hermione was starting to get a really sick feeling in her stomach. She pushed back her plate from the table, she couldn’t eat lunch like this.
 
 And she closed her eyes and began to mentally recite the rules of Transfiguration.
 
-“€55€{I will never Transfigure anything into liquid or gas.}”
+“<em>I will never Transfigure anything into liquid or gas.</em>”
 
-“€56€{I will never Transfigure anything that looks like food or anything else that goes inside a human body.}”
+“<em>I will never Transfigure anything that looks like food or anything else that goes inside a human body.</em>”
 
-No, they really €57€{shouldn’t} have tried to Transfigure the pill, or they should’ve at least €58€{realized}…she’d been so caught up in Harry’s brilliant idea that she hadn’t €59€{thought…}
+No, they really <em>shouldn’t</em> have tried to Transfigure the pill, or they should’ve at least <em>realized</em>…she’d been so caught up in Harry’s brilliant idea that she hadn’t <em>thought…</em>
 
 The sick feeling in Hermione’s stomach was getting worse. There was a feeling in her mind of something hovering just on the edge of recognition, a perception about to invert itself, a young woman about to become a crone, a vase about to become two faces…
 
 And she went on remembering the rules of Transfiguration.
 
-€60€
+€8€
 
-Harry’s knuckles had gone white on his wand by the time he stopped trying to Transfigure the air in front of his wand into a paperclip. It wouldn’t have been safe to Transfigure the paperclip into gas, of course, but Harry didn’t see any reason why it would be unsafe the other way around. It just wasn’t supposed to be €61€{possible}. But why not? Air was as real a substance as anything else…
+Harry’s knuckles had gone white on his wand by the time he stopped trying to Transfigure the air in front of his wand into a paperclip. It wouldn’t have been safe to Transfigure the paperclip into gas, of course, but Harry didn’t see any reason why it would be unsafe the other way around. It just wasn’t supposed to be <em>possible</em>. But why not? Air was as real a substance as anything else…
 
-Well, maybe that limitation €62€{did} make sense. Air was disorganized, all the molecules constantly changing their relation to each other. Maybe you couldn’t impose a new form on substance unless the substance was staying still long enough for you to master it, even though the atoms in solids were also constantly vibrating all the time…
+Well, maybe that limitation <em>did</em> make sense. Air was disorganized, all the molecules constantly changing their relation to each other. Maybe you couldn’t impose a new form on substance unless the substance was staying still long enough for you to master it, even though the atoms in solids were also constantly vibrating all the time…
 
 The more Harry failed, the colder he felt, the clearer everything seemed to become.
 
 All right. Next on the list.
 
-You could only Transfigure whole objects as wholes. You couldn’t Transfigure €63€{half} a match into a needle, you had to Transfigure the €64€{whole thing}. Back when Harry had been trapped in that classroom by Draco, it had been the reason he couldn’t just Transfigure a thin cylindrical cross-section of the walls into sponge, and punch out a chunk of stone large enough for him to fit through the hole. He would have needed to impose a new form on the whole wall, and maybe a whole section of Hogwarts, just in order to change that little cross-section.
+You could only Transfigure whole objects as wholes. You couldn’t Transfigure <em>half</em> a match into a needle, you had to Transfigure the <em>whole thing</em>. Back when Harry had been trapped in that classroom by Draco, it had been the reason he couldn’t just Transfigure a thin cylindrical cross-section of the walls into sponge, and punch out a chunk of stone large enough for him to fit through the hole. He would have needed to impose a new form on the whole wall, and maybe a whole section of Hogwarts, just in order to change that little cross-section.
 
-And that was €65€{ridiculous}.
+And that was <em>ridiculous</em>.
 
-€66€{Things were made of atoms.} Lots of little tiny dots. There €67€{was} no contiguity, there €68€{was} no solidity, just electromagnetic forces holding the little dots related to each other…
+<em>Things were made of atoms.</em> Lots of little tiny dots. There <em>was</em> no contiguity, there <em>was</em> no solidity, just electromagnetic forces holding the little dots related to each other…
 
-€69€
+€9€
 
 Mandy Brocklehurst paused with her fork on her way to her mouth. “Huh,” she said to Su Li, sitting across from the now-empty space beside her, “what got into Hermione?”
 
-€70€
+€10€
 
 Harry wanted to kill his eraser.
 
 He’d been trying to change a single spot on the pink rectangle into steel, apart from the rest of the rubber, and the eraser wasn’t cooperating.
 
-It €71€{had} to be a conceptual limitation, not a real one. €72€{Had} to be.
+It <em>had</em> to be a conceptual limitation, not a real one. <em>Had</em> to be.
 
-€73€{Things were made of atoms,} and every atom was a tiny separate thing. Atoms were held together by a quantum mist of shared electrons, for covalent bonds, or sometimes just magnetism at close ranges, for ionic bonds or van der Waals forces.
+<em>Things were made of atoms,</em> and every atom was a tiny separate thing. Atoms were held together by a quantum mist of shared electrons, for covalent bonds, or sometimes just magnetism at close ranges, for ionic bonds or van der Waals forces.
 
-If it came down to that, the protons and neutrons inside the nuclei were tiny separate things. The quarks inside the protons and neutrons were tiny separate things! There simply €74€{wasn’t} anything in reality, the world-out-there, that corresponded to people’s conceit of solid objects. It was all just little dots.
+If it came down to that, the protons and neutrons inside the nuclei were tiny separate things. The quarks inside the protons and neutrons were tiny separate things! There simply <em>wasn’t</em> anything in reality, the world-out-there, that corresponded to people’s conceit of solid objects. It was all just little dots.
 
 And free Transfiguration was all in the mind to begin with, wasn’t it? No words, no gestures. Only the pure concept of form, kept strictly separate from substance, imposed on the substance, conceived of apart from its form. That and the wand and whatever made you a wizard.
 
-The wizards couldn’t transform parts of things, could only transform what their minds perceived as wholes, because they didn’t €75€{know in their bones} that it was all just atoms deep down.
+The wizards couldn’t transform parts of things, could only transform what their minds perceived as wholes, because they didn’t <em>know in their bones</em> that it was all just atoms deep down.
 
-Harry had focused on that knowledge as hard as he could, the €76€{true fact} that the eraser was just a collection of atoms, everything was just collections of atoms, and the atoms of the little patch he was trying to Transfigure formed €77€{just as valid} a collection as any other collection he cared to think about.
+Harry had focused on that knowledge as hard as he could, the <em>true fact</em> that the eraser was just a collection of atoms, everything was just collections of atoms, and the atoms of the little patch he was trying to Transfigure formed <em>just as valid</em> a collection as any other collection he cared to think about.
 
 And Harry still hadn’t been able to change that single part of the eraser, the Transfiguration wasn’t going anywhere.
 
-€78€{This. Was. Ridiculous.}
+<em>This. Was. Ridiculous.</em>
 
-Harry’s knuckles were whitening on his wand again. He was €79€{sick} of getting experimental results that €80€{didn’t make sense}.
+Harry’s knuckles were whitening on his wand again. He was <em>sick</em> of getting experimental results that <em>didn’t make sense</em>.
 
-Maybe the fact that €81€{some} part of his mind was still thinking in terms of objects was stopping the Transfiguration from going through. He had thought of a collection of atoms that was an €82€{eraser}. He had thought of a collection that was a €83€{little patch}.
+Maybe the fact that <em>some</em> part of his mind was still thinking in terms of objects was stopping the Transfiguration from going through. He had thought of a collection of atoms that was an <em>eraser</em>. He had thought of a collection that was a <em>little patch</em>.
 
 Time to kick it up a notch.
 
 Harry pressed his wand harder against that tiny section of eraser, and tried to see through the illusion that non-scientists thought was reality, the world of desks and chairs, air and erasers and people.
 
-When you walked through a park, the immersive world that surrounded you was something that existed inside your own brain as a pattern of neurons firing. The sensation of a bright-blue sky wasn’t something high above you, it was something in your visual cortex, and your visual cortex was in the back of your brain. All the sensations of that bright world were really happening in that quiet cave of bone you called your skull, the place where €84€{you} lived and never, ever left. If you really wanted to say hello to someone, to the €85€{actual person}, you wouldn’t shake their hand, you’d knock gently on their skull and say “How are you doing in there?” That was what people were, that was where they really lived. And the €86€{picture} of the park that you thought you were €87€{walking through} was something that was visualized inside your brain as it processed the signals sent down from your eyes and retina.
+When you walked through a park, the immersive world that surrounded you was something that existed inside your own brain as a pattern of neurons firing. The sensation of a bright-blue sky wasn’t something high above you, it was something in your visual cortex, and your visual cortex was in the back of your brain. All the sensations of that bright world were really happening in that quiet cave of bone you called your skull, the place where <em>you</em> lived and never, ever left. If you really wanted to say hello to someone, to the <em>actual person</em>, you wouldn’t shake their hand, you’d knock gently on their skull and say “How are you doing in there?” That was what people were, that was where they really lived. And the <em>picture</em> of the park that you thought you were <em>walking through</em> was something that was visualized inside your brain as it processed the signals sent down from your eyes and retina.
 
-It wasn’t a €88€{lie} like the Buddhists thought, there wasn’t something terribly mystical and unexpected behind the veil of Maya, what lay beyond the illusion of the park was just the €89€{actual park}, but it was all still €90€{illusion}.
+It wasn’t a <em>lie</em> like the Buddhists thought, there wasn’t something terribly mystical and unexpected behind the veil of Maya, what lay beyond the illusion of the park was just the <em>actual park</em>, but it was all still <em>illusion</em>.
 
 Harry wasn’t sitting inside the classroom.
 
@@ -230,43 +230,43 @@ He was experiencing a processed picture his brain had decoded from the signals s
 
 The real eraser was somewhere else, somewhere that wasn’t the picture.
 
-And the real eraser wasn’t like the picture Harry’s brain had of it. The idea of the eraser as a €91€{solid object} was something that existed only inside his own brain, inside the parietal cortex that processed his sense of shape and space. The real eraser was a collection of atoms held together by electromagnetic forces and shared covalent electrons, while nearby, air molecules bounced off each other and bounced off the eraser-molecules.
+And the real eraser wasn’t like the picture Harry’s brain had of it. The idea of the eraser as a <em>solid object</em> was something that existed only inside his own brain, inside the parietal cortex that processed his sense of shape and space. The real eraser was a collection of atoms held together by electromagnetic forces and shared covalent electrons, while nearby, air molecules bounced off each other and bounced off the eraser-molecules.
 
-The real eraser was far away, and Harry, inside his skull, could never quite touch it, could only imagine ideas about it. But €92€{his wand had the power}, it could change things out there in €93€{reality}, it was only Harry’s own preconceptions that were €94€{limiting} it. Somewhere beyond the veil of Maya, the €95€{truth} behind Harry’s concept of “my wand” was touching the collection of atoms that Harry’s mind thought of as “a patch on the eraser”, and if that wand could change the collection of atoms that Harry considered “the whole eraser”, there was absolutely no reason why it couldn’t change the other collection too…
+The real eraser was far away, and Harry, inside his skull, could never quite touch it, could only imagine ideas about it. But <em>his wand had the power</em>, it could change things out there in <em>reality</em>, it was only Harry’s own preconceptions that were <em>limiting</em> it. Somewhere beyond the veil of Maya, the <em>truth</em> behind Harry’s concept of “my wand” was touching the collection of atoms that Harry’s mind thought of as “a patch on the eraser”, and if that wand could change the collection of atoms that Harry considered “the whole eraser”, there was absolutely no reason why it couldn’t change the other collection too…
 
 The Transfiguration still wasn’t going through.
 
-Harry’s teeth clenched together, and he kicked it up €96€{another} notch.
+Harry’s teeth clenched together, and he kicked it up <em>another</em> notch.
 
-The concept Harry’s mind had of the eraser as a single object was €97€{obvious nonsense}.
+The concept Harry’s mind had of the eraser as a single object was <em>obvious nonsense</em>.
 
-It was a map that didn’t and €98€{couldn’t} match the territory.
+It was a map that didn’t and <em>couldn’t</em> match the territory.
 
-Human beings modelled the world using stratified levels of organization, they had €99€{separate thoughts} about how countries worked, how people worked, how organs worked, how cells worked, how molecules worked, how quarks worked.
+Human beings modelled the world using stratified levels of organization, they had <em>separate thoughts</em> about how countries worked, how people worked, how organs worked, how cells worked, how molecules worked, how quarks worked.
 
 When Harry’s brain needed to think about the eraser, it would think about the rules that governed erasers, like “erasers can get rid of pencil-marks”. Only if Harry’s brain needed to predict what would happen on the lower chemical level, only then would Harry’s brain start thinking—as though it were a separate fact—about rubber molecules.
 
-But that was all in the €100€{mind}.
+But that was all in the <em>mind</em>.
 
-Harry’s mind might have separate €101€{beliefs} about rules that governed erasers, but there was no €102€{separate law of physics} that governed erasers.
+Harry’s mind might have separate <em>beliefs</em> about rules that governed erasers, but there was no <em>separate law of physics</em> that governed erasers.
 
-Harry’s mind modelled reality using multiple levels of organization, with different beliefs about each level. But that was all in the €103€{map}, the true territory wasn’t like that, €104€{reality itself} had only a €105€{single} level of organization, the quarks, it was a unified low-level process obeying mathematically simple rules.
+Harry’s mind modelled reality using multiple levels of organization, with different beliefs about each level. But that was all in the <em>map</em>, the true territory wasn’t like that, <em>reality itself</em> had only a <em>single</em> level of organization, the quarks, it was a unified low-level process obeying mathematically simple rules.
 
 Or at least that was what Harry had believed before he’d found out about magic, but the eraser wasn’t magical.
 
-And even if the eraser €106€{had} been magical, the idea that there could €107€{really exist} a single solid eraser was €108€{impossible}. Things like erasers €109€{couldn’t} be basic elements of reality, they were too big and complicated to be atoms, they €110€{had} to be made of parts. You couldn’t have things that were €111€{fundamentally complicated}. The implicit belief that Harry’s brain had in the eraser as a single object wasn’t just €112€{wrong}, it was a map–territory confusion, the eraser only existed as a separate concept in Harry’s multi-level €113€{model} of the world, not as a separate element of single-level reality.
+And even if the eraser <em>had</em> been magical, the idea that there could <em>really exist</em> a single solid eraser was <em>impossible</em>. Things like erasers <em>couldn’t</em> be basic elements of reality, they were too big and complicated to be atoms, they <em>had</em> to be made of parts. You couldn’t have things that were <em>fundamentally complicated</em>. The implicit belief that Harry’s brain had in the eraser as a single object wasn’t just <em>wrong</em>, it was a map–territory confusion, the eraser only existed as a separate concept in Harry’s multi-level <em>model</em> of the world, not as a separate element of single-level reality.
 
-…the Transfiguration €114€{still wasn’t happening}.
+…the Transfiguration <em>still wasn’t happening</em>.
 
-Harry was breathing heavily, failed Transfiguration was almost as tiring as successful Transfiguration, but €115€{damned} if he’d give up now.
+Harry was breathing heavily, failed Transfiguration was almost as tiring as successful Transfiguration, but <em>damned</em> if he’d give up now.
 
 All right, screw this nineteenth-century garbage.
 
 Reality wasn’t atoms, it wasn’t a set of tiny billiard balls bopping around. That was just another lie. The notion of atoms as little dots was just another convenient hallucination that people clung to because they didn’t want to confront the inhumanly alien shape of the underlying reality. No wonder, then, that his attempts to Transfigure based on that hadn’t worked. If he wanted power, he had to abandon his humanity, and force his thoughts to conform to the true maths of quantum mechanics.
 
-There €116€{were no particles}, there were just €117€{clouds of amplitude} in a €118€{multi-particle configuration space} and what his brain fondly imagined to be an eraser was nothing except a gigantic €119€{factor} in a wave function that €120€{happened to factorize}, it didn’t have a separate existence any more than there was a particular solid factor of 3 hidden inside the number 6, if his wand was capable of €121€{altering factors in an approximately factorizable wave function} then it should damn well be able to alter the slightly €122€{smaller} factor that Harry’s brain visualized as a patch of material on the eraser—
+There <em>were no particles</em>, there were just <em>clouds of amplitude</em> in a <em>multi-particle configuration space</em> and what his brain fondly imagined to be an eraser was nothing except a gigantic <em>factor</em> in a wave function that <em>happened to factorize</em>, it didn’t have a separate existence any more than there was a particular solid factor of 3 hidden inside the number 6, if his wand was capable of <em>altering factors in an approximately factorizable wave function</em> then it should damn well be able to alter the slightly <em>smaller</em> factor that Harry’s brain visualized as a patch of material on the eraser—
 
-€123€
+€11€
 
 Hermione tore through the hallways, shoes pounding hard on the stone, breath coming in pants, the shock of adrenaline still racing through her blood.
 
@@ -274,7 +274,7 @@ Like a picture of a young woman turning into an old crone, like the cup becoming
 
 What had they been doing?
 
-€124€{What had they been doing?}
+<em>What had they been doing?</em>
 
 She came to the classroom and her fingers slipped on the doorknob at first, too sweaty, she grabbed harder and the door opened—
 
@@ -282,11 +282,11 @@ She came to the classroom and her fingers slipped on the doorknob at first, too 
 
 —as a few paces away the tiny black thread, almost invisible from this distance, supported all that weight—
 
-“€125€{Harry get out of the classroom!}”
+“<em>Harry get out of the classroom!</em>”
 
 Pure shock crossed Harry’s face, and he stood up so fast he almost fell over, stopping only to grab the small pink rectangle from the table, and he tore out of the door, she’d already stepped aside, her wand was already in her hand coming up pointing at the thread—
 
-“€126€{Finite Incantatem!}”
+“<em>Finite Incantatem!</em>”
 
 And Hermione slammed the door shut again, just as the gigantic crash of a hundred kilograms of falling metal came from inside.
 
@@ -296,7 +296,7 @@ Hermione blinked, and realized that she had started to fall, and Harry had caugh
 
 “…healthy…” she managed to whisper.
 
-“€127€{What?}” said Harry, looking paler than she’d ever seen him.
+“<em>What?</em>” said Harry, looking paler than she’d ever seen him.
 
 “…are you, feeling, healthy…”
 
@@ -312,9 +312,9 @@ And then it was still a while before she could talk again.
 
 “We broke the rules, Harry,” she said in a hoarse voice. “We broke the rules.”
 
-“I…” Harry swallowed. “I still don’t see how, I’ve been €128€{thinking} but—”
+“I…” Harry swallowed. “I still don’t see how, I’ve been <em>thinking</em> but—”
 
-“I asked if the Transfiguration was safe and €129€{you answered me!}”
+“I asked if the Transfiguration was safe and <em>you answered me!</em>”
 
 There was a pause.
 
@@ -322,13 +322,13 @@ There was a pause.
 
 She could have screamed.
 
-“Harry, don’t you get it?” she said. “It’s made out of tiny fibres, what if it €130€{unravelled}, who €131€{knows} what could go wrong, €132€{we didn’t ask Professor McGonagall!} Don’t you see what we were doing? We were experimenting with Transfiguration. We were €133€{experimenting} with €134€{Transfiguration!}”
+“Harry, don’t you get it?” she said. “It’s made out of tiny fibres, what if it <em>unravelled</em>, who <em>knows</em> what could go wrong, <em>we didn’t ask Professor McGonagall!</em> Don’t you see what we were doing? We were experimenting with Transfiguration. We were <em>experimenting</em> with <em>Transfiguration!</em>”
 
 There was another pause.
 
-“Right…” Harry said slowly. “That’s probably one of those things they don’t even bother telling you €135€{not} to do because it’s too obvious. Don’t test brilliant new ideas for Transfiguration by yourselves in an unused classroom without consulting any professors.”
+“Right…” Harry said slowly. “That’s probably one of those things they don’t even bother telling you <em>not</em> to do because it’s too obvious. Don’t test brilliant new ideas for Transfiguration by yourselves in an unused classroom without consulting any professors.”
 
-“You could have got us killed, Harry!” Hermione knew it wasn’t fair, she’d made the mistake too, but she still felt angry at him, he always sounded so confident and that had dragged her unthinkingly along in his wake. “We could have €136€{spoiled Professor McGonagall’s perfect record!}”
+“You could have got us killed, Harry!” Hermione knew it wasn’t fair, she’d made the mistake too, but she still felt angry at him, he always sounded so confident and that had dragged her unthinkingly along in his wake. “We could have <em>spoiled Professor McGonagall’s perfect record!</em>”
 
 “Yes,” said Harry, “let’s not tell her about this, shall we?”
 
@@ -340,21 +340,21 @@ And he held out a small pink rectangle, a rubber eraser with a bright metal patc
 
 Hermione stared at it, puzzled.
 
-“Quantum mechanics wasn’t enough,” Harry said. “I had to go all the way down to timeless physics before it took. Had to see the wand as enforcing a €137€{relation} between separate past and future realities, instead of €138€{changing} anything over time—but I did it, Hermione, I saw past the illusion of objects, and I bet there’s not a single other wizard in the world who could have. Even if some Muggle-born knew about timeless formulations of quantum mechanics, it would just be a weird belief about strange distant quantum stuff, they wouldn’t €139€{see} that it was €140€{reality}, accept that the world they knew was just a hallucination. I Transfigured €141€{part} of the eraser without changing the €142€{whole thing.}”
+“Quantum mechanics wasn’t enough,” Harry said. “I had to go all the way down to timeless physics before it took. Had to see the wand as enforcing a <em>relation</em> between separate past and future realities, instead of <em>changing</em> anything over time—but I did it, Hermione, I saw past the illusion of objects, and I bet there’s not a single other wizard in the world who could have. Even if some Muggle-born knew about timeless formulations of quantum mechanics, it would just be a weird belief about strange distant quantum stuff, they wouldn’t <em>see</em> that it was <em>reality</em>, accept that the world they knew was just a hallucination. I Transfigured <em>part</em> of the eraser without changing the <em>whole thing.</em>”
 
 Hermione raised her wand again, pointed it at the eraser.
 
 For a moment anger crossed Harry’s face, but he didn’t make any move to stop her.
 
-“€143€{Finite Incantatem},” said Hermione. “Check with Professor McGonagall before you try it again.”
+“<em>Finite Incantatem</em>,” said Hermione. “Check with Professor McGonagall before you try it again.”
 
 Harry nodded, though his face was still a bit tight.
 
 “And we still have to stop,” said Hermione.
 
-“€144€{Why?}” said Harry. “Don’t you see what this €145€{means}, Hermione? Wizards €146€{don’t} know everything! There’s too few of them, even fewer who know any science, they haven’t exhausted the low-hanging fruit—”
+“<em>Why?</em>” said Harry. “Don’t you see what this <em>means</em>, Hermione? Wizards <em>don’t</em> know everything! There’s too few of them, even fewer who know any science, they haven’t exhausted the low-hanging fruit—”
 
-“It’s not €147€{safe},” Hermione said. “If we €148€{can} find out new things it’s even €149€{less} safe! We’re €150€{too young}! We made one big mistake already, next time we could just €151€{die}!”
+“It’s not <em>safe</em>,” Hermione said. “If we <em>can</em> find out new things it’s even <em>less</em> safe! We’re <em>too young</em>! We made one big mistake already, next time we could just <em>die</em>!”
 
 Then Hermione flinched.
 
@@ -362,7 +362,7 @@ Harry looked away from her, and started taking slow, deep breaths.
 
 “Please don’t try to do it alone, Harry,” Hermione said, her voice trembling. “Please.”
 
-€152€{Please don’t make me have to decide whether to tell Professor Flitwick.}
+<em>Please don’t make me have to decide whether to tell Professor Flitwick.</em>
 
 There was a long pause.
 
@@ -372,11 +372,11 @@ Hermione wasn’t sure if she should say anything, but…“Like you studied, um
 
 Harry looked back at her.
 
-“That thing you did,” Hermione said, her voice tentative, “it wasn’t because of €153€{our} experiments, right? You could do it because you’d read lots of books.”
+“That thing you did,” Hermione said, her voice tentative, “it wasn’t because of <em>our</em> experiments, right? You could do it because you’d read lots of books.”
 
 Harry opened his mouth, and then he shut it again. There was a frustrated look on his face.
 
-“All right,” Harry said. “How about this. We study, and if I think of anything that seems €154€{really} worth trying, we’ll try it after I ask a professor.”
+“All right,” Harry said. “How about this. We study, and if I think of anything that seems <em>really</em> worth trying, we’ll try it after I ask a professor.”
 
 “Okay,” Hermione said. She didn’t fall over with relief, but only because she was already sitting down.
 
@@ -386,11 +386,11 @@ Hermione nodded. Yes. Lunch sounded good. For real, this time.
 
 She carefully began to push herself off the stone floor, wincing as her body screamed at her—
 
-Harry pointed his wand at her and said “€155€{Wingardium Leviosa.}”
+Harry pointed his wand at her and said “<em>Wingardium Leviosa.</em>”
 
 Hermione blinked as the huge weight on her legs diminished to something bearable.
 
-A smile flitted across Harry’s face. “You can €156€{lift} something without being able to Hover it completely,” he said. “Remember that experiment?”
+A smile flitted across Harry’s face. “You can <em>lift</em> something without being able to Hover it completely,” he said. “Remember that experiment?”
 
 Hermione smiled back helplessly, although she thought she ought to still be angry.
 
@@ -398,7 +398,7 @@ And she started walking back toward the Great Hall, feeling remarkably and wonde
 
 He only managed to keep it up for five minutes, but it was the thought that counted.
 
-€157€
+€12€
 
 McGonagall looked at Dumbledore.
 
@@ -410,31 +410,31 @@ It had been the most complete and utter gibberish that Minerva could ever rememb
 
 “So,” Dumbledore said. The silver beard swung away from her, the old wizard’s twinkling gaze looked elsewhere once more. “You suspect you might be able to do something that other wizards can’t do, something we think is impossible.”
 
-The three of them stood within the Headmaster’s private Transfiguration workroom, where the shining phœnix of Dumbledore’s Patronus had told her to bring Harry, moments after her own Patronus had reached him. Light shone down through the skylights and illuminated the great seven-pointed alchemical diagram drawn in the centre of the circular room, showing it to be a little dusty, which saddened Minerva. Transfiguration research was one of Dumbledore’s great enjoyments, and she’d known how pressed for time he’d been lately, but not that he was €158€{this} pressed.
+The three of them stood within the Headmaster’s private Transfiguration workroom, where the shining phœnix of Dumbledore’s Patronus had told her to bring Harry, moments after her own Patronus had reached him. Light shone down through the skylights and illuminated the great seven-pointed alchemical diagram drawn in the centre of the circular room, showing it to be a little dusty, which saddened Minerva. Transfiguration research was one of Dumbledore’s great enjoyments, and she’d known how pressed for time he’d been lately, but not that he was <em>this</em> pressed.
 
-And now Harry Potter was going to waste even more of the Headmaster’s time. But she certainly couldn’t blame €159€{Harry} for that. He’d done the proper thing in coming to her to say that he’d had an idea for doing something in Transfiguration that was currently believed to be impossible, and she herself had done exactly what she’d been told to: she’d ordered Harry to be quiet and not discuss anything with her until she had consulted the Headmaster and they’d finished moving to a secure location.
+And now Harry Potter was going to waste even more of the Headmaster’s time. But she certainly couldn’t blame <em>Harry</em> for that. He’d done the proper thing in coming to her to say that he’d had an idea for doing something in Transfiguration that was currently believed to be impossible, and she herself had done exactly what she’d been told to: she’d ordered Harry to be quiet and not discuss anything with her until she had consulted the Headmaster and they’d finished moving to a secure location.
 
-If Harry had started out by saying what €160€{specifically} he thought he could do, she wouldn’t have bothered.
+If Harry had started out by saying what <em>specifically</em> he thought he could do, she wouldn’t have bothered.
 
 “Look, I know it’s hard to explain,” Harry said, sounding a little embarrassed. “What it adds up to is that what you believe conflicts with what scientists believe, in a case where I’d genuinely expect scientists to know more than wizards.”
 
 Minerva would have sighed out loud, if Dumbledore hadn’t seemed to be taking the whole thing very seriously.
 
-Harry’s idea stemmed from simple ignorance, nothing more. If you changed half of a metal ball into glass, the €161€{whole ball} had a different Form. To change the part €162€{was} to change the whole, and that meant removing the whole Form and replacing it with a different one. What would it even €163€{mean} to Transfigure only half of a metal ball? That the metal ball €164€{as a whole} had the same Form as before, but €165€{half} that ball now had a different Form?
+Harry’s idea stemmed from simple ignorance, nothing more. If you changed half of a metal ball into glass, the <em>whole ball</em> had a different Form. To change the part <em>was</em> to change the whole, and that meant removing the whole Form and replacing it with a different one. What would it even <em>mean</em> to Transfigure only half of a metal ball? That the metal ball <em>as a whole</em> had the same Form as before, but <em>half</em> that ball now had a different Form?
 
-“Mr~Potter,” said Professor McGonagall, “what you want to do isn’t just impossible, it’s €166€{illogical}. If you change half of something, you €167€{did} change the whole.”
+“Mr~Potter,” said Professor McGonagall, “what you want to do isn’t just impossible, it’s <em>illogical</em>. If you change half of something, you <em>did</em> change the whole.”
 
 “Indeed,” said Dumbledore. “But Harry is the hero, so he may be able to do things that are logically impossible.”
 
 Minerva would have rolled her eyes, if she hadn’t gone numb a long time ago.
 
-“Supposing it €168€{was} possible,” said Dumbledore, “can you think of any reason why the results would differ in any way from ordinary Transfiguration?”
+“Supposing it <em>was</em> possible,” said Dumbledore, “can you think of any reason why the results would differ in any way from ordinary Transfiguration?”
 
 Minerva frowned. The fact that the concept was literally unimaginable was presenting her with some difficulty, but she tried to take it at face value. A Transfiguration imposed on only half of a metal ball…
 
 “Strange things happening at the interface?” said Minerva. “But that should be no different than Transfiguring the object as a whole, into a Form with two different parts…”
 
-Dumbledore nodded. “That is my own thought as well. And Harry, if your theory is correct, it implies that what you want to do is €169€{exactly} like any other Transfiguration, only applied to a part of the subject rather than the whole? No changes €170€{at all?}”
+Dumbledore nodded. “That is my own thought as well. And Harry, if your theory is correct, it implies that what you want to do is <em>exactly</em> like any other Transfiguration, only applied to a part of the subject rather than the whole? No changes <em>at all?</em>”
 
 “Yes,” Harry said firmly. “That’s the whole point.”
 
@@ -444,7 +444,7 @@ Dumbledore looked at her again. “Minerva, can you think of any reason whatsoev
 
 “Likewise myself,” said the Headmaster. “All right, then, since this ought to be exactly analogous to ordinary Transfiguration in all respects, and since we cannot think of any reason whatsoever why it would be dangerous, I think that the second degree of caution will suffice.”
 
-Minerva was surprised, but she didn’t object. Dumbledore was by far her senior in Transfiguration, and he had tried literally thousands of new Transfigurations without ever choosing a degree of caution that was too low. He had used Transfiguration €171€{in combat} and he was €172€{still alive}. If the Headmaster thought the second degree was enough, it was enough.
+Minerva was surprised, but she didn’t object. Dumbledore was by far her senior in Transfiguration, and he had tried literally thousands of new Transfigurations without ever choosing a degree of caution that was too low. He had used Transfiguration <em>in combat</em> and he was <em>still alive</em>. If the Headmaster thought the second degree was enough, it was enough.
 
 That Harry was certainly going to fail was, of course, completely irrelevant.
 
@@ -452,17 +452,17 @@ The two of them started setting up the wards and detection webs. The most import
 
 Harry watched them working, his face looking a little frightened.
 
-“Don’t worry,” said Professor McGonagall in the middle of her running description, “this almost certainly won’t be necessary, Mr~Potter. If we €173€{expected} anything to go wrong you would not be allowed to try. It’s just ordinary precautions for any Transfiguration no-one has ever tried before.”
+“Don’t worry,” said Professor McGonagall in the middle of her running description, “this almost certainly won’t be necessary, Mr~Potter. If we <em>expected</em> anything to go wrong you would not be allowed to try. It’s just ordinary precautions for any Transfiguration no-one has ever tried before.”
 
 Harry swallowed and nodded.
 
 And a few minutes later, Harry was strapped into the safety chair and resting his wand against a metal ball—one that, based on his current test scores, should have been too large for him to Transfigure in less than thirty minutes.
 
-And a few minutes after €174€{that}, Minerva was leaning against the wall, feeling faint.
+And a few minutes after <em>that</em>, Minerva was leaning against the wall, feeling faint.
 
 There was a small patch of glass on the ball where Harry’s wand had rested.
 
-Harry didn’t say €175€{I told you so,} but the smug look on his sweating face said it for him.
+Harry didn’t say <em>I told you so,</em> but the smug look on his sweating face said it for him.
 
 Dumbledore was casting analytic Charms on the ball, looking more and more intrigued by the moment. Thirty years had melted off his face.
 
@@ -476,7 +476,7 @@ Dumbledore was casting analytic Charms on the ball, looking more and more intrig
 
 Half an hour later, Minerva was feeling equally bewildered, but considerably reassured about the safety issues.
 
-It €176€{was} the same, aside from being logically impossible.
+It <em>was</em> the same, aside from being logically impossible.
 
 “I believe that’s enough, Headmaster,” Minerva said finally. “I suspect partial Transfiguration is more tiring than the ordinary sort.”
 
@@ -484,7 +484,7 @@ It €176€{was} the same, aside from being logically impossible.
 
 The process of extracting Harry from the wards took another minute, and then Minerva escorted him to a much more comfortable chair, and Dumbledore produced an ice-cream soda.
 
-“€177€{Congratulations}, Mr~Potter!” said Professor McGonagall, and meant it. She would have bet almost anything against that working.
+“<em>Congratulations</em>, Mr~Potter!” said Professor McGonagall, and meant it. She would have bet almost anything against that working.
 
 “Congratulations indeed,” said Dumbledore. “Even I did not make any original discoveries in Transfiguration before the age of fourteen. Not since the day of Dorotea Senjak has any genius flowered so early.”
 
@@ -496,7 +496,7 @@ There was silence.
 
 “Um…” Harry said. “I don’t want to turn anyone over to the Inquisition, but I did tell one other student—”
 
-The word almost exploded from Professor McGonagall’s lips. “€178€{What?} You discussed a completely novel form of Transfiguration with a €179€{student} before consulting a recognized authority? Do you have any idea how €180€{irresponsible} that was?”
+The word almost exploded from Professor McGonagall’s lips. “<em>What?</em> You discussed a completely novel form of Transfiguration with a <em>student</em> before consulting a recognized authority? Do you have any idea how <em>irresponsible</em> that was?”
 
 “I’m sorry,” said Harry. “I didn’t realize.”
 
@@ -514,7 +514,7 @@ Professor McGonagall nodded, her firm face showing nothing of her inner confusio
 
 “All right…” Harry said slowly.
 
-“Once we have finished examining your materials,” Dumbledore added, “you may practise partial Transfiguration, on glass to steel and steel to glass €181€{only}, with Miss~Granger to act as your spotter. Naturally, if either of you suspect any symptom of any form of Transfiguration sickness, inform a professor at once.”
+“Once we have finished examining your materials,” Dumbledore added, “you may practise partial Transfiguration, on glass to steel and steel to glass <em>only</em>, with Miss~Granger to act as your spotter. Naturally, if either of you suspect any symptom of any form of Transfiguration sickness, inform a professor at once.”
 
 Just before Harry left the workroom, with his hand on the door handle, the boy turned back and said, “As long as we’re here, has either of you noticed anything different about Professor Snape?”
 
@@ -532,9 +532,9 @@ That sent a quiver of unease through Minerva in a way that no outright accusatio
 
 Harry bowed to both of them respectfully, and took his leave.
 
-€182€
+€13€
 
-“Albus,” Minerva said after the boy had gone, “how did you €183€{know} to take Harry seriously? I would have thought his idea merely impossible!”
+“Albus,” Minerva said after the boy had gone, “how did you <em>know</em> to take Harry seriously? I would have thought his idea merely impossible!”
 
 The old wizard’s face turned grave. “The same reason it must be kept secret, Minerva. The same reason I told you to come to me, if Harry made any such claim. Because it is a power that Voldemort knows not.”
 
@@ -544,29 +544,29 @@ And then the cold shiver went down her spine, as it always did when she remember
 
 It had started out as an ordinary job interview, Sybill Trelawney applying for the position of Professor of Divination.
 
-€184€{The one with power to vanquish the dark lord approaches,\\
+€14€<b>The one with power to vanquish the dark lord approaches,\\
 born to those who have thrice defied him,\\
 born as the seventh month dies,\\
 and the dark lord will mark him as his equal,\\
 but he will have power the dark lord knows not,\\
 and either must destroy all but a remnant of the other,\\
-for those two different spirits cannot exist in the same world.}
+for those two different spirits cannot exist in the same world.</b>
 
 Those dreadful words, spoken in that terrible booming voice, didn’t seem to fit something like partial Transfiguration.
 
 “Perhaps not, then,” Dumbledore said after Minerva tried to explain. “I confess I had been hoping for something that would help in finding Voldemort’s horcrux, wherever he may have hidden it. But…” The old wizard shrugged. “Prophecies are tricky things, Minerva, and it is best to take no chances. The smallest thing may prove decisive if it remains unexpected.”
 
-“And what do you suppose he meant about €185€{Severus?}” said Minerva.
+“And what do you suppose he meant about <em>Severus?</em>” said Minerva.
 
 “There I have no idea,” sighed Dumbledore. “Unless Harry is making a move against Severus, and thought that an open question might be taken seriously where a direct allegation would be dismissed. And if that was indeed what happened, Harry correctly reasoned that I would not trust that it was so. Let us simply keep watch, without prejudice, as he asks.”
 
-€186€{Aftermath, 1}
+€15€<b>Aftermath, 1</b>
 
 “Um, Hermione?” Harry said in a very small voice. “I think I owe you a really, really, really big apology.”
 
-€187€{Aftermath, 2}
+€16€<b>Aftermath, 2</b>
 
-Alissa Cornfoot’s eyes were slightly glazed as she gazed upon the Potions Master giving her class a stern lecture, holding up a tiny bronze bean and saying something about screaming puddles of human flesh. Ever since the start of this year she’d been having trouble listening in Potions. She kept staring at their awful, mean, greasy professor and fantasizing about special detentions. There was probably something really €188€{wrong} with her but she just couldn’t seem to stop doing it—
+Alissa Cornfoot’s eyes were slightly glazed as she gazed upon the Potions Master giving her class a stern lecture, holding up a tiny bronze bean and saying something about screaming puddles of human flesh. Ever since the start of this year she’d been having trouble listening in Potions. She kept staring at their awful, mean, greasy professor and fantasizing about special detentions. There was probably something really <em>wrong</em> with her but she just couldn’t seem to stop doing it—
 
 “Ow!” Alissa said then.
 
@@ -576,7 +576,7 @@ Snape had just flicked the bronze bean unerringly at Alissa’s forehead.
 
 The last four words didn’t help her any, but she tried harder, and managed to get through the day without melting anyone.
 
-After class, Alissa approached the desk. Part of her wanted to stand there meekly with her face abashed and her hands clasped penitently behind her back, just in case, but some quiet instinct told her this might be a €189€{bad idea}. So instead she just stood there with her face neutral, in a posture that was very proper for a young lady, and said, “Professor?”
+After class, Alissa approached the desk. Part of her wanted to stand there meekly with her face abashed and her hands clasped penitently behind her back, just in case, but some quiet instinct told her this might be a <em>bad idea</em>. So instead she just stood there with her face neutral, in a posture that was very proper for a young lady, and said, “Professor?”
 
 “Miss~Cornfoot,” Snape said without looking up from the sheets he was grading, “I do not return your affections, I begin to find your stares disturbing, and you will restrain your eyes henceforth. Is that quite clear?”
 

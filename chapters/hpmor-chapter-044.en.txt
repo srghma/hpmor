@@ -1,6 +1,6 @@
-€1€{Humanism}{II}
+€1€<b>Humanism</b><b>II</b>
 
-€2€[ante=“]{F}{awkes},” said Albus Dumbledore, his voice cracking, “help him, please—”
+€2€[ante=“]<b>F</b><b>awkes</b>,” said Albus Dumbledore, his voice cracking, “help him, please—”
 
 A brilliant creature of red-gold shuffled into the field of vision, looking down quizzically; and it began to croon.
 
@@ -20,7 +20,7 @@ And a moment later they had all vanished in another flash of fire.
 
 It was only a moment, it seemed, between when Flitwick’s raven had flown to elsewhere, and when Albus Dumbledore reappeared in another crack of red and golden fire with Harry in his arms; but somehow in that time Hermione had already managed to fill her hands with chocolate.
 
-Before Hermione even got there, chocolate had zoomed off the table and straight into Harry’s mouth, which a tiny part of her mind said was unfair, €4€{he’d} had a chance to do it for €5€{her—}
+Before Hermione even got there, chocolate had zoomed off the table and straight into Harry’s mouth, which a tiny part of her mind said was unfair, <em>he’d</em> had a chance to do it for <em>her—</em>
 
 Harry spat the chocolate back out again.
 
@@ -48,57 +48,57 @@ There were more students gathering around where the Headmaster watched over Harr
 
 “No!” interrupted the Headmaster. “Let him be surrounded by his friends.”
 
-Harry swallowed his chocolate, and said in that empty voice, “They’re stupid. They should die€6€{mmmppphhh}” as another piece of chocolate entered his mouth.
+Harry swallowed his chocolate, and said in that empty voice, “They’re stupid. They should die<em>mmmppphhh</em>” as another piece of chocolate entered his mouth.
 
 Hermione saw the looks of shock that crossed their faces.
 
 “He doesn’t mean it, does he?” Seamus said it like he was begging.
 
-“You don’t understand,” Hermione said, her voice breaking, “€7€{that’s not Harry—}” and she shut up before she said anything more, but she €8€{had} to say that much.
+“You don’t understand,” Hermione said, her voice breaking, “<em>that’s not Harry—</em>” and she shut up before she said anything more, but she <em>had</em> to say that much.
 
 She saw from the look on his face that Neville understood, and she also saw that the others didn’t. If Harry had really never thought anything like that, then being exposed to a Dementor for less than a minute wouldn’t have made him say it. That’s what they were probably thinking.
 
 Less than a minute of Dementor exposure couldn’t create a whole new evil person inside you out of nothing.
 
-But if that person was €9€{already there}—
+But if that person was <em>already there</em>—
 
-€10€{Does the Headmaster know?}
+<em>Does the Headmaster know?</em>
 
-Hermione looked up at the Headmaster, and found that Albus Dumbledore was gazing at €11€{her}, and that his blue eyes had grown suddenly piercing—
+Hermione looked up at the Headmaster, and found that Albus Dumbledore was gazing at <em>her</em>, and that his blue eyes had grown suddenly piercing—
 
 Words came into her mind.
 
-€12€{Do not speak of it,} said the will of Dumbledore to her.
+<em>Do not speak of it,</em> said the will of Dumbledore to her.
 
-€13€{You know,} thought Hermione. €14€{About his dark side.}
+<em>You know,</em> thought Hermione. <em>About his dark side.</em>
 
-€15€{I know. But this is beyond even that. Fawkes’s song cannot reach him, where he is lost.}
+<em>I know. But this is beyond even that. Fawkes’s song cannot reach him, where he is lost.</em>
 
-€16€{What can we—}
+<em>What can we—</em>
 
-€17€{I have a plan,} sent the Headmaster. €18€{Patience.}
+<em>I have a plan,</em> sent the Headmaster. <em>Patience.</em>
 
-Something about the tenor of that thought made Hermione nervous. €19€{What sort of plan?}
+Something about the tenor of that thought made Hermione nervous. <em>What sort of plan?</em>
 
-€20€{It is better that you not know,} sent the Headmaster.
+<em>It is better that you not know,</em> sent the Headmaster.
 
-Now Hermione was getting €21€{really} nervous. She didn’t know how €22€{much} the Headmaster knew about Harry’s dark side—
+Now Hermione was getting <em>really</em> nervous. She didn’t know how <em>much</em> the Headmaster knew about Harry’s dark side—
 
-€23€{A fair point,} sent the Headmaster. €24€{I am about to tell you; steel yourself so as not to react. Are you ready? Good. I am going to pretend to cast the Killing Curse on Professor McGonagall—€25€{do not react}, Hermione!}
+<em>A fair point,</em> sent the Headmaster. <em>I am about to tell you; steel yourself so as not to react. Are you ready? Good. I am going to pretend to cast the Killing Curse on Professor McGonagall—€4€<b>do not react</em>, Hermione!</b>
 
-That took work. The Headmaster really was crazy! That wouldn’t bring Harry €26€{out} of his dark side, Harry would go €27€{completely berserk}, he’d €28€{kill} the Headmaster—
+That took work. The Headmaster really was crazy! That wouldn’t bring Harry <em>out</em> of his dark side, Harry would go <em>completely berserk</em>, he’d <em>kill</em> the Headmaster—
 
-€29€{But that is not true darkness,} sent Albus Dumbledore. €30€{That is protectiveness, that is love. Fawkes will be able to reach him, then. And when Harry sees that Minerva is alive after all, it will return him fully.}
+<em>But that is not true darkness,</em> sent Albus Dumbledore. <em>That is protectiveness, that is love. Fawkes will be able to reach him, then. And when Harry sees that Minerva is alive after all, it will return him fully.</em>
 
 The thought came to Hermione—
 
-€31€{I doubt that will work,} sent the Headmaster, €32€{and you may not like the way he reacts if you try. But you may try if you wish.}
+<em>I doubt that will work,</em> sent the Headmaster, <em>and you may not like the way he reacts if you try. But you may try if you wish.</em>
 
 She hadn’t really meant that seriously! It was too—
 
 Then her eyes moved, breaking gaze with the Headmaster, going to the boy looking around with empty, despising eyes as his mouth kept chewing and swallowing bar after bar of chocolate without effect. Her heart wrenched, and suddenly a lot of things didn’t seem to matter, only that there was a chance.
 
-€33€
+€5€
 
 There was a compulsion to chew and swallow chocolate. The response to compulsion was killing.
 
@@ -110,13 +110,13 @@ Killing all those people would be difficult. But many of them didn’t trust Qui
 
 Then a person leaned over into the field of vision and did something completely strange, something that belonged to a foreign mode of thought, for which there was only a single response stored anywhere—
 
-€34€
+€6€
 
 She heard the gasps around her, and they didn’t matter, she maintained the kiss on those chocolate-smeared lips as the tears welled in her eyes.
 
-And Harry’s arms came up and pushed her away, and his lips yelled, “€35€{I told you, no kissing!}”
+And Harry’s arms came up and pushed her away, and his lips yelled, “<em>I told you, no kissing!</em>”
 
-€36€
+€7€
 
 “I think he’ll be all right now,” the Headmaster said, looking at where Harry was crying in great wretched sobs as Fawkes crooned over him. “Excellently done, Miss~Granger. Do you know, not even I would have expected that to actually work?”
 

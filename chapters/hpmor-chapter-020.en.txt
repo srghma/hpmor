@@ -1,22 +1,22 @@
-€3€{Bayes’s Theorem}
+€3€<b>Bayes’s Theorem</b>
 
 €1€
 That which can be destroyed by the Rowling should be.
-€89€{H}{arry} stared up at the grey ceiling of the small room, from where he lay on the portable yet soft bed that had been placed there. He’d eaten quite a lot of Professor Quirrell’s snacks—intricate confections of chocolate and other substances, dusted with sparkling sprinkles and jewelled with tiny sugar gems, looking highly expensive and proving, in fact, to be quite tasty. Harry hadn’t felt the least bit guilty about it either, €5€{this} he had €6€{earned}.
+€6€<b>H</b><b>arry</b> stared up at the grey ceiling of the small room, from where he lay on the portable yet soft bed that had been placed there. He’d eaten quite a lot of Professor Quirrell’s snacks—intricate confections of chocolate and other substances, dusted with sparkling sprinkles and jewelled with tiny sugar gems, looking highly expensive and proving, in fact, to be quite tasty. Harry hadn’t felt the least bit guilty about it either, <em>this</em> he had <em>earned</em>.
 
 He hadn’t tried to sleep. Harry had a feeling that he wouldn’t like what happened when he closed his eyes.
 
 He hadn’t tried to read. He wouldn’t have been able to focus.
 
-Funny how Harry’s brain just seemed to keep on running and running, never shutting down no matter how tired it got. It got stupider but it refused to €7€{switch off}.
+Funny how Harry’s brain just seemed to keep on running and running, never shutting down no matter how tired it got. It got stupider but it refused to <em>switch off</em>.
 
 But there was, there really and truly was a feeling of triumph.
 
-Anti-Dark-Lord-Harry programme, +1 point didn’t €8€{begin} to cover it. Harry wondered what the Sorting Hat would say €9€{now}, if he could put it on his head.
+Anti-Dark-Lord-Harry programme, +1 point didn’t <em>begin</em> to cover it. Harry wondered what the Sorting Hat would say <em>now</em>, if he could put it on his head.
 
-No €10€{wonder} Professor Quirrell had accused Harry of heading down the path of a Dark Lord. Harry had been too slow on the uptake, he should have seen the parallel right away—
+No <em>wonder</em> Professor Quirrell had accused Harry of heading down the path of a Dark Lord. Harry had been too slow on the uptake, he should have seen the parallel right away—
 
-€11€{Understand that the Dark Lord did not win that day. His goal was to learn martial arts, and yet he left without a single lesson.}
+<em>Understand that the Dark Lord did not win that day. His goal was to learn martial arts, and yet he left without a single lesson.</em>
 
 Harry had entered the Potions class with the intent to learn Potions. He’d left without a single lesson.
 
@@ -26,43 +26,43 @@ There was a knock at the door. “Classes are over,” said Professor Quirrell�
 
 Harry approached the door and found himself suddenly nervous. Then the tension diminished as he heard Professor Quirrell’s footsteps moving away from the door.
 
-€12€{What on Earth is that about? Is it what’s going to get him fired eventually?}
+<em>What on Earth is that about? Is it what’s going to get him fired eventually?</em>
 
 Harry opened the door, and saw that Professor Quirrell was now waiting several body-lengths away.
 
-€13€{Does Professor Quirrell feel it too?}
+<em>Does Professor Quirrell feel it too?</em>
 
 They walked across the now-deserted stage to Professor Quirrell’s desk, which Professor Quirrell leaned on; and Harry, as before, stopped short of the dais.
 
 “So,” Professor Quirrell said. There was a friendly sense about him somehow, even though his face still kept its usual seriousness. “What was it you wanted to talk to me about, Mr~Potter?”
 
-€14€{I have a mysterious dark side.} But Harry couldn’t just blurt it out like that.
+<em>I have a mysterious dark side.</em> But Harry couldn’t just blurt it out like that.
 
 “Professor Quirrell,” Harry said, “am I off the path to becoming a Dark Lord, now?”
 
-Professor Quirrell looked at Harry. “Mr~Potter,” he said solemnly, with only a slight grin, “a word of advice. There is such a thing as a performance which is too perfect. Real people who have just been beaten and humiliated for fifteen minutes do not stand up and graciously forgive their enemies. It is the sort of thing you do when you’re trying to €15€{convince} everyone you’re not Dark, not—”
+Professor Quirrell looked at Harry. “Mr~Potter,” he said solemnly, with only a slight grin, “a word of advice. There is such a thing as a performance which is too perfect. Real people who have just been beaten and humiliated for fifteen minutes do not stand up and graciously forgive their enemies. It is the sort of thing you do when you’re trying to <em>convince</em> everyone you’re not Dark, not—”
 
-“€16€{I can’t believe this! You can’t have every possible observation confirm your theory!}”
+“<em>I can’t believe this! You can’t have every possible observation confirm your theory!</em>”
 
-“And that was a €17€{trifle} too much indignation.”
+“And that was a <em>trifle</em> too much indignation.”
 
-“€18€{What on Earth do I have to do to convince you?}”
+“<em>What on Earth do I have to do to convince you?</em>”
 
 “To convince me that you harbour no ambitions of becoming a Dark Lord?” said Professor Quirrell, now looking outright amused. “I suppose you could just raise your right hand.”
 
 “What?” Harry said blankly. “But I can raise my right hand whether or not I—” Harry stopped, feeling rather stupid.
 
-“Indeed,” said Professor Quirrell. “You can just as easily do it either way. There is nothing you can do to convince me because I would know that was exactly what you were trying to do. And if we are to be even more precise, then while I suppose it is barely possible that perfectly good people exist even though I have never met one, it is nonetheless €19€{improbable} that someone would be beaten for fifteen minutes and then stand up and feel a great surge of kindly forgiveness for his attackers. On the other hand it is €20€{less} improbable that a young child would imagine this as the €21€{role to play} in order to convince his teacher and classmates that he is not the next Dark Lord. The import of an act lies not in what that act €22€{resembles on the surface}, Mr~Potter, but in the states of mind which make that act more or less probable.”
+“Indeed,” said Professor Quirrell. “You can just as easily do it either way. There is nothing you can do to convince me because I would know that was exactly what you were trying to do. And if we are to be even more precise, then while I suppose it is barely possible that perfectly good people exist even though I have never met one, it is nonetheless <em>improbable</em> that someone would be beaten for fifteen minutes and then stand up and feel a great surge of kindly forgiveness for his attackers. On the other hand it is <em>less</em> improbable that a young child would imagine this as the <em>role to play</em> in order to convince his teacher and classmates that he is not the next Dark Lord. The import of an act lies not in what that act <em>resembles on the surface</em>, Mr~Potter, but in the states of mind which make that act more or less probable.”
 
 Harry blinked. He’d just had the dichotomy between the representativeness heuristic and the Bayesian definition of evidence explained to him by a wizard.
 
 “But then again,” said Professor Quirrell, “anyone can want to impress their friends. That need not be Dark. So without it being any kind of admission, Mr~Potter, tell me honestly. What thought was in your mind at the moment when you forbade any vengeance? Was that thought a true impulse to forgiveness? Or was it an awareness of how your classmates would see the act?”
 
-€23€{Sometimes we make our own phœnix song.}
+<em>Sometimes we make our own phœnix song.</em>
 
 But Harry didn’t say it out loud. It was clear that Professor Quirrell wouldn’t believe him, and would probably respect him less for trying to utter such a transparent lie.
 
-After a few moments of silence, Professor Quirrell smiled with satisfaction. “Believe it or not, Mr~Potter,” said the professor, “you need not fear me for having discovered your secret. I am €24€{not} going to tell you to give up on becoming the next Dark Lord. If I could turn back the hands of time and somehow remove that ambition from the mind of my child self, the self of this present time would not benefit from the alteration. For as long as I thought that was my goal, it drove me to study and learn and refine myself and become stronger. We become what we are meant to be by following our desires wherever they lead. That is the insight of Salazar. Ask me to show you to the library section which holds those same books I read as a thirteen-year-old, and I will happily lead the way.”
+After a few moments of silence, Professor Quirrell smiled with satisfaction. “Believe it or not, Mr~Potter,” said the professor, “you need not fear me for having discovered your secret. I am <em>not</em> going to tell you to give up on becoming the next Dark Lord. If I could turn back the hands of time and somehow remove that ambition from the mind of my child self, the self of this present time would not benefit from the alteration. For as long as I thought that was my goal, it drove me to study and learn and refine myself and become stronger. We become what we are meant to be by following our desires wherever they lead. That is the insight of Salazar. Ask me to show you to the library section which holds those same books I read as a thirteen-year-old, and I will happily lead the way.”
 
 “For the love of crap,” Harry said, and sat down on the hard marble floor, and then lay back on the floor, staring up at the distant arches of the ceiling. It was as close as he could come to collapsing in despair without hurting himself.
 
@@ -84,9 +84,9 @@ Professor Quirrell rubbed his nose. “Let me think about this,” he said.
 
 Harry waited in silence for a full minute. He used that time to stand up, which was more difficult than he had expected.
 
-“Well,” Professor Quirrell said after a while. “I suppose there €25€{was} something you could say that would convince me.”
+“Well,” Professor Quirrell said after a while. “I suppose there <em>was</em> something you could say that would convince me.”
 
-“I €26€{have} already guessed that my dark side is really just another part of me and that the answer isn’t to never become angry but to learn to stay in control by accepting it, I’m not dumb or anything and I’ve seen this story enough times to know where it’s going, but it’s hard and you seem like the person to help me.”
+“I <em>have</em> already guessed that my dark side is really just another part of me and that the answer isn’t to never become angry but to learn to stay in control by accepting it, I’m not dumb or anything and I’ve seen this story enough times to know where it’s going, but it’s hard and you seem like the person to help me.”
 
 “Well…yes…very perspicacious of you, Mr~Potter, I must say…that side of you is, as you seem to have already surmised, your intent to kill, which as you say is a part of you…”
 
@@ -94,11 +94,11 @@ Harry waited in silence for a full minute. He used that time to stand up, which 
 
 “And needs to be trained, yes.” That strange expression was still on Professor Quirrell’s face. “Mr~Potter, if you truly do not wish to be the next Dark Lord, then what was the ambition which the Sorting Hat tried to convince you to abandon, the ambition for which you were Sorted into Slytherin?”
 
-“I was Sorted into €27€{Ravenclaw!}”
+“I was Sorted into <em>Ravenclaw!</em>”
 
 “Mr~Potter,” said Professor Quirrell, now with a much more usual-looking dry smile, “I know you are accustomed to everyone around you being a fool, but please do not mistake me for one of them. The likelihood that the Sorting Hat would play its first prank in eight hundred years while it was upon your head is so small as to not be worth considering. I suppose it is barely possible that you snapped your fingers and invented some simple and clever way to defeat the anti-tampering spells upon the Hat, though I myself can think of no such method. But by far the most probable explanation is that Dumbledore decided he was not happy with the Hat’s choice for the Boy-Who-Lived. This is evident to anyone with the tiniest smidgen of common sense, so your secret is safe at Hogwarts.”
 
-Harry opened his mouth, then closed it again with a feeling of complete helplessness. Professor Quirrell was wrong, but wrong in such a convincing way that Harry was starting to think that it simply €28€{was} the rational judgement given the evidence available to Professor Quirrell. There were times, never €29€{predictable} times but still sometimes, when you would get improbable evidence and the best knowable guess would be wrong. If you had a medical test that was only wrong one time in a thousand, sometimes it would still be wrong anyway.
+Harry opened his mouth, then closed it again with a feeling of complete helplessness. Professor Quirrell was wrong, but wrong in such a convincing way that Harry was starting to think that it simply <em>was</em> the rational judgement given the evidence available to Professor Quirrell. There were times, never <em>predictable</em> times but still sometimes, when you would get improbable evidence and the best knowable guess would be wrong. If you had a medical test that was only wrong one time in a thousand, sometimes it would still be wrong anyway.
 
 “Can I ask you never to repeat what I’m about to say?” said Harry.
 
@@ -108,17 +108,17 @@ Harry wasn’t a fool either. “Can I consider you to have said yes?”
 
 “Very good, Mr~Potter. You may indeed so consider.”
 
-“€30€{Professor Quirrell—}”
+“<em>Professor Quirrell—</em>”
 
 “I won’t repeat what you’re about to say,” Professor Quirrell said, smiling.
 
-They both laughed, then Harry turned serious again. “The Sorting Hat did seem to think I was going to end up as a Dark Lord unless I went to Hufflepuff,” Harry said. “But I don’t €31€{want} to be one.”
+They both laughed, then Harry turned serious again. “The Sorting Hat did seem to think I was going to end up as a Dark Lord unless I went to Hufflepuff,” Harry said. “But I don’t <em>want</em> to be one.”
 
 “Mr~Potter…” said Professor Quirrell. “Don’t take this the wrong way. I promise you will not be graded on the answer. I only want to know your own, honest reply. Why not?”
 
-Harry had that €32€{helpless} feeling again. €33€{Thou shalt not become a Dark Lord} was such an obvious theorem in his moral system that it was hard to describe the actual proof steps. “Um, people would get hurt?”
+Harry had that <em>helpless</em> feeling again. <em>Thou shalt not become a Dark Lord</em> was such an obvious theorem in his moral system that it was hard to describe the actual proof steps. “Um, people would get hurt?”
 
-“Surely you’ve wanted to hurt people,” said Professor Quirrell. “You wanted to hurt those bullies today. Being a Dark Lord means that people you €34€{want} to hurt get hurt.”
+“Surely you’ve wanted to hurt people,” said Professor Quirrell. “You wanted to hurt those bullies today. Being a Dark Lord means that people you <em>want</em> to hurt get hurt.”
 
 Harry floundered for words and then decided to simply go with the obvious. “First of all, just because I want to hurt someone doesn’t mean it’s right—”
 
@@ -130,9 +130,9 @@ Harry floundered for words and then decided to simply go with the obvious. “Fi
 
 “It’s the ethical theory that the good is what satisfies the preferences of the most people—”
 
-“No,” Professor Quirrell said. His fingers rubbed the bridge of his nose. “I don’t think that’s quite what I was trying to say. Mr~Potter, in the end people all do what they want to do. Sometimes people give names like ‘right’ to things they want to do, but how could we possibly act on anything €35€{but} our own desires?”
+“No,” Professor Quirrell said. His fingers rubbed the bridge of his nose. “I don’t think that’s quite what I was trying to say. Mr~Potter, in the end people all do what they want to do. Sometimes people give names like ‘right’ to things they want to do, but how could we possibly act on anything <em>but</em> our own desires?”
 
-“Well, obviously,” Harry said. “I couldn’t €36€{act} on moral considerations if they lacked the power to move me. But that doesn’t mean my wanting to hurt those Slytherins has the power to move me €37€{more} than moral considerations!”
+“Well, obviously,” Harry said. “I couldn’t <em>act</em> on moral considerations if they lacked the power to move me. But that doesn’t mean my wanting to hurt those Slytherins has the power to move me <em>more</em> than moral considerations!”
 
 Professor Quirrell blinked.
 
@@ -140,7 +140,7 @@ Professor Quirrell blinked.
 
 “Why does that matter to you?” Professor Quirrell said. “What have they done for you?”
 
-Harry laughed. “Oh, now €38€{that} was around as subtle as €39€{Atlas Shrugged.}”
+Harry laughed. “Oh, now <em>that</em> was around as subtle as <em>Atlas Shrugged.</em>”
 
 “Pardon me?” Professor Quirrell said again.
 
@@ -150,9 +150,9 @@ Harry laughed. “Oh, now €38€{that} was around as subtle as €39€{Atlas 
 
 They both laughed.
 
-“But to stay with the current question,” said Professor Quirrell, “what €40€{have} all these other people done for you?”
+“But to stay with the current question,” said Professor Quirrell, “what <em>have</em> all these other people done for you?”
 
-“Other people have done €41€{huge} amounts for me!” Harry said. “My parents took me in when my parents died because they were €42€{good people}, and to become a Dark Lord is to betray that!”
+“Other people have done <em>huge</em> amounts for me!” Harry said. “My parents took me in when my parents died because they were <em>good people</em>, and to become a Dark Lord is to betray that!”
 
 Professor Quirrell was silent for a time.
 
@@ -162,15 +162,15 @@ Professor Quirrell was silent for a time.
 
 “Don’t be,” said Professor Quirrell. “It was long ago, and I resolved my parental issues to my own satisfaction. So you are held back by the thought of your parents’ disapproval? Does that mean that if they died in an accident, there would be nothing left to stop you from—”
 
-“No,” Harry said. “Just no. It is their €43€{impulse to kindness} which sheltered me. That impulse is not only in my parents. And that impulse is what would be betrayed.”
+“No,” Harry said. “Just no. It is their <em>impulse to kindness</em> which sheltered me. That impulse is not only in my parents. And that impulse is what would be betrayed.”
 
-“In any case, Mr~Potter, you have not answered my original question,” said Professor Quirrell finally. “What €44€{is} your ambition?”
+“In any case, Mr~Potter, you have not answered my original question,” said Professor Quirrell finally. “What <em>is</em> your ambition?”
 
 “Oh,” said Harry. “Um…” He organized his thoughts. “To understand everything important there is to know about the universe, apply that knowledge to become omnipotent, and use that power to rewrite reality because I have some objections to the way it works now.”
 
 There was a slight pause.
 
-“Forgive me if this is a stupid question, Mr~Potter,” said Professor Quirrell, “but are you €45€{sure} you did not just confess to wanting to be a Dark Lord?”
+“Forgive me if this is a stupid question, Mr~Potter,” said Professor Quirrell, “but are you <em>sure</em> you did not just confess to wanting to be a Dark Lord?”
 
 “That’s only if you use your power for evil,” explained Harry. “If you use the power for good, you’re a Light Lord.”
 
@@ -184,13 +184,13 @@ Professor Quirrell was looking at Harry as if he’d just turned into a cat.
 
 Harry nodded.
 
-“A €46€{scientist}?” repeated Professor Quirrell.
+“A <em>scientist</em>?” repeated Professor Quirrell.
 
-“Yes,” Harry said. “I shall achieve my objectives through the power…of €47€{Science!}”
+“Yes,” Harry said. “I shall achieve my objectives through the power…of <em>Science!</em>”
 
-“A €48€{scientist}!” said Professor Quirrell. There was genuine indignation on his face, and his voice had grown stronger and sharper. “You could be the best of all my students! The greatest fighting wizard to come out of Hogwarts in five decades! I cannot picture you wasting your days in a white lab coat doing pointless things to rats!”
+“A <em>scientist</em>!” said Professor Quirrell. There was genuine indignation on his face, and his voice had grown stronger and sharper. “You could be the best of all my students! The greatest fighting wizard to come out of Hogwarts in five decades! I cannot picture you wasting your days in a white lab coat doing pointless things to rats!”
 
-“Hey!” said Harry. “There’s more to science than that! Not that there’s anything €49€{wrong} with experimenting on rats, of course. But science €50€{is} how you go about understanding and controlling the universe—”
+“Hey!” said Harry. “There’s more to science than that! Not that there’s anything <em>wrong</em> with experimenting on rats, of course. But science <em>is</em> how you go about understanding and controlling the universe—”
 
 “Fool,” said Professor Quirrell, in a voice of quiet, bitter intensity. “You’re a fool, Harry Potter.” He passed a hand over his face, and when that hand had passed, his face was calmer. “Or more likely you have not yet found your true ambition. May I strongly recommend that you try to become a Dark Lord instead? I will do anything I can to help as a matter of public service.”
 
@@ -200,17 +200,17 @@ Harry nodded.
 
 Harry was feeling a bit lost here. “What are we talking about here, nuclear weapons?”
 
-“€51€{Yes}, nuclear weapons!” Professor Quirrell was almost shouting now. “Even He-Who-Must-Not-Be-Named never used those, perhaps because he didn’t want to rule over a heap of ash! They never should have been made! And it will only get worse with time!” Professor Quirrell was standing up straight instead of leaning on his desk. “There are gates you do not open, there are seals you do not breach! The fools who can’t resist meddling are killed by the lesser perils early on, and the survivors all know that there are secrets you €52€{do not share} with anyone who lacks the intelligence and the discipline to discover them for themselves! Every powerful wizard knows that! Even the most terrible Dark Wizards know that! And those idiot Muggles can’t seem to figure it out! The eager little fools who discovered the secret of nuclear weapons didn’t keep it to themselves, they told their €53€{fool} politicians and now €54€{we} must live under the constant threat of annihilation!”
+“<em>Yes</em>, nuclear weapons!” Professor Quirrell was almost shouting now. “Even He-Who-Must-Not-Be-Named never used those, perhaps because he didn’t want to rule over a heap of ash! They never should have been made! And it will only get worse with time!” Professor Quirrell was standing up straight instead of leaning on his desk. “There are gates you do not open, there are seals you do not breach! The fools who can’t resist meddling are killed by the lesser perils early on, and the survivors all know that there are secrets you <em>do not share</em> with anyone who lacks the intelligence and the discipline to discover them for themselves! Every powerful wizard knows that! Even the most terrible Dark Wizards know that! And those idiot Muggles can’t seem to figure it out! The eager little fools who discovered the secret of nuclear weapons didn’t keep it to themselves, they told their <em>fool</em> politicians and now <em>we</em> must live under the constant threat of annihilation!”
 
 This was a rather different way of looking at things than Harry had grown up with. It had never occurred to him that nuclear physicists should have formed a conspiracy of silence to keep the secret of nuclear weapons from anyone not smart enough to be a nuclear physicist. The thought was intriguing, if nothing else. Would they have had secret passwords? Would they have had masks?
 
-(Actually, for all Harry knew, there €55€{were} all sorts of incredibly destructive secrets which physicists kept to themselves, and the secret of nuclear weapons was the only one that had escaped into the wild. The world would look the same to him either way.)
+(Actually, for all Harry knew, there <em>were</em> all sorts of incredibly destructive secrets which physicists kept to themselves, and the secret of nuclear weapons was the only one that had escaped into the wild. The world would look the same to him either way.)
 
-“I’ll have to think about that,” Harry said to Professor Quirrell. “It’s a new idea to me. And one of the €56€{hidden} secrets of science, passed down from a few rare teachers to their grad students, is how to avoid flushing new ideas down the toilet the instant you hear one you don’t like.”
+“I’ll have to think about that,” Harry said to Professor Quirrell. “It’s a new idea to me. And one of the <em>hidden</em> secrets of science, passed down from a few rare teachers to their grad students, is how to avoid flushing new ideas down the toilet the instant you hear one you don’t like.”
 
 Professor Quirrell blinked again.
 
-“Is there any sort of science you €57€{do} approve of?” said Harry. “Medicine, maybe?”
+“Is there any sort of science you <em>do</em> approve of?” said Harry. “Medicine, maybe?”
 
 “Space travel,” said Professor Quirrell. “But the Muggles seem to be dragging their feet on the one project which might have let wizardkind escape this planet before they blow it up.”
 
@@ -240,7 +240,7 @@ Tears came into Harry’s eyes. He wiped them away frantically, he would not mis
 
 The stars were no longer tiny jewels set in a giant velvet dome, as they were in the night sky of Earth. Here there was no sky above, no surrounding sphere. Only points of perfect light against perfect blackness, an infinite and empty void with countless tiny holes through which shone the brilliance from some unimaginable realm beyond.
 
-In space, the stars €58€{looked} terribly, terribly, terribly far away.
+In space, the stars <em>looked</em> terribly, terribly, terribly far away.
 
 Harry kept on wiping his eyes, over and over.
 
@@ -262,15 +262,15 @@ And then the stars vanished, and the classroom returned.
 
 Then the heavy oaken doors of the classroom blasted off their hinges and skittered across the marble floor with a high-pitched shriek.
 
-“€59€{Quirinus! How dare you!}”
+“€5€<b>Quirinus! How dare you!</b>”
 
 Like a vast thundercloud, an ancient and powerful wizard blew into the room, a look of such incandescent rage upon his face that the stern look he had earlier turned upon Harry seemed like nothing.
 
 There was a wrench of disorientation in Harry’s mind as the part that wanted to run away screaming from the scariest thing it had ever seen ran away, rotating into place a part of him which could take the shock.
 
-€60€{None} of Harry’s facets were happy about having their star-gazing interrupted. “Headmaster Albus Percival—” Harry started to say in icy tones.
+<em>None</em> of Harry’s facets were happy about having their star-gazing interrupted. “Headmaster Albus Percival—” Harry started to say in icy tones.
 
-€61€{Wham.} Professor Quirrell’s hand came down hard upon his desk. “€62€{Mr~Potter!}” barked Professor Quirrell. “This is the €63€{Headmaster of Hogwarts} and you are a mere student! You will address him appropriately!”
+<em>Wham.</em> Professor Quirrell’s hand came down hard upon his desk. “<em>Mr~Potter!</em>” barked Professor Quirrell. “This is the <em>Headmaster of Hogwarts</em> and you are a mere student! You will address him appropriately!”
 
 Harry looked at Professor Quirrell.
 
@@ -286,13 +286,13 @@ Slowly, Dumbledore’s expression changed from something that would vaporize ste
 
 Harry nodded. “He knew exactly what was wrong with me and he showed me how to fix it.”
 
-“Harry, €64€{what are you talking about?}”
+“Harry, <em>what are you talking about?</em>”
 
 “I was teaching him how to lose,” Professor Quirrell said dryly. “It’s an important life skill.”
 
 It was apparent that Dumbledore still didn’t understand, but his voice had lowered in register. “Harry…” he said slowly. “If there’s any threat the Defence Professor has offered you to prevent you from complaining—”
 
-€65€{You lunatic, after today of all days do you really think I—}
+<em>You lunatic, after today of all days do you really think I—</em>
 
 “Headmaster,” Harry said, trying to look abashed, “what’s wrong with me isn’t that I keep quiet about abusive professors.”
 
@@ -302,17 +302,17 @@ A brief look of disconcertion crossed Dumbledore’s face, followed by surprise.
 
 Professor Quirrell nodded. “He wasn’t expecting them, but it seemed appropriate. Tell Professor McGonagall that I think the story of what Mr~Potter went through to earn back the lost points will do just as well to make her point. No, Headmaster, Mr~Potter didn’t tell me anything. It’s easy to see which part of today’s events are her work, just as I know that the final compromise was your own suggestion. Though I wonder how on Earth Mr~Potter was able to gain the upper hand over both Snape and you and then Professor McGonagall was able to gain the upper hand over him.”
 
-Somehow Harry managed to control his face. Was it €66€{that} obvious to a real Slytherin?
+Somehow Harry managed to control his face. Was it <em>that</em> obvious to a real Slytherin?
 
 Dumbledore came closer to Harry, scrutinizing. “Your colour looks a little off, Harry,” the old wizard said. He peered closely at Harry’s face. “What did you have for lunch today?”
 
-“What?” Harry said, his mind wobbling in sudden confusion. Why would Dumbledore be asking about deep-fried lamb and thin-sliced broccoli when that was just about the €67€{last} probable cause of—
+“What?” Harry said, his mind wobbling in sudden confusion. Why would Dumbledore be asking about deep-fried lamb and thin-sliced broccoli when that was just about the <em>last</em> probable cause of—
 
 The old wizard straightened up. “Never mind, then. I think you’re fine.”
 
 Professor Quirrell coughed, loudly and deliberately. Harry looked at the professor, and saw that Professor Quirrell was staring sharply at Dumbledore.
 
-“€68€{Ah-hem!}” Professor Quirrell said again.
+“<em>Ah-hem!</em>” Professor Quirrell said again.
 
 Dumbledore and Professor Quirrell locked eyes, and something seemed to pass between them.
 
@@ -320,17 +320,17 @@ Dumbledore and Professor Quirrell locked eyes, and something seemed to pass betw
 
 Dumbledore sighed and turned back to Harry. “I apologize for invading your mental privacy, Mr~Potter,” the Headmaster said formally. “I had no purpose except to determine if Professor Quirrell had done the same.”
 
-€69€{What?}
+<em>What?</em>
 
 The confusion lasted just exactly as long as it took Harry to understand what had just happened.
 
-“€70€{You—!}”
+“<em>You—!</em>”
 
 “Gently, Mr~Potter,” said Professor Quirrell. His face was hard, however, as he stared at Dumbledore.
 
 “Legilimency is sometimes mistaken for common sense,” said the Headmaster. “But it leaves traces which another skilful Legilimens can detect. That was all I looked for, Mr~Potter, and I asked you an irrelevant question to ensure you wouldn’t think about anything important while I looked.”
 
-“€71€{You should have asked first!}”
+“<em>You should have asked first!</em>”
 
 Professor Quirrell shook his head. “No, Mr~Potter, the Headmaster had some justification for his concerns, and had he asked for permission you would have thought of exactly those things you did not wish him to see.” Professor Quirrell’s voice grew sharper. “I am rather more concerned, Headmaster, that you saw no need to tell him afterwards!”
 
@@ -340,13 +340,13 @@ Professor Quirrell’s expression was implacable. “There are too many Legilime
 
 “Absolutely not,” Dumbledore said at once.
 
-“I did not think so. Then since €72€{you} have deprived him of my free services, €73€{you} will pay for Mr~Potter’s tutoring by a licensed Occlumency instructor.”
+“I did not think so. Then since <em>you</em> have deprived him of my free services, <em>you</em> will pay for Mr~Potter’s tutoring by a licensed Occlumency instructor.”
 
 “Such services do not come cheaply,” Dumbledore said, looking at Professor Quirrell in some surprise. “Although I do have certain connections—”
 
 Professor Quirrell shook his head firmly. “No. Mr~Potter will ask his account manager at Gringotts to recommend a neutral instructor. With respect, Headmaster Dumbledore, after the events of this morning I must protest you or your friends having access to Mr~Potter’s mind. I must also insist that the instructor have taken an Unbreakable Vow to reveal nothing, and that he agree to be Obliviated of each session immediately afterwards.”
 
-Dumbledore was frowning. “Such services are €74€{extremely} expensive, as you well know, and I cannot help but wonder why €75€{you} deem them necessary.”
+Dumbledore was frowning. “Such services are <em>extremely</em> expensive, as you well know, and I cannot help but wonder why <em>you</em> deem them necessary.”
 
 “If it’s money that’s the problem,” Harry spoke up, “I have some ideas for making large amounts of money quickly—”
 
@@ -360,11 +360,11 @@ Dumbledore looked at Harry.
 
 “So that’s how it is to be…” the old wizard said slowly. Something strange passed across his face. “Harry…you must realize that if you choose this man as your teacher and your friend, your first mentor, then one way or another you will lose him, and the manner in which you lose him may or may not allow you to ever get him back.”
 
-That hadn’t occurred to Harry. But there €76€{was} that jinx on the Defence position…one which had apparently worked with perfect regularity for decades…
+That hadn’t occurred to Harry. But there <em>was</em> that jinx on the Defence position…one which had apparently worked with perfect regularity for decades…
 
 “Probably,” said Professor Quirrell quietly, “but he will have the full use of me while I last.”
 
-Dumbledore sighed. “I suppose it is economical, at least, since as the Defence Professor you’re €77€{already} doomed in some unknown fashion.”
+Dumbledore sighed. “I suppose it is economical, at least, since as the Defence Professor you’re <em>already</em> doomed in some unknown fashion.”
 
 Harry had to work hard to suppress his expression as he realized what Dumbledore had actually been implying.
 
@@ -394,11 +394,11 @@ Professor Quirrell was silent for a moment, then smiled. “Tell me, Mr~Potter, 
 
 Harry imagined himself looking over a list of thirty-seven things not to do once he became a Dark Lord.
 
-“You decided that if you had to follow the €78€{whole} list €79€{all} the time, there wouldn’t be much point in becoming a Dark Lord in the first place,” Harry said.
+“You decided that if you had to follow the <em>whole</em> list <em>all</em> the time, there wouldn’t be much point in becoming a Dark Lord in the first place,” Harry said.
 
-“€80€{Precisely},” said Professor Quirrell. He was grinning. “So I am going to violate rule two—which was simply ‘don’t brag’—and tell you about something I have done. I don’t see how the knowledge could do any harm. And I strongly suspect you would have figured it out anyway, once we knew each other well enough. Nonetheless…I shall have your oath never to speak of what I am about to tell.”
+“<em>Precisely</em>,” said Professor Quirrell. He was grinning. “So I am going to violate rule two—which was simply ‘don’t brag’—and tell you about something I have done. I don’t see how the knowledge could do any harm. And I strongly suspect you would have figured it out anyway, once we knew each other well enough. Nonetheless…I shall have your oath never to speak of what I am about to tell.”
 
-“You have it!” Harry had a feeling this was going to be €81€{really} good.
+“You have it!” Harry had a feeling this was going to be <em>really</em> good.
 
 “I subscribe to a Muggle bulletin which keeps me informed of progress on space travel. I didn’t hear about Pioneer 10 until they reported its launch. But when I discovered that Pioneer 11 would also be leaving the Solar System forever,” Professor Quirrell said, his grin the widest that Harry had yet seen from him, “I sneaked into NASA, I did, and I cast a lovely little spell on that lovely golden plaque which will make it last a lot longer than it otherwise would.”
 
@@ -420,7 +420,7 @@ Harry imagined himself looking over a list of thirty-seven things not to do once
 
 “…I can’t think of anything to say.”
 
-“{}‘You win’ seems appropriate,” said Professor Quirrell.
+“<b></b>‘You win’ seems appropriate,” said Professor Quirrell.
 
 “You win,” Harry said immediately.
 
@@ -432,23 +432,23 @@ A further thought occurred to Harry. “You didn’t add any extra information t
 
 “Extra information?” said Professor Quirrell, sounding as if the idea had never occurred to him before and he was quite intrigued.
 
-Which made Harry rather suspicious, considering that it’d taken less than a minute for €82€{Harry} to think of it.
+Which made Harry rather suspicious, considering that it’d taken less than a minute for <em>Harry</em> to think of it.
 
-“Maybe you included a holographic message like in €83€{Star Wars?}” said Harry. “Or…hm. A portrait seems to store a whole human brain’s worth of information…you couldn’t have added any extra mass to the probe, but maybe you could’ve turned an existing part into a portrait of yourself? Or you found a volunteer dying of a terminal illness, sneaked them into NASA, and cast a spell to make sure their €84€{ghost} ended up in the plaque—”
+“Maybe you included a holographic message like in <em>Star Wars?</em>” said Harry. “Or…hm. A portrait seems to store a whole human brain’s worth of information…you couldn’t have added any extra mass to the probe, but maybe you could’ve turned an existing part into a portrait of yourself? Or you found a volunteer dying of a terminal illness, sneaked them into NASA, and cast a spell to make sure their <em>ghost</em> ended up in the plaque—”
 
 “Mr~Potter,” Professor Quirrell said, his voice suddenly sharp, “a spell requiring a human death would certainly be classified by the Ministry as Dark Arts, regardless of circumstances. Students should not be heard talking about such things.”
 
-And the amazing thing about the way Professor Quirrell said it was how perfectly it maintained plausible deniability. It had been said in exactly the appropriate tone for someone who wasn’t willing to discuss such things and thought students should steer away from them. Harry honestly €85€{didn’t know} whether Professor Quirrell was just waiting to talk about it until after Harry had learned to protect his mind.
+And the amazing thing about the way Professor Quirrell said it was how perfectly it maintained plausible deniability. It had been said in exactly the appropriate tone for someone who wasn’t willing to discuss such things and thought students should steer away from them. Harry honestly <em>didn’t know</em> whether Professor Quirrell was just waiting to talk about it until after Harry had learned to protect his mind.
 
 “Got it,” Harry said. “I won’t talk with anyone else about that idea.”
 
 “Please be discreet about the whole matter, Mr~Potter,” Professor Quirrell said. “I prefer to go through my life without attracting public notice. You will find nothing in the newspapers about Quirinus Quirrell until I decided it was time for me to teach Defence at Hogwarts.”
 
-That seemed a little sad, but Harry understood. Then Harry realized the implications. “So just how much awesome stuff €86€{have} you done that no-one else knows about—”
+That seemed a little sad, but Harry understood. Then Harry realized the implications. “So just how much awesome stuff <em>have</em> you done that no-one else knows about—”
 
 “Oh, some,” said Professor Quirrell. “But I think that’s quite enough for today, Mr~Potter, I confess I am feeling a bit tired—”
 
-“I understand. And €87€{thank you}. For €88€{everything}.”
+“I understand. And <em>thank you</em>. For <em>everything</em>.”
 
 Professor Quirrell nodded, but he was leaning harder on his desk.
 

@@ -1,12 +1,12 @@
-€7€{Impulse Control}
+€7€<b>Impulse Control</b>
 
 €1€
 ph'nglui mglw'nafh J.~K.~Rowling wgah'nagl fhtagn
-€100€
-Wonder what’s wrong with €8€{him}.
-€101€[ante=“]{T}{urpin,} Lisa!”
+€13€
+Wonder what’s wrong with <em>him</em>.
+€14€[ante=“]<b>T</b><b>urpin,</b> Lisa!”
 
-€10€
+€9€
 Whisper whisper whisper harry potter whisper whisper slytherin whisper whisper no seriously what the hell whisper whisper
 
 “RAVENCLAW!”
@@ -21,15 +21,15 @@ Being at the centre of an extraordinary and curious event, and then being Sorted
 
 “No, I really did promise the Sorting Hat not to talk about it.”
 
-“Fine, I promised the Sorting Hat not to talk about €11€{most} of it and the rest is €12€{private} just like €13€{yours was} so €14€{stop asking.}”
+“Fine, I promised the Sorting Hat not to talk about <em>most</em> of it and the rest is <em>private</em> just like <em>yours was</em> so <em>stop asking.</em>”
 
 “You want to know what happened? Fine! Here’s part of what happened! I told the Hat that Professor McGonagall threatened to set it on fire and it told me to tell Professor McGonagall that she was an impudent youngster and she should get off its lawn!”
 
-“If you’re not going to believe what I say then €15€{why are you even asking?}”
+“If you’re not going to believe what I say then <em>why are you even asking?</em>”
 
 “No, I don’t know how I defeated the Dark Lord either! You tell me if you figure it out!”
 
-“€16€{Silence!}” shouted Professor McGonagall at the podium of the Head Table. “€17€{No talking until the Sorting Ceremony finishes!}”
+“<em>Silence!</em>” shouted Professor McGonagall at the podium of the Head Table. “<em>No talking until the Sorting Ceremony finishes!</em>”
 
 There was a brief dip in the volume, as everyone waited to see if she was going to make any specific and credible threats, and then the whispers started up again.
 
@@ -39,17 +39,17 @@ Instant silence. Someone frantically elbowed Harry as he tried to continue a whi
 
 The cheerful-looking old man sat down again.
 
-€18€{Note to self: Do not mess with Dumbledore.}
+<em>Note to self: Do not mess with Dumbledore.</em>
 
-Harry was still trying to process everything that had happened during the Incident with the Sorting Hat. Not the least of which was what had happened the instant Harry had lifted the Hat off his head; in that moment, he’d heard a tiny whisper as though from nowhere, something that sounded oddly like English and a hiss at the same time, something that had said, “€19€{Salutations from Slytherin to Slytherin: if you would seek my secrets, speak to my snake.}”
+Harry was still trying to process everything that had happened during the Incident with the Sorting Hat. Not the least of which was what had happened the instant Harry had lifted the Hat off his head; in that moment, he’d heard a tiny whisper as though from nowhere, something that sounded oddly like English and a hiss at the same time, something that had said, “€10€<b>Salutations from Slytherin to Slytherin: if you would seek my secrets, speak to my snake.</b>”
 
-Harry was sorta guessing that wasn’t supposed to be part of the official Sorting process. And that it was a bit of extra magic set down by Salazar Slytherin during the making of the Hat. And that the Hat itself didn’t know about it. And that it was triggered when the Hat said “SLYTHERIN”, plus or minus some other conditions. And that a Ravenclaw like himself €20€{really, really wasn’t supposed to have heard it}. And that if he could find some reliable way of swearing Draco to secrecy so he could ask him about it, that would be an excellent time to have some Comed-Tea handy.
+Harry was sorta guessing that wasn’t supposed to be part of the official Sorting process. And that it was a bit of extra magic set down by Salazar Slytherin during the making of the Hat. And that the Hat itself didn’t know about it. And that it was triggered when the Hat said “SLYTHERIN”, plus or minus some other conditions. And that a Ravenclaw like himself <em>really, really wasn’t supposed to have heard it</em>. And that if he could find some reliable way of swearing Draco to secrecy so he could ask him about it, that would be an excellent time to have some Comed-Tea handy.
 
-€21€{Boy, you resolve not to go down the path of a Dark Lord and the universe starts messing with you the instant the Hat comes off your head. Some days it just doesn’t pay to fight destiny. Maybe I’ll wait until tomorrow to start on my resolution to not be a Dark Lord.}
+<em>Boy, you resolve not to go down the path of a Dark Lord and the universe starts messing with you the instant the Hat comes off your head. Some days it just doesn’t pay to fight destiny. Maybe I’ll wait until tomorrow to start on my resolution to not be a Dark Lord.</em>
 
 “GRYFFINDOR!”
 
-Ron Weasley got a €22€{lot} of applause, and not just from the Gryffindors. Apparently the Weasley family was widely liked around here. Harry, after a moment, smiled and started applauding along with the others.
+Ron Weasley got a <em>lot</em> of applause, and not just from the Gryffindors. Apparently the Weasley family was widely liked around here. Harry, after a moment, smiled and started applauding along with the others.
 
 Then again, there was no time like today to turn back from the Dark Side.
 
@@ -63,49 +63,49 @@ Pause.
 
 Harry applauded Zabini too, ignoring the odd looks he was getting from everyone including Zabini.
 
-No other name was called out after that, and Harry realised that “Zabini, Blaise” did sound close to the end of the alphabet. Great, so now he’d €23€{only} applauded Zabini…Oh well.
+No other name was called out after that, and Harry realised that “Zabini, Blaise” did sound close to the end of the alphabet. Great, so now he’d <em>only</em> applauded Zabini…Oh well.
 
 Dumbledore got up again and began heading towards the podium. Apparently they were about to be treated to a speech—
 
-And Harry was struck by the inspiration for a €24€{brilliant} experimental test.
+And Harry was struck by the inspiration for a <em>brilliant</em> experimental test.
 
 Hermione had said that Dumbledore was the most powerful wizard alive, right?
 
 Harry reached into his pouch and whispered, “Comed-Tea”.
 
-For the Comed-Tea to work, it would have to make Dumbledore say something €25€{so} ridiculous during his speech that even in Harry’s state of mental preparedness, he would €26€{still} choke. Like, all the Hogwarts students had to not wear any clothes for the whole school year, or everyone was going to be transformed into cats.
+For the Comed-Tea to work, it would have to make Dumbledore say something <em>so</em> ridiculous during his speech that even in Harry’s state of mental preparedness, he would <em>still</em> choke. Like, all the Hogwarts students had to not wear any clothes for the whole school year, or everyone was going to be transformed into cats.
 
-But then if €27€{anyone in the world} could resist the power of the Comed-Tea, it would be Dumbledore. So if this worked, the Comed-Tea was literally €28€{invincible}.
+But then if <em>anyone in the world</em> could resist the power of the Comed-Tea, it would be Dumbledore. So if this worked, the Comed-Tea was literally <em>invincible</em>.
 
 Harry pulled the ring on the Comed-Tea under the table, wanting to do this a bit unobtrusively. The can made a quiet hissing noise. A few heads turned to look at him, but soon turned back as—
 
 “Welcome! Welcome to a new year at Hogwarts!” said Dumbledore, beaming at the students with his arms opened wide, as if nothing could have pleased him more than to see them all there.
 
-Harry took a first mouthful of Comed-Tea and lowered the can again. He would swallow the pop a little at a time and try not to choke no matter €29€{what} Dumbledore said—
+Harry took a first mouthful of Comed-Tea and lowered the can again. He would swallow the pop a little at a time and try not to choke no matter <em>what</em> Dumbledore said—
 
 “Before we begin our banquet, I would like to say a few words. And here they are: Happy happy boom boom swamp swamp swamp! Thank you!”
 
 Everyone clapped and cheered, and Dumbledore sat down again.
 
-Harry sat frozen as pop trickled out of the corners of his mouth. He had, at least, managed to choke €30€{quietly}.
+Harry sat frozen as pop trickled out of the corners of his mouth. He had, at least, managed to choke <em>quietly</em>.
 
-He really really €31€{really} shouldn’t have done that. Amazing how much €32€{more obvious} that became €33€{one second} after it was €34€{too late}.
+He really really <em>really</em> shouldn’t have done that. Amazing how much <em>more obvious</em> that became <em>one second</em> after it was <em>too late</em>.
 
-In retrospect he probably should have noticed something wrong when he was thinking about everyone being turned into cats…or even before then, remembered his mental note not to mess with Dumbledore…or his newfound resolution to be more considerate of others…or maybe if he’d had €35€{one single scrap} of €36€{common sense}…
+In retrospect he probably should have noticed something wrong when he was thinking about everyone being turned into cats…or even before then, remembered his mental note not to mess with Dumbledore…or his newfound resolution to be more considerate of others…or maybe if he’d had <em>one single scrap</em> of <em>common sense</em>…
 
 It was hopeless. He was corrupt to the core. Hail the Dark Lord Harry. You couldn’t fight fate.
 
 Someone was asking Harry if he was all right. (Others were starting to serve themselves food, which had magically appeared on the table, whatever.)
 
-“I’m all right,” Harry said. “Excuse me. Um. Was that a…€37€{normal} speech for the Headmaster? You…didn’t seem…very surprised…”
+“I’m all right,” Harry said. “Excuse me. Um. Was that a…<em>normal</em> speech for the Headmaster? You…didn’t seem…very surprised…”
 
 “Oh, Dumbledore’s insane, of course,” said an older-looking Ravenclaw sitting next to him who had introduced himself with some name Harry didn’t even begin to remember. “Lots of fun, incredibly powerful wizard, but completely bonkers.” He paused. “At some later point I’d also like to ask why green fluid came out of your lips and then disappeared, though I expect you promised the Sorting Hat not to talk about that either.”
 
 With a great effort, Harry stopped himself from glancing down at the incriminating can of Comed-Tea in his hand.
 
-After all, the Comed-Tea hadn’t just arbitrarily €38€{materialised} a Quibbler headline about him and Draco. Draco had explained it in a way that made it seem like it had all happened…naturally? As if it had €39€{altered history to fit}?
+After all, the Comed-Tea hadn’t just arbitrarily <em>materialised</em> a Quibbler headline about him and Draco. Draco had explained it in a way that made it seem like it had all happened…naturally? As if it had <em>altered history to fit</em>?
 
-Harry was mentally imagining himself banging his forehead against the table. €40€{Wham, wham, wham} went his head within his mind.
+Harry was mentally imagining himself banging his forehead against the table. <em>Wham, wham, wham</em> went his head within his mind.
 
 Another student lowered her voice to a whisper. “I hear that Dumbledore is secretly a genius mastermind controlling lots of stuff and he uses the insanity as a cover so that no-one will suspect him.”
 
@@ -117,25 +117,25 @@ This couldn’t help but catch Harry’s attention.
 
 Most of the students nodded. One or two looked suddenly thoughtful, including the older student sitting next to Harry.
 
-€41€{Are you sure this is the Ravenclaw table?} Harry managed not to ask out loud.
+<em>Are you sure this is the Ravenclaw table?</em> Harry managed not to ask out loud.
 
 “Brilliant!” Harry whispered. “If everyone knows, no-one will suspect it’s a secret!”
 
 “Exactly,” whispered a student, and then he frowned. “Wait, that doesn’t sound quite right—”
 
-€42€{Note to self: The 75th percentile of Hogwarts students a.k.a. Ravenclaw House is not the world’s most exclusive educational facility for gifted children.}
+<em>Note to self: The 75th percentile of Hogwarts students a.k.a. Ravenclaw House is not the world’s most exclusive educational facility for gifted children.</em>
 
-But at least he’d learned an important fact today. The Comed-Tea was omnipotent. And €43€{that} meant…
+But at least he’d learned an important fact today. The Comed-Tea was omnipotent. And <em>that</em> meant…
 
 Harry blinked in surprise as his mind finally made the obvious connection.
 
-…€44€{that} meant that as soon as he learned a spell to temporarily alter his own sense of humour, he could make €45€{anything} happen, by making it so that he would €46€{only} find that €47€{one thing} surprising enough to do a spit-take, and then drinking a can of Comed-Tea.
+…<em>that</em> meant that as soon as he learned a spell to temporarily alter his own sense of humour, he could make <em>anything</em> happen, by making it so that he would <em>only</em> find that <em>one thing</em> surprising enough to do a spit-take, and then drinking a can of Comed-Tea.
 
-€48€{Well that was a short little journey to godhood. Even I expected this to take longer than my first day of school.}
+<em>Well that was a short little journey to godhood. Even I expected this to take longer than my first day of school.</em>
 
 Come to think of it, he had also completely wrecked Hogwarts within ten minutes flat of getting Sorted.
 
-Harry did feel a certain amount of regret about this—Merlin knew what an insane Headmaster was going to do to his next seven years of schooling—but he couldn’t €49€{help} feeling a twinge of pride, too.
+Harry did feel a certain amount of regret about this—Merlin knew what an insane Headmaster was going to do to his next seven years of schooling—but he couldn’t <em>help</em> feeling a twinge of pride, too.
 
 Tomorrow. No later than tomorrow at the very latest he was going to stop walking down the path that led to Dark Lord Harry. A prospect which was sounding scarier by the minute.
 
@@ -149,15 +149,15 @@ Harry automatically started loading up his plate with whatever was in front of h
 
 “No pestering during mealtimes!” chorused at least three people. “House Rule!” added another. “Otherwise we’d all starve around here.”
 
-Harry was finding himself really, really hoping that his clever new idea didn’t €50€{actually} work. And that the Comed-Tea worked some other way and didn’t €51€{actually} have the omnipotent power to alter reality. It wasn’t that he didn’t €52€{want} to be omnipotent. It was that he just couldn’t bear the thought of living in a universe that really worked like that. There was something €53€{undignified} about ascending through the clever use of fizzy drinks.
+Harry was finding himself really, really hoping that his clever new idea didn’t <em>actually</em> work. And that the Comed-Tea worked some other way and didn’t <em>actually</em> have the omnipotent power to alter reality. It wasn’t that he didn’t <em>want</em> to be omnipotent. It was that he just couldn’t bear the thought of living in a universe that really worked like that. There was something <em>undignified</em> about ascending through the clever use of fizzy drinks.
 
-But he €54€{was} going to test it experimentally.
+But he <em>was</em> going to test it experimentally.
 
 “You know,” said the older student next to him in a quite pleasant tone, “we have a system for forcing people like you to eat, would you like to find out what it is?”
 
 Harry gave up and started eating his blue sausage. It was quite good, especially the glowing bits.
 
-Dinner passed with surprising rapidity. Harry tried to sample at least a little of all the weird new foods he saw. His curiosity couldn’t stand the thought of €55€{not knowing} how something tasted. Thank goodness this wasn’t a restaurant where you had to order only one thing and you never found out what all the other things on the menu tasted like. Harry €56€{hated} that, it was like a torture chamber for anyone with a spark of curiosity: €57€{Find out about only one of the mysteries on this list, ha ha ha!}
+Dinner passed with surprising rapidity. Harry tried to sample at least a little of all the weird new foods he saw. His curiosity couldn’t stand the thought of <em>not knowing</em> how something tasted. Thank goodness this wasn’t a restaurant where you had to order only one thing and you never found out what all the other things on the menu tasted like. Harry <em>hated</em> that, it was like a torture chamber for anyone with a spark of curiosity: <em>Find out about only one of the mysteries on this list, ha ha ha!</em>
 
 Then it was time for dessert, which Harry had completely forgotten to leave room for. He gave up after sampling a small bit of treacle tart. Surely all these things would pass around at least once again over the course of the school year.
 
@@ -172,7 +172,7 @@ Option 3a: Swear Hermione to secrecy and try to start researching ‘From Slythe
 
 To-do 0: Check out what sort of information-search-and-retrieval spells exist, if any. Library magic isn’t as ultimately important as mind magic but it has a much higher priority.
 
-Option 3b: Look for a spell to magically bind Draco Malfoy to secrecy, or magically verify the sincerity of Draco’s promise to keep a secret (Veritaserum?), and then ask €58€{him} about Slytherin’s message…
+Option 3b: Look for a spell to magically bind Draco Malfoy to secrecy, or magically verify the sincerity of Draco’s promise to keep a secret (Veritaserum?), and then ask <em>him</em> about Slytherin’s message…
 €6€
 
 Actually…Harry had a pretty bad feeling about option 3b.
@@ -185,9 +185,9 @@ And then it had turned out to not be too late after all.
 
 Wish granted.
 
-You couldn’t change history. But you could get it right to start with. Do something differently the €59€{first} time around.
+You couldn’t change history. But you could get it right to start with. Do something differently the <em>first</em> time around.
 
-This whole business with seeking Slytherin’s secrets…seemed an awful lot like the sort of thing where, years later, you would look back and say, ‘And €60€{that} was where it all started going wrong.’
+This whole business with seeking Slytherin’s secrets…seemed an awful lot like the sort of thing where, years later, you would look back and say, ‘And <em>that</em> was where it all started going wrong.’
 
 And he would wish desperately for the ability to fall back through time and make a different choice…
 
@@ -195,13 +195,13 @@ Wish granted. Now what?
 
 Harry slowly smiled.
 
-It was a rather €61€{counterintuitive} thought…but…
+It was a rather <em>counterintuitive</em> thought…but…
 
-But he €62€{could}, there was no rule saying he couldn’t, he €63€{could} just pretend he’d never heard that little whisper. Let the universe go on in exactly the same way it would have if that one critical moment had never occurred. Twenty years later, that was what he would desperately wish had happened twenty years ago, and twenty years before twenty years later happened to be right now. Altering the distant past was easy, you just had to think of it at the right time.
+But he <em>could</em>, there was no rule saying he couldn’t, he <em>could</em> just pretend he’d never heard that little whisper. Let the universe go on in exactly the same way it would have if that one critical moment had never occurred. Twenty years later, that was what he would desperately wish had happened twenty years ago, and twenty years before twenty years later happened to be right now. Altering the distant past was easy, you just had to think of it at the right time.
 
-Or…this was even €64€{more} counterintuitive…he could even inform, oh, say, €65€{Professor McGonagall,} instead of Draco €66€{or} Hermione. And she could get a few good people together and get that little extra spell taken off the Hat.
+Or…this was even <em>more</em> counterintuitive…he could even inform, oh, say, <em>Professor McGonagall,</em> instead of Draco <em>or</em> Hermione. And she could get a few good people together and get that little extra spell taken off the Hat.
 
-Why, yes. That sounded like a €67€{remarkably} good idea once Harry had actually €68€{thought} of it.
+Why, yes. That sounded like a <em>remarkably</em> good idea once Harry had actually <em>thought</em> of it.
 
 So very obvious in retrospect, and yet somehow, Option 3c and Option 3d just hadn’t occurred to him.
 
@@ -209,9 +209,9 @@ Harry awarded himself +1 point on his anti-Dark-Lord-Harry programme.
 
 It had been an awfully cruel prank the Hat had played on him, but you couldn’t argue with the results on consequentialist grounds. It certainly did give him a better idea of the victim’s perspective, though.
 
-€69€{To-do 4: Apologise to Neville Longbottom.}
+<em>To-do 4: Apologise to Neville Longbottom.</em>
 
-Okay, he was on a roll here, now he just had to keep it up. €70€{In every day, in every way, I’m getting Lighter and Lighter…}
+Okay, he was on a roll here, now he just had to keep it up. <em>In every day, in every way, I’m getting Lighter and Lighter…</em>
 
 People around Harry had also mostly stopped eating at this point, and the dessert serving dishes began to vanish, and the used plates.
 
@@ -219,59 +219,59 @@ When all the plates were gone, Dumbledore once again stood up from his seat.
 
 Harry couldn’t help but feel the urge to drink another Comed-Tea.
 
-€71€{You’ve €72€{got} to be kidding,} Harry thought at that piece of himself.
+<em>You’ve €11€<b>got</em> to be kidding,</b> Harry thought at that piece of himself.
 
-But the experiment didn’t count if it wasn’t replicated, did it? And the damage was already done, wasn’t it? Didn’t he want to see what would happen €73€{this} time? Wasn’t he €74€{curious}? What if he got a different result?
+But the experiment didn’t count if it wasn’t replicated, did it? And the damage was already done, wasn’t it? Didn’t he want to see what would happen <em>this</em> time? Wasn’t he <em>curious</em>? What if he got a different result?
 
-€75€{Hey, I bet you’re the same part of my brain that pushed through the prank on Neville Longbottom.}
+<em>Hey, I bet you’re the same part of my brain that pushed through the prank on Neville Longbottom.</em>
 
 Er, maybe?
 
-€76€{And is it not €77€{overwhelmingly} obvious that if I do this I shall regret it one second after it is too late?}
+<em>And is it not €12€<b>overwhelmingly</em> obvious that if I do this I shall regret it one second after it is too late?</b>
 
 Um…
 
-€78€{Yeah. So,} no€79€{.}
+<em>Yeah. So,</em> no<em>.</em>
 
 “Ahem,” said Dumbledore from the podium, stroking his long silver beard. “Just a few more words now that we are all fed and watered. I have a few start-of-term notices to give you.”
 
 “First-years should note that the forest on the grounds is forbidden to all pupils. That is why it is called the Forbidden Forest. If it were permitted it would be called the Permitted Forest.”
 
-Straightforward. €80€{Note to self: Forbidden Forest is forbidden.}
+Straightforward. <em>Note to self: Forbidden Forest is forbidden.</em>
 
-“I have also been asked by Mr~Filch, the caretaker, to remind you all that no magic should be used between classes in the corridors. Alas, we all know that what €81€{should be}, and what €82€{is}, are two different things. Thank you for keeping this in mind.”
+“I have also been asked by Mr~Filch, the caretaker, to remind you all that no magic should be used between classes in the corridors. Alas, we all know that what <em>should be</em>, and what <em>is</em>, are two different things. Thank you for keeping this in mind.”
 
 Er…
 
 “Quidditch trials will be held in the second week of the term. Anyone interested in playing for their house teams should contact Madam Hooch. Anyone interested in reformulating the entire game of Quidditch should contact Harry Potter.”
 
-Harry inhaled his own saliva and went into a coughing fit just as all eyes turned towards him. How the €83€{hell}! He hadn’t met Dumbledore’s eyes at any point…he didn’t €84€{think}. He certainly hadn’t been thinking about Quidditch at the time! He hadn’t talked to anyone but Ron Weasley and he didn’t €85€{think} Ron would have told anyone else…or had Ron run off to a professor to complain? €86€{How} on €87€{Earth…}
+Harry inhaled his own saliva and went into a coughing fit just as all eyes turned towards him. How the <em>hell</em>! He hadn’t met Dumbledore’s eyes at any point…he didn’t <em>think</em>. He certainly hadn’t been thinking about Quidditch at the time! He hadn’t talked to anyone but Ron Weasley and he didn’t <em>think</em> Ron would have told anyone else…or had Ron run off to a professor to complain? <em>How</em> on <em>Earth…</em>
 
 “Additionally, I must tell you that this year, the third-floor corridor on the right-hand side is out of bounds to everyone who does not wish to die a very painful death. It is guarded by an elaborate series of dangerous and potentially lethal traps, and you cannot possibly get past all of them, especially if you are only in your first year.”
 
 Harry was numb at this point.
 
-“And finally, I extend my greatest thanks to Quirinus Quirrell for heroically agreeing to undertake the position of Defence Against the Dark Arts Professor at Hogwarts.” Dumbledore’s gaze moved searchingly across the students. “I hope all students will extend Professor Quirrell that utmost courtesy and €88€{tolerance} which is due his extraordinary service to you and this school, and that you €89€{will not pester us} with any €90€{niggling complaints} about him, unless €91€{you} want to try doing his job.”
+“And finally, I extend my greatest thanks to Quirinus Quirrell for heroically agreeing to undertake the position of Defence Against the Dark Arts Professor at Hogwarts.” Dumbledore’s gaze moved searchingly across the students. “I hope all students will extend Professor Quirrell that utmost courtesy and <em>tolerance</em> which is due his extraordinary service to you and this school, and that you <em>will not pester us</em> with any <em>niggling complaints</em> about him, unless <em>you</em> want to try doing his job.”
 
-What was €92€{that} about?
+What was <em>that</em> about?
 
 “I now yield the floor to our new faculty member Professor Quirrell, who would like to say a few words.”
 
 The young, thin, nervous man who Harry had first met in the Leaky Cauldron slowly made his way up to the podium, glancing fearfully around in all directions. Harry caught a glimpse of the back of his head, and it looked like Professor Quirrell might already be going bald, despite his seeming youth.
 
-“Wonder what’s wrong with €93€{him},” whispered the older-looking student sitting next to Harry. Similar hushed comments were being exchanged elsewhere along the table.
+“Wonder what’s wrong with <em>him</em>,” whispered the older-looking student sitting next to Harry. Similar hushed comments were being exchanged elsewhere along the table.
 
 Professor Quirrell made his way up to the podium and stood there, blinking. “Ah…” he said. “Ah…” Then his courage seemed to fail him utterly, and he stood there in silence, occasionally twitching.
 
-“Oh, great,” whispered the older student, “looks like another €94€{long} year in Defence class—”
+“Oh, great,” whispered the older student, “looks like another <em>long</em> year in Defence class—”
 
-“Salutations, my young apprentices,” Professor Quirrell said in a dry, confident tone. “We all know that Hogwarts tends to suffer a certain €95€{misfortune} in its selections for this position, and no doubt many of you are already wondering what doom shall befall me this year. I assure you, that doom is not to be my incompetence.” He smiled thinly. “Believe it or not, I have long wished to some day try my hand as the Professor of Defence Against the Dark Arts here at the Hogwarts School of Witchcraft and Wizardry. The first to teach this class was Salazar Slytherin himself, and as late as the fourteenth century it was traditional for the greatest fighting wizards of every persuasion to try their hands at teaching here. Past Professors of Defence have included not just the legendary wandering hero Harold Shea but also the quote undying unquote Baba Yaga, yes, I see some of you are still shuddering at the sound of her name even though she’s been dead for six hundred years. That must have been an interesting time to attend Hogwarts, don’t you think?”
+“Salutations, my young apprentices,” Professor Quirrell said in a dry, confident tone. “We all know that Hogwarts tends to suffer a certain <em>misfortune</em> in its selections for this position, and no doubt many of you are already wondering what doom shall befall me this year. I assure you, that doom is not to be my incompetence.” He smiled thinly. “Believe it or not, I have long wished to some day try my hand as the Professor of Defence Against the Dark Arts here at the Hogwarts School of Witchcraft and Wizardry. The first to teach this class was Salazar Slytherin himself, and as late as the fourteenth century it was traditional for the greatest fighting wizards of every persuasion to try their hands at teaching here. Past Professors of Defence have included not just the legendary wandering hero Harold Shea but also the quote undying unquote Baba Yaga, yes, I see some of you are still shuddering at the sound of her name even though she’s been dead for six hundred years. That must have been an interesting time to attend Hogwarts, don’t you think?”
 
 Harry was swallowing hard, trying to suppress the sudden surge of emotion that had overcome him when Professor Quirrell had begun speaking. The precise tones reminded him very much of a lecturer at Oxford, and it was starting to hit home that Harry wasn’t going to see his home or his Mum or his Dad until Christmas.
 
-“You are accustomed to the Defence position being filled by incompetents, scoundrels, and the unlucky. To anyone with a sense of history, it bears another reputation entirely. Not everyone who teaches here has been the best, but the best have all taught at Hogwarts. In such august company, and after so much time anticipating this day, I would be ashamed to set myself any standard lower than perfection. And so I do intend that every one of you will always remember this year as the €96€{best} Defence class that you have ever had. What you learn this year will forever serve as your firm foundation in the arts of Defence, no matter who your teachers before and after.”
+“You are accustomed to the Defence position being filled by incompetents, scoundrels, and the unlucky. To anyone with a sense of history, it bears another reputation entirely. Not everyone who teaches here has been the best, but the best have all taught at Hogwarts. In such august company, and after so much time anticipating this day, I would be ashamed to set myself any standard lower than perfection. And so I do intend that every one of you will always remember this year as the <em>best</em> Defence class that you have ever had. What you learn this year will forever serve as your firm foundation in the arts of Defence, no matter who your teachers before and after.”
 
-Professor Quirrell’s expression grew serious. “We have a €97€{great} deal of lost ground to make up and not much time to cover it. Therefore I intend to depart from Hogwarts teaching conventions in a number of respects, as well as introducing some optional after-school activities.” He paused. “If that is not sufficient, perhaps I can find new ways to motivate you. You are my long-awaited students, and you €98€{will} do your €99€{very} best in my long-awaited Defence class. I would add some sort of dreadful threat, like ‘Otherwise you will suffer horribly’, but that would be so cliched, don’t you think? I pride myself on being more imaginative than that. Thank you.”
+Professor Quirrell’s expression grew serious. “We have a <em>great</em> deal of lost ground to make up and not much time to cover it. Therefore I intend to depart from Hogwarts teaching conventions in a number of respects, as well as introducing some optional after-school activities.” He paused. “If that is not sufficient, perhaps I can find new ways to motivate you. You are my long-awaited students, and you <em>will</em> do your <em>very</em> best in my long-awaited Defence class. I would add some sort of dreadful threat, like ‘Otherwise you will suffer horribly’, but that would be so cliched, don’t you think? I pride myself on being more imaginative than that. Thank you.”
 
 Then the vigour and confidence seemed to drain away from Professor Quirrell. His mouth gaped open as if he had suddenly found himself facing an unexpected audience, and he turned with a convulsive jerk and shuffled back to his seat, hunched over as if he was about to collapse in on himself and implode.
 

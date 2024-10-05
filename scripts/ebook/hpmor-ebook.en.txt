@@ -1,19 +1,17 @@
-€162€{headlines}{}{}
-€133€{writtenNote}{}{}
-€134€{playdialog}{}{}
+€158€<b>playdialog</b><b></b><b></b>
 
-€135€{€136€}[1]{€163€{writtenNote}{#1}}
-€139€{€140€}[1]{€141€{parsel}{#1}}
-€142€{€143€}[1]{€144€{McGonagallWhiteBoard}{€145€#1}}
-€146€{€147€}[1]{€164€{headline}{#1}€2€}
-€149€{€150€}[1]{€151€{headline}{#1}}
-€152€{€153€}[1]{#1}
-€154€{€155€}[0]{}
+€131€<b>€132€</b>[1]<b>€159€<b>writtenNote</b><b>#1</b></b>
+€135€<b>€136€</b>[1]<b>€137€<b>parsel</b><b>#1</b></b>
+€138€<b>€139€</b>[1]<b>€140€<b>McGonagallWhiteBoard</b><b>€141€#1</b></b>
+€142€<b>€143€</b>[1]<b>€160€<b>headline</b><b>#1</b>€2€</b>
+€145€<b>€146€</b>[1]<b>€147€<b>headline</b><b>#1</b></b>
+€148€<b>€149€</b>[1]<b>#1</b>
+€150€<b>€151€</b>[0]<b></b>
 
-€165€{Harry James Potter-Evans-Verres and the Methods of Rationality}
-€166€{Harry James Potter-Evans-Verres and the Professor's Games}
-€167€{Harry James Potter-Evans-Verres and the Shadows of Death}
-€168€{Hermione Jean Granger and the Phoenix's Call}
-€169€{Harry James Potter-Evans-Verres and the Last Enemy}
-€170€{Harry James Potter-Evans-Verres and the Philosopher's Stone}
-€171€
+€161€<b>Harry James Potter-Evans-Verres and the Methods of Rationality</b>
+€162€<b>Harry James Potter-Evans-Verres and the Professor's Games</b>
+€163€<b>Harry James Potter-Evans-Verres and the Shadows of Death</b>
+€164€<b>Hermione Jean Granger and the Phoenix's Call</b>
+€165€<b>Harry James Potter-Evans-Verres and the Last Enemy</b>
+€166€<b>Harry James Potter-Evans-Verres and the Philosopher's Stone</b>
+€167€

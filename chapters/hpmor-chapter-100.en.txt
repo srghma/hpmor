@@ -1,8 +1,8 @@
-€6€{Precautionary Measures}{I}
+€6€<b>Precautionary Measures</b><b>I</b>
 
-€7€{May 13th, 1992}
+€7€<b>May 13th, 1992</b>
 
-€8€{A}{rgus} Filch’s face appeared twisted in the light of the oil lamp he held, shadows dancing over his face. Behind them the doors of Hogwarts quickly receded, and the dark grounds moved closer. The track they now walked was muddy and indistinct.
+€8€<b>A</b><b>rgus</b> Filch’s face appeared twisted in the light of the oil lamp he held, shadows dancing over his face. Behind them the doors of Hogwarts quickly receded, and the dark grounds moved closer. The track they now walked was muddy and indistinct.
 
 The trees, branches formerly bare with winter, were not yet fully clad with spring; their branches stretched up toward the sky like lean fingers, skeletons visible amid the thin foliage. The moon was bright, but clouds scudding across it often threw them into darkness, lit only by the dim flames of Filch’s lamp.
 
@@ -24,7 +24,7 @@ Behind them, one of the two older Slytherins following them snickered, though sh
 
 Argus Filch was silent for around half a minute, as though trying to think of a proper rejoinder, and then gave a chuckle. “We’ll see what you say about that…when you learn what you’ll be doing tonight! Ha!”
 
-“I €9€{said}, I’m too young for that sort of thing!” said Tracey Davis. “It has to wait until I’m older!”
+“I <em>said</em>, I’m too young for that sort of thing!” said Tracey Davis. “It has to wait until I’m older!”
 
 Ahead of them was a cottage with lighted windows, though the proportions seemed wrong.
 
@@ -38,11 +38,11 @@ Draco’s eyes narrowed, before he caught himself. As a Silvery Slytherin he was
 
 “Students serving detention,” Filch said, loudly. “They’re to help you search the Forest for…whatever’s been eating ’em.”
 
-“The €10€{Forest?}” gasped Tracey. “We can’t go in there at night!”
+“The <em>Forest?</em>” gasped Tracey. “We can’t go in there at night!”
 
 “That’s right,” said Filch, turning from Hagrid to glare at them. “It’s into the Forest you’re going, and I’m much mistaken if you’ll all come out in one piece.”
 
-“But—” said Tracey. “There’s werewolves, I’ve heard, €11€{and} vampires, and everyone knows what happens when there’s a girl and a werewolf and a vampire all at the same time!”
+“But—” said Tracey. “There’s werewolves, I’ve heard, <em>and</em> vampires, and everyone knows what happens when there’s a girl and a werewolf and a vampire all at the same time!”
 
 The huge half-giant was frowning. “Argus, I ’ad in mind you an’ maybe a few seventh-years. ’Ere’s not much point in bringing along help if I’m to watch over ’em the whole time.”
 
@@ -82,7 +82,7 @@ The five of them set off into the woods.
 
 “No weres in the Forest,” said Hagrid. “They’re plain wizards most o’ the time, ’member. Couldn’t be wolves either, they’re not near fast enough ter catch a unicorn. Powerful magical creatures, unicorns are, I never knew one ter be hurt before.”
 
-Draco listened to this, thinking about the puzzle almost despite himself. “Then what €12€{is} fast enough to catch a unicorn?”
+Draco listened to this, thinking about the puzzle almost despite himself. “Then what <em>is</em> fast enough to catch a unicorn?”
 
 “Wouldn’t ’ave been a matter of speed,” Hagrid said, giving Draco an indecipherable glance. “’Ere’s no end ter the ways that creatures hunt. Poison, darkness, traps. Imps as can’t be seen or heard or remembered, even while they’re eatin’ yer face. Always summat new an’ wonderful to learn.”
 
@@ -108,7 +108,7 @@ A strange choking sensation rose in Draco’s throat.
 
 “But she doesn’t have wings,” Tracey said.
 
-“An alicorn’s a unicorn’s horn,” Hagrid said, now louder. “Don’t know where yeh all started thinking it meant a unicorn with wings, ’ere’s no such thing I ever heard. It’s just like naming a dog Fang,” indicating the huge wolf-like dog that barely came to his knees. “What’d you have called ’er? Hannah, or some such? I gave ’er a name as would’ve meant summat ter €13€{’er}. Common courtesy, I call it.”
+“An alicorn’s a unicorn’s horn,” Hagrid said, now louder. “Don’t know where yeh all started thinking it meant a unicorn with wings, ’ere’s no such thing I ever heard. It’s just like naming a dog Fang,” indicating the huge wolf-like dog that barely came to his knees. “What’d you have called ’er? Hannah, or some such? I gave ’er a name as would’ve meant summat ter <em>’er</em>. Common courtesy, I call it.”
 
 Nobody said anything to this, and after a further moment, the huge man gave a sharp nod. “We’ll start our search from ’ere, the last place it struck. We’re gonna split inter two parties an’ follow the trail in diff’rent directions. Yeh two, Walt and Yuliy—yeh’ll go that way, and take Fang. There’s nothin’ that lives in the Forest that’ll hurt yeh if yer with Fang. Send up green sparks if yeh find summat interestin’, an’ send up red sparks if anyone gets in trouble. Davis, Malfoy, with me.”
 
@@ -116,7 +116,7 @@ The Forest was black and silent. Rubeus Hagrid had dimmed the light of his umbre
 
 “There’s rumours about yeh,” Hagrid said in a low voice after they’d walked for a while.
 
-“Well, they’re all true,” Tracey said. “€14€{All} of them.”
+“Well, they’re all true,” Tracey said. “<em>All</em> of them.”
 
 “Not yeh,” Hagrid said. “Did yeh really testify under Veritaserum that yeh tried to help Miss~Granger, three times it was?”
 
@@ -128,15 +128,15 @@ The huge man shook his head, his great feet still stomping silently through the 
 
 “Who?” said Hagrid.
 
-“Just some of the best Dark Wizards from the last two centuries,” Tracey said. “They’re probably €15€{the} best from Hogwarts who weren’t from Slytherin.” Her voice fell, lost its enthusiasm. “Miss~Granger always told me I should read up on anything I—”
+“Just some of the best Dark Wizards from the last two centuries,” Tracey said. “They’re probably <em>the</em> best from Hogwarts who weren’t from Slytherin.” Her voice fell, lost its enthusiasm. “Miss~Granger always told me I should read up on anything I—”
 
-“€16€{Anyway,}” Draco said quickly, “that’s not really relevant, Mr~Hagrid. Even if—” Draco worked it around in his head, trying to translate the difference between €17€{probability of Slytherin given Dark} and €18€{probability of Dark given Slytherin} into non-scientific language. “Even if most Dark Wizards are from Slytherin, very few Slytherins are Dark Wizards. There aren’t all that many Dark Wizards, so not all Slytherins can be one.” Or as Father had said, while any Malfoy should certainly know much of the secret lore, the more…€19€{costly} rituals were better left to useful fools like Amycus Carrow.
+“<em>Anyway,</em>” Draco said quickly, “that’s not really relevant, Mr~Hagrid. Even if—” Draco worked it around in his head, trying to translate the difference between <em>probability of Slytherin given Dark</em> and <em>probability of Dark given Slytherin</em> into non-scientific language. “Even if most Dark Wizards are from Slytherin, very few Slytherins are Dark Wizards. There aren’t all that many Dark Wizards, so not all Slytherins can be one.” Or as Father had said, while any Malfoy should certainly know much of the secret lore, the more…<em>costly</em> rituals were better left to useful fools like Amycus Carrow.
 
 “So yeh’re saying,” Hagrid said, “that most Dark Wizards are Slytherins…but…”
 
 “But most Slytherins are not Dark Wizards,” Draco said. He had a weary feeling they’d be at this a while, but like fighting a hydra, the important thing was to not give up.
 
-“I never thought of it that way,” the huge man said, sounding awestruck. “But, well, if yeh’re not all a house of snakes, then why—€20€{get behind that tree!}”
+“I never thought of it that way,” the huge man said, sounding awestruck. “But, well, if yeh’re not all a house of snakes, then why—<em>get behind that tree!</em>”
 
 Hagrid seized Draco and Tracey and hoisted them off the path behind a towering oak. He pulled out a bolt and fitted it into his crossbow, raising it, ready to fire. The three of them listened. Something was slithering over dead leaves nearby: it sounded like a cloak trailing along the ground. Hagrid was squinting up the dark path, but after a few seconds, the sound faded away.
 
@@ -162,13 +162,13 @@ The minutes dragged by. Draco’s ears seemed sharper than usual, picking up eve
 
 “I’m—” Tracey whispered. “I’m getting a little nervous, Mr~Malfoy.”
 
-Draco thought about it a bit. To be honest, there €21€{was} something…well, it wasn’t that he was a coward, or even that he was scared. But there had been a murder at Hogwarts and if he’d been watching himself in a play, having just been abandoned in the Forbidden Forest by a half-giant, he would currently feel like yelling at the boy on stage that he should…
+Draco thought about it a bit. To be honest, there <em>was</em> something…well, it wasn’t that he was a coward, or even that he was scared. But there had been a murder at Hogwarts and if he’d been watching himself in a play, having just been abandoned in the Forbidden Forest by a half-giant, he would currently feel like yelling at the boy on stage that he should…
 
 Draco reached into his robes, and took out a mirror. Tapping the surface showed a man in red robes, who frowned almost immediately.
 
 “Auror Captain Eneasz Brodski,” the man said clearly, causing Tracey to start with the loudness in the quiet forest. “What is it, Draco Malfoy?”
 
-“Put me on ten-minute check-in,” Draco said. He’d decided not to complain directly about his detention. He did €22€{not} want to look like a spoiled brat. “If I don’t respond, come get me. I’m in the Forbidden Forest.”
+“Put me on ten-minute check-in,” Draco said. He’d decided not to complain directly about his detention. He did <em>not</em> want to look like a spoiled brat. “If I don’t respond, come get me. I’m in the Forbidden Forest.”
 
 Inside the mirror, the Auror’s brows rose. “What are you doing in the Forbidden Forest, Mr~Malfoy?”
 
@@ -182,17 +182,17 @@ Tracey’s voice was a little louder when she spoke again. “You didn’t have 
 
 “Don’t mention it, Miss~Davis.”
 
-The dark silhouette of Tracey put her hand to her cheek, as though to conceal a blush that wasn’t visible anyway. “I mean, not for €23€{me}—”
+The dark silhouette of Tracey put her hand to her cheek, as though to conceal a blush that wasn’t visible anyway. “I mean, not for <em>me</em>—”
 
-“No, really,” Draco said. “Don’t mention it. At all.” He would have threatened to take out the mirror and order Captain Brodski not to rescue €24€{her}, but he was afraid she would consider that flirting.
+“No, really,” Draco said. “Don’t mention it. At all.” He would have threatened to take out the mirror and order Captain Brodski not to rescue <em>her</em>, but he was afraid she would consider that flirting.
 
 Tracey’s silhouetted head turned from him, looked away. Finally she said, in a smaller voice, “It’s too soon, isn’t it—”
 
 A high scream echoed through the woods, a not-quite-human sound, the scream of something like a horse; and Tracey shrieked and ran.
 
-“€25€{No, you numbskull!}” yelled Draco, plunging after her. The sound had been so eerie that Draco wasn’t certain where it came from—but he thought that Tracey Davis might, in fact, be running straight toward the source of that eerie scream.
+“<em>No, you numbskull!</em>” yelled Draco, plunging after her. The sound had been so eerie that Draco wasn’t certain where it came from—but he thought that Tracey Davis might, in fact, be running straight toward the source of that eerie scream.
 
-Brambles whipped at Draco’s eyes, he had to keep one hand in front of his face to shield them, trying not to lose track of Tracey because it seemed obvious that, if this was a play, and they got separated, €26€{one} of them was going to die. Draco thought of the mirror secured within his robes but he somehow knew that if he tried to take it out one-handed while running, the mirror would inevitably fall and be lost—
+Brambles whipped at Draco’s eyes, he had to keep one hand in front of his face to shield them, trying not to lose track of Tracey because it seemed obvious that, if this was a play, and they got separated, <em>one</em> of them was going to die. Draco thought of the mirror secured within his robes but he somehow knew that if he tried to take it out one-handed while running, the mirror would inevitably fall and be lost—
 
 Ahead of them, Tracey had stopped, and Draco felt relieved for an instant, before he saw.
 
@@ -204,7 +204,7 @@ Another unicorn lay on the ground, surrounded by a slowly widening pool of silve
 
 —Draco couldn’t understand, somehow couldn’t recognize what he was seeing—
 
-—€27€{it was looking at them}.
+—<em>it was looking at them</em>.
 
 The blurring, seething, unrecognisable darkness seemed to turn to regard them. A hiss came from it, like the hiss of the deadliest snake which ever had existed, something more dangerous by far than any Blue Krait.
 
@@ -218,7 +218,7 @@ Then the seething outline rose up, like a man rising to his feet only not so; an
 
 Tracey tugged at his sleeve and then turned to run, run from something that could hunt down unicorns. Before she could take three steps there came another terrible hiss, burning his ears, and Tracey fell to the ground and did not move.
 
-Somewhere in the back of his mind, Draco knew that he was about to die. Even if the Auror checked his mirror this very instant, there was no way anyone could get here fast enough. There was no €28€{time}.
+Somewhere in the back of his mind, Draco knew that he was about to die. Even if the Auror checked his mirror this very instant, there was no way anyone could get here fast enough. There was no <em>time</em>.
 
 Running hadn’t worked.
 
@@ -251,10 +251,10 @@ Harry Potter, who had remained untouched, silently guided his broomstick toward 
 
 The seething figure, now seeming blacker and more terrible, rose up into the air, hovering off the ground.
 
-“€29€{Go!}” shouted Harry.
+“€9€<b>Go!</b>” shouted Harry.
 
-Draco turned and fled headlong into the woods,with the branches whipping at his face. Behind him, Draco heard another terrible hiss, and Harry’s voice rising, crying something that Draco couldn’t make out from the distance; Draco turned his head for only an instant to look back, and in that moment ran into something, hitting his head €30€{hard}, and blacked out.
-€39€
+Draco turned and fled headlong into the woods,with the branches whipping at his face. Behind him, Draco heard another terrible hiss, and Harry’s voice rising, crying something that Draco couldn’t make out from the distance; Draco turned his head for only an instant to look back, and in that moment ran into something, hitting his head <em>hard</em>, and blacked out.
+€12€
 
 Harry held a tight grip on his wand, a Prismatic Sphere glowing around him. He stared levelly at the seething, blurring form in front of him, and said, “What on Earth are you doing?”
 
@@ -262,7 +262,7 @@ The seething blurs resolved, reformed, relaxed back into a hooded form. Whatever
 
 Professor Quirrell stood straight with silver blood all down the front of his enshrouding black cloak, and gave a sigh, looking at the fallen forms of three Aurors, Tracey Davis, Draco Malfoy, and Professor McGonagall. “I had honestly thought,” Professor Quirrell murmured, “that I jammed that mirror without alarm. What were two first-year Slytherins doing alone in the Forbidden Forest? Mr~Malfoy has more sense than this…What a fiasco.”
 
-Harry didn’t answer. The sense of doom was as strong as Harry could ever remember feeling it, a feeling of power in the air so great that it was almost tangible. Some part of him was still viscerally shocked at how fast the shields surrounding the Aurors had been torn apart. He almost hadn’t been able to €32€{see} the successive lashes of colour which had torn away the shields like tissue paper. It made the duel Professor Quirrell had fought against the Auror in Azkaban look like a mockery, a child’s game—though Professor Quirrell had claimed, then, that if he’d fought for real the Auror would have been dead in seconds; and Harry knew now that this was also true.
+Harry didn’t answer. The sense of doom was as strong as Harry could ever remember feeling it, a feeling of power in the air so great that it was almost tangible. Some part of him was still viscerally shocked at how fast the shields surrounding the Aurors had been torn apart. He almost hadn’t been able to <em>see</em> the successive lashes of colour which had torn away the shields like tissue paper. It made the duel Professor Quirrell had fought against the Auror in Azkaban look like a mockery, a child’s game—though Professor Quirrell had claimed, then, that if he’d fought for real the Auror would have been dead in seconds; and Harry knew now that this was also true.
 
 Just how high did the power ladder go?
 
@@ -328,7 +328,7 @@ Harry’s breath hitched. Too many emotions were bubbling up in him at once. Aft
 
 “Because there are permanent side effects,” Professor Quirrell said quietly.
 
-“Side effects? €33€{Side effects?} What kind of side effect is medically worse than €34€{death?}” Harry’s voice rose on the last word until he was shouting.
+“Side effects? <em>Side effects?</em> What kind of side effect is medically worse than €11€<b>death?</b>” Harry’s voice rose on the last word until he was shouting.
 
 “Not everyone thinks the same way we do, Mr~Potter. Though, to be fair, the blood must come from a live unicorn and the unicorn must die in the drinking. Would I be here otherwise?”
 
@@ -336,18 +336,18 @@ Harry turned, stared at the surrounding trees. “Have a herd of unicorns at St.
 
 “Yes, that would work.”
 
-Harry’s face tightened, the only outward sign behind his trembling hands of everything that was welling up inside him. He needed to scream, needed some outlet, needed €35€{something} he couldn’t name and finally Harry levelled his wand at a tree and shouted “€36€{Diffindo!}”
+Harry’s face tightened, the only outward sign behind his trembling hands of everything that was welling up inside him. He needed to scream, needed some outlet, needed <em>something</em> he couldn’t name and finally Harry levelled his wand at a tree and shouted “<em>Diffindo!</em>”
 
 There was a sharp tearing sound, and a cut appeared across the wood.
 
-“€37€{Diffindo!}”
+“<em>Diffindo!</em>”
 
 Another cut. Harry had learned the Charm only ten days previously, after he’d started getting serious about self-defence. It was theoretically a second-year Charm, but the anger pouring through him seemed to know no bounds, he knew enough now not to exhaust himself and he still had power yet.
 
-“€38€{Diffindo!}” Harry had aimed at a branch this time, and it plummeted to the ground with a sound of twigs and leaves.
+“<em>Diffindo!</em>” Harry had aimed at a branch this time, and it plummeted to the ground with a sound of twigs and leaves.
 
 There didn’t seem to be any tears inside him, only pressure with no outlet.
 
 “I shall leave you to it,” Professor Quirrell said quietly. The Defence Professor rose from his tree stump, the unicorn’s blood still moonlit on the black cloak he wore, and drew his hood back over his head.
 
-€40€
+€13€

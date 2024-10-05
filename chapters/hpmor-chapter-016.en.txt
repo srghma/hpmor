@@ -1,18 +1,18 @@
-€6€{Lateral Thinking}
+€6€<b>Lateral Thinking</b>
 
 €2€
 The enemy’s gate is Rowling.
-€88€
+€14€
 I’m not a psychopath, I’m just very creative.
-€89€{A}{s} soon as he walked into the Defence classroom on Wednesday, Harry knew that €8€{this} subject was going to be €9€{different}.
+€15€<b>A</b><b>s</b> soon as he walked into the Defence classroom on Wednesday, Harry knew that <em>this</em> subject was going to be <em>different</em>.
 
-It was, for a start, the largest classroom he had yet seen at Hogwarts, akin to a university lecture hall, with layered tiers of desks facing a gigantic flat stage of white marble. The classroom was high up in the castle—on the fifth floor—and Harry knew that was as much explanation as he’d get for where a room like this was supposed to fit. It was becoming clear that Hogwarts simply did not €10€{have} a geometry, Euclidean or otherwise; it had connections, not directions.
+It was, for a start, the largest classroom he had yet seen at Hogwarts, akin to a university lecture hall, with layered tiers of desks facing a gigantic flat stage of white marble. The classroom was high up in the castle—on the fifth floor—and Harry knew that was as much explanation as he’d get for where a room like this was supposed to fit. It was becoming clear that Hogwarts simply did not <em>have</em> a geometry, Euclidean or otherwise; it had connections, not directions.
 
 Unlike a university hall, there weren’t rows of folding seats; instead there were quite ordinary Hogwarts wooden desks and wooden chairs, lined up in a curve across each level of the classroom. Except that each desk had a flat, white, rectangular, mysterious object propped up on it.
 
 In the centre of the gigantic platform, on a small raised dais of darker marble, was a lone teacher’s desk. At which Quirrell sat slumped over in his chair, head lolled back, drooling slightly over his robes.
 
-€11€{Now what does that remind me of…?}
+<em>Now what does that remind me of…?</em>
 
 Harry had arrived at the lesson so early that no other students were there yet. (The English language was defective when it came to describing time travel; in particular, English lacked any words capable of expressing how convenient it was.) Quirrell didn’t seem to be…functional…at the moment, and Harry didn’t particularly feel like approaching Quirrell anyway.
 
@@ -20,9 +20,9 @@ Harry selected a desk, climbed up to it, sat down, and retrieved the Defence tex
 
 Soon there were sounds as the classroom began to fill up. Harry ignored them.
 
-“Potter? What are €12€{you} doing here?”
+“Potter? What are <em>you</em> doing here?”
 
-€13€{That} voice didn’t belong here. Harry looked up. “Draco? What are €14€{you} doing in oh my god you have €15€{minions}.”
+<em>That</em> voice didn’t belong here. Harry looked up. “Draco? What are <em>you</em> doing in oh my god you have <em>minions</em>.”
 
 One of the lads standing behind Draco seemed to have rather a lot of muscle for an eleven-year-old, and the other was poised in a suspiciously balanced-looking stance.
 
@@ -32,7 +32,7 @@ Mr~Goyle tilted his head and gave Harry a look that was probably supposed to mea
 
 A fleeting expression of consternation crossed Draco’s face, but was quickly replaced by his superior grin.
 
-“You have €16€{minions}!” Harry repeated. “Where do €17€{I} get minions?”
+“You have <em>minions</em>!” Harry repeated. “Where do <em>I</em> get minions?”
 
 Draco’s smirk grew wider. “I’m afraid, Potter, that the first step is to be Sorted into Slytherin—”
 
@@ -42,33 +42,33 @@ Draco’s smirk grew wider. “I’m afraid, Potter, that the first step is to b
 
 Harry looked at Mr~Crabbe and Mr~Goyle. They both seemed to be trying very hard to loom. That is, they were leaning forwards, hunching over their shoulders, sticking their necks out and staring at him.
 
-“Um…hold on,” said Harry. “This was arranged €18€{years} ago?”
+“Um…hold on,” said Harry. “This was arranged <em>years</em> ago?”
 
 “Exactly, Potter. I’m afraid you’re out of luck.”
 
 Mr~Goyle produced a toothpick and began cleaning his teeth, still looming.
 
-“And,” said Harry, “Lucius insisted that you were €19€{not} to grow up knowing your bodyguards, and that you were only to meet them on your first day of school.”
+“And,” said Harry, “Lucius insisted that you were <em>not</em> to grow up knowing your bodyguards, and that you were only to meet them on your first day of school.”
 
 That wiped the grin from Draco’s face. “Yes, Potter, we all know you’re brilliant, the whole school knows by now, you can stop showing off—”
 
-“So they’ve been told their €20€{whole lives} that they’re going to be your minions and they’ve spent €21€{years} imagining what minions are supposed to be like—”
+“So they’ve been told their <em>whole lives</em> that they’re going to be your minions and they’ve spent <em>years</em> imagining what minions are supposed to be like—”
 
 Draco winced.
 
-“—and what’s worse, they €22€{do} know €23€{each other} and they’ve been €24€{practising}—”
+“—and what’s worse, they <em>do</em> know <em>each other</em> and they’ve been <em>practising</em>—”
 
 “The boss told ya to shut it,” rumbled Mr~Crabbe. Mr~Goyle bit down on his toothpick, holding it between his teeth, and used one hand to crack the knuckles on the other.
 
-“€25€{I told you not to do this in front of Harry Potter!}”
+“<em>I told you not to do this in front of Harry Potter!</em>”
 
 The two looked a bit sheepish and Mr~Goyle quickly put the toothpick back in a pocket of his robes.
 
 But the moment Draco turned away from them to face Harry again, they went back to looming.
 
-“I apologise,” Draco said stiffly, “for the insult which these €26€{imbeciles} have offered you.”
+“I apologise,” Draco said stiffly, “for the insult which these <em>imbeciles</em> have offered you.”
 
-Harry gave a meaningful look to Mr~Crabbe and Mr~Goyle. “I’d say you’re being a little harsh on them, Draco. €27€{I} think they’re acting exactly the way I’d want €28€{my} minions to act. I mean, if I had any minions.”
+Harry gave a meaningful look to Mr~Crabbe and Mr~Goyle. “I’d say you’re being a little harsh on them, Draco. <em>I</em> think they’re acting exactly the way I’d want <em>my</em> minions to act. I mean, if I had any minions.”
 
 Draco’s jaw dropped.
 
@@ -78,17 +78,17 @@ Draco’s jaw dropped.
 
 “Oh, I wouldn’t dream of it,” Harry said smoothly. “It’s just something to keep in mind if your current employer seems unappreciative. Besides, it never hurts to have other offers while you’re negotiating your working conditions, right?”
 
-“What’s €29€{he} doin’ in Ravenclaw?”
+“What’s <em>he</em> doin’ in Ravenclaw?”
 
 “I can’t imagine, Mr~Crabbe.”
 
-“Both of you €30€{shut up},” Draco said through gritted teeth. “That’s an €31€{order}.” With a visible effort, he transferred his attention to Harry again. “Anyway, what’re you doing in the Slytherin Defence class?”
+“Both of you <em>shut up</em>,” Draco said through gritted teeth. “That’s an <em>order</em>.” With a visible effort, he transferred his attention to Harry again. “Anyway, what’re you doing in the Slytherin Defence class?”
 
-Harry frowned. “Hold on.” His hand went into his pouch. “Timetable.” He looked over the parchment. “Defence, 2:30€32€, and right now it’s…” Harry looked at his mechanical watch, which read 11:23. “2:23, unless I’ve lost track of time. Did I?” If he had, well, Harry knew how to get to whatever lesson he was €33€{supposed} to be at. God he loved his Time-Turner and some day, when he was old enough, they would get married.
+Harry frowned. “Hold on.” His hand went into his pouch. “Timetable.” He looked over the parchment. “Defence, 2:30€8€, and right now it’s…” Harry looked at his mechanical watch, which read 11:23. “2:23, unless I’ve lost track of time. Did I?” If he had, well, Harry knew how to get to whatever lesson he was <em>supposed</em> to be at. God he loved his Time-Turner and some day, when he was old enough, they would get married.
 
 “No, that sounds right,” Draco said, looking puzzled. His gaze turned to look over the rest of the auditorium, which was filling with green-trimmed robes and…
 
-“€34€{Gryffindorks!}” spat Draco. “What’re €35€{they} doing here?”
+“<em>Gryffindorks!</em>” spat Draco. “What’re <em>they</em> doing here?”
 
 “Hm,” Harry said. “Professor Quirrell did say…I forget his exact words…that he would be ignoring some of the Hogwarts teaching conventions. Maybe he just combined all his classes.”
 
@@ -116,7 +116,7 @@ Draco made a scoffing sound. “You couldn’t get any further away from the tea
 
 “Huh?” Harry said in honest confusion.
 
-“Warrington said that spending a long time under the Sorting Hat is one of the warning signs of a major Dark Wizard. Everyone was talking about it, wondering if they should start sucking up to you just in case. Then you went and protected a bunch of €36€{Hufflepuffs,} for Merlin’s sake. €37€{Then} you told Derrick he’s a disgrace to Salazar Slytherin’s memory! What’s anyone €38€{supposed} to think?”
+“Warrington said that spending a long time under the Sorting Hat is one of the warning signs of a major Dark Wizard. Everyone was talking about it, wondering if they should start sucking up to you just in case. Then you went and protected a bunch of <em>Hufflepuffs,</em> for Merlin’s sake. <em>Then</em> you told Derrick he’s a disgrace to Salazar Slytherin’s memory! What’s anyone <em>supposed</em> to think?”
 
 “That the Sorting Hat decided to put me in the House of ‘Slytherin! Just kidding! Ravenclaw!’ and I’ve been acting accordingly.”
 
@@ -130,17 +130,17 @@ Harry nodded. “Would you mind terribly if I waited until Saturday afternoon? I
 
 “See if I can read all my textbooks as fast as Hermione Granger did.”
 
-“Granger,” Draco echoed. His eyes narrowed. “The mudblood who thinks she’s Merlin? If you’re trying to show €39€{her} up then all Slytherin wishes you the €40€{very} best luck, Potter, and I won’t bother you ’til Saturday.” Draco inclined his head respectfully, and wandered off, tailed by his minions.
+“Granger,” Draco echoed. His eyes narrowed. “The mudblood who thinks she’s Merlin? If you’re trying to show <em>her</em> up then all Slytherin wishes you the <em>very</em> best luck, Potter, and I won’t bother you ’til Saturday.” Draco inclined his head respectfully, and wandered off, tailed by his minions.
 
-€41€{Oh, this is going to be €42€{so} much fun to juggle, I can already tell.}
+<em>Oh, this is going to be €9€<b>so</em> much fun to juggle, I can already tell.</b>
 
 The classroom was filling up rapidly now with all four colours of trim: green, red, yellow, and blue. Draco and his two friends seemed to be in the midst of trying to acquire three contiguous front-row seats—already occupied, of course. Mr~Crabbe and Mr~Goyle were looming vigorously, but it didn’t seem to be having much effect.
 
 Harry bent over his Defence textbook and continued reading.
 
-€43€
+€10€
 
-At 2:35€44€, when most of the seats were taken and no-one else seemed to be coming in, Professor Quirrell gave a sudden jerk in his chair and sat up straight, and his face appeared on all the flat, white rectangular objects that were propped up on the students’ desks.
+At 2:35€11€, when most of the seats were taken and no-one else seemed to be coming in, Professor Quirrell gave a sudden jerk in his chair and sat up straight, and his face appeared on all the flat, white rectangular objects that were propped up on the students’ desks.
 
 Harry was taken by surprise, both by the sudden appearance of Professor Quirrell’s face and by the resemblance to Muggle television. There was something both nostalgic and sad about that, it seemed so much like a piece of home and yet it wasn’t really…
 
@@ -192,9 +192,9 @@ Harry desperately wished he’d sat next to Hermione so he could see the look on
 
 Also Harry was in love. It would be a three-way wedding: him, the Time-Turner, and Professor Quirrell.
 
-“For those of you who so choose, I have arranged some after-school activities that I think you will find quite interesting as well as educational. Do you want to show the world your €45€{own} abilities instead of watching fourteen other people play Quidditch? More than seven people can fight in an army.”
+“For those of you who so choose, I have arranged some after-school activities that I think you will find quite interesting as well as educational. Do you want to show the world your <em>own</em> abilities instead of watching fourteen other people play Quidditch? More than seven people can fight in an army.”
 
-Hot €46€{damn}.
+Hot <em>damn</em>.
 
 “These and other after-school activities will also earn you Quirrell points. What are Quirrell points, you ask? The House point system does not suit my needs, because it makes House points too rare. I prefer to let my students know how they are doing more frequently than that. And on the rare occasions I offer you a written test, it will mark itself as you go along, and if you get too many related questions wrong, your test will show the names of students who got those questions right, and those students will be able to earn Quirrell points by helping you.”
 
@@ -206,31 +206,31 @@ That would be Harry.
 
 “Now leave your books and loose items at your desks—they will be safe, the screens will watch over them for you—and come down onto this platform. It’s time to play a game called Who’s the Most Dangerous Student in the Classroom.”
 
-€47€
+€12€
 
-Harry twisted his wand in his right hand and said “€48€{Ma-ha-su!}”
+Harry twisted his wand in his right hand and said “<em>Ma-ha-su!</em>”
 
 There was another high-pitched “bing” from the floating blue sphere that Professor Quirrell had assigned to Harry as his target. That particular sound meant a perfect strike, which Harry had managed on nine out of his last ten attempts.
 
-Somewhere Professor Quirrell had dug up a spell that was incredibly easy to pronounce, €49€{and} had a ridiculously simple wand motion, €50€{and} had a tendency to hit wherever you were currently looking at. Professor Quirrell had disdainfully proclaimed that real battle magic was far more difficult than this. That the hex was entirely useless in actual combat. That it was a barely ordered burst of magic whose only real content was the aiming, and that it would produce, when it hit, a pain briefly equivalent to being punched hard in the nose. That the sole purpose of this test was to see who was a fast learner, since Professor Quirrell was certain no-one would have previously encountered this hex or anything like it.
+Somewhere Professor Quirrell had dug up a spell that was incredibly easy to pronounce, <em>and</em> had a ridiculously simple wand motion, <em>and</em> had a tendency to hit wherever you were currently looking at. Professor Quirrell had disdainfully proclaimed that real battle magic was far more difficult than this. That the hex was entirely useless in actual combat. That it was a barely ordered burst of magic whose only real content was the aiming, and that it would produce, when it hit, a pain briefly equivalent to being punched hard in the nose. That the sole purpose of this test was to see who was a fast learner, since Professor Quirrell was certain no-one would have previously encountered this hex or anything like it.
 
 Harry didn’t care about any of that.
 
-“€51€{Ma-ha-su!}”
+“<em>Ma-ha-su!</em>”
 
-A €52€{red bolt of energy} shot out of his wand and struck the target and the blue sphere once again made the bing which meant the spell had €53€{actually worked for him}.
+A <em>red bolt of energy</em> shot out of his wand and struck the target and the blue sphere once again made the bing which meant the spell had <em>actually worked for him</em>.
 
 Harry was feeling like a real wizard for the first time since he’d come to Hogwarts. He wished the target would dodge like the little spheres that Ben Kenobi had used for training Luke, but for some reason Professor Quirrell had instead lined up all the students and targets in neat orders which made sure they wouldn’t fire on each other.
 
-So Harry lowered his wand, skipped to the right, snapped up his wand and twisted and shouted “€54€{Ma-ha-su!}”
+So Harry lowered his wand, skipped to the right, snapped up his wand and twisted and shouted “<em>Ma-ha-su!</em>”
 
 There was a lower-pitched “dong” which meant he was almost on target.
 
 Harry put his wand into his pocket, skipped back to the left and drew and fired another red bolt of energy.
 
-The high-pitched bing which resulted was easily one of the most satisfying sounds he’d heard in his life. Harry wanted to scream in triumph at the top of his lungs. €55€{€56€{I can do magic! Fear me, laws of physics, I’m coming to violate you!}}
+The high-pitched bing which resulted was easily one of the most satisfying sounds he’d heard in his life. Harry wanted to scream in triumph at the top of his lungs. <em>€13€<b>I can do magic! Fear me, laws of physics, I’m coming to violate you!</em></b>
 
-“€57€{Ma-ha-su!}” Harry’s voice was loud, but hardly noticeable over the steady chant of similar cries from around the classroom platform.
+“<em>Ma-ha-su!</em>” Harry’s voice was loud, but hardly noticeable over the steady chant of similar cries from around the classroom platform.
 
 “Enough,” said Professor Quirrell’s amplified voice. (It didn’t sound loud. It sounded like normal volume, coming from just behind your left shoulder, no matter where you were standing relative to Professor Quirrell.) “I see that all of you have succeeded at least once now.” The target-spheres turned red and began to drift up towards the ceiling.
 
@@ -242,11 +242,11 @@ Oh blah blah blah.
 
 “—and went on to help seven other students. For which she has earned the first seven Quirrell points awarded to your year. Come forth, Hermione Granger. It is time for the next stage of the game.”
 
-Hermione Granger began striding forwards, a mixed look of triumph and apprehension on her face. The Ravenclaws looked on proudly, the Slytherins with glares, and Harry with frank annoyance. Harry had done fine this time. He was probably even in the upper half of the class, now that everyone had been faced with an equally unfamiliar spell and Harry had read all the way through Adalbert Waffling’s €58€{Magical Theory}. And yet €59€{Hermione was still doing better}.
+Hermione Granger began striding forwards, a mixed look of triumph and apprehension on her face. The Ravenclaws looked on proudly, the Slytherins with glares, and Harry with frank annoyance. Harry had done fine this time. He was probably even in the upper half of the class, now that everyone had been faced with an equally unfamiliar spell and Harry had read all the way through Adalbert Waffling’s <em>Magical Theory</em>. And yet <em>Hermione was still doing better</em>.
 
 Somewhere in the back of his mind was the fear that Hermione was simply smarter than him.
 
-But for now Harry was going to pin his hopes on the known facts that (a)~Hermione had read a lot more than the standard textbooks and (b)~Adalbert Waffling was an uninspired sod who’d written €60€{Magical Theory} to pander to a school board that didn’t think much of eleven-year-olds.
+But for now Harry was going to pin his hopes on the known facts that (a)~Hermione had read a lot more than the standard textbooks and (b)~Adalbert Waffling was an uninspired sod who’d written <em>Magical Theory</em> to pander to a school board that didn’t think much of eleven-year-olds.
 
 Hermione reached the central dais and stepped up.
 
@@ -262,9 +262,9 @@ Hermione froze where she stood.
 
 Hermione’s face was screwed up in horror and her wand was trembling in her hand. Harry’s own fingers were clenching his own wand hard in sympathy. Even though he could see what Professor Quirrell was trying to do. Even though he could see the point Professor Quirrell was trying to make.
 
-“If you do €61€{not} raise your wand and fire, Miss~Granger, you will lose a Quirrell point.”
+“If you do <em>not</em> raise your wand and fire, Miss~Granger, you will lose a Quirrell point.”
 
-Harry stared at Hermione, willing her to look in his direction. His right hand was softly tapping his own chest. €62€{Pick me, I’m not afraid…}
+Harry stared at Hermione, willing her to look in his direction. His right hand was softly tapping his own chest. <em>Pick me, I’m not afraid…</em>
 
 Hermione’s wand twitched in her hand; then her face relaxed, and she lowered her wand to her side.
 
@@ -278,7 +278,7 @@ That reached her. Harry could see it. But she kept her shoulders straight.
 
 Professor Quirrell’s voice was sympathetic and seemed to fill the whole room. “Knowing things isn’t always enough, Miss~Granger. If you cannot give and receive violence on the order of stubbing your toe, then you cannot defend yourself and you will not pass Defence. Please rejoin your classmates.”
 
-Hermione walked back towards the Ravenclaw cluster. Her face looked peaceful and Harry, for some odd reason, wanted to start clapping. Even though Professor Quirrell had been €63€{right}.
+Hermione walked back towards the Ravenclaw cluster. Her face looked peaceful and Harry, for some odd reason, wanted to start clapping. Even though Professor Quirrell had been <em>right</em>.
 
 “So,” Professor Quirrell said. “It becomes clear that Hermione Granger is not the most dangerous student in the classroom. Who do you think might actually be the most dangerous person here?—besides me, of course.”
 
@@ -290,7 +290,7 @@ Draco did so, walking with a certain pride in his bearing. He stepped onto the d
 
 “Mr~Malfoy,” Professor Quirrell said. “Fire.”
 
-Harry would have tried to stop it if there’d been time but in one smooth motion Draco spun on the Ravenclaw contingent and raised his wand and said “€64€{Mahasu!}” like it was all one syllable and Hermione was saying “Ow!” and that was that.
+Harry would have tried to stop it if there’d been time but in one smooth motion Draco spun on the Ravenclaw contingent and raised his wand and said “<em>Mahasu!</em>” like it was all one syllable and Hermione was saying “Ow!” and that was that.
 
 “Well struck,” said Professor Quirrell. “Two Quirrell points to you. But tell me, why did you target Miss~Granger?”
 
@@ -304,7 +304,7 @@ Draco bowed slightly and walked back to the Slytherin contingent. Some clapping 
 
 “It might seem that our game is done,” said Professor Quirrell. “And yet there is a single student in this classroom who is more dangerous than the scion of Malfoy.”
 
-And €65€{now} for some reason there seemed to be an awful lot of people looking at…
+And <em>now</em> for some reason there seemed to be an awful lot of people looking at…
 
 “Harry Potter. Come forth.”
 
@@ -314,7 +314,7 @@ Harry reluctantly walked towards where Professor Quirrell stood on his raised da
 
 The nervousness of being put into the spotlight seemed to be sharpening Harry’s wits as he approached the dais, and his mind was ruffling through possibilities for what Professor Quirrell might think could demonstrate Harry’s dangerousness. Would he be asked to cast a spell? To defeat a Dark Lord?
 
-Demonstrate his supposed immunity to the Killing Curse? Surely Professor Quirrell was too smart for €66€{that}…
+Demonstrate his supposed immunity to the Killing Curse? Surely Professor Quirrell was too smart for <em>that</em>…
 
 Harry stopped well short of the dais, and Professor Quirrell didn’t ask him to come any closer.
 
@@ -324,7 +324,7 @@ A jolt of adrenaline poured into Harry’s system, making him stand up straighte
 
 “Ah, Professor Quirrell—” Harry started to say.
 
-Professor Quirrell looked amused. “You’re thinking that I’ve come up with a wrong answer, aren’t you, Mr~Potter? You will learn to expect better of €67€{me}.” Professor Quirrell straightened from where he had leaned on the desk. “Mr~Potter, all things have their accustomed uses. Give me ten unaccustomed uses of objects in this room for combat!”
+Professor Quirrell looked amused. “You’re thinking that I’ve come up with a wrong answer, aren’t you, Mr~Potter? You will learn to expect better of <em>me</em>.” Professor Quirrell straightened from where he had leaned on the desk. “Mr~Potter, all things have their accustomed uses. Give me ten unaccustomed uses of objects in this room for combat!”
 
 For a moment Harry was rendered speechless by the sheer, raw shock of having been understood.
 
@@ -336,11 +336,11 @@ Harry had to stop briefly for breath, and into that pause Professor Quirrell sai
 
 “That’s three. You need ten. The rest of the class thinks that you’ve already used up the whole contents of the classroom.”
 
-“€68€{Ha!} The floor can be removed to create a spike pit to fall into, the ceiling can be collapsed on someone, the walls can serve as raw material for Transfiguration into any number of deadly things—knives, say.”
+“<em>Ha!</em> The floor can be removed to create a spike pit to fall into, the ceiling can be collapsed on someone, the walls can serve as raw material for Transfiguration into any number of deadly things—knives, say.”
 
 “That’s six. But surely you’re scraping the bottom of the barrel now?”
 
-“I haven’t even started! Just look at all the people! Having a Gryffindor attack the enemy is an €69€{ordinary} use, of course—”
+“I haven’t even started! Just look at all the people! Having a Gryffindor attack the enemy is an <em>ordinary</em> use, of course—”
 
 “I will not count that one.”
 
@@ -362,9 +362,9 @@ By now the rest of the class was staring at Harry in some horror. Even the Slyth
 
 “Five points, and enough.”
 
-“Hmph,” Harry said. “Ten Quirrell points to one House point, right? You should have let me keep going until I’d won the House Cup, I haven’t even started yet on the unaccustomed uses of everything I’ve got in my pockets” or the mokeskin pouch itself and he couldn’t talk about the Time-Turner or the invisibility cloak but there had to be €70€{something} he could say about those red spheres…
+“Hmph,” Harry said. “Ten Quirrell points to one House point, right? You should have let me keep going until I’d won the House Cup, I haven’t even started yet on the unaccustomed uses of everything I’ve got in my pockets” or the mokeskin pouch itself and he couldn’t talk about the Time-Turner or the invisibility cloak but there had to be <em>something</em> he could say about those red spheres…
 
-“€71€{Enough,} Mr~Potter. Well, do you all think you understand what makes Mr~Potter the most dangerous student in the classroom?”
+“<em>Enough,</em> Mr~Potter. Well, do you all think you understand what makes Mr~Potter the most dangerous student in the classroom?”
 
 There was a low murmur of assent.
 
@@ -372,15 +372,15 @@ There was a low murmur of assent.
 
 “Ah…um…he’s creative?”
 
-“€72€{Wrong!}” bellowed Professor Quirrell, and his fist came down sharply on his desk with an amplified sound that made everyone jump. “All of Mr~Potter’s ideas were worse than useless!”
+“<em>Wrong!</em>” bellowed Professor Quirrell, and his fist came down sharply on his desk with an amplified sound that made everyone jump. “All of Mr~Potter’s ideas were worse than useless!”
 
 Harry started in surprise.
 
 “Remove the floor to create a spike trap? Ridiculous! In combat you do not have that sort of preparation time and if you did there would be a hundred better uses! Transfigure material from the walls? Mr~Potter cannot perform Transfiguration! Mr~Potter had exactly one idea which he could use immediately, right now, without extensive preparation or a cooperative enemy or magic he does not know. That idea was to jam his wand through his enemy’s eye socket. Which would be more likely to break his wand than kill his opponent! In short, Mr~Potter, I’m afraid that your proposals were uniformly awful.”
 
-“What?” Harry said indignantly. “You €73€{asked} for unusual ideas, not practical ones! I was thinking outside the box! How would €74€{you} use something in this classroom to kill someone?”
+“What?” Harry said indignantly. “You <em>asked</em> for unusual ideas, not practical ones! I was thinking outside the box! How would <em>you</em> use something in this classroom to kill someone?”
 
-Professor Quirrell’s expression was disapproving, but there were smile crinkles around his eyes. “Mr~Potter, I never said you were to €75€{kill}. There is a time and a place for taking your enemy alive, and inside a Hogwarts classroom is usually one of those places. But to answer your question, hit them on the neck with the edge of a chair.”
+Professor Quirrell’s expression was disapproving, but there were smile crinkles around his eyes. “Mr~Potter, I never said you were to <em>kill</em>. There is a time and a place for taking your enemy alive, and inside a Hogwarts classroom is usually one of those places. But to answer your question, hit them on the neck with the edge of a chair.”
 
 There was some laughter from the Slytherins, but they were laughing with Harry, not at him.
 
@@ -390,9 +390,9 @@ Everyone else was looking rather horrified.
 
 What? Wait, that couldn’t be true…Harry had a sudden sense of vertigo as he tried to remember what exactly he’d suggested, surely there had to be a counterexample…
 
-“And that,” Professor Quirrell said, “is why Mr~Potter’s ideas were so strange and useless—because he had to reach far into the impractical in order to meet his standard of €76€{killing the enemy}. To him, any idea which fell short of that was not worth considering. This reflects a quality that we might call €77€{intent to kill}. I have it. Harry Potter has it, which is how he could stare down five older Slytherins. Draco Malfoy does not have it, not yet. Mr~Malfoy would hardly shrink from talk of ordinary murder, but even he was shocked—yes you were Mr~Malfoy, I was watching your face—when Mr~Potter described how to use his classmates’ bodies as raw material. There are censors inside your mind which make you flinch away from thoughts like that. Mr~Potter thinks €78€{purely} of killing the enemy, he will grasp at any means to do so, he does not flinch, his censors are off. Even though his youthful genius is so undisciplined and impractical as to be useless, his €79€{intent to kill} makes Harry Potter the Most Dangerous Student in the Classroom. One final point to him—no, let us make that a point to Ravenclaw—for this indispensable requisite of a true fighting wizard.”
+“And that,” Professor Quirrell said, “is why Mr~Potter’s ideas were so strange and useless—because he had to reach far into the impractical in order to meet his standard of <em>killing the enemy</em>. To him, any idea which fell short of that was not worth considering. This reflects a quality that we might call <em>intent to kill</em>. I have it. Harry Potter has it, which is how he could stare down five older Slytherins. Draco Malfoy does not have it, not yet. Mr~Malfoy would hardly shrink from talk of ordinary murder, but even he was shocked—yes you were Mr~Malfoy, I was watching your face—when Mr~Potter described how to use his classmates’ bodies as raw material. There are censors inside your mind which make you flinch away from thoughts like that. Mr~Potter thinks <em>purely</em> of killing the enemy, he will grasp at any means to do so, he does not flinch, his censors are off. Even though his youthful genius is so undisciplined and impractical as to be useless, his <em>intent to kill</em> makes Harry Potter the Most Dangerous Student in the Classroom. One final point to him—no, let us make that a point to Ravenclaw—for this indispensable requisite of a true fighting wizard.”
 
-Harry’s mouth gaped open in speechless shock as he searched frantically for something to say to this. €80€{That is so completely not what I am about!}
+Harry’s mouth gaped open in speechless shock as he searched frantically for something to say to this. <em>That is so completely not what I am about!</em>
 
 But he could see that the other students were starting to believe it. Harry’s mind was flipping through possible denials and not finding anything that could stand up against the authoritative voice of Professor Quirrell. The best Harry had come up with was “I’m not a psychopath, I’m just very creative” and that sounded kind of ominous. He needed to say something unexpected, something that would make people stop and reconsider—
 
@@ -400,7 +400,7 @@ But he could see that the other students were starting to believe it. Harry’s 
 
 Nothing happened, of course.
 
-“Ah, well,” said Professor Quirrell. He sighed. “I suppose we must all start somewhere. Mr~Potter, select any student you please for a Simple Strike Hex. You €81€{will} do so before I dismiss your class for the day. If you do not, I will begin deducting House points, and I will keep on deducting them until you do.”
+“Ah, well,” said Professor Quirrell. He sighed. “I suppose we must all start somewhere. Mr~Potter, select any student you please for a Simple Strike Hex. You <em>will</em> do so before I dismiss your class for the day. If you do not, I will begin deducting House points, and I will keep on deducting them until you do.”
 
 Harry carefully raised his wand. He had to do that much, or Professor Quirrell might start deducting House points right away.
 
@@ -412,9 +412,9 @@ Draco Malfoy didn’t look the slightest bit afraid. The blonde-haired boy wasn�
 
 “Why the hesitation?” said Professor Quirrell. “Surely there’s only one obvious choice.”
 
-“Yes,” Harry said. “Only one €82€{obvious} choice.”
+“Yes,” Harry said. “Only one <em>obvious</em> choice.”
 
-Harry twisted the wand and said “€83€{Ma-ha-su!}”
+Harry twisted the wand and said “<em>Ma-ha-su!</em>”
 
 There was complete silence in the classroom.
 
@@ -434,16 +434,16 @@ Harry turned towards Professor Quirrell, the two of them needed to talk—
 
 Quirrell had slumped over and was trudging back to his chair.
 
-No. Not acceptable. They €84€{really} needed to talk. Stuff the zombie act, Professor Quirrell would probably wake up if Harry poked him a couple of times. Harry started forward—
+No. Not acceptable. They <em>really</em> needed to talk. Stuff the zombie act, Professor Quirrell would probably wake up if Harry poked him a couple of times. Harry started forward—
 
-€85€{WRONG}
+<em>WRONG</em>
 
-€86€{DON’T}
+<em>DON’T</em>
 
-€87€{BAD IDEA}
+<em>BAD IDEA</em>
 
 Harry swayed and stopped in his tracks, feeling dizzy.
 
 And then a flock of Ravenclaws descended on him and the discussions began.
 
-€90€
+€16€

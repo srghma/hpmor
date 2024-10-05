@@ -1,12 +1,12 @@
-€1€{The Stanford Prison Experiment}{V}
+€1€<b>The Stanford Prison Experiment</b><b>V</b>
 
-€2€{I}{n} a scarred and ruined corridor, lit by dim gas lights, a boy slowly crept forward, one hand stretched out, toward the unmoving snake that was the body of his teacher.
+€2€<b>I</b><b>n</b> a scarred and ruined corridor, lit by dim gas lights, a boy slowly crept forward, one hand stretched out, toward the unmoving snake that was the body of his teacher.
 
 Harry was only a metre away from the snake’s body when he first felt it, tickling at the edge of his perception.
 
 Ever so weakly, a sense of doom…
 
-Professor Quirrell €3€{was} alive, then.
+Professor Quirrell <em>was</em> alive, then.
 
 The thought engendered no feeling of joy, only a sort of empty despair.
 
@@ -18,9 +18,9 @@ He had failed.
 
 Harry looked at the crumpled body of the police officer he’d stunned, the already-drying blood from the minor cuts and slashes, the burned places on the intricately embroidered red robes.
 
-He’d been stupid. He €4€{shouldn’t} have stunned the police officer, should have just €5€{stayed} with his original story about being kidnapped by Professor Quirrell…
+He’d been stupid. He <em>shouldn’t</em> have stunned the police officer, should have just <em>stayed</em> with his original story about being kidnapped by Professor Quirrell…
 
-€6€{It might not be too late,} whispered a voice inside him. €7€{You might still be able to fix your mistake. The Auror saw you, he remembers that you stunned him…but if he were dead, if Professor Quirrell were dead, if Bellatrix were dead, there would be no-one to contradict your story.}
+<em>It might not be too late,</em> whispered a voice inside him. <em>You might still be able to fix your mistake. The Auror saw you, he remembers that you stunned him…but if he were dead, if Professor Quirrell were dead, if Bellatrix were dead, there would be no-one to contradict your story.</em>
 
 Slowly, Harry’s hand started to rise, pointing his wand at the police officer and—
 
@@ -30,9 +30,9 @@ He had a distant sense he was behaving uncharacteristically of himself, somehow.
 
 Oh. That was right. He was someone who believed in the value of human life.
 
-A sense of puzzlement accompanied the thought, he couldn’t quite remember €8€{why} other people’s lives had seemed valuable…
+A sense of puzzlement accompanied the thought, he couldn’t quite remember <em>why</em> other people’s lives had seemed valuable…
 
-€9€{All right,} said the logical part of him, €10€{why has my mind changed between then and now}?
+<em>All right,</em> said the logical part of him, <em>why has my mind changed between then and now</em>?
 
 Because he was in Azkaban…
 
@@ -50,17 +50,17 @@ That was odd, it had been something very important, he really ought to be able t
 
 His body was shivering, Azkaban hadn’t seemed so cold before, and it seemed to be getting colder even as he thought. It was too late for him, he’d already sunk too far, he’d never be able to cast the Patronus Charm now—
 
-€11€{That may be the Dementation talking rather than an accurate estimate,} observed the logical part of himself, habits that had been encoded into sheer reflex, requiring no energy to activate. €12€{Think of the Dementors’ fear as a cognitive bias, and try to overcome it the way you would overcome any other cognitive bias. Your hopeless feelings may not indicate that the situation is actually hopeless. It may only indicate that you are in the presence of Dementors. All negative emotions and pessimistic estimates must now be considered suspect, fallacious until proven valid.}
+<em>That may be the Dementation talking rather than an accurate estimate,</em> observed the logical part of himself, habits that had been encoded into sheer reflex, requiring no energy to activate. <em>Think of the Dementors’ fear as a cognitive bias, and try to overcome it the way you would overcome any other cognitive bias. Your hopeless feelings may not indicate that the situation is actually hopeless. It may only indicate that you are in the presence of Dementors. All negative emotions and pessimistic estimates must now be considered suspect, fallacious until proven valid.</em>
 
 (If you’d been watching the boy as he thought, you would have seen a distant, abstract, puzzled frown move across his face, below the glasses and the lightning-bolt scar. His hand stayed in the starting position for the Patronus Charm, and did not move.)
 
-€13€{The presence of Dementors interferes with the part of you that processes happiness. If you cannot retrieve your happy thought by mnemonic association on the key of happiness, perhaps you can get at the memory some other way instead. When was the last time you talked to someone about the Patronus Charm?}
+<em>The presence of Dementors interferes with the part of you that processes happiness. If you cannot retrieve your happy thought by mnemonic association on the key of happiness, perhaps you can get at the memory some other way instead. When was the last time you talked to someone about the Patronus Charm?</em>
 
 Harry couldn’t seem to remember that either.
 
 A crushing wave of despair swept over him, and was dismissed by the logical part of himself as untrustworthy, external, not-Harry, the dull weight still pressed him down but his mind went on thinking, it didn’t take much effort to think…
 
-€14€{When was the last time you talked to someone about Dementors?}
+<em>When was the last time you talked to someone about Dementors?</em>
 
 Professor Quirrell had said that he was already able to feel the presence of Dementors, and Harry had said to Professor Quirrell…he’d told Professor Quirrell…
 
@@ -78,21 +78,21 @@ Some of the coldness at the fringes of his limbs seemed to retreat.
 
 There were words he had spoken out loud on the day he’d first cast the Patronus Charm, his mind could remember the sounds and the speech even as the feelings seemed distant…
 
-…€15€{I thought of my absolute rejection of death as the natural order.}
+…<em>I thought of my absolute rejection of death as the natural order.</em>
 
 You cast the True Patronus Charm by thinking about the value of human life.
 
-€16€{…But there are other lives that are still alive to be fought for. Your life, and my life, and Hermione Granger’s life, all the lives of Earth, and all the lives beyond, to be defended and protected.}
+<em>…But there are other lives that are still alive to be fought for. Your life, and my life, and Hermione Granger’s life, all the lives of Earth, and all the lives beyond, to be defended and protected.</em>
 
 Then the idea of killing everyone…that hadn’t been his true self, that had been the Dementation talking…
 
 Despair was the Dementors’ influence.
 
-€17€{Where there’s life, there’s hope. The Auror is still alive. Professor Quirrell is still alive. Bellatrix is still alive. I’m still alive. No-one’s actually died yet…}
+<em>Where there’s life, there’s hope. The Auror is still alive. Professor Quirrell is still alive. Bellatrix is still alive. I’m still alive. No-one’s actually died yet…</em>
 
 Harry could picture the Earth, now, in the midst of the star-field, the blue-white orb.
 
-€18€{…and I won’t let them!}
+<em>…and I won’t let them!</em>
 
 “Expecto Patronum!”
 
@@ -110,7 +110,7 @@ Harry reviewed the situation.
 
 It wasn’t the crushing despair of before, but Harry still felt wobbly, to put it mildly. He didn’t dare go dark and it was his dark side that had the ability to take this level of problem in stride. It was his dark side that would have laughed scornfully at the very concept of giving up just because he’d lost Professor Quirrell and was marooned in the depths of Azkaban and had been seen by a police officer. The ordinary Harry was not able to take that sort of thing in stride.
 
-But there wasn’t any option except to keep moving forward anyway. You couldn’t get any €19€{more} pointless than giving up before you’d actually lost.
+But there wasn’t any option except to keep moving forward anyway. You couldn’t get any <em>more</em> pointless than giving up before you’d actually lost.
 
 Harry looked around.
 
@@ -120,25 +120,25 @@ Professor Quirrell could have repaired it easily enough, if he’d…
 
 The sense of betrayal struck Harry with full force, then.
 
-€20€{Why…why did he…why…}
+<em>Why…why did he…why…</em>
 
-€21€{Because he’s evil,} said Gryffindor and Hufflepuff, quietly and sadly. €22€{We told you so.}
+<em>Because he’s evil,</em> said Gryffindor and Hufflepuff, quietly and sadly. <em>We told you so.</em>
 
-€23€{No!} thought Harry desperately. €24€{No, it doesn’t make sense, we were going to commit the perfect crime, the Auror could have been Obliviated, the corridor repaired, it wasn’t too late but it €25€{would} have been too late if he’d died!}
+<em>No!</em> thought Harry desperately. <em>No, it doesn’t make sense, we were going to commit the perfect crime, the Auror could have been Obliviated, the corridor repaired, it wasn’t too late but it €3€<b>would</em> have been too late if he’d died!</b>
 
-€26€{But Professor Quirrell was never really planning to commit the perfect crime,} said the grim voice of Slytherin. €27€{He €28€{wanted} the crime to be noticed. He wanted everyone to know that someone had killed an Auror and broken Bellatrix Black out of Azkaban. He would have prepared some kind of evidence, some proof he could reveal of your involvement, to use as blackmail against you; and you would have been bound to him forever.}
+<em>But Professor Quirrell was never really planning to commit the perfect crime,</em> said the grim voice of Slytherin. <em>He €4€<b>wanted</em> the crime to be noticed. He wanted everyone to know that someone had killed an Auror and broken Bellatrix Black out of Azkaban. He would have prepared some kind of evidence, some proof he could reveal of your involvement, to use as blackmail against you; and you would have been bound to him forever.</b>
 
 Harry’s Patronus almost went out, then.
 
-€29€{No…} Harry thought.
+<em>No…</em> Harry thought.
 
-€30€{Yes,} said the other three parts of him sadly.
+<em>Yes,</em> said the other three parts of him sadly.
 
-€31€{No. It still doesn’t make sense. Professor Quirrell had to know I would turn against him the instant I saw him kill an Auror. That I might very well go ahead and confess to Dumbledore, hoping to plead the true fact that I was tricked. And…in terms of blackmail, does his killing an Auror against my will, really add all €32€{that} much to breaking Bellatrix out of Azkaban with my willing help? It would have been more cunning to keep the evidence of my involvement with the basic crime, but still pretend to be my ally for as long as he could, saving the blackmail to use only if it became necessary…}
+<em>No. It still doesn’t make sense. Professor Quirrell had to know I would turn against him the instant I saw him kill an Auror. That I might very well go ahead and confess to Dumbledore, hoping to plead the true fact that I was tricked. And…in terms of blackmail, does his killing an Auror against my will, really add all €5€<b>that</em> much to breaking Bellatrix out of Azkaban with my willing help? It would have been more cunning to keep the evidence of my involvement with the basic crime, but still pretend to be my ally for as long as he could, saving the blackmail to use only if it became necessary…</b>
 
-€33€{Rationalization,} said Slytherin. €34€{So why €35€{did} Professor Quirrell do it, then?}
+<em>Rationalization,</em> said Slytherin. <em>So why €6€<b>did</em> Professor Quirrell do it, then?</b>
 
-And Harry thought with a tinge of desperation—knowing, even as he thought it, that he was motivated in part by a desire to reject reality, and that wasn’t how the technique was meant to be wielded—€36€{I notice that I am confused.}
+And Harry thought with a tinge of desperation—knowing, even as he thought it, that he was motivated in part by a desire to reject reality, and that wasn’t how the technique was meant to be wielded—<em>I notice that I am confused.</em>
 
 There was internal silence. None of the parts of himself seemed to have anything to add to that.
 
@@ -146,7 +146,7 @@ And Harry continued to take stock of the moderately hopeless-looking situation.
 
 Did Harry need to re-evaluate the probability that Bellatrix was evil?
 
-…not in any mission-relevant sense. It was a €37€{given} that Bellatrix was currently evil. Whether she was an innocent who’d been made that way by torture and Legilimency and unspeakable rituals, or whether she’d chosen it of her own will, didn’t have much bearing on the current situation. The key fact was that while Bellatrix thought Harry was the Dark Lord, she would obey him.
+…not in any mission-relevant sense. It was a <em>given</em> that Bellatrix was currently evil. Whether she was an innocent who’d been made that way by torture and Legilimency and unspeakable rituals, or whether she’d chosen it of her own will, didn’t have much bearing on the current situation. The key fact was that while Bellatrix thought Harry was the Dark Lord, she would obey him.
 
 That was one resource, then. But Bellatrix was starved and nine-tenths dead…
 
@@ -154,41 +154,41 @@ That was one resource, then. But Bellatrix was starved and nine-tenths dead…
 
 Bellatrix had said that, in her shattered voice, after Harry’s Patronus had blazed out of control.
 
-Harry thought, and he couldn’t have quite said €38€{why} he thought this, it might have just been his own mind making things up, but…it seemed likely that what the Dementors had taken from you long ago was lost forever. But what the Dementors had taken from you €39€{recently}, the True Patronus Charm might give back. Like the difference between emptying a cup, and the unused cup fading away. Bellatrix, then, might have got back what she’d lost in just the last week or so. Not any happy memories, those would have been eaten years ago. But whatever strength and magic had been drained from her in just the last week, she might have regained. Like the equivalent of getting a week of rest, a week to build up her magic again…
+Harry thought, and he couldn’t have quite said <em>why</em> he thought this, it might have just been his own mind making things up, but…it seemed likely that what the Dementors had taken from you long ago was lost forever. But what the Dementors had taken from you <em>recently</em>, the True Patronus Charm might give back. Like the difference between emptying a cup, and the unused cup fading away. Bellatrix, then, might have got back what she’d lost in just the last week or so. Not any happy memories, those would have been eaten years ago. But whatever strength and magic had been drained from her in just the last week, she might have regained. Like the equivalent of getting a week of rest, a week to build up her magic again…
 
 Harry looked at Professor Quirrell’s snake form.
 
-…maybe enough for an €40€{Innervate.}
+…maybe enough for an <em>Innervate.</em>
 
-If awakening Professor Quirrell €41€{was}, in fact, a smart thing to do.
+If awakening Professor Quirrell <em>was</em>, in fact, a smart thing to do.
 
 Some of the despair came back to Harry, then. He couldn’t trust Professor Quirrell, couldn’t trust that reviving him would be wise, not after what had just happened.
 
-€42€{Steady,} Harry thought to himself, and looked at the crumpled form of the Auror.
+<em>Steady,</em> Harry thought to himself, and looked at the crumpled form of the Auror.
 
-Bellatrix might €43€{also} be able to manage a Memory Charm.
+Bellatrix might <em>also</em> be able to manage a Memory Charm.
 
-That could be step one, anyway. It wasn’t exactly getting everyone safely out of Azkaban, and the Aurors €44€{would} know afterwards that something strange had happened, they might suspect Bellatrix’s body and perform an autopsy. But it was a step.
+That could be step one, anyway. It wasn’t exactly getting everyone safely out of Azkaban, and the Aurors <em>would</em> know afterwards that something strange had happened, they might suspect Bellatrix’s body and perform an autopsy. But it was a step.
 
-…and €45€{would} it be all that hard to get out of Azkaban? If they could get to the top of Azkaban quickly enough, before the Auror was supposed to report back in, before anyone noticed him missing, then they could just fly out through the hole Professor Quirrell had made, and get far enough away from Azkaban to activate the portkey Harry already had in his possession. (Both Professor Quirrell and Harry had portkeys, and both were powerful enough to transport two humans, plus or minus a snake. As with their doubly-concealed departure from Mary’s Room, Professor Quirrell had put enough safety margin in his plans to impress even Harry.)
+…and <em>would</em> it be all that hard to get out of Azkaban? If they could get to the top of Azkaban quickly enough, before the Auror was supposed to report back in, before anyone noticed him missing, then they could just fly out through the hole Professor Quirrell had made, and get far enough away from Azkaban to activate the portkey Harry already had in his possession. (Both Professor Quirrell and Harry had portkeys, and both were powerful enough to transport two humans, plus or minus a snake. As with their doubly-concealed departure from Mary’s Room, Professor Quirrell had put enough safety margin in his plans to impress even Harry.)
 
 Bellatrix could carry Professor Quirrell’s snake form, which Harry dared not touch or levitate.
 
-Harry turned and strode quickly toward where Bellatrix was waiting on the stairs. He could feel his spirits reviving a little. It €46€{was} starting to look like a good plan, and there was no time to waste in going about it.
+Harry turned and strode quickly toward where Bellatrix was waiting on the stairs. He could feel his spirits reviving a little. It <em>was</em> starting to look like a good plan, and there was no time to waste in going about it.
 
-What to do with Professor Quirrell, or for that matter Bellatrix, after the portkey took them to where they were supposed to hand Bellatrix over to the psychiatric healer…well, Harry could work that out along the way. Harry would probably have to bamboozle the healer into doing something—which was going to take one hell of a bamboozling, and Harry wasn’t even sure what he €47€{wanted} done—but he and Bellatrix had to get moving €48€{now}.
+What to do with Professor Quirrell, or for that matter Bellatrix, after the portkey took them to where they were supposed to hand Bellatrix over to the psychiatric healer…well, Harry could work that out along the way. Harry would probably have to bamboozle the healer into doing something—which was going to take one hell of a bamboozling, and Harry wasn’t even sure what he <em>wanted</em> done—but he and Bellatrix had to get moving <em>now</em>.
 
-The main problem Harry saw, as he quickly ran the whole process forward in his imagination, would come when they reached the roof. Professor Quirrell had been supposed to sneak around invisibly and Confund the monitors that would notice visitors in the ærial surroundings of Azkaban, causing them to see a repeating loop of scenery for a few minutes. Professor Quirrell had said that he couldn’t Disillusion Harry’s Patronus; and if they switched €49€{off} the Patronus, the Dementors would notice Bellatrix was missing, and alert the Aurors…
+The main problem Harry saw, as he quickly ran the whole process forward in his imagination, would come when they reached the roof. Professor Quirrell had been supposed to sneak around invisibly and Confund the monitors that would notice visitors in the ærial surroundings of Azkaban, causing them to see a repeating loop of scenery for a few minutes. Professor Quirrell had said that he couldn’t Disillusion Harry’s Patronus; and if they switched <em>off</em> the Patronus, the Dementors would notice Bellatrix was missing, and alert the Aurors…
 
 Harry’s train of thought stumbled.
 
 There were times when ‘Aw, crap’ just didn’t seem to cover it.
 
-€50€
+€7€
 
-Li’s hands were sure despite the adrenaline, as he unlocked the bars on the Vanishing Cabinet that linked Azkaban to a well-guarded room in the interior of the Department of Magical Law Enforcement. (A one-way Vanishing Cabinet, of course. The wards permitted a few fast ways €51€{into} Azkaban, all of them highly restricted, and €52€{no} fast ways out.)
+Li’s hands were sure despite the adrenaline, as he unlocked the bars on the Vanishing Cabinet that linked Azkaban to a well-guarded room in the interior of the Department of Magical Law Enforcement. (A one-way Vanishing Cabinet, of course. The wards permitted a few fast ways <em>into</em> Azkaban, all of them highly restricted, and <em>no</em> fast ways out.)
 
-Li stepped well back, pointed his wand at the Cabinet, spoke the incantation “€53€{Harmonia Nectere Passus}”, and not a second later—
+Li stepped well back, pointed his wand at the Cabinet, spoke the incantation “<em>Harmonia Nectere Passus</em>”, and not a second later—
 
 The door of the Cabinet burst open with a bang, and into the room strode a heavy-set, square-jawed witch with greyed hair cropped close around her head. She wore no rank signs as she wore no jewellery or other ornamentation, it was only an ordinary Auror’s robes that she deemed fit to grace herself: Director Amelia Bones, head of the Department of Magical Law Enforcement and said to be the only witch in the DMLE who could take Mad-Eye Moody in a fair fight (not that either of those two were the sort to fight fairly). Li had heard rumours that Amelia could Apparate within the bounds of the DMLE, and this was the sort of thing that gave rise to rumours like that, he’d called in the alarm not fifty seconds ago.
 
@@ -202,13 +202,13 @@ Then another trio of Hit Wizards.
 
 Then another broomstick team.
 
-€54€
+€8€
 
 The emaciated form that was Bellatrix Black was resting motionless on the stairs when Harry got there, eyes closed, and when Harry asked in a cold, high whisper whether she was awake, he got no response.
 
 A brief twitch of panic was countered by the thought that Professor Quirrell had knocked her out to prevent her from hearing the Dark Lord’s cringing servant suddenly turn into a hardened criminal and then an expert battle-mage. Which was good, because she wouldn’t have heard Harry’s voice saying ‘Expecto Patronum’.
 
-Harry drew back the hood of the Cloak, pointed his wand at Bellatrix, and whispered as gently as he could, “€55€{Innervate.}”
+Harry drew back the hood of the Cloak, pointed his wand at Bellatrix, and whispered as gently as he could, “<em>Innervate.</em>”
 
 From the way Bellatrix’s body jerked a little, Harry didn’t think he’d managed to get it quite gentle enough.
 
@@ -218,27 +218,27 @@ The sunken dark eyes opened.
 
 There was a pause, and then Bellatrix’s pale head nodded.
 
-“Very good,” Harry said dryly. “I won’t ask you to walk unaided, Bella dear, but I am afraid you must walk.” He pointed his wand at her. “€56€{Wingardium Leviosa.}”
+“Very good,” Harry said dryly. “I won’t ask you to walk unaided, Bella dear, but I am afraid you must walk.” He pointed his wand at her. “<em>Wingardium Leviosa.</em>”
 
 Harry kept the flow of force down to something he could sustain for a while, and it was still probably lifting two-thirds of her current body weight. She was…thin.
 
 Slowly, as though for the first time in years, Bellatrix Black pushed herself to her feet.
 
-€57€
+€9€
 
-Amelia strode into the duty room, Auror Li and his silver badger following behind her. She’d spun her Time-Turner the moment she’d heard the alarm, and then spent a tense hour preparing her forces for entry. You couldn’t €58€{loop} time within Azkaban itself, Azkaban’s future couldn’t interact with its past, so she hadn’t been able to arrive before the DMLE had got the message, but she should have arrived in time…
+Amelia strode into the duty room, Auror Li and his silver badger following behind her. She’d spun her Time-Turner the moment she’d heard the alarm, and then spent a tense hour preparing her forces for entry. You couldn’t <em>loop</em> time within Azkaban itself, Azkaban’s future couldn’t interact with its past, so she hadn’t been able to arrive before the DMLE had got the message, but she should have arrived in time…
 
 Her eyes went straight to the corpse, uncloaked and looking very dead, floating beyond the viewing window.
 
 “Where is Bellatrix Black?” Amelia demanded, showing no fear before the creature of fear.
 
-Even her own blood froze for an instant, as the corpse parted its lips, and gurgled, “€59€{Do not know.}”
+Even her own blood froze for an instant, as the corpse parted its lips, and gurgled, “<em>Do not know.</em>”
 
-€60€
+€10€
 
 Harry watched, now fully invisible once more, as Bellatrix slowly leaned down, took Professor Quirrell’s wand (which Harry dared not touch), and slowly straightened again.
 
-Then Bellatrix pointed the wand at the snake, and said, her voice precise though it was still a whisper, “€61€{Innervate.}”
+Then Bellatrix pointed the wand at the snake, and said, her voice precise though it was still a whisper, “<em>Innervate.</em>”
 
 The snake did not stir.
 
@@ -250,7 +250,7 @@ Bellatrix paused, and then said, hesitantly, “I think so, my Lord.”
 
 “Eliminate that Auror’s last half-hour of memory,” Harry commanded. He’d thought a bit about whether he wanted to provide any justification for that, what he would say if Bellatrix asked why they weren’t just killing him, in which case Harry would explain that they were pretending to be a different power group and then tell her to shut up—
 
-But Bellatrix simply pointed her wand at the Auror, stood silently for a time, and finally whispered, “€62€{Obliviate.}”
+But Bellatrix simply pointed her wand at the Auror, stood silently for a time, and finally whispered, “<em>Obliviate.</em>”
 
 She swayed, then, but did not fall.
 
@@ -258,11 +258,11 @@ She swayed, then, but did not fall.
 
 Again, the woman said nothing, demanded no explanations, didn’t ask why Harry or the apparently-invisible Patronus caster couldn’t do it. She only staggered to where the long snake lay, slowly bent over, picked it up, draped it over her shoulder.
 
-(A tiny little part of Harry observed that it was very €63€{relaxing} to have a minion that would just follow orders so unquestioningly, and even got as far as thinking that he could totally get used to having a minion like Bellatrix, before that mind-fraction was screamed into silence by his mortally offended remainder.)
+(A tiny little part of Harry observed that it was very <em>relaxing</em> to have a minion that would just follow orders so unquestioningly, and even got as far as thinking that he could totally get used to having a minion like Bellatrix, before that mind-fraction was screamed into silence by his mortally offended remainder.)
 
 “Follow,” the boy commanded his minion, and began to walk.
 
-€64€
+€11€
 
 It was starting to get crowded in the duty room, almost too crowded to breathe, though there was still space around Amelia herself; if needing to breathe meant that you had to crowd Director Bones, it was better not to breathe.
 
@@ -272,7 +272,7 @@ Amelia looked at where Ora was fiddling with Auror McCusker’s mirror. “Speci
 
 Amelia didn’t let her expression change, though the part of her that was already mourning One-Hand got a little sadder and a lot more angry. Seven months, he’d had seven months left until his retirement after a full century of service. She remembered him as an eager young Auror, so very long ago, and his whole career he’d served the DMLE with perfect loyalty, at least when it came to anything really important…
 
-Someone would €65€{burn} for this.
+Someone would <em>burn</em> for this.
 
 The Dementor still hovered outside the window, casting its useless shadow of dread over their operations; all the creature could do was gurgle its lack of knowledge or fail to reply at all, when asked questions like ‘Did Bellatrix Black escape?’ and ‘Why can’t you find her?’ and ‘How is she being hidden?’ Amelia was starting to worry that the criminals were already gone, when—
 
@@ -284,55 +284,55 @@ Bellatrix Black was still in Azkaban.
 
 And in Azkaban, Bellatrix Black would remain forever.
 
-She took a stride toward the window, ignoring the Dementor now, and looked up at the sky above, to check with her own eyes the patrolling broomsticks. She couldn’t see the whole sky from here, but she saw ten brooms go past on a patrol pattern and that already ought to be enough to catch anyone, though she fully meant to put every broom she could in the air. Her Aurors were equipped with the fastest racing broom currently on the market, the Nimbus 2000; no unsuccessful chases for €66€{her} people.
+She took a stride toward the window, ignoring the Dementor now, and looked up at the sky above, to check with her own eyes the patrolling broomsticks. She couldn’t see the whole sky from here, but she saw ten brooms go past on a patrol pattern and that already ought to be enough to catch anyone, though she fully meant to put every broom she could in the air. Her Aurors were equipped with the fastest racing broom currently on the market, the Nimbus 2000; no unsuccessful chases for <em>her</em> people.
 
-Amelia turned back from the window, and frowned. The room was getting ridiculously crowded, and two-thirds of these people didn’t €67€{need} to be here, they just €68€{wanted} to be close to the centre of the action. If there was one thing Amelia couldn’t tolerate, it was people who did what they wanted instead of what was needed.
+Amelia turned back from the window, and frowned. The room was getting ridiculously crowded, and two-thirds of these people didn’t <em>need</em> to be here, they just <em>wanted</em> to be close to the centre of the action. If there was one thing Amelia couldn’t tolerate, it was people who did what they wanted instead of what was needed.
 
 “All right, you lot!” Amelia bellowed at them. “Stop hanging around here and start securing the top level of each spiral! That’s right,” she said to the looks of surprise, “all three! They could tunnel through a floor or a ceiling to go between them, in case you hadn’t worked that out! We’re going down level by level until we catch them! I’ll take C spiral, Scrimgeour, you’re on B…” She paused, then, remembering that Mad-Eye had retired last year, who could she…“Shacklebolt, you’re on the A spiral, take the strongest other fighters with you! Check every set of cells you pass, look under blankets, do the full set of detection Charms in every corridor! Nobody leaves Azkaban until the criminals are caught, nobody! And…” People looked at Amelia in surprise as her voice trailed off.
 
-€69€{The criminals had invented some way to prevent the Dementors from finding Bellatrix Black.}
+<em>The criminals had invented some way to prevent the Dementors from finding Bellatrix Black.</em>
 
-That ought to have been €70€{impossible}.
+That ought to have been <em>impossible</em>.
 
 It chilled her blood, contemplating that. It was like…
 
-Amelia took a deep breath, and spoke once more, in a voice of steel command. “And when you catch them, make bloody sure they’re the real criminals and not our own people forced to take Polyjuice. Anyone behaves oddly, check them for the Imperius Curse. Keep each other in sight at all times. Don’t assume an Auror uniform is friendly if you don’t recognize the face.” She turned to the communications specialist. “Tell the broomsticks. If one of the brooms peels off for no reason, €71€{half} of them are to hunt it down while the €72€{rest} keep patrolling. And change the harmonics on everything changeable, they may have stolen our keys.” Then back to the rest of the room. “No Auror is above suspicion unless they have no family left to threaten.”
+Amelia took a deep breath, and spoke once more, in a voice of steel command. “And when you catch them, make bloody sure they’re the real criminals and not our own people forced to take Polyjuice. Anyone behaves oddly, check them for the Imperius Curse. Keep each other in sight at all times. Don’t assume an Auror uniform is friendly if you don’t recognize the face.” She turned to the communications specialist. “Tell the broomsticks. If one of the brooms peels off for no reason, <em>half</em> of them are to hunt it down while the <em>rest</em> keep patrolling. And change the harmonics on everything changeable, they may have stolen our keys.” Then back to the rest of the room. “No Auror is above suspicion unless they have no family left to threaten.”
 
 She saw it, the cold looks that came over the older faces, saw some of the younger Aurors flinch, and knew that they understood.
 
 But she said it out loud, just to be sure.
 
-“We’re fighting the old Wizarding War today, everyone. Just because You-Know-Who is dead doesn’t mean the Death Eaters have forgotten his tricks. Now €73€{go}!”
+“We’re fighting the old Wizarding War today, everyone. Just because You-Know-Who is dead doesn’t mean the Death Eaters have forgotten his tricks. Now <em>go</em>!”
 
-€74€
+€12€
 
 Harry walked in silence through the gas-lit grey corridor, invisible beside Bellatrix and the silver shape following them, trying to think of a better plan.
 
 At first, when he’d realized that the Aurors probably knew already, and that moreover, Professor Quirrell wasn’t waking up…
 
-His thoughts €75€{had} frozen up there, for a second.
+His thoughts <em>had</em> frozen up there, for a second.
 
 And then stayed frozen, even as he’d started heading downward with Bellatrix, to buy as much time as possible; the Aurors, Harry figured, would start at the top and move down level by level. The Aurors could afford to move slowly and securely; they knew their prey had no way out.
 
 Harry hadn’t been able to think of any way out.
 
-Until Harry had said to himself, €76€{well, if it was just a war game, what would General Chaos do?}
+Until Harry had said to himself, <em>well, if it was just a war game, what would General Chaos do?</em>
 
 From which an answer had followed instantly.
 
-And then Harry had thought, €77€{but if it’s €78€{that} easy, why hasn’t anyone broken out of Azkaban before?}
+And then Harry had thought, <em>but if it’s €13€<b>that</em> easy, why hasn’t anyone broken out of Azkaban before?</b>
 
-And after he’d realized the possible problem: €79€{Fine, what would General Chaos do about} that?
+And after he’d realized the possible problem: <em>Fine, what would General Chaos do about</em> that?
 
 Whereupon General Chaos had come up with an amendment to his first plan.
 
 It was…
 
-It was the most insanely €80€{Gryffindor} thing Harry had ever…
+It was the most insanely <em>Gryffindor</em> thing Harry had ever…
 
-So now he was trying to think of a €81€{better} plan, and not having much luck.
+So now he was trying to think of a <em>better</em> plan, and not having much luck.
 
-€82€{Picky picky picky,} said Gryffindor. €83€{Who was complaining about not having} any €84€{plan one minute earlier? You should be glad we came up with anything at all, Mister Now-We’re-Doomed.}
+<em>Picky picky picky,</em> said Gryffindor. <em>Who was complaining about not having</em> any <em>plan one minute earlier? You should be glad we came up with anything at all, Mister Now-We’re-Doomed.</em>
 
 “My Lord,” Bellatrix whispered haltingly, as she navigated the next flight of stairs downward, “am I going back to my cell, my Lord?”
 
@@ -342,13 +342,13 @@ Harry’s brain was distracted, so it took him that long to process the words, a
 
 “We are not going back to your cell,” hissed Harry’s voice, on automatic. Nothing of what he felt was allowed to reach his face.
 
-€85€{Um…} said Hufflepuff. €86€{Did you seriously just think, ‘You ought to work for me, €87€{I} would appreciate you?’}
+<em>Um…</em> said Hufflepuff. <em>Did you seriously just think, ‘You ought to work for me, €14€<b>I</em> would appreciate you?’</b>
 
-€88€{A stone would respond to that kind of loyalty,} Harry thought. €89€{Even if I’m only getting it by mistake, I can’t help but—}
+<em>A stone would respond to that kind of loyalty,</em> Harry thought. <em>Even if I’m only getting it by mistake, I can’t help but—</em>
 
-€90€{She’s the Dark Lord’s loyal killer and torturer, and the supposed reason she’s loyal is because an innocent girl was broken into pieces and used as raw material to make her,} said Hufflepuff. €91€{Did you forget?}
+<em>She’s the Dark Lord’s loyal killer and torturer, and the supposed reason she’s loyal is because an innocent girl was broken into pieces and used as raw material to make her,</em> said Hufflepuff. <em>Did you forget?</em>
 
-€92€{If someone shows me that much loyalty, even by mistake, there’s a part of me that can’t help but feel something. The Dark Lord must have been}…evil €93€{doesn’t seem like a strong enough word, he must have been} empty€94€{…to not appreciate her loyalty, artificial or not}.
+<em>If someone shows me that much loyalty, even by mistake, there’s a part of me that can’t help but feel something. The Dark Lord must have been</em>…evil <em>doesn’t seem like a strong enough word, he must have been</em> empty<em>…to not appreciate her loyalty, artificial or not</em>.
 
 The better parts of Harry didn’t have much to say to that.
 
@@ -366,7 +366,7 @@ His ears, automatically, strained to make out the words.
 
 “…don’t die…”
 
-Then his brain knew €95€{who} he was hearing, and in almost the same moment, figured out €96€{what} he was hearing.
+Then his brain knew <em>who</em> he was hearing, and in almost the same moment, figured out <em>what</em> he was hearing.
 
 Because Professor Quirrell wasn’t there to keep the silence any more, and Azkaban was not, in fact, silent.
 
@@ -402,25 +402,25 @@ Not when he saw the huge metal door in the centre of that level’s corridor.
 
 Not when they came closer, and the woman’s voice fell silent, because there was a Patronus near her now, and she wasn’t reliving her worst memory any more.
 
-€97€{Good,} said a voice inside him. €98€{That was step one.}
+<em>Good,</em> said a voice inside him. <em>That was step one.</em>
 
 Harry’s steps carried him inevitably forward toward the metal door.
 
 And…
 
-€99€{Now unlock the door—}
+<em>Now unlock the door—</em>
 
 …Harry kept walking…
 
-€100€{What do you think you’re doing? Go back and get her out of there!}
+<em>What do you think you’re doing? Go back and get her out of there!</em>
 
 …kept walking…
 
-€101€{Save her! What are you doing? She’s hurting €102€{you have to save her!}}
+<em>Save her! What are you doing? She’s hurting €15€<b>you have to save her!</em></b>
 
-The portkey Harry was carrying could transport two humans, only two, plus or minus a snake. If they’d had Professor Quirrell’s portkey too…but they €103€{didn’t}, Professor Quirrell’s human form was carrying that, there was no way to get it…Harry could only save one person today, and there was only one person on the lowest level of Azkaban, in the most desperate need…
+The portkey Harry was carrying could transport two humans, only two, plus or minus a snake. If they’d had Professor Quirrell’s portkey too…but they <em>didn’t</em>, Professor Quirrell’s human form was carrying that, there was no way to get it…Harry could only save one person today, and there was only one person on the lowest level of Azkaban, in the most desperate need…
 
-“€104€{Don’t go!}” The voice came in a scream from behind the metal door. “No, no, no, don’t go, don’t take it away, don’t don’t don’t—”
+“€16€<b>Don’t go!</b>” The voice came in a scream from behind the metal door. “No, no, no, don’t go, don’t take it away, don’t don’t don’t—”
 
 There was a light in the corridor and it grew brighter.
 
@@ -428,19 +428,19 @@ There was a light in the corridor and it grew brighter.
 
 “Sit down, Bella,” Harry’s voice said, somehow he kept his voice in a cold whisper, “I must deal with this,” the Hover Charm diminishing and switching off even as Bella obediently sat down, her skeletal form dark against the brightening air.
 
-€105€{I’ll die,} thought Harry.
+<em>I’ll die,</em> thought Harry.
 
 The air went on brightening.
 
-After all, it wasn’t a €106€{certainty} that Harry would die.
+After all, it wasn’t a <em>certainty</em> that Harry would die.
 
 It was just a probability of death, and weren’t some things worth a probability of dying?
 
 The air went on brightening, the greater Patronus was beginning to form around him, the brilliant human shape was becoming indistinct within the burning air, as Harry’s life went to feed the fire.
 
-€107€{If I wipe out the Dementors, then even if I live, they’ll know it was me, that I was the one who did this…I’ll lose my support, lose the war…}
+<em>If I wipe out the Dementors, then even if I live, they’ll know it was me, that I was the one who did this…I’ll lose my support, lose the war…</em>
 
-€108€{Yeah?} said the inner voice that was urging him on. €109€{After you destroy all the Dementors in Azkaban? I’d think that’d tend to prove your credentials as a Light Lord, actually, so €110€{save her save her you have to save her—}}
+<em>Yeah?</em> said the inner voice that was urging him on. <em>After you destroy all the Dementors in Azkaban? I’d think that’d tend to prove your credentials as a Light Lord, actually, so €17€<b>save her save her you have to save her—</em></b>
 
 The humanoid shape could no longer be seen as a separate entity.
 
@@ -452,17 +452,17 @@ There was only a bodiless viewpoint within an infinite expanse of silver light.
 
 Harry could feel the life leaving him, fuelling the spell; far away, he could feel the shadows of Death begin to fray.
 
-€111€{I meant to accomplish more with my life than this…I was going to fight the Dark Lord, I was going to merge the wizarding and Muggle worlds…}
+<em>I meant to accomplish more with my life than this…I was going to fight the Dark Lord, I was going to merge the wizarding and Muggle worlds…</em>
 
-Lofty goals seemed very distant, very abstract, compared to one woman begging him for help, it wasn’t €112€{certain} that Harry would ever do anything more important than this one thing, this one thing that he could do now and here.
+Lofty goals seemed very distant, very abstract, compared to one woman begging him for help, it wasn’t <em>certain</em> that Harry would ever do anything more important than this one thing, this one thing that he could do now and here.
 
 And with what might have been his last breath, Harry thought:
 
-€113€{There are other Dementors, probably other Azkabans…if I’m going to do this, I should do it when I’m closer to the central pit, it will take less of my life that way, which increases the probability that I’ll survive to destroy other Dementors…even assuming this is the optimal thing to do, if there’s a right time and place to do this, it isn’t now and here, €114€{it isn’t now and here!}}
+<em>There are other Dementors, probably other Azkabans…if I’m going to do this, I should do it when I’m closer to the central pit, it will take less of my life that way, which increases the probability that I’ll survive to destroy other Dementors…even assuming this is the optimal thing to do, if there’s a right time and place to do this, it isn’t now and here, €18€<b>it isn’t now and here!</em></b>
 
-€115€{What?} said the other part of him indignantly, as it searched for a counterargument that didn’t exist—
+<em>What?</em> said the other part of him indignantly, as it searched for a counterargument that didn’t exist—
 
-Slowly the light died back down, as Harry concentrated on that one indisputable fact, the one obvious truth that they weren’t in the optimal place, the time €116€{couldn’t} be €117€{now…}
+Slowly the light died back down, as Harry concentrated on that one indisputable fact, the one obvious truth that they weren’t in the optimal place, the time <em>couldn’t</em> be <em>now…</em>
 
 Slowly the light died back down.
 
@@ -472,7 +472,7 @@ Part had been lost as radiation.
 
 But Harry had enough left to stay on his feet, and keep the silver human shape bright; and when his wand arm raised and his voice whispered “Wingardium Leviosa”, the magic flowed obediently out of him and helped Bellatrix to her feet. (For it wasn’t his magic he had expended, it had never been his magic that fuelled the Patronus Charm.)
 
-€118€{I swear,} Harry thought, breathing as regularly as he could in Bellatrix’s presence, while tears streamed down his invisible cheeks, €119€{I swear upon my life and my magic and my art as a rationalist, I swear by everything I hold sacred and all my happy memories, I give my oath that some day I will end this place, please, please may I be forgiven…}
+<em>I swear,</em> Harry thought, breathing as regularly as he could in Bellatrix’s presence, while tears streamed down his invisible cheeks, <em>I swear upon my life and my magic and my art as a rationalist, I swear by everything I hold sacred and all my happy memories, I give my oath that some day I will end this place, please, please may I be forgiven…</em>
 
 And the two of them walked on, as a murderess’s voice screamed and begged someone to come back and save her.
 
@@ -480,7 +480,7 @@ There should have been more time, there should have been a ceremony, for Harry�
 
 So Harry walked on, leaving a piece of himself behind. It would dwell in this place and time forever, he knew. Even after Harry came back some day with a company of other True Patronus casters and they destroyed all the Dementors here. Even if he melted the triangular building and burned the island low enough that the sea would wash over it, leaving no trace that such a place as this had ever once existed. Even then he wouldn’t get it back.
 
-€120€
+€19€
 
 The flock of luminous creatures stopped staring downward, and began patrolling the metal corridor as if nothing had happened.
 
@@ -498,9 +498,9 @@ But they were hunting Bellatrix Black now, who had been a Death Eater, and who w
 
 It seemed to her that this would be an extremely good time to consult Albus Dumbledore.
 
-Should she just €121€{suggest} to Director Bones that they contact Dumbledore? But if Director Bones hadn’t contacted him already…
+Should she just <em>suggest</em> to Director Bones that they contact Dumbledore? But if Director Bones hadn’t contacted him already…
 
-Emmeline wavered for a while, probably too long, and then finally decided. €122€{The hell with it,} she thought. €123€{We’re all on the same side, we need to stick together whether Director Bones likes it or not.}
+Emmeline wavered for a while, probably too long, and then finally decided. <em>The hell with it,</em> she thought. <em>We’re all on the same side, we need to stick together whether Director Bones likes it or not.</em>
 
 At a thought, her silver sparrow fluttered onto her shoulder.
 

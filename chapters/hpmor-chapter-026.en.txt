@@ -1,8 +1,8 @@
-€3€{Noticing Confusion}
+€3€<b>Noticing Confusion</b>
 
 €1€
 Yakka foob mog. Grug pubbawup zink wattoom gazork. Chumble spuzz J.~K.~Rowling.
-€109€{P}{rofessor} Quirrell’s office hours consisted of 11:40 to 11:55€5€ on Thursday. That was for all of his students in all years. It cost a Quirrell point just to knock on the door, and if he didn’t think your reason was worth his time, you would lose another fifty.
+€11€<b>P</b><b>rofessor</b> Quirrell’s office hours consisted of 11:40 to 11:55€5€ on Thursday. That was for all of his students in all years. It cost a Quirrell point just to knock on the door, and if he didn’t think your reason was worth his time, you would lose another fifty.
 
 Harry knocked on the door.
 
@@ -14,7 +14,7 @@ Professor Quirrell was leaning back in his chair and reading a suspiciously old-
 
 A cold chill seeped from the room, as though it contained something that cast darkness the way lamps cast light, and which hadn’t been fully shaded.
 
-Harry was a bit taken aback. €6€{Not in a good mood} didn’t quite seem to cover it. What could be bothering Professor Quirrell this much…?
+Harry was a bit taken aback. <em>Not in a good mood</em> didn’t quite seem to cover it. What could be bothering Professor Quirrell this much…?
 
 Well, you didn’t just walk out on friends when they were feeling down. Harry cautiously advanced into the room. “Is there anything I can do to help—”
 
@@ -26,7 +26,7 @@ There was a surprisingly long pause.
 
 Professor Quirrell slammed the book shut and it vanished with a small whispering sound. He looked up, then, and Harry flinched.
 
-“I suppose an intelligent conversation would be pleasant for €7€{me} at this point,” said Professor Quirrell in the same biting tone that had invited Harry to enter. “€8€{You} are not likely to find it so, be warned.”
+“I suppose an intelligent conversation would be pleasant for <em>me</em> at this point,” said Professor Quirrell in the same biting tone that had invited Harry to enter. “<em>You</em> are not likely to find it so, be warned.”
 
 Harry drew a deep breath. “I promise I won’t mind if you snap at me. What happened?”
 
@@ -36,13 +36,13 @@ Harry swallowed. “What…sort of curse?”
 
 And the fury on Professor Quirrell’s face was no longer contained. “Why bother to ask an unimportant question like that, Mr~Potter? Our friend the sixth-year Gryffindor did not think it was important!”
 
-“Are you €9€{serious}?” Harry said before he could stop himself.
+“Are you <em>serious</em>?” Harry said before he could stop himself.
 
-“No, I’m in a terrible mood today for no particular reason. €10€{Yes I’m serious, you fool!} He didn’t know. He €11€{actually didn’t know}. I didn’t believe it until the Aurors confirmed it under Veritaserum. He is in his €12€{sixth year at Hogwarts} and he cast a high-level Dark curse €13€{without knowing what it did.}”
+“No, I’m in a terrible mood today for no particular reason. <em>Yes I’m serious, you fool!</em> He didn’t know. He <em>actually didn’t know</em>. I didn’t believe it until the Aurors confirmed it under Veritaserum. He is in his <em>sixth year at Hogwarts</em> and he cast a high-level Dark curse <em>without knowing what it did.</em>”
 
-“You don’t mean,” Harry said, “that he was €14€{mistaken} about what it did, that he somehow read the wrong spell description—”
+“You don’t mean,” Harry said, “that he was <em>mistaken</em> about what it did, that he somehow read the wrong spell description—”
 
-“All he knew was that it was meant to be directed at an enemy. He €15€{knew} that was all he knew.”
+“All he knew was that it was meant to be directed at an enemy. He <em>knew</em> that was all he knew.”
 
 And that had been enough to cast the spell. “I do not understand how anything with that small a brain could walk upright.”
 
@@ -56,11 +56,11 @@ There was a pause. Professor Quirrell leaned forward and picked up the silver in
 
 “Was the sixth-year Gryffindor raised by Muggles?”
 
-“€16€{Yes.}”
+“<em>Yes.</em>”
 
 “Is Dumbledore refusing to expel him because the poor boy didn’t know?”
 
-Professor Quirrell’s hands whitened on the inkwell. “€17€{Do you have a point, Mr~Potter, or are you just stating the obvious?}”
+Professor Quirrell’s hands whitened on the inkwell. “<em>Do you have a point, Mr~Potter, or are you just stating the obvious?</em>”
 
 “Professor Quirrell,” said Harry gravely, “all the Muggle-raised students in Hogwarts need a safety lecture in which they are told the things so ridiculously obvious that no wizardborn would ever think to mention them. Don’t cast curses if you don’t know what they do, if you discover something dangerous don’t tell the world about it, don’t brew high-level potions without supervision in a bathroom, the reason why there are underage magic laws, all the basics.”
 
@@ -78,7 +78,7 @@ The inkwell went on screaming and burning in Professor Quirrell’s hands, tiny 
 
 Harry opened his mouth—
 
-“If you’re about to say you’re not scared of me,” said Professor Quirrell, “€18€{don’t.}”
+“If you’re about to say you’re not scared of me,” said Professor Quirrell, “<em>don’t.</em>”
 
 “You are the scariest person I know,” Harry said, “and one of the top reasons for that is your control. I simply can’t imagine hearing that you’d hurt someone you had not made a deliberate decision to hurt.”
 
@@ -102,7 +102,7 @@ As Harry left the office, he heard Professor Quirrell humming a small tune.
 
 Harry was glad he’d been able to cheer him up.
 
-€19€
+€6€
 
 That Sunday there seemed to be a rather large number of people whispering in the hallways, at least when Harry Potter walked past them.
 
@@ -110,17 +110,17 @@ And a lot of pointed fingers.
 
 And a great deal of female giggling.
 
-It had started at breakfast, when someone had asked Harry if he’d heard the news, and Harry had quickly interrupted and said that if the news was written by Rita Skeeter then he didn’t want to €20€{hear} about it, he wanted to read it in the paper himself.
+It had started at breakfast, when someone had asked Harry if he’d heard the news, and Harry had quickly interrupted and said that if the news was written by Rita Skeeter then he didn’t want to <em>hear</em> about it, he wanted to read it in the paper himself.
 
-It had then developed that not many students at Hogwarts got copies of the €21€{Daily Prophet,} and that the copies which had not already been bought up from their owners were being passed around in some sort of complicated order and nobody really knew who had one at the moment…
+It had then developed that not many students at Hogwarts got copies of the <em>Daily Prophet,</em> and that the copies which had not already been bought up from their owners were being passed around in some sort of complicated order and nobody really knew who had one at the moment…
 
 So Harry had used a Quieting Charm and gone on to eat his breakfast, trusting to his seat-mates to wave off the many, many questioners, and doing his best to ignore the incredulity, the laughter, the congratulatory smiles, the pitying looks, the fearful glances, and the dropped plates as new people came down for breakfast and heard.
 
-Harry was feeling €22€{rather} curious, but it €23€{really} wouldn’t have done to spoil the artistry by hearing it second hand.
+Harry was feeling <em>rather</em> curious, but it <em>really</em> wouldn’t have done to spoil the artistry by hearing it second hand.
 
 He’d done homework in the safety of his trunk for the next couple of hours, after telling his dorm-mates to come get him if anyone found him an original newspaper.
 
-Harry was still ignorant at 10€24€, when he’d left Hogwarts in a carriage with Professor Quirrell, who was in the front right, and currently slumped over in zombie-mode. Harry was sitting diagonally across, as far away as the carriage allowed, in the back left. Even so, Harry had a constant feeling of doom as the carriage rattled over a small path through a section of non-forbidden forest. It made it a bit hard to read, especially since the material was difficult, and Harry suddenly wished he was reading one of his childhood science-fiction books instead—
+Harry was still ignorant at 10€7€, when he’d left Hogwarts in a carriage with Professor Quirrell, who was in the front right, and currently slumped over in zombie-mode. Harry was sitting diagonally across, as far away as the carriage allowed, in the back left. Even so, Harry had a constant feeling of doom as the carriage rattled over a small path through a section of non-forbidden forest. It made it a bit hard to read, especially since the material was difficult, and Harry suddenly wished he was reading one of his childhood science-fiction books instead—
 
 “We’re outside the wards, Mr~Potter,” said Professor Quirrell’s voice from the front. “Time to go.”
 
@@ -130,11 +130,11 @@ Harry was wondering exactly how they’d get there when Professor Quirrell said 
 
 A giant intangible hook caught at Harry’s abdomen and yanked him back, hard, only without any sense of acceleration, and an instant later Harry was standing in the middle of Diagon Alley.
 
-(€25€{Excuse me, what?} said his brain.)
+(<em>Excuse me, what?</em> said his brain.)
 
-(€26€{We just teleported,} explained Harry.)
+(<em>We just teleported,</em> explained Harry.)
 
-(€27€{That didn’t used to happen in the ancestral environment,} Harry’s brain complained, and disoriented him.)
+(<em>That didn’t used to happen in the ancestral environment,</em> Harry’s brain complained, and disoriented him.)
 
 Harry staggered as his feet adjusted to the brick of the street instead of the dirt of the forest corridor they had been traversing. He straightened, still dizzy, with the bustling witches and wizards seeming to sway slightly, and the cries of the shopkeepers seeming to move around in his hearing, as his brain tried to place a world to be located in.
 
@@ -150,9 +150,9 @@ Harry stopped, Professor Quirrell didn’t.
 
 “Pardon?”
 
-“Or anywhere I can buy a copy of the €28€{Daily Prophet.} Put me there and I’ll be happy.”
+“Or anywhere I can buy a copy of the <em>Daily Prophet.</em> Put me there and I’ll be happy.”
 
-Shortly after, Harry had been delivered into a bookshop, accompanied by several quietly spoken, ambiguous threats. And the shopkeeper had received €29€{less} ambiguous threats, judging by the way he had cringed, and how his eyes now kept darting between Harry and the entrance.
+Shortly after, Harry had been delivered into a bookshop, accompanied by several quietly spoken, ambiguous threats. And the shopkeeper had received <em>less</em> ambiguous threats, judging by the way he had cringed, and how his eyes now kept darting between Harry and the entrance.
 
 If the bookshop burned down, Harry was going to stick around in the middle of the fire until Professor Quirrell got back.
 
@@ -160,31 +160,31 @@ Meanwhile—
 
 Harry took a quick glance around.
 
-The bookshop seemed rather small and shoddy, with only four rows of bookcases visible, and the nearest shelf Harry’s eyes had jumped to seemed to deal with narrow, cheaply bound books with grim titles like €30€{The Massacre of Albania in the Fifteenth Century.}
+The bookshop seemed rather small and shoddy, with only four rows of bookcases visible, and the nearest shelf Harry’s eyes had jumped to seemed to deal with narrow, cheaply bound books with grim titles like <em>The Massacre of Albania in the Fifteenth Century.</em>
 
 First things first. Harry stepped over to the seller’s counter.
 
-“Pardon me,” said Harry, “One copy of the €31€{Daily Prophet,} please.”
+“Pardon me,” said Harry, “One copy of the <em>Daily Prophet,</em> please.”
 
 “Five Sickles,” said the shopkeeper. “Sorry, kid, I’ve only got three left.”
 
 Five Sickles dropped onto the counter. Harry had the feeling he could have bargained him down a couple of points, but at this point he didn’t really care.
 
-The shopkeeper’s eyes widened and he seemed to really notice Harry for the first time. “€32€{You!}”
+The shopkeeper’s eyes widened and he seemed to really notice Harry for the first time. “<em>You!</em>”
 
-“€33€{Me!}”
+“<em>Me!</em>”
 
-“Is it €34€{true}? Are you €35€{really}—”
+“Is it <em>true</em>? Are you <em>really</em>—”
 
-“€36€{Shut up!} Sorry, I’ve been waiting €37€{all day} to read this in the original newspaper instead of hearing about it second hand, so please just €38€{hand it over}, all right?”
+“<em>Shut up!</em> Sorry, I’ve been waiting <em>all day</em> to read this in the original newspaper instead of hearing about it second hand, so please just <em>hand it over</em>, all right?”
 
-The shopkeeper stared at Harry for a moment, then wordlessly reached under the counter and passed over one folded copy of the €39€{Daily Prophet}.
+The shopkeeper stared at Harry for a moment, then wordlessly reached under the counter and passed over one folded copy of the <em>Daily Prophet</em>.
 
 The headline read:
 
-€40€{Harry Potter\\
+€8€<b>Harry Potter\\
 Secretly Betrothed\\
-To Ginevra Weasley}
+To Ginevra Weasley</b>
 
 Harry stared.
 
@@ -198,15 +198,15 @@ He lifted the newspaper off the counter, softly, reverently, like he was handlin
 
 Fred and George had cleared it with their sister first, surely? Yes, of course they had. There was a picture of Ginevra Weasley sighing longingly over what Harry could see, looking closely, was a photo of himself. That had to have been staged.
 
-But €41€{how} on €42€{Earth…?}
+But <em>how</em> on <em>Earth…?</em>
 
 Harry was sitting in a cheap folding chair, rereading the newspaper for the fourth time, when the door whispered softly and Professor Quirrell came back into the shop.
 
-“My apologies for—€43€{what} in Merlin’s name are you reading?”
+“My apologies for—<em>what</em> in Merlin’s name are you reading?”
 
 “It would seem,” said Harry, awe in his voice, “that one Mr~Arthur Weasley was placed under the Imperius Curse by a Death Eater whom my father killed, thus creating a debt to House Potter, which my father demanded be repaid by the hand in marriage of the recently born Ginevra Weasley. Do people actually do that sort of thing around here?”
 
-“How could Miss~Skeeter €44€{possibly} be fool enough to believe—”
+“How could Miss~Skeeter <em>possibly</em> be fool enough to believe—”
 
 And Professor Quirrell’s voice cut off.
 
@@ -218,7 +218,7 @@ The look of shock on Professor Quirrell’s face was a work of art almost on par
 
 From elsewhere in the store, he heard the shopkeeper gasp. There was the sound of a stack of books falling over.
 
-“Mr~Potter…” Professor Quirrell said slowly, “are you €45€{sure} of that?”
+“Mr~Potter…” Professor Quirrell said slowly, “are you <em>sure</em> of that?”
 
 “Quite sure. Shall we go?”
 
@@ -230,23 +230,23 @@ They walked in silence for thirty seconds before Professor Quirrell spoke. “Mi
 
 “Yes.”
 
-“The €46€{original proceedings of the Wizengamot.}”
+“The <em>original proceedings of the Wizengamot.</em>”
 
 “Yes.”
 
-“€47€{I} would have trouble doing that.”
+“<em>I</em> would have trouble doing that.”
 
 “Really?” said Harry. “Because if my suspicions are correct, this was done by a Hogwarts student.”
 
 “That is beyond impossible,” Professor Quirrell said flatly. “Mr~Potter…I regret to say that this young lady expects to marry you.”
 
-“But €48€{that} is improbable,” said Harry. “To quote Douglas Adams, the impossible often has a kind of integrity which the merely improbable lacks.”
+“But <em>that</em> is improbable,” said Harry. “To quote Douglas Adams, the impossible often has a kind of integrity which the merely improbable lacks.”
 
-“I see your point,” Professor Quirrell said slowly. “But…no, Mr~Potter. It may be impossible, but I can €49€{imagine} tampering with the Wizengamot proceedings. It is €50€{unimaginable} that the Grand Manager of Gringotts should affix the seal of his office in witness to a false betrothal contract, and Miss~Skeeter personally verified that seal.”
+“I see your point,” Professor Quirrell said slowly. “But…no, Mr~Potter. It may be impossible, but I can <em>imagine</em> tampering with the Wizengamot proceedings. It is <em>unimaginable</em> that the Grand Manager of Gringotts should affix the seal of his office in witness to a false betrothal contract, and Miss~Skeeter personally verified that seal.”
 
 “Indeed,” said Harry, “you would expect the Grand Manager of Gringotts to get involved with that much money changing hands. It seems Mr~Weasley was greatly in debt, and so demanded an additional payment of ten thousand Galleons—”
 
-“€51€{Ten thousand} Galleons for a €52€{Weasley?} You could buy the daughter of a Noble House for that!”
+“<em>Ten thousand</em> Galleons for a <em>Weasley?</em> You could buy the daughter of a Noble House for that!”
 
 “Excuse me,” Harry said. “I really have to ask at this point, do people actually do that sort of thing around here—”
 
@@ -254,7 +254,7 @@ They walked in silence for thirty seconds before Professor Quirrell spoke. “Mi
 
 “He didn’t have any choice,” said Harry. “Not if he wanted to fulfil the conditions of the prophecy.”
 
-“€53€{Give me that,}” said Professor Quirrell, and the newspaper leaped out of Harry’s hand so fast that he got a paper cut.
+“<em>Give me that,</em>” said Professor Quirrell, and the newspaper leaped out of Harry’s hand so fast that he got a paper cut.
 
 Harry automatically put the finger in his mouth to suck on, feeling rather shocked, and turned to remonstrate with Professor Quirrell—
 
@@ -268,11 +268,11 @@ And after a troublingly short time, the paper neatly folded itself up again. Pro
 
 Harry nodded, still stunned.
 
-“The centaurs could have been put under an €54€{Imperius},” Professor Quirrell said, frowning, “€55€{that} seems understandable. What magic can make, magic can corrupt, and it is not unthinkable that the Great Seal of Gringotts could be twisted to another’s hand. The Unspeakable could have been impersonated with Polyjuice, likewise the Bavarian seer. And with €56€{enough} effort it might be possible to tamper with the proceedings of the Wizengamot. Do you have any idea how that was done?”
+“The centaurs could have been put under an <em>Imperius</em>,” Professor Quirrell said, frowning, “<em>that</em> seems understandable. What magic can make, magic can corrupt, and it is not unthinkable that the Great Seal of Gringotts could be twisted to another’s hand. The Unspeakable could have been impersonated with Polyjuice, likewise the Bavarian seer. And with <em>enough</em> effort it might be possible to tamper with the proceedings of the Wizengamot. Do you have any idea how that was done?”
 
 “I do not have one single plausible hypothesis,” said Harry. “I do know it was done on a total budget of forty Galleons.”
 
-Professor Quirrell stopped short and whirled on Harry. His expression was now completely incredulous. “Forty Galleons will pay a competent ward-breaker to open a path into a home you wish to burgle! Forty €57€{thousand} Galleons €58€{might} pay a team of the greatest professional criminals in the world to tamper with the proceedings of the Wizengamot!”
+Professor Quirrell stopped short and whirled on Harry. His expression was now completely incredulous. “Forty Galleons will pay a competent ward-breaker to open a path into a home you wish to burgle! Forty <em>thousand</em> Galleons <em>might</em> pay a team of the greatest professional criminals in the world to tamper with the proceedings of the Wizengamot!”
 
 Harry shrugged helplessly. “I’ll remember that the next time I want to save thirty-nine thousand, nine hundred and sixty Galleons by finding the right contractor.”
 
@@ -292,46 +292,46 @@ They walked in the direction of the Gringotts building, thinking, for they were 
 
 “Interesting,” said Professor Quirrell. “That does sound similar. Is there a moral?”
 
-“That your strength as a rationalist is your ability to be more confused by fiction than by reality,” said Harry. “If you’re equally good at explaining any outcome, you have zero knowledge. The students thought they could use words like ‘because of heat conduction’ to explain anything, even a metal plate being cooler on the side nearer the fire. So they didn’t notice how confused they were, and that meant they couldn’t be more confused by falsehood than by truth. If you tell me that the centaurs were under the €59€{Imperius} Curse, I still have the feeling of something being not quite right. I notice that I’m still confused even after hearing your explanation.”
+“That your strength as a rationalist is your ability to be more confused by fiction than by reality,” said Harry. “If you’re equally good at explaining any outcome, you have zero knowledge. The students thought they could use words like ‘because of heat conduction’ to explain anything, even a metal plate being cooler on the side nearer the fire. So they didn’t notice how confused they were, and that meant they couldn’t be more confused by falsehood than by truth. If you tell me that the centaurs were under the <em>Imperius</em> Curse, I still have the feeling of something being not quite right. I notice that I’m still confused even after hearing your explanation.”
 
 “Hm,” said Professor Quirrell.
 
 They walked on further.
 
-“I don’t suppose,” said Harry, “that it’s possible to €60€{actually} swap people into alternate universes? Like, this isn’t our own Rita Skeeter, or they temporarily sent her somewhere else?”
+“I don’t suppose,” said Harry, “that it’s possible to <em>actually</em> swap people into alternate universes? Like, this isn’t our own Rita Skeeter, or they temporarily sent her somewhere else?”
 
-“If €61€{that} was possible,” Professor Quirrell said, his voice rather dry, “would I still be €62€{here}?”
+“If <em>that</em> was possible,” Professor Quirrell said, his voice rather dry, “would I still be <em>here</em>?”
 
 And just as they were almost to the huge white front of the Gringotts building, Professor Quirrell said:
 
-“Ah. Of €63€{course}. I see it now. Let me guess, the Weasley twins?”
+“Ah. Of <em>course</em>. I see it now. Let me guess, the Weasley twins?”
 
-“€64€{What?}” said Harry, his voice rising an octave.
-“€65€{How?}”
+“<em>What?</em>” said Harry, his voice rising an octave.
+“<em>How?</em>”
 
 “I’m afraid I couldn’t say.”
 
-“…That is €66€{not} fair.”
+“…That is <em>not</em> fair.”
 
 “I think it is extremely fair,” said Professor Quirrell, and they entered through the bronze doors.
 
-€67€
+€9€
 
 The time was just before noon, and Harry and Professor Quirrell were seated at the foot and head of a wide, long, flat table, in a sumptuously appointed private room with thoroughly cushioned couches and chairs along the walls, and soft curtains hanging everywhere.
 
-They were about to eat lunch in Mary’s Place, which Professor Quirrell had said was known to him as one of the best restaurants in Diagon Alley, especially for—his voice had dropped meaningfully—€68€{certain purposes}.
+They were about to eat lunch in Mary’s Place, which Professor Quirrell had said was known to him as one of the best restaurants in Diagon Alley, especially for—his voice had dropped meaningfully—<em>certain purposes</em>.
 
-It was the nicest restaurant that Harry had ever been in, and it was really eating away at Harry that Professor Quirrell was treating €69€{him} to the meal.
+It was the nicest restaurant that Harry had ever been in, and it was really eating away at Harry that Professor Quirrell was treating <em>him</em> to the meal.
 
 The first part of the mission, to find an Occlumency instructor, had been a success. Professor Quirrell, smiling evilly, had told Griphook to recommend the best he knew, and not worry about the expense, since Dumbledore was paying it; and the goblin had smiled in return. There might have been a certain amount of smiling on Harry’s part as well.
 
 The second part of the plan had been a complete failure.
 
-Harry was not allowed to take money out of his vault without Headmaster Dumbledore or some other school official present, and Professor Quirrell had not been given the vault key. Harry’s Muggle parents could not authorize it because they were Muggles, and Muggles had around the same legal standing as children or kittens: they were cute, so if you tortured them in public you could get arrested, but they weren’t €70€{people}. Some reluctant provision had been made for recognizing the parents of Muggle-borns as human in a limited sense, but Harry’s adoptive parents did not fall into that legal category.
+Harry was not allowed to take money out of his vault without Headmaster Dumbledore or some other school official present, and Professor Quirrell had not been given the vault key. Harry’s Muggle parents could not authorize it because they were Muggles, and Muggles had around the same legal standing as children or kittens: they were cute, so if you tortured them in public you could get arrested, but they weren’t <em>people</em>. Some reluctant provision had been made for recognizing the parents of Muggle-borns as human in a limited sense, but Harry’s adoptive parents did not fall into that legal category.
 
-It seemed that Harry was effectively an orphan in the eyes of the wizarding world. As such, the Headmaster of Hogwarts, or his deputies €71€{within} the school system, were Harry’s guardians until he graduated. Harry €72€{could} breathe without Dumbledore’s permission, but only so long as the Headmaster did not specifically prohibit it.
+It seemed that Harry was effectively an orphan in the eyes of the wizarding world. As such, the Headmaster of Hogwarts, or his deputies <em>within</em> the school system, were Harry’s guardians until he graduated. Harry <em>could</em> breathe without Dumbledore’s permission, but only so long as the Headmaster did not specifically prohibit it.
 
-Harry had then asked if he could simply €73€{tell} Griphook how to diversify his investments beyond stacks of gold coins sitting in his vault.
+Harry had then asked if he could simply <em>tell</em> Griphook how to diversify his investments beyond stacks of gold coins sitting in his vault.
 
 Griphook had stared blankly and asked what ‘diversify’ meant.
 
@@ -341,7 +341,7 @@ The wizarding world did not have a concept of stock. Or equity. Or corporations.
 
 Loans were made by rich people, not banks. Though Gringotts would witness the contract, for a fee, and enforce its collection, for a much larger fee.
 
-Good rich people let their friends borrow money and pay it back whenever. €74€{Bad} rich people charged you €75€{interest}.
+Good rich people let their friends borrow money and pay it back whenever. <em>Bad</em> rich people charged you <em>interest</em>.
 
 There was no secondary market in loans.
 
@@ -359,19 +359,19 @@ And Professor Quirrell had quite deliberately announced that he would pay the bi
 
 The waitress, clad in robes that still looked severe and formal while being rather shorter than usual, bowed respectfully and departed, shutting the door behind her.
 
-Professor Quirrell waved a hand in the direction of the door, and a bolt slid shut. “Note the bolt on the inside. This room, Mr~Potter, is known as Mary’s Room. It happens to be proof against all scrying, and I do mean €76€{all}; Dumbledore himself could detect nothing of what happens here. Mary’s Room is used by two kinds of people. The first sort are engaged in illicit dalliances. And the second sort lead interesting lives.”
+Professor Quirrell waved a hand in the direction of the door, and a bolt slid shut. “Note the bolt on the inside. This room, Mr~Potter, is known as Mary’s Room. It happens to be proof against all scrying, and I do mean <em>all</em>; Dumbledore himself could detect nothing of what happens here. Mary’s Room is used by two kinds of people. The first sort are engaged in illicit dalliances. And the second sort lead interesting lives.”
 
-“€77€{Really,}” said Harry.
+“<em>Really,</em>” said Harry.
 
 Professor Quirrell nodded.
 
 Harry’s lips were parted in anticipation. “It would be a waste to just sit here and eat lunch, then, without doing anything special.”
 
-Professor Quirrell grinned, then took out his wand and flicked it in the direction of the door. “Of course,” he said, “people who lead interesting lives take precautions more €78€{thorough} than the dalliers. I have just sealed us in. Nothing will now pass in or out of this room—through the crack under the door, for example. And…”
+Professor Quirrell grinned, then took out his wand and flicked it in the direction of the door. “Of course,” he said, “people who lead interesting lives take precautions more <em>thorough</em> than the dalliers. I have just sealed us in. Nothing will now pass in or out of this room—through the crack under the door, for example. And…”
 
 Professor Quirrell then spoke no fewer than four different Charms, none of which Harry recognized.
 
-“Even that does not €79€{really} suffice,” said Professor Quirrell. “If we were doing anything of truly great import, it would be necessary to perform another twenty-three checks besides those. If, say, Rita Skeeter knew or guessed that we would come here, it is possible that she could be in this room wearing the true Cloak of Invisibility. Or she could be an Animagus with a tiny form, perhaps. There are tests to rule out such rare possibilities, but to perform all of them would be arduous. Still, I wonder if I should do them anyway, just so as not to teach you bad habits?” And Professor Quirrell tapped a finger on his cheek, looking abstracted.
+“Even that does not <em>really</em> suffice,” said Professor Quirrell. “If we were doing anything of truly great import, it would be necessary to perform another twenty-three checks besides those. If, say, Rita Skeeter knew or guessed that we would come here, it is possible that she could be in this room wearing the true Cloak of Invisibility. Or she could be an Animagus with a tiny form, perhaps. There are tests to rule out such rare possibilities, but to perform all of them would be arduous. Still, I wonder if I should do them anyway, just so as not to teach you bad habits?” And Professor Quirrell tapped a finger on his cheek, looking abstracted.
 
 “It’s fine,” Harry said, “I understand, and I’ll remember.” Though he was a little disappointed that they weren’t doing anything of truly great import.
 
@@ -387,7 +387,7 @@ At all.
 
 Not in the slightest.
 
-But she would get fired from her job, €80€{of course} she would be fired, she might have children going through Hogwarts for all Harry knew, and now it was worse, much worse—
+But she would get fired from her job, <em>of course</em> she would be fired, she might have children going through Hogwarts for all Harry knew, and now it was worse, much worse—
 
 “Is Lucius going to have her killed?” Harry said in a barely audible voice. Somewhere in his head, the Sorting Hat was screaming at him.
 
@@ -395,7 +395,7 @@ Professor Quirrell smiled dryly. “If you have not dealt with journalists befor
 
 Harry jumped out of his chair with a convulsive movement, he had to find Rita Skeeter and warn her before it was too late—
 
-“€81€{Sit down},” Professor Quirrell said sharply. “€82€{No}, Lucius won’t kill her. But Lucius makes life €83€{extremely} unpleasant for those who serve him ill. Miss~Skeeter will flee and start her life over with a new name. €84€{Sit down,} Mr~Potter; there is nothing you can do at this point, and you have a lesson to learn.”
+“<em>Sit down</em>,” Professor Quirrell said sharply. “<em>No</em>, Lucius won’t kill her. But Lucius makes life <em>extremely</em> unpleasant for those who serve him ill. Miss~Skeeter will flee and start her life over with a new name. <em>Sit down,</em> Mr~Potter; there is nothing you can do at this point, and you have a lesson to learn.”
 
 Harry sat down, slowly. There was a disappointed, annoyed look on Professor Quirrell’s face that was doing more to stop him than the words.
 
@@ -403,7 +403,7 @@ Harry sat down, slowly. There was a disappointed, annoyed look on Professor Quir
 
 “Rita Skeeter was a vile, disgusting woman,” Harry said. He wasn’t comfortable saying it, but there didn’t seem to be any other possible actions, none at all.
 
-“Rita Skeeter tried to destroy my reputation, but I executed an ingenious plan and destroyed €85€{her} reputation first.”
+“Rita Skeeter tried to destroy my reputation, but I executed an ingenious plan and destroyed <em>her</em> reputation first.”
 
 “Rita Skeeter challenged me. She lost the game, and I won.”
 
@@ -421,13 +421,13 @@ Harry sat down, slowly. There was a disappointed, annoyed look on Professor Quir
 
 “Ah,” said Professor Quirrell, who had been grinning a benevolent smile for the last few lines, “I see I have succeeded in catching your attention.”
 
-That was true. And while Harry felt like he was being railroaded into something—no, that wasn’t just a feeling, he €86€{had} been railroaded—he couldn’t deny that saying those things, and seeing Professor Quirrell’s smile, €87€{did} make him feel better.
+That was true. And while Harry felt like he was being railroaded into something—no, that wasn’t just a feeling, he <em>had</em> been railroaded—he couldn’t deny that saying those things, and seeing Professor Quirrell’s smile, <em>did</em> make him feel better.
 
 Professor Quirrell reached into his robes, the gesture slow and deliberately significant, and drew forth…
 
-…a €88€{book}.
+…a <em>book</em>.
 
-It was different from any book Harry had ever seen, the edges and corners visibly misshapen; €89€{rough-hewn} was the phrase that came to mind, like it had been hacked out of a book mine.
+It was different from any book Harry had ever seen, the edges and corners visibly misshapen; <em>rough-hewn</em> was the phrase that came to mind, like it had been hacked out of a book mine.
 
 “What is it?” breathed Harry.
 
@@ -441,13 +441,13 @@ It was different from any book Harry had ever seen, the edges and corners visibl
 
 Professor Quirrell’s expression became more serious. “Mr~Potter, one of the requisites for becoming a powerful wizard is an excellent memory. The key to a puzzle is often something you read twenty years ago in an old scroll, or a peculiar ring you saw on the finger of a man you met only once. I mention this to explain how I managed to remember this item, and the label attached to it, after meeting you a good deal later. You see, Mr~Potter, over the course of my life, I have viewed a number of private collections held by individuals who are, perhaps, not quite deserving of all that they have—”
 
-“You €90€{stole} it?” Harry said incredulously.
+“You <em>stole</em> it?” Harry said incredulously.
 
 “That is correct,” said Professor Quirrell. “Very recently, in fact. I think you will appreciate this particular item much more than the vile little man who held it for no other purpose than impressing his equally vile friends with its rarity.”
 
 Harry was simply gaping now.
 
-“But if you feel that my actions were incorrect, Mr~Potter, I suppose you needn’t accept your special present. Though of course I shan’t go to the trouble of putting it €91€{back}. So which is it to be?”
+“But if you feel that my actions were incorrect, Mr~Potter, I suppose you needn’t accept your special present. Though of course I shan’t go to the trouble of putting it <em>back</em>. So which is it to be?”
 
 Professor Quirrell tossed the book from one hand to another, causing Harry to reach out involuntarily with a look of dismay.
 
@@ -455,21 +455,21 @@ Professor Quirrell tossed the book from one hand to another, causing Harry to re
 
 Professor Quirrell casually threw the book up into the air and caught it again, grinning.
 
-€92€{No,} said Gryffindor and Hufflepuff.
+<em>No,</em> said Gryffindor and Hufflepuff.
 
-€93€{Yes}, said Ravenclaw. €94€{What part of the word ‘book’ did you two not understand?}
+<em>Yes</em>, said Ravenclaw. <em>What part of the word ‘book’ did you two not understand?</em>
 
-€95€{The theft part,} said Hufflepuff.
+<em>The theft part,</em> said Hufflepuff.
 
-€96€{Oh, come on,} said Ravenclaw, €97€{you can’t seriously ask us to say no and spend the rest of our life wondering what it was}.
+<em>Oh, come on,</em> said Ravenclaw, <em>you can’t seriously ask us to say no and spend the rest of our life wondering what it was</em>.
 
-€98€{It sounds like a net positive from a utilitarian standpoint,} said Slytherin. €99€{Think of it as an economic transaction which generates gains from trade, only without the trade part. Plus, €100€{we} didn’t steal it and it won’t help anyone to have Professor Quirrell keep it.}
+<em>It sounds like a net positive from a utilitarian standpoint,</em> said Slytherin. <em>Think of it as an economic transaction which generates gains from trade, only without the trade part. Plus, €10€<b>we</em> didn’t steal it and it won’t help anyone to have Professor Quirrell keep it.</b>
 
-€101€{He’s trying to turn you Dark!} shrieked Gryffindor, and Hufflepuff nodded firmly.
+<em>He’s trying to turn you Dark!</em> shrieked Gryffindor, and Hufflepuff nodded firmly.
 
-€102€{Don’t be a naive little boy,} said Slytherin, €103€{he’s trying to teach you Slytherin.}
+<em>Don’t be a naive little boy,</em> said Slytherin, <em>he’s trying to teach you Slytherin.</em>
 
-€104€{Yeah,} said Ravenclaw. €105€{Whoever owned the book originally was probably a Death Eater or something. It belongs with us.}
+<em>Yeah,</em> said Ravenclaw. <em>Whoever owned the book originally was probably a Death Eater or something. It belongs with us.</em>
 
 Harry’s mouth opened, then halted that way, an agonized look on his face.
 
@@ -483,7 +483,7 @@ The book vanished back into Professor Quirrell’s robes, and he rose up from hi
 
 “It’s all right,” said Professor Quirrell’s voice, which suddenly sounded a lot weaker than usual. “Sit down, Mr~Potter, it’s just a dizzy spell. Sit down.”
 
-Harry’s fingers gripped the edge of his chair, uncertain as to what he should do, what he €106€{could} do. Harry couldn’t even get too close to Professor Quirrell, not unless he wanted to defy that sense of Doom—
+Harry’s fingers gripped the edge of his chair, uncertain as to what he should do, what he <em>could</em> do. Harry couldn’t even get too close to Professor Quirrell, not unless he wanted to defy that sense of Doom—
 
 Professor Quirrell straightened, then, his breathing seeming a bit heavy, and opened the door.
 
@@ -499,7 +499,7 @@ Professor Quirrell held up a cautioning finger, then took out his wand again, lo
 
 Then Professor Quirrell took the book back out of his robes and tossed it to Harry, who almost dropped it into his soup.
 
-Harry shot Professor Quirrell a look of helpless indignation. You weren’t supposed to €107€{do} that with books, enchanted or not.
+Harry shot Professor Quirrell a look of helpless indignation. You weren’t supposed to <em>do</em> that with books, enchanted or not.
 
 Harry opened the book with ingrained, instinctive care. The pages seemed too thick, with a texture unlike either Muggle paper or wizarding parchment. And the contents were…
 
@@ -511,7 +511,7 @@ Harry opened the book with ingrained, instinctive care. The pages seemed too thi
 
 The lettering was obviously handwritten, and very hard to read, but Harry thought the words might be Latin.
 
-“What €108€{is} this?” said Harry.
+“What <em>is</em> this?” said Harry.
 
 “That,” said Professor Quirrell, “is a record of the magical researches of a Muggle-born who never came to Hogwarts. He refused his letter, and conducted his own small investigations, which never did get very far without a wand. From the description on the placard, I expect that his name bears rather more significance to you than to me. That, Harry Potter, is the diary of Roger Bacon.”
 

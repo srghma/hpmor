@@ -1,18 +1,18 @@
-€3€{Hold Off on Proposing Solutions}
+€3€<b>Hold Off on Proposing Solutions</b>
 
 €1€
-Since the science in this story is usually all correct, I include a warning that in Chapters~22–25 Harry overlooks many possibilities, the most important of which is that there are lots of magical genes but they're all on one chromosome (which wouldn’t happen naturally, but the chromosome might have been engineered). In this case, the inheritance pattern would be Mendelian, but the magical chromosome could still be degraded by chromosomal crossover with its non-magical homologue. (Harry has read about Mendel and chromosomes in science history books, but he hasn’t studied enough actual genetics to know about chromosomal crossover. Hey, he’s only eleven.) However, although a modern science journal would find a €4€{lot} more nits to pick, everything Harry presents as strong evidence is in fact strong evidence—the other possibilities are €5€{improbable}.
-€116€{Act 2}
+Since the science in this story is usually all correct, I include a warning that in Chapters~22–25 Harry overlooks many possibilities, the most important of which is that there are lots of magical genes but they're all on one chromosome (which wouldn’t happen naturally, but the chromosome might have been engineered). In this case, the inheritance pattern would be Mendelian, but the magical chromosome could still be degraded by chromosomal crossover with its non-magical homologue. (Harry has read about Mendel and chromosomes in science history books, but he hasn’t studied enough actual genetics to know about chromosomal crossover. Hey, he’s only eleven.) However, although a modern science journal would find a <em>lot</em> more nits to pick, everything Harry presents as strong evidence is in fact strong evidence—the other possibilities are <em>improbable</em>.
+€10€<b>Act 2</b>
 
 (The sun shone brilliantly into the Great Hall from the enchanted sky-ceiling above, illuminating the students as though they sat beneath the naked sky, gleaming from their plates and bowls, as, refreshed by a night’s sleep, they inhaled breakfast in preparation for whatever plans they’d made for their Sunday.)
 
-€7€{S}{o.} There was only one thing that made you a wizard.
+€5€<b>S</b><b>o.</b> There was only one thing that made you a wizard.
 
 That wasn’t surprising, when you thought about it. What DNA mostly did was tell ribosomes how to chain amino acids together into proteins. Conventional physics seemed quite capable of describing amino acids, and no matter how many amino acids you chained together, conventional physics said you would never, ever get magic out of it.
 
 And yet magic seemed to be hereditary, following DNA.
 
-Then that probably €8€{wasn’t} because the DNA was chaining together non-magical amino acids into magical proteins.
+Then that probably <em>wasn’t</em> because the DNA was chaining together non-magical amino acids into magical proteins.
 
 Rather the key DNA sequence did not, of itself, give you your magic at all.
 
@@ -22,21 +22,21 @@ Magic came from somewhere else.
 
 And for some reason the Source of Magic was paying attention to a particular DNA marker among individuals who were ordinary ape-descended humans in every other way.
 
-(Actually there were quite a lot of boys and girls staring off into space. It was the €9€{Ravenclaw} table, after all.)
+(Actually there were quite a lot of boys and girls staring off into space. It was the <em>Ravenclaw</em> table, after all.)
 
-There were other lines of logic leading to the same conclusion. €10€{Complex} machinery was always universal within a sexually reproducing species. If gene B relied on gene A, then A had to be useful on its own, and rise to near-universality in the gene pool on its own, before B would be useful often enough to confer a fitness advantage. Then once B was universal you would get a variant A* that relied on B, and then C that relied on A* and B, then B* that relied on C, until the whole machine would fall apart if you removed a single piece. But it all had to happen €11€{incrementally}—evolution never looked ahead, evolution would never start promoting B in €12€{preparation} for A becoming universal later. Evolution was the simple historical fact that, whichever organisms did in fact have the most children, their genes would in fact be more frequent in the next generation. So each piece of a complex machine had to become nearly universal before other pieces in the machine would evolve to depend on its presence.
+There were other lines of logic leading to the same conclusion. <em>Complex</em> machinery was always universal within a sexually reproducing species. If gene B relied on gene A, then A had to be useful on its own, and rise to near-universality in the gene pool on its own, before B would be useful often enough to confer a fitness advantage. Then once B was universal you would get a variant A* that relied on B, and then C that relied on A* and B, then B* that relied on C, until the whole machine would fall apart if you removed a single piece. But it all had to happen <em>incrementally</em>—evolution never looked ahead, evolution would never start promoting B in <em>preparation</em> for A becoming universal later. Evolution was the simple historical fact that, whichever organisms did in fact have the most children, their genes would in fact be more frequent in the next generation. So each piece of a complex machine had to become nearly universal before other pieces in the machine would evolve to depend on its presence.
 
-So €13€{complex, interdependent} machinery, the powerful sophisticated protein machines that drove life, was always €14€{universal} within a sexually reproducing species—except for a small handful of €15€{non}-interdependent €16€{variants} that were being selected on at any given time, as further complexity was slowly laid down. It was why all human beings had the same underlying brain design, the same emotions, the same facial expressions wired up to those emotions; those adaptations were complex, so they €17€{had} to be universal.
+So <em>complex, interdependent</em> machinery, the powerful sophisticated protein machines that drove life, was always <em>universal</em> within a sexually reproducing species—except for a small handful of <em>non</em>-interdependent <em>variants</em> that were being selected on at any given time, as further complexity was slowly laid down. It was why all human beings had the same underlying brain design, the same emotions, the same facial expressions wired up to those emotions; those adaptations were complex, so they <em>had</em> to be universal.
 
 If magic had been like that, a big complex adaptation with lots of necessary genes, then a wizard mating with a Muggle would have resulted in a child with only half those parts and half the machine wouldn’t do much. And so there would have been no Muggle-borns, ever. Even if all the pieces had individually entered the Muggle gene pool, they’d never reassemble all in one place to form a wizard.
 
 There hadn’t been some genetically isolated valley of humans that had stumbled onto an evolutionary pathway leading to sophisticated magical sections of the brain. That complex genetic machinery, if wizards interbred with Muggles, would never have reassembled into Muggle-borns.
 
-So however your genes made you a wizard, it €18€{wasn’t} by containing the blueprints for complicated machinery.
+So however your genes made you a wizard, it <em>wasn’t</em> by containing the blueprints for complicated machinery.
 
 That was the other reason Harry had guessed the Mendelian pattern would be there. If magical genes weren’t complicated, why would there be more than one?
 
-And yet magic itself seemed pretty complicated. A door-locking spell would prevent the door from opening €19€{and} prevent you from Transfiguring the hinges €20€{and} resist €21€{Finite Incantatem} and €22€{Alohomora}. Many elements all pointing in the same direction: you could call that goal-orientation, or in simpler language, purposefulness.
+And yet magic itself seemed pretty complicated. A door-locking spell would prevent the door from opening <em>and</em> prevent you from Transfiguring the hinges <em>and</em> resist <em>Finite Incantatem</em> and <em>Alohomora</em>. Many elements all pointing in the same direction: you could call that goal-orientation, or in simpler language, purposefulness.
 
 There were only two known causes of purposeful complexity. Natural selection, which produced things like butterflies. And intelligent engineering, which produced things like cars.
 
@@ -48,11 +48,11 @@ The obvious next thought was that this had something to do with “Atlantis”.
 
 Harry had asked Hermione about that earlier—on the train to Hogwarts, after hearing Draco say it—and so far as she knew, nothing more was known than the word itself.
 
-It might have been pure legend. But it was also plausible enough that a civilization of magic-users, especially one from €23€{before} the Interdict of Merlin, would have managed to blow itself up.
+It might have been pure legend. But it was also plausible enough that a civilization of magic-users, especially one from <em>before</em> the Interdict of Merlin, would have managed to blow itself up.
 
 The line of reasoning continued: Atlantis had been an isolated civilization that had somehow brought into being the Source of Magic, and told it to serve only people with the Atlantean genetic marker, the blood of Atlantis.
 
-And by similar logic: the words a wizard spoke, the wand movements, those weren’t complicated enough of themselves to build up the spell effects from scratch—not the way that the three billion base pairs of human DNA actually €24€{were} complicated enough to build a human body from scratch, not the way that computer programs took up thousands of bytes of data.
+And by similar logic: the words a wizard spoke, the wand movements, those weren’t complicated enough of themselves to build up the spell effects from scratch—not the way that the three billion base pairs of human DNA actually <em>were</em> complicated enough to build a human body from scratch, not the way that computer programs took up thousands of bytes of data.
 
 So the words and wand movements were just triggers, levers pulled on some hidden and more complex machine. Buttons, not blueprints.
 
@@ -76,23 +76,23 @@ This could take a while.
 
 Why did it take more effort to cast the Alohomora spell, if it was just like pressing a button?
 
-Who’d been silly enough to build in a spell for €25€{Avada Kedavra} that could only be cast using hatred?
+Who’d been silly enough to build in a spell for <em>Avada Kedavra</em> that could only be cast using hatred?
 
 Why did wordless Transfiguration require you to make a complete mental separation between the concept of form and concept of material?
 
-Harry might not be done with this problem by the time he graduated Hogwarts. He could still be working on this problem when he was €26€{thirty years old}. Hermione had been right, Harry €27€{hadn’t} realized that on a gut level before. He’d just given an inspiring speech about determination.
+Harry might not be done with this problem by the time he graduated Hogwarts. He could still be working on this problem when he was <em>thirty years old</em>. Hermione had been right, Harry <em>hadn’t</em> realized that on a gut level before. He’d just given an inspiring speech about determination.
 
 Harry’s mind briefly considered whether to get on a gut level that he might never solve the problem at all, then decided that would be taking things much too far.
 
 Besides, so long as he could get as far as immortality in the first few decades, he’d be fine.
 
-What method had the Dark Lord used? Come to think, the fact that the Dark Lord had somehow managed to survive the death of his first body was almost €28€{infinitely} more important than the fact that he’d tried to take over magical Britain—
+What method had the Dark Lord used? Come to think, the fact that the Dark Lord had somehow managed to survive the death of his first body was almost <em>infinitely</em> more important than the fact that he’d tried to take over magical Britain—
 
 “Excuse me,” said an expected voice from behind him in very unexpected tones. “At your convenience, Mr~Malfoy requests the favour of a conversation.”
 
 Harry did not choke on his breakfast cereal. Instead he turned around and beheld Mr~Crabbe.
 
-“Excuse €29€{me},” said Harry. “Don’t you mean ‘Da boss wants ta talk wid youse?’”
+“Excuse <em>me</em>,” said Harry. “Don’t you mean ‘Da boss wants ta talk wid youse?’”
 
 Mr~Crabbe didn’t look happy. “Mr~Malfoy instructed me to speak properly.”
 
@@ -100,35 +100,35 @@ Mr~Crabbe didn’t look happy. “Mr~Malfoy instructed me to speak properly.”
 
 “Da boss wants to talk with youse,” came a threatening voice from behind him. “Ya’d better come see him if ya know what’s good for ya.”
 
-There. €30€{Now} everything was going according to plan.
+There. <em>Now</em> everything was going according to plan.
 
-€31€{Act 1}
+€6€<b>Act 1</b>
 
-“A €32€{reason}?” said the old wizard. He restrained the fury from his face. The boy before him had been the victim, and certainly did not need to be frightened any further. “There is €33€{nothing} that can excuse—”
+“A <em>reason</em>?” said the old wizard. He restrained the fury from his face. The boy before him had been the victim, and certainly did not need to be frightened any further. “There is <em>nothing</em> that can excuse—”
 
 “What I did to him was worse.”
 
-The old wizard stiffened in sudden horror. “Harry, €34€{what have you done?}”
+The old wizard stiffened in sudden horror. “Harry, <em>what have you done?</em>”
 
 “I tricked Draco into believing that I’d tricked him into participating in a ritual that sacrificed his belief in blood purism. And that meant he couldn’t be a Death Eater when he grew up. He’d lost everything, Headmaster.”
 
 There was a long quiet in the office, broken only by the tiny puffs and whistles of the fiddly things, which after enough time had come to seem like silence.
 
-“Dear me,” said the old wizard, “I €35€{do} feel silly. And €36€{here} I was expecting you might try to redeem the heir of Malfoy by, say, €37€{showing him true friendship and kindness}.”
+“Dear me,” said the old wizard, “I <em>do</em> feel silly. And <em>here</em> I was expecting you might try to redeem the heir of Malfoy by, say, <em>showing him true friendship and kindness</em>.”
 
-“€38€{Ha!} Yeah, like €39€{that} would have worked.”
+“<em>Ha!</em> Yeah, like <em>that</em> would have worked.”
 
-The old wizard sighed. This was taking it too far. “Tell me, Harry. Did it even €40€{occur} to you that there was something €41€{incongruous} about setting out to redeem someone through lies and trickery?”
+The old wizard sighed. This was taking it too far. “Tell me, Harry. Did it even <em>occur</em> to you that there was something <em>incongruous</em> about setting out to redeem someone through lies and trickery?”
 
-“I did it without telling any direct lies, and since we’re talking about Draco Malfoy here, I think the word you’re looking for is €42€{congruous}.” The boy looked rather smug.
+“I did it without telling any direct lies, and since we’re talking about Draco Malfoy here, I think the word you’re looking for is <em>congruous</em>.” The boy looked rather smug.
 
-The old wizard shook his head in despair. “And €43€{this} is the hero. We’re all doomed.”
+The old wizard shook his head in despair. “And <em>this</em> is the hero. We’re all doomed.”
 
-€44€{Act 5}
+€7€<b>Act 5</b>
 
 The long, narrow tunnel of rough stone, unlit except by a child’s wand, seemed to stretch on for miles.
 
-The reason for this was simple: it €45€{did} stretch on for miles.
+The reason for this was simple: it <em>did</em> stretch on for miles.
 
 The time was three in the morning, and Fred and George were starting the long way down the secret passage that led from a statue of a one-eyed witch in Hogwarts, to the cellar of the Honeydukes sweet shop in Hogsmeade.
 
@@ -142,9 +142,9 @@ The time was three in the morning, and Fred and George were starting the long wa
 
 “Intermittent one fixed itself again. Other one’s same as ever.”
 
-The Map was an extraordinarily powerful artefact, capable of tracking every sentient being on the school grounds, in real time, by name. Almost certainly, it had been created during the original raising of Hogwarts. It was €46€{not good} that errors were starting to pop up. Chances were that no-one except Dumbledore could fix it if it was broken.
+The Map was an extraordinarily powerful artefact, capable of tracking every sentient being on the school grounds, in real time, by name. Almost certainly, it had been created during the original raising of Hogwarts. It was <em>not good</em> that errors were starting to pop up. Chances were that no-one except Dumbledore could fix it if it was broken.
 
-And the Weasley twins weren’t about to turn the Map over to Dumbledore. It would have been an unforgivable insult to the Marauders—the four unknowns who’d managed to steal part of the €47€{Hogwarts security system}, something probably forged by Salazar Slytherin himself, and twist it into €48€{a tool for student pranking}.
+And the Weasley twins weren’t about to turn the Map over to Dumbledore. It would have been an unforgivable insult to the Marauders—the four unknowns who’d managed to steal part of the <em>Hogwarts security system</em>, something probably forged by Salazar Slytherin himself, and twist it into <em>a tool for student pranking</em>.
 
 Some might have considered it disrespectful.
 
@@ -170,13 +170,13 @@ Fred and George decided that Fred would speak.
 
 George drew forth an item from his robes, and wordlessly passed it to Flume. “Have you seen this?” said Fred.
 
-Flume looked at yesterday’s edition of the €49€{Daily Prophet} and nodded, scowling. The headline on the paper read “THE NEXT DARK LORD?” and showed a young boy which some student’s camera had managed to catch in an uncharacteristically cold and grim expression.
+Flume looked at yesterday’s edition of the <em>Daily Prophet</em> and nodded, scowling. The headline on the paper read “THE NEXT DARK LORD?” and showed a young boy which some student’s camera had managed to catch in an uncharacteristically cold and grim expression.
 
 “I can’t believe that Malfoy,” Flume snapped. “Going after the boy when he’s only eleven! The man ought to be ground up and used to make chocolates!”
 
-Fred and George blinked in unison. €50€{Malfoy} was behind Rita Skeeter? Harry Potter hadn’t warned them about that…which surely meant that Harry didn’t know. He never would have brought them in if he did…
+Fred and George blinked in unison. <em>Malfoy</em> was behind Rita Skeeter? Harry Potter hadn’t warned them about that…which surely meant that Harry didn’t know. He never would have brought them in if he did…
 
-Fred and George exchanged glances. Well, Harry didn’t €51€{need} to know until after the job was done.
+Fred and George exchanged glances. Well, Harry didn’t <em>need</em> to know until after the job was done.
 
 “Mr~Flume,” Fred said quietly, “the Boy-Who-Lived needs your help.”
 
@@ -186,7 +186,7 @@ Then he let out his breath with a sigh.
 
 “All right,” said Flume, “what do you want?”
 
-€52€{Act 6}
+€8€<b>Act 6</b>
 
 When Rita Skeeter was intent on a tasty prey, she didn’t tend to notice the scurrying ants who constituted the rest of the universe, which was how she almost bumped into the balding young man who’d stepped into her pathway.
 
@@ -198,13 +198,13 @@ The man in her pathway matched the movement so perfectly that it was like neithe
 
 Rita’s eyes narrowed. “Who do you think you are?”
 
-“How very foolish,” the man said dryly. “It would have been wise to memorize the face of the disguised Death Eater training Harry Potter to be the next Dark Lord. After all,” a thin smile, “€53€{that} certainly sounds like someone you wouldn’t want to run into on the street, especially after doing a hatchet job on him in the newspaper.”
+“How very foolish,” the man said dryly. “It would have been wise to memorize the face of the disguised Death Eater training Harry Potter to be the next Dark Lord. After all,” a thin smile, “<em>that</em> certainly sounds like someone you wouldn’t want to run into on the street, especially after doing a hatchet job on him in the newspaper.”
 
-Rita took a moment to place the reference. €54€{This} was Quirinus Quirrell? He looked too young and too old at the same time; his face, if it relaxed from its severe and condescending pose, would belong to someone in his late thirties. And his hair was already falling out? Couldn’t he afford a healer?
+Rita took a moment to place the reference. <em>This</em> was Quirinus Quirrell? He looked too young and too old at the same time; his face, if it relaxed from its severe and condescending pose, would belong to someone in his late thirties. And his hair was already falling out? Couldn’t he afford a healer?
 
 No, that wasn’t important, she had a time and a place and a beetle to be. She’d just received an anonymous tip about Madam Bones making time with one of her younger assistants. That would be worth quite a bonus if she could manage to verify it, Bones was high on the hit list. The tipster had said that Bones and her young assistant were due to eat lunch in a special room at Mary’s Place, a very popular room for certain purposes; a room which, she’d found, was secure against all listening devices, but not proof against a beautiful blue beetle nestled up against one wall…
 
-“Out of my €55€{way}!” Rita said, and tried to push Quirrell from her path. Quirrell’s arm brushed her own, deflecting, and Rita staggered as the thrust went into the thin air.
+“Out of my <em>way</em>!” Rita said, and tried to push Quirrell from her path. Quirrell’s arm brushed her own, deflecting, and Rita staggered as the thrust went into the thin air.
 
 Quirrell pulled up the sleeve of his left robe, showing his left arm. “Observe,” said Quirrell, “no Dark Mark. I would like your paper to publish a retraction.”
 
@@ -222,25 +222,25 @@ Quirrell swept her a small bow, and then walked past. “Goodbye, Rita Skeeter,�
 
 As Rita bulled on ahead, she noted in the back of her mind that the man was whistling a tune as he walked away.
 
-Like €56€{that} would scare her.
+Like <em>that</em> would scare her.
 
-€57€{Act 4}
+€9€<b>Act 4</b>
 
 “Sorry, count me out,” said Lee Jordan. “I’m more the giant spider type.”
 
-The Boy-Who-Lived had said that he had €58€{important} work for the Order of Chaos, something serious and secret, more significant and difficult than their usual run of pranks.
+The Boy-Who-Lived had said that he had <em>important</em> work for the Order of Chaos, something serious and secret, more significant and difficult than their usual run of pranks.
 
-And then Harry Potter had launched into a speech that was inspiring, yet vague. A speech to the effect that Fred and George and Lee had tremendous potential if they could just learn to be €59€{weirder}. To make people’s lives €60€{surreal}, instead of just surprising them with the equivalents of buckets of water propped above doors. (Fred and George had exchanged interested looks, they’d never thought of that one.) Harry Potter had invoked a picture of the prank they’d pulled on Neville—which, Harry had mentioned with some remorse, the Sorting Hat had chewed him out on—but which must have made Neville €61€{doubt his own sanity}. For Neville it would have felt like being suddenly transported into an alternate universe. The same way everyone else had felt when they’d seen Snape apologize. That was the €62€{true power of pranking}.
+And then Harry Potter had launched into a speech that was inspiring, yet vague. A speech to the effect that Fred and George and Lee had tremendous potential if they could just learn to be <em>weirder</em>. To make people’s lives <em>surreal</em>, instead of just surprising them with the equivalents of buckets of water propped above doors. (Fred and George had exchanged interested looks, they’d never thought of that one.) Harry Potter had invoked a picture of the prank they’d pulled on Neville—which, Harry had mentioned with some remorse, the Sorting Hat had chewed him out on—but which must have made Neville <em>doubt his own sanity</em>. For Neville it would have felt like being suddenly transported into an alternate universe. The same way everyone else had felt when they’d seen Snape apologize. That was the <em>true power of pranking</em>.
 
-€63€{Are you with me?} Harry Potter had cried, and Lee Jordan had answered no.
+<em>Are you with me?</em> Harry Potter had cried, and Lee Jordan had answered no.
 
-“Count us €64€{in},” said Fred, or possibly George, for there was no doubt that Godric Gryffindor would have said yes.
+“Count us <em>in</em>,” said Fred, or possibly George, for there was no doubt that Godric Gryffindor would have said yes.
 
 Lee Jordan gave a regretful grin, and stood up, and left the deserted and Quieted corridor where the four members of the Order of Chaos had met and sat down in a conspiratorial circle.
 
 The three members of the Order of Chaos got down to business.
 
-(It wasn’t €65€{that} sad. Fred and George would still work with Lee on giant spider pranks, same as ever. They’d only started calling it the Order of Chaos in order to recruit Harry Potter, after Ron had told them about Harry being weird and evil, and Fred and George had decided to save Harry by showing him true friendship and kindness. Thankfully this no longer seemed necessary—although they weren’t €66€{quite} sure about that…)
+(It wasn’t <em>that</em> sad. Fred and George would still work with Lee on giant spider pranks, same as ever. They’d only started calling it the Order of Chaos in order to recruit Harry Potter, after Ron had told them about Harry being weird and evil, and Fred and George had decided to save Harry by showing him true friendship and kindness. Thankfully this no longer seemed necessary—although they weren’t <em>quite</em> sure about that…)
 
 “So,” said one of the twins, “what’s this about?”
 
@@ -256,7 +256,7 @@ That wasn’t good news.
 
 Fred and George looked at each other, a bit puzzled. “You want us to slip her some of our more interesting candies?”
 
-“No,” said Harry. “No, no, €67€{no}! That’s giant-spider thinking! Come on, what would €68€{you} do if you heard that Rita Skeeter was looking for rumours about €69€{you}?”
+“No,” said Harry. “No, no, <em>no</em>! That’s giant-spider thinking! Come on, what would <em>you</em> do if you heard that Rita Skeeter was looking for rumours about <em>you</em>?”
 
 That made it obvious.
 
@@ -264,17 +264,17 @@ Grins slowly started on the faces of Fred and George.
 
 “Start rumours about ourselves,” they replied.
 
-“€70€{Exactly,}” said Harry, grinning widely. “But these can’t be just €71€{any} rumours. I want to teach people never to believe what the newspaper says about Harry Potter, any more than Muggles believe what the newspaper says about Elvis. At first I just thought about flooding Rita Skeeter with so many rumours that she wouldn’t know what to believe, but then she’ll just cherry-pick the ones that sound plausible and bad. So what I want you to do is create a fake story about me, and get Rita Skeeter to believe it somehow. But it has to be something that, afterwards, everyone will €72€{know} was fake. We want to fool Rita Skeeter and her editors, and €73€{afterwards} have the proof come out that it was false. And of course—given that those are the requirements—the story has to be as €74€{ridiculous} as it can possibly be, and still get printed. Do you understand what I want you to do?”
+“<em>Exactly,</em>” said Harry, grinning widely. “But these can’t be just <em>any</em> rumours. I want to teach people never to believe what the newspaper says about Harry Potter, any more than Muggles believe what the newspaper says about Elvis. At first I just thought about flooding Rita Skeeter with so many rumours that she wouldn’t know what to believe, but then she’ll just cherry-pick the ones that sound plausible and bad. So what I want you to do is create a fake story about me, and get Rita Skeeter to believe it somehow. But it has to be something that, afterwards, everyone will <em>know</em> was fake. We want to fool Rita Skeeter and her editors, and <em>afterwards</em> have the proof come out that it was false. And of course—given that those are the requirements—the story has to be as <em>ridiculous</em> as it can possibly be, and still get printed. Do you understand what I want you to do?”
 
-“Not exactly…” Fred or George said slowly. “You want us to €75€{invent} the story?”
+“Not exactly…” Fred or George said slowly. “You want us to <em>invent</em> the story?”
 
-“I want you to do €76€{all} of it,” Harry Potter said. “I’m sort of busy right now, plus I want to be able to say truthfully that I had no idea what was coming. Surprise me.”
+“I want you to do <em>all</em> of it,” Harry Potter said. “I’m sort of busy right now, plus I want to be able to say truthfully that I had no idea what was coming. Surprise me.”
 
 For a moment there was a very evil grin on the faces of Fred and George.
 
 Then they turned serious. “But Harry, we don’t really know how to do anything like that—”
 
-“So figure it out,” Harry said. “I have confidence in you. Not €77€{total} confidence, but if you €78€{can’t} do it, €79€{tell} me that, and I’ll try someone else, or do it myself. If you have a really good idea—for both the ridiculous story, and how to convince Rita Skeeter and her editors to print it—then you can go ahead and do it. But don’t go with something mediocre. If you can’t come up with something €80€{awesome}, just say so.”
+“So figure it out,” Harry said. “I have confidence in you. Not <em>total</em> confidence, but if you <em>can’t</em> do it, <em>tell</em> me that, and I’ll try someone else, or do it myself. If you have a really good idea—for both the ridiculous story, and how to convince Rita Skeeter and her editors to print it—then you can go ahead and do it. But don’t go with something mediocre. If you can’t come up with something <em>awesome</em>, just say so.”
 
 Fred and George exchanged worried glances.
 
@@ -288,25 +288,25 @@ And then Harry began to explain how you went about thinking of things.
 
 It had been known to take longer than two seconds, said Harry.
 
-You €81€{never} called €82€{any} question impossible, said Harry, until you had taken an actual clock and thought about it for five minutes, by the motion of the minute hand. Not five minutes metaphorically, five minutes by a physical clock.
+You <em>never</em> called <em>any</em> question impossible, said Harry, until you had taken an actual clock and thought about it for five minutes, by the motion of the minute hand. Not five minutes metaphorically, five minutes by a physical clock.
 
-And €83€{furthermore}, Harry said, his voice emphatic and his right hand thumping hard on the floor, you did €84€{not} start out immediately looking for solutions.
+And <em>furthermore</em>, Harry said, his voice emphatic and his right hand thumping hard on the floor, you did <em>not</em> start out immediately looking for solutions.
 
 Harry then launched into an explanation of a test done by someone named Norman Maier, who was something called an organizational psychologist, and who’d asked two different sets of problem-solving groups to tackle a problem.
 
 The problem, Harry said, had involved three employees doing three jobs. The junior employee wanted to just do the easiest job. The senior employee wanted to rotate between jobs, to avoid boredom. An efficiency expert had recommended giving the junior person the easiest job and the senior person the hardest job, which would be 20\% more productive.
 
-€85€{One} set of problem-solving groups had been given the instruction “Do not propose solutions until the problem has been discussed as thoroughly as possible without suggesting any.”
+<em>One</em> set of problem-solving groups had been given the instruction “Do not propose solutions until the problem has been discussed as thoroughly as possible without suggesting any.”
 
 The other set of problem-solving groups had been given no instructions. And those people had done the natural thing, and reacted to the presence of a problem by proposing solutions. And people had become attached to those solutions, and started fighting about them, and arguing about the relative importance of freedom versus efficiency and so on.
 
-The first set of problem-solving groups, the ones given instructions to €86€{discuss} the problem first and €87€{then} solve it, had been far more likely to hit upon the solution of letting the junior employee keep the easiest job and rotating the other two people between the other two jobs, for what the expert’s data said would be a 19\% improvement.
+The first set of problem-solving groups, the ones given instructions to <em>discuss</em> the problem first and <em>then</em> solve it, had been far more likely to hit upon the solution of letting the junior employee keep the easiest job and rotating the other two people between the other two jobs, for what the expert’s data said would be a 19\% improvement.
 
-Starting out by looking for solutions was taking things €88€{entirely out of order}. Like starting a meal with dessert, only €89€{bad}.
+Starting out by looking for solutions was taking things <em>entirely out of order</em>. Like starting a meal with dessert, only <em>bad</em>.
 
 (Harry also quoted someone named Robyn Dawes as saying that the harder a problem was, the more likely people were to try to solve it immediately.)
 
-So Harry was going to leave this problem to Fred and George, and they would discuss all the aspects of it and brainstorm anything they thought might be remotely relevant. And they shouldn’t try to come up with an actual solution until they’d finished doing that, unless of course they €90€{did} happen to randomly think of something awesome, in which case they could write it down for afterwards and then go back to thinking. And he didn’t want to hear back from them about any so-called €91€{failures to think of anything} for at least a week. Some people spent €92€{decades} trying to think of things.
+So Harry was going to leave this problem to Fred and George, and they would discuss all the aspects of it and brainstorm anything they thought might be remotely relevant. And they shouldn’t try to come up with an actual solution until they’d finished doing that, unless of course they <em>did</em> happen to randomly think of something awesome, in which case they could write it down for afterwards and then go back to thinking. And he didn’t want to hear back from them about any so-called <em>failures to think of anything</em> for at least a week. Some people spent <em>decades</em> trying to think of things.
 
 “Any questions?” said Harry.
 
@@ -318,9 +318,9 @@ Fred and George stared at each other.
 
 Harry coughed gently. “You didn’t ask about your budget.”
 
-€93€{Budget?} they thought.
+<em>Budget?</em> they thought.
 
-“I could just tell you the amount,” Harry said. “But I think €94€{this} will be more €95€{inspiring}.”
+“I could just tell you the amount,” Harry said. “But I think <em>this</em> will be more <em>inspiring</em>.”
 
 Harry’s hands dipped into his robe, and brought forth—
 
@@ -328,15 +328,15 @@ Fred and George almost fell over, even though they were sitting down.
 
 “Don’t spend it for the sake of spending it,” Harry said. On the stone floor in front of them gleamed an absolutely ridiculous amount of money. “Only spend it if awesomeness requires; and what awesomeness does require, don’t hesitate to spend. If there’s anything left over, just return it afterwards, I trust you. Oh, and you get ten percent of what’s there, regardless of how much you end up spending—”
 
-“We €96€{can’t}!” blurted one of the twins. “We don’t accept money for that sort of thing!”
+“We <em>can’t</em>!” blurted one of the twins. “We don’t accept money for that sort of thing!”
 
 (The twins never took money for doing anything illegal. Unknown to Ambrosius Flume, they were selling all of his merchandise at zero percent markup. Fred and George wanted to be able to testify—under Veritaserum if necessary—that they had not been profiteering criminals, just providing a public service.)
 
-Harry frowned at them. “But I’m asking you to put in some real work here. A grown-up would get paid for doing something like this, and it would €97€{still} count as a favour for a friend. You can’t just hire people for this sort of thing.”
+Harry frowned at them. “But I’m asking you to put in some real work here. A grown-up would get paid for doing something like this, and it would <em>still</em> count as a favour for a friend. You can’t just hire people for this sort of thing.”
 
 Fred and George shook their heads.
 
-“Fine,” Harry said. “I’ll just get you expensive Christmas presents, and if you try returning them to me I’ll burn them. Now you don’t even €98€{know} how much I’m going to spend on you, except, obviously, that it’s going to be more than if you’d just taken the money. And I’m going to buy you those presents €99€{anyway}, so think about €100€{that} before you tell me €101€{you can’t think of anything awesome}.”
+“Fine,” Harry said. “I’ll just get you expensive Christmas presents, and if you try returning them to me I’ll burn them. Now you don’t even <em>know</em> how much I’m going to spend on you, except, obviously, that it’s going to be more than if you’d just taken the money. And I’m going to buy you those presents <em>anyway</em>, so think about <em>that</em> before you tell me <em>you can’t think of anything awesome</em>.”
 
 Harry stood up, smiling, and turned to go while Fred and George were still gaping in shock. He strode a few steps away, and then turned back.
 
@@ -370,7 +370,7 @@ There was a long pause after he’d departed.
 
 “…and he’s probably teaching Harry Potter all sorts of dreadful things…”
 
-“…and he’s the worst Defence Professor anyone remembers even in Hogwarts, he’s not just €102€{failing} to teach us, he’s getting everything wrong, the complete opposite of what it should be…”
+“…and he’s the worst Defence Professor anyone remembers even in Hogwarts, he’s not just <em>failing</em> to teach us, he’s getting everything wrong, the complete opposite of what it should be…”
 
 “…like when he claimed that you could only cast the Killing Curse using love, which made it pretty much useless.”
 
@@ -396,7 +396,7 @@ The Weasley twins decided that George would be the enthusiastic one while Fred d
 
 They considered this.
 
-“Maybe,” said George, “but I don’t think we should be all €103€{that} strict about it, do you?”
+“Maybe,” said George, “but I don’t think we should be all <em>that</em> strict about it, do you?”
 
 The twins shrugged helplessly.
 
@@ -408,23 +408,23 @@ The twins got a thoughtful look on their face.
 
 “That could use up Harry’s budget pretty fast,” said Fred. “This is a lot of money for us, but it’s not a lot of money for someone like Flume.”
 
-“Maybe people will give discounts if they know it’s for Harry,” said George. “But most importantly of all, whatever we do, it has to be €104€{impossible}.”
+“Maybe people will give discounts if they know it’s for Harry,” said George. “But most importantly of all, whatever we do, it has to be <em>impossible</em>.”
 
-Fred blinked. “What do you mean, €105€{impossible}?”
+Fred blinked. “What do you mean, <em>impossible</em>?”
 
-“So impossible that we don’t get in trouble, because no-one believes we could have done it. So impossible that even Harry starts wondering. It has to be surreal, it has to make people doubt their own sanity, it has to be…€106€{better than Harry.}”
+“So impossible that we don’t get in trouble, because no-one believes we could have done it. So impossible that even Harry starts wondering. It has to be surreal, it has to make people doubt their own sanity, it has to be…<em>better than Harry.</em>”
 
 Fred’s eyes were wide in astonishment. This happened sometimes, between them, but not often. “But why?”
 
-“They were pranks. They were €107€{all} pranks. The pie was a prank. The Remembrall was a prank. Kevin Entwhistle’s cat was a prank. €108€{Snape} was a prank. €109€{We’re} the best pranksters in Hogwarts, are we going to roll over and give up without a fight?”
+“They were pranks. They were <em>all</em> pranks. The pie was a prank. The Remembrall was a prank. Kevin Entwhistle’s cat was a prank. <em>Snape</em> was a prank. <em>We’re</em> the best pranksters in Hogwarts, are we going to roll over and give up without a fight?”
 
 “He’s the Boy-Who-Lived,” said Fred.
 
-“And €110€{we’re} the Weasley twins! He’s €111€{challenging} us. He said we could do what he does. But I bet he doesn’t think we’ll ever be as good as €112€{him}.”
+“And <em>we’re</em> the Weasley twins! He’s <em>challenging</em> us. He said we could do what he does. But I bet he doesn’t think we’ll ever be as good as <em>him</em>.”
 
-“He’s right,” said Fred, feeling rather nervous. The Weasley twins did €113€{sometimes} disagree even when they had all the same information, but every time they did it seemed unnatural, like at least one of them must be doing something wrong. “This is €114€{Harry Potter} we’re talking about. He can do the impossible. We can’t.”
+“He’s right,” said Fred, feeling rather nervous. The Weasley twins did <em>sometimes</em> disagree even when they had all the same information, but every time they did it seemed unnatural, like at least one of them must be doing something wrong. “This is <em>Harry Potter</em> we’re talking about. He can do the impossible. We can’t.”
 
-“Yes we can,” said George. “And we have to be €115€{more} impossible than him.”
+“Yes we can,” said George. “And we have to be <em>more</em> impossible than him.”
 
 “But—” said Fred.
 

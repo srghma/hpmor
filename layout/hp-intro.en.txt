@@ -1,40 +1,12 @@
-€117€{black}€28€{€29€}
-€118€{
-€32€(0,0){€119€[b][€34€]{€35€}{€120€
-}}}€39€*{€40€}€121€*{€42€(0,0){€122€[b][€44€]{€45€}{€123€{€47€{€48€}}€10€
-}}}€11€
-\ €124€{empty}
-{€125€{Harry Potter}€55€*{0.5cm}
+€66€
+</b></b></b>€11€
+\ €67€
+<b>€68€<b>Harry Potter</b>€32€*<b>0.5cm</b>
 
-€126€{and the Methods of Rationality} €127€ BY €59€*{.25cm}
-
-€128€{Eliezer Yudkowsky}€129€*{1€64€}
-€65€{€66€}
-}
-
-€67€
-Find the original text, with author’s notes, fan art and other info at:\\
-€68€{http://hpmor.com}
-
-Home of this revised e-book version is:\\
-€69€{https://github.com/rrthomas/hpmor/}
-€130€*{2cm}
-
-€72€{empty}
-Fanfiction based on the characters of
-
-€73€*{.5cm}
-
-€131€{J.~K.~Rowling} €132€*{.5cm}
-
-and her books:
-
-€78€*{.5cm}
-
-{€133€{books_list_counter}€134€ #1{€135€{books_list_counter}{1}€136€{Harry Potter and the #1} €137€ Year €85€{€86€{books_list_counter}} at Hogwarts€138€ }€139€{Philosopher’s Stone}€140€{Chamber of Secrets}€141€{Prisoner of Azkaban}€142€{Goblet of Fire}€143€{Order of the Phoenix}€144€{Half-Blood Prince}€145€{Deathly Hallows}
-}
-€146€*{4cm}
+€69€<b>and the Methods of Rationality</b> €70€<b>Harry Potter and the #1</b> €71€ Year €37€<b>€38€<b>books_list_counter</b></b> at Hogwarts€72€ </b>€73€<b>Philosopher’s Stone</b>€74€<b>Chamber of Secrets</b>€75€<b>Prisoner of Azkaban</b>€76€<b>Goblet of Fire</b>€77€<b>Order of the Phoenix</b>€78€<b>Half-Blood Prince</b>€79€<b>Deathly Hallows</b>
+</b>
+€80€*<b>4cm</b>
 €19€
-Disclaimer:\€99€.~K.~Rowling owns Harry Potter,\€100€ no-one owns the methods of rationality.
-€147€
-This e-book was created at €102€{}.
+Disclaimer:\€51€.~K.~Rowling owns Harry Potter,\€52€ no-one owns the methods of rationality.
+€81€
+This e-book was created at €54€<b></b>.

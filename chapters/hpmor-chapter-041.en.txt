@@ -1,14 +1,14 @@
-€1€{Frontal Override}
+€1€<b>Frontal Override</b>
 
-€2€{T}{he} biting January wind howled around the vast, blank stone walls that demarcated the material bounds of the castle Hogwarts, whispering and whistling in odd pitches as it blew past closed windows and stone turrets. The most recent snow had mostly blown away, but occasional patches of melted and refrozen ice still stuck to the stone face and blazed reflected sunlight. From a distance, it must have looked like Hogwarts was blinking hundreds of eyes.
+€2€<b>T</b><b>he</b> biting January wind howled around the vast, blank stone walls that demarcated the material bounds of the castle Hogwarts, whispering and whistling in odd pitches as it blew past closed windows and stone turrets. The most recent snow had mostly blown away, but occasional patches of melted and refrozen ice still stuck to the stone face and blazed reflected sunlight. From a distance, it must have looked like Hogwarts was blinking hundreds of eyes.
 
 A sudden gust made Draco flinch, and try, impossibly, to press his body even closer to the stone, which felt like ice and smelled like ice. Some utterly pointless instinct seemed convinced that he was about to be blown off the outer wall of Hogwarts, and that the best way to prevent this was to jerk around in helpless reflex and possibly throw up.
 
-Draco was trying very hard €3€{not} to think about the six stories worth of empty air underneath him, and focus, instead, on how he was going to kill Harry Potter.
+Draco was trying very hard <em>not</em> to think about the six stories worth of empty air underneath him, and focus, instead, on how he was going to kill Harry Potter.
 
-“You know, Mr~Malfoy,” said the young girl beside him in a conversational voice, “if a seer had told me that some day I’d be hanging onto the side of a castle by my fingertips, trying not to look down or think about how loud Mum’d scream if she saw me, I wouldn’t’ve had €4€{any} idea of how it’d happen, €5€{except} that it’d be Harry Potter’s fault.”
+“You know, Mr~Malfoy,” said the young girl beside him in a conversational voice, “if a seer had told me that some day I’d be hanging onto the side of a castle by my fingertips, trying not to look down or think about how loud Mum’d scream if she saw me, I wouldn’t’ve had <em>any</em> idea of how it’d happen, <em>except</em> that it’d be Harry Potter’s fault.”
 
-€6€{Earlier}
+€3€<b>Earlier</b>
 
 The two allied Generals stepped together over Longbottom’s body, their boots hitting the floor in almost perfect synchrony.
 
@@ -16,15 +16,15 @@ Only a single soldier now stood between them and Harry, a Slytherin boy named Sa
 
 The battle had been ridiculously difficult, for the enemy being outnumbered two-to-one. It should have been easy, Dragon Army and the Sunshine Regiment had melded together easily in practice sessions, they’d fought each other long enough to know each other very well indeed. Morale was high, both armies knowing that this time they weren’t just fighting to win for themselves, but fighting for a world free of traitors. Despite the surprised protests of both generals, the soldiers of the combined army had insisted on calling themselves Dramione’s Sungon Argiment, and produced patches for their insignia of a smiling face wreathed in flames.
 
-But Harry’s soldiers had all blackened their own insignia—it didn’t look like paint, more like they’d €7€{burned} that part of their uniforms—and they’d fought all through the upper levels of Hogwarts with a desperate fury. The cold rage that Draco sometimes saw in Harry had seemed to trickle down into his soldiers, and they’d fought like it hadn’t been play. And Harry had emptied out his entire bag of tricks, there’d been tiny metal balls (Granger had identified them as “ball bearings”) on floors and staircases, rendering them impassable until cleared, only Harry’s army had already practised coordinated Hover Charms and they could fly their own people €8€{right over} the obstacles they’d made…
+But Harry’s soldiers had all blackened their own insignia—it didn’t look like paint, more like they’d <em>burned</em> that part of their uniforms—and they’d fought all through the upper levels of Hogwarts with a desperate fury. The cold rage that Draco sometimes saw in Harry had seemed to trickle down into his soldiers, and they’d fought like it hadn’t been play. And Harry had emptied out his entire bag of tricks, there’d been tiny metal balls (Granger had identified them as “ball bearings”) on floors and staircases, rendering them impassable until cleared, only Harry’s army had already practised coordinated Hover Charms and they could fly their own people <em>right over</em> the obstacles they’d made…
 
-You couldn’t bring devices into the game from outside, but you could Transfigure anything you wanted €9€{during} the game, so long as it was safe. And that just wasn’t fair when you were fighting a boy raised by scientists, who knew about things like ball bearings and skateboards and bungee cords.
+You couldn’t bring devices into the game from outside, but you could Transfigure anything you wanted <em>during</em> the game, so long as it was safe. And that just wasn’t fair when you were fighting a boy raised by scientists, who knew about things like ball bearings and skateboards and bungee cords.
 
 And so it had come to this.
 
 The survivors of the allied forces had cornered the last remnants of Harry Potter’s army in a dead-end corridor.
 
-Weasley and Vincent had rushed Longbottom at the same time, moving together like they’d practised for weeks instead of hours, and somehow Longbottom had managed to hex them €10€{both} before falling himself.
+Weasley and Vincent had rushed Longbottom at the same time, moving together like they’d practised for weeks instead of hours, and somehow Longbottom had managed to hex them <em>both</em> before falling himself.
 
 And now it was Draco and Hermione and Padma and Samuel and Harry, and by the looks of Samuel, his Prismatic Wall couldn’t last much longer.
 
@@ -46,13 +46,13 @@ Beside Draco, the Sunshine General gasped in horror; and Draco, without even ask
 
 Samuel staggered, he let out a scream as he staggered, but he held the Wall; and if Padma or Granger fired now, they would exhaust their own forces so badly that they might just lose.
 
-“€11€{Harry!}” shouted Granger. “€12€{You can’t be serious!}”
+“<em>Harry!</em>” shouted Granger. “<em>You can’t be serious!</em>”
 
 Harry was already in motion.
 
 And as he swung out the open window, his cold voice said, “Follow if you dare.”
 
-€13€
+€4€
 
 The icy wind howled around them.
 
@@ -62,15 +62,15 @@ Draco’s arms were already starting to feel tired.
 
 And that, also yesterday, Harry had supplied Granger with a grand total of exactly two doses of Feather-Falling Potion to carry around in her pouch, “just in case”.
 
-Not that Padma would have followed them, anyway. €14€{She} wasn’t crazy.
+Not that Padma would have followed them, anyway. <em>She</em> wasn’t crazy.
 
 Draco carefully peeled loose his right hand, stretched it over as far as he could, and slapped it down on the stone again. Beside him, Granger did the same.
 
-They’d already swallowed the Feather-Falling Potion. It was skirting the edges of the game rules, but the potion wouldn’t be activated unless one of them actually fell, and so long as they €15€{didn’t} fall they weren’t using the item.
+They’d already swallowed the Feather-Falling Potion. It was skirting the edges of the game rules, but the potion wouldn’t be activated unless one of them actually fell, and so long as they <em>didn’t</em> fall they weren’t using the item.
 
 Professor Quirrell was watching them.
 
-The two of them were €16€{perfectly, completely, utterly safe}.
+The two of them were <em>perfectly, completely, utterly safe</em>.
 
 Harry Potter, on the other hand, was going to die.
 
@@ -92,69 +92,69 @@ Stick. Plop.
 
 Stick. Plop.
 
-“What’s he got against €17€{you}?” said Granger.
+“What’s he got against <em>you</em>?” said Granger.
 
 Stick. Plop.
 
 The icy wind howled around them.
 
-€18€
+€5€
 
 One might have thought it would feel safer to have ground under your feet again.
 
 But if that ground was a slanted roof tiled with rough slats, which had rather a lot more ice on it than the stone walls, and you were running across it at a high rate of speed…
 
-Then you would be €19€{sadly mistaken}.
+Then you would be <em>sadly mistaken</em>.
 
-“€20€{Luminos!}” shouted Draco.
+“<em>Luminos!</em>” shouted Draco.
 
-“€21€{Luminos!}” shouted Granger.
+“<em>Luminos!</em>” shouted Granger.
 
-“€22€{Luminos!}” shouted Draco.
+“<em>Luminos!</em>” shouted Draco.
 
-“€23€{Luminos!}” shouted Granger.
+“<em>Luminos!</em>” shouted Granger.
 
 The distant figure was dodging and scrambling as it ran, and not a single shot hit, but they were gaining.
 
 Until Granger slipped.
 
-It was inevitable, in retrospect, in real life you couldn’t €24€{actually} run across icy slanted rooftops at a high rate of speed.
+It was inevitable, in retrospect, in real life you couldn’t <em>actually</em> run across icy slanted rooftops at a high rate of speed.
 
-And also inevitably, because it happened without the slightest thought, Draco spun and grabbed for Granger’s right arm, and he €25€{caught} her, only she was already too far off balance, she was falling and pulling Draco with her, it all happened so quickly—
+And also inevitably, because it happened without the slightest thought, Draco spun and grabbed for Granger’s right arm, and he <em>caught</em> her, only she was already too far off balance, she was falling and pulling Draco with her, it all happened so quickly—
 
 There was a hard, painful impact, not just Draco’s weight hitting the rooftop but some of Granger’s weight too, and if she’d hit just a little bit closer to the edge they could have made it, but instead her body tipped again and her legs slipped off and her other hand grabbed frantically…
 
 And that was how Draco ended up holding onto Granger’s arm in a white grip, while her other hand clenched frantically at the edge of the rooftop and the toes of Draco’s shoes dug into the edge of a roof tile.
 
-“€26€{Hermione!}” Harry’s voice shrieked distantly.
+“<em>Hermione!</em>” Harry’s voice shrieked distantly.
 
 “Draco,” whispered Granger’s voice, and Draco looked down.
 
 That might have been a mistake. There was a lot of air underneath her, nothing but air, they were on the edge of a rooftop that had jutted out from the main stone wall of Hogwarts.
 
-“He’s going to come and help me,” whispered the girl, “but first he’s going to €27€{Luminos} both of us, there’s no way he wouldn’t. You have to let me go.”
+“He’s going to come and help me,” whispered the girl, “but first he’s going to <em>Luminos</em> both of us, there’s no way he wouldn’t. You have to let me go.”
 
 It should have been the easiest thing in the world.
 
-She was just a mudblood, just a mudblood, €28€{just a mudblood}!
+She was just a mudblood, just a mudblood, <em>just a mudblood</em>!
 
-She wouldn’t even be €29€{hurt}!
+She wouldn’t even be <em>hurt</em>!
 
 …Draco’s brain wasn’t listening to anything Draco was telling it right now.
 
-“Do it,” Hermione Granger whispered, her eyes blazing without a single trace of fear, “do it, Draco, do it, you can beat him yourself €30€{we have to win, Draco!}”
+“Do it,” Hermione Granger whispered, her eyes blazing without a single trace of fear, “do it, Draco, do it, you can beat him yourself <em>we have to win, Draco!</em>”
 
 There was a sound of someone running and it was coming closer.
 
-€31€{Oh, be rational…}
+<em>Oh, be rational…</em>
 
 The voice in Draco’s head sounded an awful lot like Harry Potter teaching lessons.
 
-…€32€{are you going to let your brain run your life}?
+…<em>are you going to let your brain run your life</em>?
 
-€33€{Aftermath, 1}
+€6€<b>Aftermath, 1</b>
 
-It was taking a bit of an effort for Daphne Greengrass to keep herself quiet, as Millicent Bulstrode retold the story in the Slytherin girls’ common room (a cosy cool place in the dungeons running beneath the Hogwarts Lake, with fish swimming past every window, and couches you could lie down in if you wanted). Mostly because, in Daphne’s opinion, it was a perfectly good story already without all of Millicent’s €34€{improvements}.
+It was taking a bit of an effort for Daphne Greengrass to keep herself quiet, as Millicent Bulstrode retold the story in the Slytherin girls’ common room (a cosy cool place in the dungeons running beneath the Hogwarts Lake, with fish swimming past every window, and couches you could lie down in if you wanted). Mostly because, in Daphne’s opinion, it was a perfectly good story already without all of Millicent’s <em>improvements</em>.
 
 “And then what?” gasped Flora and Hestia Carrow.
 
@@ -168,35 +168,35 @@ All the listening girls except Pansy Parkinson nodded.
 
 There was a stunned pause.
 
-“You can’t €35€{do} that!” said Charlotte.
+“You can’t <em>do</em> that!” said Charlotte.
 
-“She’s a €36€{mudblood},” said Pansy, sounding confused. “Of €37€{course} he let go!”
+“She’s a <em>mudblood</em>,” said Pansy, sounding confused. “Of <em>course</em> he let go!”
 
-“Well, Malfoy shouldn’t have grabbed her in the first place, then!” said Charlotte. “But once he grabbed her, he €38€{had} to hang on! €39€{Especially} in the face of approaching certain doom!” Tracey Davis, sitting next to Daphne, was nodding along in firm agreement.
+“Well, Malfoy shouldn’t have grabbed her in the first place, then!” said Charlotte. “But once he grabbed her, he <em>had</em> to hang on! <em>Especially</em> in the face of approaching certain doom!” Tracey Davis, sitting next to Daphne, was nodding along in firm agreement.
 
 “I don’t see why,” said Pansy.
 
-“That’s because you don’t have the tiniest smidgen of romance in you,” said Tracey. “Besides, you can’t just go dropping girls. A boy who’d drop a girl like that…he’d drop €40€{anyone}. He’d drop €41€{you}, Pansy.”
+“That’s because you don’t have the tiniest smidgen of romance in you,” said Tracey. “Besides, you can’t just go dropping girls. A boy who’d drop a girl like that…he’d drop <em>anyone</em>. He’d drop <em>you</em>, Pansy.”
 
-“What d’you mean, €42€{drop me?}” Pansy said.
+“What d’you mean, <em>drop me?</em>” Pansy said.
 
-Daphne couldn’t resist any more. “You know,” Daphne said darkly, “you’re eating breakfast one day at our table, and the next thing you know, Malfoy €43€{lets go of you}, and you’re falling off the top of Hogwarts! That’s what!”
+Daphne couldn’t resist any more. “You know,” Daphne said darkly, “you’re eating breakfast one day at our table, and the next thing you know, Malfoy <em>lets go of you</em>, and you’re falling off the top of Hogwarts! That’s what!”
 
 “Yeah!” said Charlotte. “He’s a witch dropper!”
 
-“You know why Atlantis fell?” said Tracey. “’Cause someone like Malfoy €44€{dropped} it, that’s why!”
+“You know why Atlantis fell?” said Tracey. “’Cause someone like Malfoy <em>dropped</em> it, that’s why!”
 
-Daphne lowered her voice. “In fact…what if Malfoy’s the one who made Hermione, I mean General Granger, slip in the first place? What if he’s out to make €45€{all} the Muggle-borns trip and fall?”
+Daphne lowered her voice. “In fact…what if Malfoy’s the one who made Hermione, I mean General Granger, slip in the first place? What if he’s out to make <em>all</em> the Muggle-borns trip and fall?”
 
 “You mean—?” gasped Tracey.
 
-“That’s right!” Daphne said dramatically. “What if Malfoy is—€46€{the heir of Slipperin?}”
+“That’s right!” Daphne said dramatically. “What if Malfoy is—<em>the heir of Slipperin?</em>”
 
 “The next Drop Lord!” said Tracey.
 
-Which was far too good a line for anyone to keep to themselves, so by nightfall it was all over Hogwarts, and the next morning it was the €47€{Quibbler’s} headline.
+Which was far too good a line for anyone to keep to themselves, so by nightfall it was all over Hogwarts, and the next morning it was the <em>Quibbler’s</em> headline.
 
-€48€{Aftermath, 2}
+€7€<b>Aftermath, 2</b>
 
 Hermione made sure she got to their usual classroom nice and early that evening, just so that she would be by herself, in a chair, peacefully reading a book, when Harry got there.
 
@@ -206,15 +206,15 @@ If there was any way for a door to creak open apologetically, that was how the d
 
 Hermione kept reading.
 
-“I’m, um, kinda sorry, I didn’t mean for you to €49€{actually} fall off the roof or anything…”
+“I’m, um, kinda sorry, I didn’t mean for you to <em>actually</em> fall off the roof or anything…”
 
 It had been quite an entertaining experience, in fact.
 
-“I, ah…I don’t have much experience apologizing, I’ll fall to my knees if you want, or buy you something expensive, €50€{Hermione I don’t know how to apologize to you for this what can I do just tell me?}”
+“I, ah…I don’t have much experience apologizing, I’ll fall to my knees if you want, or buy you something expensive, <em>Hermione I don’t know how to apologize to you for this what can I do just tell me?</em>”
 
 She kept reading the book in silence.
 
-It wasn’t as if €51€{she} had any idea how Harry could apologize, either.
+It wasn’t as if <em>she</em> had any idea how Harry could apologize, either.
 
 Right now she was just feeling a sort of odd curiosity as to what would happen if she kept reading her book for a while.
 

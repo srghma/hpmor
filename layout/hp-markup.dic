@@ -115,217 +115,195 @@
 114: \end{Spacing}
 115: \end{adjustwidth}
 116: \end{hangparas}
-117: \newcommand
-118: \abbrev
-119: \textsc
-120: \MakeLowercase
-121: \xspace
-122: \newcommand
-123: \am
-124: \xspace
-125: \renewcommand
-126: \pm
+117: '\fontspec[ExternalLocation]{Parseltongue.ttf}#1}€20€
+
+  {\ptsansi\parssselstring}}
+
+  €21€
+
+  €22€
+
+  \newcommand{\parsel}[1]{\parsela{#1}}
+
+
+  €23€
+
+  \newcommand{\spell}[1]{{\Star}<em>#1</em>{\Star}}
+
+
+  €24€
+
+  €25€
+
+  €26€
+
+  \newcommand{\authorsnotefootnotemark}{}
+
+  \newcommand{\authorsnotetext}'
+118: "\\fontspec[ExternalLocation,Color=AA0000]{Florante}\n    \\savebox{\\hpbox}{\\\
+  MakeUppercase{#1}"
+119: "\\fontspec[ExternalLocation,Color=2020FF]{ArchitectsDaughter}\n    \\resizebox{\\\
+  versewidth}{.6ex}"
+120: '\fontspec[ExternalLocation]{Graphe_Alpha_alt.ttf}\scriptsize€40€
+
+  \renewcommand{\emph}{\uline}'
+121: "\\fontspec[ExternalLocation]{Graphe_Alpha_alt.ttf}€51€\n\\scriptsize#1\\nopagebreak[4]\\\
+  par€52€\n}\n\n€53€\n\\newcommand{\\letterClosing}[2][\\vskip 1\\baselineskip]{€54€\n\
+  \\nopagebreak[4]\\fontspec[ExternalLocation]{Graphe_Alpha_alt.ttf}€55€\n\\par\\\
+  scriptsize#1€56€\n\\par\\nopagebreak[5]#2€57€\n}\n\n\n€58€\n€59€\n€60€\n€61€\n€62€\n\
+  \\newcommand{\\partchapter}[3][\\relax]{€63€\n\t\\chapter[\\texorpdfstring{#2, \\\
+  abbrev{part #3}}{#2, part #3}"
+122: '\fontspec[ExternalLocation]{Miscelanea.ttf}*}}
+
+
+  €91€
+
+  \def\Stars{{\large\Star\kern-.6ex\lower1.3ex\hbox{\large\Star}\kern-.1ex\raise.2ex\hbox{\tiny\Star}\spacefactor1000}}
+
+
+  €92€
+
+  \makeatletter
+
+  \def\sbre@k{\mbox{}\nobreak\hfill\mbox{}\allowbreak\rule{.60\textwidth}{.0pt}'
+123: \newcommand
+124: \abbrev
+125: \textsc
+126: \MakeLowercase
 127: \xspace
 128: \newcommand
-129: \SPHEW
-130: \abbrev
-131: \newcommand
-132: \shout
-133: \textsc
+129: \am
+130: \xspace
+131: \renewcommand
+132: \pm
+133: \xspace
 134: \newcommand
-135: \scream
-136: \MakeUppercase
+135: \SPHEW
+136: \abbrev
 137: \newcommand
-138: \prophesy
-139: \shout
+138: \shout
+139: \textsc
 140: \newcommand
-141: \parselify
-142: \StrSubstitute
-143: \parselstring
-144: \StrSubstitute
-145: \parselstring
-146: \parsselstring
-147: \StrSubstitute
-148: \parsselstring
-149: \parssselstring
-150: \newcommand
-151: \parsela
-152: \parselify
-153: \ptsansi
-154: \parssselstring
-155: \newcommand
-156: \parselb
-157: \parselify
-158: \fontspec
+141: \scream
+142: \MakeUppercase
+143: \newcommand
+144: \prophesy
+145: \shout
+146: \newcommand
+147: \parselify
+148: \StrSubstitute
+149: \parselstring
+150: \StrSubstitute
+151: \parselstring
+152: \parsselstring
+153: \StrSubstitute
+154: \parsselstring
+155: \parssselstring
+156: \newcommand
+157: \parsela
+158: \parselify
 159: \ptsansi
 160: \parssselstring
 161: \newcommand
-162: \parsel
-163: \parsela
+162: \parselb
+163: \parselify
 164: \newcommand
-165: \spell
-166: \Star
-167: \emph
-168: \Star
-169: \newcommand
-170: \authorsnotefootnotemark
-171: \newcommand
-172: \authorsnotetext
-173: \newcommand
-174: \McGonagallWhiteBoard
-175: \newsavebox
-176: \hpbox
-177: \fontspec
-178: \savebox
-179: \hpbox
-180: \MakeUppercase
-181: \vspace
-182: \usebox
-183: \hpbox
-184: \settowidth
-185: \versewidth
-186: \usebox
-187: \hpbox
-188: \vskip
-189: \fontspec
-190: \resizebox
-191: \versewidth
-192: \rotatebox
-193: \newcommand
-194: \headline
-195: \textsc
-196: \newcommand
-197: \inlineheadline
-198: \textsc
-199: \newcommand
-200: \newspaperHeader
-201: \upshape
-202: \newcommand
-203: \newspaperName
-204: \upshape
-205: \itshape
-206: \newenvironment
-207: \scshape
-208: \nonzeroparskip
-209: \newenvironment
-210: \fontspec
-211: \scriptsize
-212: \renewcommand
-213: \emph
-214: \uline
-215: \vskip
-216: \baselineskip
-217: \baselineskip
-218: \baselineskip
-219: \parindent
-220: \parindent
-221: \par
-222: \setlength
-223: \parindent
-224: \setlength
-225: \parskip
-226: \baselineskip
-227: \itshape
-228: \par
-229: \vskip
-230: \baselineskip
-231: \baselineskip
-232: \baselineskip
-233: \newcommand
-234: \letterAddress
-235: \pagebreak
-236: \fontspec
-237: \scriptsize
-238: \nopagebreak
-239: \par
-240: \newcommand
-241: \letterClosing
-242: \vskip
-243: \baselineskip
-244: \nopagebreak
-245: \fontspec
-246: \par
-247: \scriptsize
-248: \par
-249: \nopagebreak
-250: \newcommand
-251: \partchapter
-252: \relax
-253: \chapter
-254: \texorpdfstring
-255: \abbrev
-256: \newcommand
-257: \namedpartchapter
-258: \relax
-259: \chapter
-260: \texorpdfstring
-261: \abbrev
-262: \mbox
-263: \mbox
-264: \protect
-265: \linebreak
-266: \newenvironment
-267: \excludecomment
-268: \newenvironment
-269: \parindent
-270: \itshape
-271: \newcommand
-272: \Star
-273: \fontspec
-274: \def
-275: \Stars
-276: \large
-277: \Star
-278: \kern
-279: \lower
-280: \hbox
-281: \large
-282: \Star
-283: \kern
-284: \raise
-285: \hbox
-286: \tiny
-287: \Star
-288: \spacefactor
-289: \makeatletter
-290: \def
-291: \sbre
-292: \mbox
-293: \nobreak
-294: \hfill
-295: \mbox
-296: \allowbreak
-297: \rule
-298: \textwidth
-299: \par
-300: \vskip
-301: \baselineskip
-302: \noindent
-303: \parbox
-304: \textwidth
-305: \hfil
-306: \hbox
-307: \lower
-308: \hbox
-309: \normalsize
-310: \Stars
-311: \def
-312: \later
-313: \sbre
-314: \vskip
-315: \baselineskip
-316: \par
-317: \rule
-318: \textwidth
-319: \vskip
-320: \noindent
-321: \newcommand
-322: \latersection
-323: \sbre
-324: \section
-325: \makeatother
-326: "\n     "
-327: '€0€
+165: \McGonagallWhiteBoard
+166: \newsavebox
+167: \hpbox
+168: \vspace
+169: \usebox
+170: \hpbox
+171: \settowidth
+172: \versewidth
+173: \usebox
+174: \hpbox
+175: \vskip
+176: \rotatebox
+177: \newcommand
+178: \headline
+179: \textsc
+180: \newcommand
+181: \inlineheadline
+182: \textsc
+183: \newcommand
+184: \newspaperHeader
+185: \upshape
+186: \newcommand
+187: \newspaperName
+188: \upshape
+189: \itshape
+190: \newenvironment
+191: \scshape
+192: \nonzeroparskip
+193: \newenvironment
+194: \vskip
+195: \baselineskip
+196: \baselineskip
+197: \baselineskip
+198: \parindent
+199: \parindent
+200: \par
+201: \setlength
+202: \parindent
+203: \setlength
+204: \parskip
+205: \baselineskip
+206: \itshape
+207: \par
+208: \vskip
+209: \baselineskip
+210: \baselineskip
+211: \baselineskip
+212: \newcommand
+213: \letterAddress
+214: \pagebreak
+215: \newcommand
+216: \namedpartchapter
+217: \relax
+218: \chapter
+219: \texorpdfstring
+220: \abbrev
+221: \mbox
+222: \mbox
+223: \protect
+224: \linebreak
+225: \newenvironment
+226: \excludecomment
+227: \newenvironment
+228: \parindent
+229: \itshape
+230: \newcommand
+231: \Star
+232: \par
+233: \vskip
+234: \baselineskip
+235: \noindent
+236: \parbox
+237: \textwidth
+238: \hfil
+239: \hbox
+240: \lower
+241: \hbox
+242: \normalsize
+243: \Stars
+244: \def
+245: \later
+246: \sbre
+247: \vskip
+248: \baselineskip
+249: \par
+250: \rule
+251: \textwidth
+252: \vskip
+253: \noindent
+254: \newcommand
+255: \latersection
+256: \sbre
+257: \section
+258: \makeatother
+259: "\n     "
+260: '€0€
 
 
   €1€
@@ -337,20 +315,20 @@
 
   €4€
 
-  €117€'
-328: '€5€
+  €123€'
+261: '€5€
 
-  €122€'
-329: '€6€
+  €128€'
+262: '€6€
 
-  €131€'
-330: '€7€
+  €137€'
+263: '€7€
 
-  €140€'
-331: "€8€\n  €142€"
-332: "€9€\n  €144€"
-333: "€10€\n  €147€"
-334: '€12€
+  €146€'
+264: "€8€\n  €148€"
+265: "€9€\n  €150€"
+266: "€10€\n  €153€"
+267: '€12€
 
   €13€
 
@@ -358,130 +336,82 @@
 
   €15€
 
-  €150€'
-335: €153€€154€
-336: '€17€
+  €156€'
+268: €159€€160€
+269: '€17€
 
   €18€
 
   €19€
 
-  €155€'
-337: €159€€160€
-338: '€21€
-
-  €22€
-
   €161€'
-339: '€23€
+270: '€27€
 
   €164€'
-340: '€24€
-
-  €25€
-
-  €26€
-
-  €169€'
-341: '€27€
-
-  €173€'
-342: "€28€\n  €103€\n    €175€"
-343: "€29€\n    €177€"
-344: €110€€30€
-345: '€31€
+271: "€28€\n  €103€\n    €166€"
+272: "€29€\n    €118€"
+273: €110€€30€
+274: '€31€
 
 
-  €193€'
-346: '€32€
+  €177€'
+275: '€32€
 
   €104€€33€
 
-  €195€'
-347: '€34€
+  €179€'
+276: '€34€
 
   €111€'
-348: '€35€
+277: '€35€
 
-  €198€'
-349: €105€€201€
-350: €204€€205€
-351: "€37€\n  €106€"
-352: "€107€\n  €207€\n  €208€"
-353: "€113€\n  €114€"
-354: '€38€
+  €182€'
+278: €105€€185€
+279: €188€€189€
+280: "€37€\n  €106€"
+281: "€107€\n  €191€\n  €192€"
+282: "€113€\n  €114€"
+283: '€38€
 
 
-  €209€'
-355: '€39€
+  €193€'
+284: '€39€
 
-  €210€'
-356: '€211€€40€
+  €120€€41€
 
-  €212€'
-357: '€41€
-
-  €215€'
-358: '€218€€42€
+  €194€'
+285: '€197€€42€
 
   €108€'
-359: '€43€
+286: '€43€
 
-  €221€€222€'
-360: '€44€
+  €200€€201€'
+287: '€44€
 
-  €227€€45€'
-361: '€46€
+  €206€€45€'
+288: '€46€
 
-  €228€
+  €207€
 
   €115€€47€
 
-  €229€'
-362: €232€€48€
-363: '€49€
+  €208€'
+289: €211€€48€
+290: '€49€
 
-  €233€'
-364: '€50€
+  €212€'
+291: '€50€
 
-  €235€'
-365: '€51€
+  €214€'
+292: "€65€\n\t€218€"
+293: "€66€\n\t\t\t€219€"
+294: "€67€\n\t\t\t\t€220€"
+295: "€69€\n\t\t\t€221€"
+296: €223€€224€
+297: '€72€
 
-  €237€'
-366: €239€€52€
-367: '€53€
-
-  €240€'
-368: '€54€
-
-  €244€'
-369: '€55€
-
-  €246€€247€'
-370: '€56€
-
-  €248€€249€'
-371: '€58€
-
-  €59€
-
-  €60€
-
-  €61€
-
-  €62€
-
-  €250€'
-372: "€63€\n\t€253€"
-373: "€65€\n\t€259€"
-374: "€66€\n\t\t\t€260€"
-375: "€67€\n\t\t\t\t€261€"
-376: "€69€\n\t\t\t€262€"
-377: €264€€265€
-378: '€72€
-
-  €266€'
-379: '€73€
+  €225€'
+298: '€73€
 
   €74€
 
@@ -501,49 +431,36 @@
 
   €82€
 
-  €267€'
-380: '€83€
+  €226€'
+299: '€83€
 
-  €269€'
-381: '€84€
+  €228€'
+300: '€84€
 
-  €270€'
-382: '€85€
+  €229€'
+301: '€85€
 
   €102€€86€
 
   €87€
 
   €88€'
-383: '€89€
+302: '€89€
 
 
   €90€
 
-  €271€'
-384: '€91€
+  €230€'
+303: "€122€€232€€93€\n  €233€"
+304: €234€€235€
+305: "€94€\n    €236€"
+306: €95€€259€ €238€ €239€
+307: €242€€243€
+308: '€98€
 
-  €274€€275€'
-385: €276€€277€€278€
-386: €281€€282€
-387: €286€€287€
-388: '€92€
+  €244€€245€'
+309: "€99€\n  €247€"
+310: "€248€€100€\n  €249€€250€"
+311: '€101€
 
-  €289€
-
-  €290€€291€'
-389: €293€€294€€295€
-390: €296€€297€
-391: "€299€€93€\n  €300€"
-392: €301€€302€
-393: "€94€\n    €303€"
-394: €95€€326€ €305€ €306€
-395: €309€€310€
-396: '€98€
-
-  €311€€312€'
-397: "€99€\n  €314€"
-398: "€315€€100€\n  €316€€317€"
-399: '€101€
-
-  €321€'
+  €254€'

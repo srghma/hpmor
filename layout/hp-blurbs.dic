@@ -12,93 +12,96 @@
 11: \end{minipage}
 12: \end{minipage}
 13: \end{\blurbflush}
-14: \makeatletter
-15: \newlength
-16: \beforeblurbskip
-17: \setlength
+14: '\thispagestyle{empty}
+
+  \blurb{“[...A] terrific series, subtle and dramatic and stimulating.”}{David Brin}'
+15: \thispagestyle{empty}
+16: \makeatletter
+17: \newlength
 18: \beforeblurbskip
-19: \baselineskip
-20: \newlength
-21: \afterblurbskip
-22: \setlength
+19: \setlength
+20: \beforeblurbskip
+21: \baselineskip
+22: \newlength
 23: \afterblurbskip
-24: \baselineskip
-25: \newlength
-26: \blurbwidth
-27: \setlength
+24: \setlength
+25: \afterblurbskip
+26: \baselineskip
+27: \newlength
 28: \blurbwidth
-29: \textwidth
-30: \newlength
-31: \blurbrule
-32: \setlength
+29: \setlength
+30: \blurbwidth
+31: \textwidth
+32: \newlength
 33: \blurbrule
-34: \p
-35: \newcommand
-36: \blurbsize
-37: \small
-38: \newcommand
-39: \blurbflush
+34: \setlength
+35: \blurbrule
+36: \p
+37: \newcommand
+38: \blurbsize
+39: \small
 40: \newcommand
-41: \blurbfontsize
-42: \def
-43: \blurbsize
-44: \newcommand
-45: \blurbposition
-46: \long
-47: \def
-48: \blurbflush
-49: \newcommand
-50: \blurbtextposition
-51: \def
-52: \textflush
-53: \newcommand
-54: \blurbsourceposition
-55: \def
-56: \sourceflush
-57: \newcommand
-58: \rule
-59: \blurbwidth
-60: \blurbrule
-61: \newcommand
-62: \blurbwidth
-63: \par
-64: \ifdim
-65: \blurbrule
-66: \z
-67: \else
-68: \vspace
-69: \fi
-70: \newcommand
-71: \blurbwidth
-72: \par
-73: \newcommand
-74: \blurb
-75: \vspace
-76: \beforeblurbskip
-77: \blurbsize
-78: \vspace
-79: \afterblurbskip
-80: \makeatother
-81: \thispagestyle
-82: \blurb
+41: \blurbflush
+42: \newcommand
+43: \blurbfontsize
+44: \def
+45: \blurbsize
+46: \newcommand
+47: \blurbposition
+48: \long
+49: \def
+50: \blurbflush
+51: \newcommand
+52: \blurbtextposition
+53: \def
+54: \textflush
+55: \newcommand
+56: \blurbsourceposition
+57: \def
+58: \sourceflush
+59: \newcommand
+60: \rule
+61: \blurbwidth
+62: \blurbrule
+63: \newcommand
+64: \blurbwidth
+65: \par
+66: \ifdim
+67: \blurbrule
+68: \z
+69: \else
+70: \vspace
+71: \fi
+72: \newcommand
+73: \blurbwidth
+74: \par
+75: \newcommand
+76: \blurb
+77: \vspace
+78: \beforeblurbskip
+79: \blurbsize
+80: \vspace
+81: \afterblurbskip
+82: \makeatother
 83: \blurb
-84: \thispagestyle
-85: '€14€
+84: '€16€
 
-  €15€'
-86: €42€€43€
-87: €46€€47€€48€
-88: €51€€52€
-89: €55€€56€
-90: "€0€\n  €2€"
-91: "€63€\n    €64€€65€"
-92: €67€ €68€
-93: "€69€\n  €8€€9€"
-94: "€1€\n  €4€"
-95: "€72€\n  €10€€11€"
-96: "€77€\n\t€6€\n\t\t€7€"
-97: "€12€\n\t€13€\n\t€78€"
-98: '€80€
+  €17€'
+85: €44€€45€
+86: €48€€49€€50€
+87: €53€€54€
+88: €57€€58€
+89: "€0€\n  €2€"
+90: "€65€\n    €66€€67€"
+91: €69€ €70€
+92: "€71€\n  €8€€9€"
+93: "€1€\n  €4€"
+94: "€74€\n  €10€€11€"
+95: "€79€\n\t€6€\n\t\t€7€"
+96: "€12€\n\t€13€\n\t€80€"
+97: '€82€
 
 
-  €81€'
+  €14€
+
+  €83€'

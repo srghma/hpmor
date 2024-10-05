@@ -23,154 +23,149 @@
 22: \end{bookcoverelement}
 23: \end{bookcover}
 24: \end{document}
-25: \usepackage{contour}
-26: \documentclass[12pt,coverwidth=\the\hpcoverwidth,coverheight=\the\hpcoverheight,spinewidth=\the\hpspinewidth,marklength=0mm,bleedwidth=5mm,flapwidth=63mm]{bookcover}
-27: \input{layout/hp-paper-type}
-28: \input{layout/hp-header}
-29: \input{layout/hp-title}
-30: \setcounter{bookpagecount}
-31: \RequirePackage{calc}
-32: \color{blue}
-33: \color{white}
-34: \color{white}
-35: \color{white}
-36: \color{white}
-37: \newcounter
-38: \XeTeXpdfpagecount
-39: \bookfile
-40: \newlength
-41: \hppaperwidth
-42: \setlength
-43: \hppaperwidth
-44: \bookpaper
-45: \value
-46: \real
-47: \newlength
-48: \hpspinewidth
-49: \setlength
-50: \hpspinewidth
-51: \hppaperwidth
-52: \makeatletter
-53: \setbox
-54: \z
-55: \hbox
-56: \XeTeXpdffile
-57: \bookfile
-58: \relax
-59: \newlength
-60: \hpcoverwidth
-61: \setlength
-62: \hpcoverwidth
-63: \the
-64: \wd
-65: \z
-66: \newlength
-67: \hpcoverheight
-68: \setlength
-69: \hpcoverheight
-70: \the
-71: \ht
-72: \z
-73: \makeatother
-74: \bookcovercomponent
-75: \bookcovercomponent
-76: \bfseries
-77: \bookcovercomponent
-78: \bookcovercomponent
-79: \hptitle
-80: \coverwidth
-81: \fullvolumetitle
-82: \volumenumber
-83: \centering
-84: \scshape
-85: \vspace
-86: \huge
-87: \volumenumber
-88: \Large
-89: \vfill
-90: \rotatebox
-91: \contour
-92: \volumetitle
-93: \vfill
-94: \centering
-95: \vspace
-96: \parbox
-97: \Large
-98: \raggedright
-99: \centering
-100: \vspace
-101: \parbox
-102: \raggedright
-103: \small
-104: \bigskip
-105: \url
-106: \centering
-107: \vspace
-108: \parbox
-109: \small
-110: \raggedright
-111: '€27€
+25: '\usepackage{contour}
 
 
-  €0€
-
-  €37€'
-112: '€31€ €1€
-
-  €40€'
-113: '€2€
-
-  €42€'
-114: '€3€
-
-  €49€'
-115: '€52€
-
-  €53€€54€'
-116: '€4€
-
-  €61€'
-117: €63€€64€€65€
-118: '€5€
-
-  €68€'
-119: €70€€71€€72€
-120: '€73€
-
-  €6€
-
-  €26€
-
-
-  €28€
-
-
-  €25€
-
-
-  €29€
+  \input{layout/hp-title}
 
 
   €13€
 
   €14€
 
-  €74€'
-121: €76€€32€
-122: '€7€
+  \bookcovercomponent{color}{bg whole}'
+26: '\documentclass[12pt,coverwidth=\the\hpcoverwidth,coverheight=\the\hpcoverheight,spinewidth=\the\hpspinewidth,marklength=0mm,bleedwidth=5mm,flapwidth=63mm]{bookcover}
+
+
+  \input{layout/hp-header}
+
+
+  €25€{black}
+
+  \bookcovercomponent{center}{above front}'
+27: '\input{layout/hp-paper-type}
+
+
+  €0€
+
+  \newcounter{bookpagecount}
+
+  \setcounter{bookpagecount}{\XeTeXpdfpagecount"\bookfile"}'
+28: '\RequirePackage{calc} €1€
+
+  \newlength{\hppaperwidth} €2€
+
+  \setlength{\hppaperwidth}{\bookpaper * \value{bookpagecount}'
+29: '\color{blue}DUST JACKET}
+
+  \bookcovercomponent{picture}{front}'
+30: '\color{white}\scshape
+
+  \vspace{0.5cm}\huge \volumenumber€12€\Large
+
+  \vfill
+
+  \rotatebox[origin=c]{90}{\contour[120]{black}'
+31: '\color{white}\Large\raggedright
+
+  Petunia married a biochemist, and Harry grew up reading science and science fiction.
+  Then came the Hogwarts letter, and a world of intriguing new possibilities to exploit.
+  And new friends, like Hermione Granger, and Professor McGonagall, and Professor
+  Quirrell…
+
+  }
+
+  €20€
+
+
+  €9€
+
+  €17€{normal}{front flap}'
+32: "\\color{white}\\raggedright\\small\n  HPMOR comes from the world of fan-fiction.\
+  \ With J.~K.~Rowling’s approval, it tells the story of an alternate Harry, an auto-didact\
+  \ rationalist who brings all his powers to bear on the strange new vistas of the\
+  \ world of magic.\n\n  \\bigskip The books introduce the reader to the ways of thinking\
+  \ Yudkowsky lays out in his blog, \\url{lesswrong.com}.}\n€21€\n\n€10€\n€18€{normal}{back\
+  \ flap}"
+33: \color{white}
+34: \real
+35: \newlength
+36: \hpspinewidth
+37: \setlength
+38: \hpspinewidth
+39: \hppaperwidth
+40: \makeatletter
+41: \setbox
+42: \z
+43: \hbox
+44: \XeTeXpdffile
+45: \bookfile
+46: \relax
+47: \newlength
+48: \hpcoverwidth
+49: \setlength
+50: \hpcoverwidth
+51: \the
+52: \wd
+53: \z
+54: \newlength
+55: \hpcoverheight
+56: \setlength
+57: \hpcoverheight
+58: \the
+59: \ht
+60: \z
+61: \makeatother
+62: \bfseries
+63: \bookcovercomponent
+64: \hptitle
+65: \coverwidth
+66: \fullvolumetitle
+67: \volumenumber
+68: \centering
+69: \volumetitle
+70: \vfill
+71: \centering
+72: \vspace
+73: \parbox
+74: \centering
+75: \vspace
+76: \parbox
+77: \centering
+78: \vspace
+79: \parbox
+80: \small
+81: \raggedright
+82: '€27€
+
+  €28€'
+83: '€3€
+
+  €37€'
+84: '€40€
+
+  €41€€42€'
+85: '€4€
+
+  €49€'
+86: €51€€52€€53€
+87: '€5€
+
+  €56€'
+88: €58€€59€€60€
+89: '€61€
+
+  €6€
+
+  €26€'
+90: €62€€29€
+91: '€7€
 
   €15€'
-123: '€83€
+92: '€68€
 
-  €33€€84€
-
-  €85€'
-124: '€86€ €87€€12€€88€
-
-  €89€
-
-  €90€'
-125: '€93€
+  €30€'
+93: '€70€
 
   €19€
 
@@ -178,29 +173,19 @@
   €8€
 
   €16€'
-126: "€94€\n  €95€"
-127: €34€€97€€98€
-128: '€20€
+94: "€71€\n  €72€"
+95: '€31€
 
+  €74€
 
-  €9€
+  €75€'
+96: '€32€
 
-  €17€'
-129: '€99€
+  €77€
 
-  €100€'
-130: €35€€102€€103€
-131: '€21€
-
-
-  €10€
-
-  €18€'
-132: '€106€
-
-  €107€'
-133: "€36€€109€€110€\n  €11€"
-134: '€22€
+  €78€'
+97: "€33€€80€€81€\n  €11€"
+98: '€22€
 
 
   €23€

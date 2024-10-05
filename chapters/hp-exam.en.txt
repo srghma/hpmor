@@ -1,9 +1,9 @@
-€4€{Final Exam}
+€4€<b>Final Exam</b>
 
-€5€{The following was posted at the end of Chapter 113:}
+€5€<b>The following was posted at the end of Chapter 113:</b>
 
-{€34€{€7€}{0pt}
-€8€{€9€}{.5€10€}
+<b>€30€<b>€7€</b><b>0pt</b>
+€8€<b>€9€</b><b>.5€10€</b>
 
 This is your final exam.
 
@@ -11,17 +11,17 @@ You have 60 hours.
 
 Your solution must at least allow Harry to evade immediate death, despite being naked, holding only his wand, facing 36 Death Eaters plus the fully resurrected Lord Voldemort.
 
-€11€{If a viable solution is posted before €12€{12:01€13€ Pacific Time} (8:01€14€ UTC) on Tuesday, March 3rd, 2015, the story will continue to Ch.~121.}
+€11€<b>If a viable solution is posted before <em>12:01€12€ Pacific Time</em> (8:01€13€ UTC) on Tuesday, March 3rd, 2015, the story will continue to Ch.~121.</b>
 
-€15€{Otherwise you will get a shorter and sadder ending.}
+€14€<b>Otherwise you will get a shorter and sadder ending.</b>
 
 Keep in mind the following:
-€35€ Harry must succeed via his own efforts. The cavalry is not coming. Everyone who might want to help Harry thinks he is at a Quidditch game.
-€17€ Harry may only use capabilities the story has already shown him to have; he cannot develop wordless wandless Legilimency in the next 60 seconds.
-€18€ Voldemort is evil and cannot be persuaded to be good; the Dark Lord’s utility function cannot be changed by talking to him.
-€19€ If Harry raises his wand or speaks in anything except Parseltongue, the Death Eaters will fire on him immediately.
-€20€ If the simplest timeline is otherwise one where Harry dies—if Harry cannot reach his Time-Turner without Time-Turned help—then the Time-Turner will not come into play.
-€21€ It is impossible to tell lies in Parseltongue.
+€31€ Harry must succeed via his own efforts. The cavalry is not coming. Everyone who might want to help Harry thinks he is at a Quidditch game.
+€16€ Harry may only use capabilities the story has already shown him to have; he cannot develop wordless wandless Legilimency in the next 60 seconds.
+€17€ Voldemort is evil and cannot be persuaded to be good; the Dark Lord’s utility function cannot be changed by talking to him.
+€18€ If Harry raises his wand or speaks in anything except Parseltongue, the Death Eaters will fire on him immediately.
+€19€ If the simplest timeline is otherwise one where Harry dies—if Harry cannot reach his Time-Turner without Time-Turned help—then the Time-Turner will not come into play.
+€20€ It is impossible to tell lies in Parseltongue.
 €3€
 Within these constraints, Harry is allowed to attain his full potential as a rationalist, now in this moment or never, regardless of his previous flaws.
 
@@ -29,23 +29,23 @@ Of course ‘the rational solution’, if you are using the word ‘rational’ 
 
 And by Vinge’s Principle, if you know exactly what a smart mind would do, you must be at least that smart yourself. Asking someone “What would an optimal player think is the best move?” should produce answers no better than “What do you think is best?”
 
-So what I mean in practice, when I say Harry is allowed to attain his full potential as a rationalist, is that Harry is allowed to solve this problem the way €22€{you} would solve it. If you can tell me exactly how to do something, Harry is allowed to think of it.
+So what I mean in practice, when I say Harry is allowed to attain his full potential as a rationalist, is that Harry is allowed to solve this problem the way <em>you</em> would solve it. If you can tell me exactly how to do something, Harry is allowed to think of it.
 
 But it does not serve as a solution to say, for example, “Harry should persuade Voldemort to let him out of the box” if you can’t yourself figure out how.
 
-€23€{The rules on Fanfiction dot Net allow at most one review per chapter. Please submit €24€{only one} review of Ch.~113, to submit one suggested solution.}
+€21€<b>The rules on Fanfiction dot Net allow at most one review per chapter. Please submit <em>only one</em> review of Ch.~113, to submit one suggested solution.</b>
 
-For the best experience, if you have not already been following Internet conversations about recent chapters, I suggest €25€{not} doing so, trying to complete this exam on your own, not looking at other reviews, and waiting for Ch.~114 to see how you did.
+For the best experience, if you have not already been following Internet conversations about recent chapters, I suggest €22€<b>not</b> doing so, trying to complete this exam on your own, not looking at other reviews, and waiting for Ch.~114 to see how you did.
 
 I wish you all the best of luck, or rather the best of skill.
 
-Ch.~114 will post at €26€{10€27€ Pacific (6€28€ UTC) on Tuesday, March 3rd, 2015.}
+Ch.~114 will post at €23€<b>10€24€ Pacific (6€25€ UTC) on Tuesday, March 3rd, 2015.</b>
 
 ADDED:
 
 If you have pending exams, then even though the bystander effect is a thing, I expect that the collective effect of ‘everyone with more urgent life issues stays out of the effort’ shifts the probabilities very little (because diminishing marginal returns on more eyes and an already-huge population that is participating).
 
-€29€{So if you can’t take the time, then please don’t.} Like any author, I enjoy the delicious taste of my readers’ suffering, finer than any chocolate; but I don’t want to €30€{hurt} you.
+€26€<b>So if you can’t take the time, then please don’t.</b> Like any author, I enjoy the delicious taste of my readers’ suffering, finer than any chocolate; but I don’t want to <em>hurt</em> you.
 
 Likewise, if you hate hate hate this sort of thing, then don’t participate! Other people ARE enjoying it. Just come back in a few days. I shouldn’t even need to point this out.
 
@@ -53,11 +53,11 @@ I remind you again that you have hours to think. Use the Hold Off On Proposing S
 
 And really truly, I do mean it, Harry cannot develop any new magical powers or transcend previously stated constraints on them in the next sixty seconds.
 
-€31€
+€27€
 
 Unsurprisingly, this led to a lot of reader submissions. An awful lot.
 
-You can see the fallout €32€{http://www.reddit.com/r/HPMOR/comments/2xnyi0/113_help_my_evil_plan_has_worked_all_too_well/}{on the /r/HPMOR subreddit}. If you’re reading this somewhere that the previous text isn’t a link, you can go to €33€{http://www.reddit.com/r/HPMOR} and search for “Help! My evil plan has worked all too well!”
+You can see the fallout €28€<b>http://www.reddit.com/r/HPMOR/comments/2xnyi0/113_help_my_evil_plan_has_worked_all_too_well/</b><b>on the /r/HPMOR subreddit</b>. If you’re reading this somewhere that the previous text isn’t a link, you can go to €29€<b>http://www.reddit.com/r/HPMOR</b> and search for “Help! My evil plan has worked all too well!”
 
-}
+</b>
 €1€

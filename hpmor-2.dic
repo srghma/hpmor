@@ -17,34 +17,33 @@
 16: \include{chapters/hpmor-chapter-036}
 17: \include{chapters/hpmor-chapter-037}
 18: \include{layout/hp-colophon}
-19: \input{layout/hpmor-title-2}
-20: \input{layout/hp-intro}
-21: \input{layout/hp-contents}
-22: \pagestyle{empty}
-23: \pagenumbering{gobble}
-24: \pagenumbering{arabic}
-25: \setcounter{page}
-26: \RequirePackage{layout/hp-book}
-27: \cleartorecto
-28: '€26€
+19: '\input{layout/hpmor-title-2}
+
+  \input{layout/hp-intro}
+
+  \pagenumbering{gobble}
+
+  \input{layout/hp-contents}
+
+  \cleartorecto
+
+  }
+
+  \pagenumbering{arabic}
+
+  \setcounter{page}{1}'
+20: \pagestyle{empty}
+21: \RequirePackage{layout/hp-book}
+22: '€21€
 
 
   €0€'
-29: '€22€
+23: '€20€
 
   €19€
 
-  €20€
 
-  €23€
-
-  €21€
-
-  €27€'
-30: '€24€
-
-  €25€'
-31: '€2€
+  €2€
 
   €3€
 

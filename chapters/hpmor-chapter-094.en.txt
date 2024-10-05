@@ -1,8 +1,8 @@
-€1€{Roles}{V}
+€1€<b>Roles</b><b>V</b>
 
-€2€{The first meeting}
+€2€<b>The first meeting</b>
 
-€3€{A}{t} 6:07€4€ on April 17th, 1992 the Sun was just rising above the horizon as seen from the castle Hogwarts, filtering in through drawn curtains in the Ravenclaw first-year boys’ dorm to provide a gentle light, red-orange for dawn and little-changed by the white fabric covering the windows, not yet waking boys more accustomed to winter’s schedule.
+€3€<b>A</b><b>t</b> 6:07€4€ on April 17th, 1992 the Sun was just rising above the horizon as seen from the castle Hogwarts, filtering in through drawn curtains in the Ravenclaw first-year boys’ dorm to provide a gentle light, red-orange for dawn and little-changed by the white fabric covering the windows, not yet waking boys more accustomed to winter’s schedule.
 
 In one bed among many, Harry Potter slept the sleep of the just exhausted.
 
@@ -20,7 +20,7 @@ No others heard.
 
 Slowly the boy sat up in bed, his hands momentarily fiddling beneath the covers. He’d expected to feel much worse, waking up this morning. It felt…wrong, that his brain functioned now, that his thoughts still moved, that he wasn’t incapacitated with weeping for at least a week. The boy knew that it wouldn’t have been an adaptive response, for brains to evolve to do that. His dark side, certainly, would not do that. Even so, it still felt wrong to be alive and lucid, this morning.
 
-But his resolution to revive Hermione Granger felt—sufficient, like he was already doing the right thing, bent on the right path, and she would be brought back, and that was all there was to it; grief would have been giving up. There was nothing left to decide, no ambiguity, no conflict to tear at him, and no need to remember what he’d €5€{seen}—
+But his resolution to revive Hermione Granger felt—sufficient, like he was already doing the right thing, bent on the right path, and she would be brought back, and that was all there was to it; grief would have been giving up. There was nothing left to decide, no ambiguity, no conflict to tear at him, and no need to remember what he’d <em>seen</em>—
 
 “I’ll get dressed,” Harry said.
 
@@ -52,7 +52,7 @@ The old wizard nodded. “Do you know why it was taken?”
 
 “If the enemy can notice you running off to consult the Weasley twins during class after Hermione was arrested, and find out about that magic map you said was stolen, then the enemy can wonder why I was guarding Hermione Granger’s body. My turn. Did you arrange for Hermione’s death in hopes of getting the money back from Lucius?”
 
-“€6€{What?}” said Professor McGonagall.
+“<em>What?</em>” said Professor McGonagall.
 
 “No,” said the old wizard.
 
@@ -92,7 +92,7 @@ Not long after, the Potions Master returned, bearing Harry’s pouch, and severa
 
 “Can I go now?” Harry said when it was all done, putting as much cold as he could into his voice. He took up his pouch, and began the process of feeding the grey rock into it. The empty ring went back on his finger.
 
-The old wizard breathed out, slipping his wand back into his sleeve. “I €7€{am} sorry,” he said. “I had to know. Harry…the Dark Lord has taken Hermione Granger’s remains, it seems. I cannot think of anything he would gain thereby, except to send her corpse against you as an Inferius. Severus shall give you certain potions to keep about your person. Be warned now, and be prepared for when you must do what must be done.”
+The old wizard breathed out, slipping his wand back into his sleeve. “I <em>am</em> sorry,” he said. “I had to know. Harry…the Dark Lord has taken Hermione Granger’s remains, it seems. I cannot think of anything he would gain thereby, except to send her corpse against you as an Inferius. Severus shall give you certain potions to keep about your person. Be warned now, and be prepared for when you must do what must be done.”
 
 “Will the Inferius have Hermione’s mind?”
 
@@ -104,47 +104,47 @@ The old wizard breathed out, slipping his wand back into his sleeve. “I €7�
 
 “Um,” Harry said.
 
-€8€{Thought 1: But I saw the troll kill Hermione.}
+<em>Thought 1: But I saw the troll kill Hermione.</em>
 
-€9€{Thought 2: Professor Quirrell Memory-Charmed me and set up the scene that Dumbledore saw when he arrived.}
+<em>Thought 2: Professor Quirrell Memory-Charmed me and set up the scene that Dumbledore saw when he arrived.</em>
 
-€10€{Thought 3: Professor Quirrell can’t do that, his magic can’t touch mine. I saw that in Azkaban—}
+<em>Thought 3: Professor Quirrell can’t do that, his magic can’t touch mine. I saw that in Azkaban—</em>
 
-€11€{Thought 4: Can I trust those memories?}
+<em>Thought 4: Can I trust those memories?</em>
 
-€12€{Thought 5: There was clearly some sort of debacle at Azkaban, we wouldn’t have needed a rocket if Professor Quirrell hadn’t fallen unconscious, and why’d he be unconscious if not—}
+<em>Thought 5: There was clearly some sort of debacle at Azkaban, we wouldn’t have needed a rocket if Professor Quirrell hadn’t fallen unconscious, and why’d he be unconscious if not—</em>
 
-€13€{Thought 6: Did I ever actually go to Azkaban at all?}
+<em>Thought 6: Did I ever actually go to Azkaban at all?</em>
 
-€14€{Thought 7: I clearly practised controlling Dementors at some point before I scared that Dementor in the Wizengamot. And €15€{that} was in the newspapers.}
+<em>Thought 7: I clearly practised controlling Dementors at some point before I scared that Dementor in the Wizengamot. And €5€<b>that</em> was in the newspapers.</b>
 
-€16€{Thought 8: Am I accurately remembering the newspapers?}
+<em>Thought 8: Am I accurately remembering the newspapers?</em>
 
 “Um,” Harry said again. “That spell seriously ought to be Unforgiveable. You think Professor Quirrell could have Memory-Charmed—”
 
 “No. I went back through time and placed certain instruments to record Hermione’s last battle, which I could not quite bear to watch in my own person.” The old wizard looked very grim indeed. “Your guess was right, Harry Potter. Voldemort sabotaged everything we gave Hermione to protect her. Her broomstick lay dead in her hands. Her invisibility cloak did not conceal her. The troll walked in the sunlight unharmed; it was no stray creature, but a weapon pure and aimed. And it was indeed the troll who killed her, with strength alone, so that my wards and webs to detect hostile magics went for naught. The Defence Professor never crossed her path.”
 
-Harry swallowed, shut his eyes, and thought. “So this was an attempted frame on Professor Quirrell. Somehow. It does seem to be the enemy’s €17€{modus operandi}. Troll eats Hermione Granger, check the wards, oh look actually the Defence Professor did it, same as last year…no. No, that can’t be right.”
+Harry swallowed, shut his eyes, and thought. “So this was an attempted frame on Professor Quirrell. Somehow. It does seem to be the enemy’s <em>modus operandi</em>. Troll eats Hermione Granger, check the wards, oh look actually the Defence Professor did it, same as last year…no. No, that can’t be right.”
 
 “Why not, Mr~Potter?” said the Potions Master. “It seems obvious enough to me—”
 
 “That’s the problem.”
 
-€18€{The enemy is smart.}
+<em>The enemy is smart.</em>
 
 Slowly the fog of sleep was drifting out of Harry’s mind, and after a full night’s sleep his brain could see the things which hadn’t been obvious the day before.
 
-Under standard literary convention…the enemy wasn’t supposed to look over what you’d done, sabotage the magic items you’d handed out, and then send out a troll rendered undetectable by some means the heroes couldn’t figure out even after the fact, so that you might as well have not defended yourself at all. In a book, the point of view usually stayed on the main characters. Having the enemy just bypass all the protagonists’ work, as a result of planning and actions taken out of literary sight, would be a €19€{diabolus ex machina}, and dramatically unsatisfying.
+Under standard literary convention…the enemy wasn’t supposed to look over what you’d done, sabotage the magic items you’d handed out, and then send out a troll rendered undetectable by some means the heroes couldn’t figure out even after the fact, so that you might as well have not defended yourself at all. In a book, the point of view usually stayed on the main characters. Having the enemy just bypass all the protagonists’ work, as a result of planning and actions taken out of literary sight, would be a <em>diabolus ex machina</em>, and dramatically unsatisfying.
 
 But in real life the enemy would think that they were the main character, and they would also be clever, and think things through in advance, even if you didn’t see them do it. That was why everything about this felt so disjointed, with parts unexplained and seemingly inexplicable. How had Lucius felt, when Harry had threatened Dumbledore with breaking Azkaban? How had the Aurors above Azkaban felt, seeing the broomstick rise up on a torch of fire?
 
-€20€{The enemy is smart.}
+<em>The enemy is smart.</em>
 
-“The enemy knew perfectly well that you’d turn back time to check what really happened to Hermione, especially since the troll getting into Hogwarts at all tells us that somebody can fool the wards.” Harry shut his eyes, thinking harder, trying to put himself into the enemy’s shoes. Why would he, or his dark side, have done something like—“We’re meant to conclude that the enemy has control of what the wards tell us. But that’s actually something the enemy can only do with difficulty, or under special conditions; they’re trying to create a false appearance of omnipotence.” €21€{Like I would.} “Later, hypothetically, the wards show Professor Sinistra killing someone. We think the wards are just being fooled again, but really, Professor Sinistra was Legilimized and she €22€{did} do it.”
+“The enemy knew perfectly well that you’d turn back time to check what really happened to Hermione, especially since the troll getting into Hogwarts at all tells us that somebody can fool the wards.” Harry shut his eyes, thinking harder, trying to put himself into the enemy’s shoes. Why would he, or his dark side, have done something like—“We’re meant to conclude that the enemy has control of what the wards tell us. But that’s actually something the enemy can only do with difficulty, or under special conditions; they’re trying to create a false appearance of omnipotence.” <em>Like I would.</em> “Later, hypothetically, the wards show Professor Sinistra killing someone. We think the wards are just being fooled again, but really, Professor Sinistra was Legilimized and she <em>did</em> do it.”
 
 “Unless that is precisely what the Dark Lord expects us to think,” said Severus Snape, his brow furrowed in concentration. “In which case he does have control of the wards, and Professor Sinistra will be innocent.”
 
-“Does the Dark Lord €23€{really} use plots with that many levels of meta—”
+“Does the Dark Lord <em>really</em> use plots with that many levels of meta—”
 
 “Yes,” said Dumbledore and Severus.
 
@@ -154,21 +154,21 @@ Harry nodded distantly. “Then this could be a setup to either make us think th
 
 Harry reached up a hand and rubbed at his brow, just beneath his hair.
 
-€24€{Okay, serious question. If the enemy is that smart, why the heck am I still alive? Is it seriously that hard to poison someone, are there Charms and Potions and bezoars which can cure me of literally anything that could be slipped into my breakfast? Would the wards record it, trace the magic of the murderer?}
+<em>Okay, serious question. If the enemy is that smart, why the heck am I still alive? Is it seriously that hard to poison someone, are there Charms and Potions and bezoars which can cure me of literally anything that could be slipped into my breakfast? Would the wards record it, trace the magic of the murderer?</em>
 
-€25€{Could my €26€{scar} contain the fragment of soul that’s keeping the Dark Lord anchored to the world, so he doesn’t want to kill me? Instead he’s trying to drive off all my friends to weaken my spirit so he can take over my body? It’d explain the Parselmouth thing. The Sorting Hat might not be able to detect a lich-phylactery-thingy. Obvious problem 1, the Dark Lord is supposed to have made his lich-phylactery-thingy in 1943 by killing whatshername and framing Mr~Hagrid. Obvious problem 2, there’s no such thing as souls.}
+<em>Could my €6€<b>scar</em> contain the fragment of soul that’s keeping the Dark Lord anchored to the world, so he doesn’t want to kill me? Instead he’s trying to drive off all my friends to weaken my spirit so he can take over my body? It’d explain the Parselmouth thing. The Sorting Hat might not be able to detect a lich-phylactery-thingy. Obvious problem 1, the Dark Lord is supposed to have made his lich-phylactery-thingy in 1943 by killing whatshername and framing Mr~Hagrid. Obvious problem 2, there’s no such thing as souls.</b>
 
-€27€{Though Dumbledore also thought that my blood was a key ingredient in a ritual to restore the Dark Lord’s full strength, which would require keeping me alive until then…now there’s a cheery thought.}
+<em>Though Dumbledore also thought that my blood was a key ingredient in a ritual to restore the Dark Lord’s full strength, which would require keeping me alive until then…now there’s a cheery thought.</em>
 
 “Well…” Harry said. “I’m sure of one thing.”
 
 “And that is?”
 
-“Neville needs to be taken out of Hogwarts €28€{now}. He’s the obvious next target and no first-year student can survive this level of offense. We’re lucky Neville wasn’t assassinated yesterday evening, the enemy doesn’t have to wait until we’re finished mourning to make their next move.” €29€{Why didn’t the enemy strike while we were distracted?}
+“Neville needs to be taken out of Hogwarts <em>now</em>. He’s the obvious next target and no first-year student can survive this level of offense. We’re lucky Neville wasn’t assassinated yesterday evening, the enemy doesn’t have to wait until we’re finished mourning to make their next move.” <em>Why didn’t the enemy strike while we were distracted?</em>
 
 Dumbledore exchanged glances with Severus, and then with the suddenly tight expression of Professor McGonagall. “Harry,” said the old wizard, “if you send all your friends away yourself, that is just the same as if Voldemort—”
 
-“I will be €30€{fine} I can do without Neville for a couple of extra months it’s not like you were planning to make my friends stay here over the summer and that is just plain €31€{not sufficient justification} to let him get killed! Professor McGonagall—”
+“I will be <em>fine</em> I can do without Neville for a couple of extra months it’s not like you were planning to make my friends stay here over the summer and that is just plain <em>not sufficient justification</em> to let him get killed! Professor McGonagall—”
 
 “I quite agree,” said the Scottish witch. She frowned. “I extremely agree. I agree to the point where…I’m having some trouble figuring out how to express this, Albus…”
 
@@ -188,15 +188,15 @@ There was another long exchange of glances among the four, and finally Harry nod
 
 “I very much need to visit the toilet, and I would also like to change out of these pyjamas.”
 
-€32€
+€7€
 
 “By the way,” Harry said as he and the Headmaster emerged from Floo into the empty office of the Ravenclaw Head of House. “One last quick question I wanted to ask just you. That sword the Weasley twins pulled out of the Sorting Hat. That was the Sword of Gryffindor, wasn’t it?”
 
 The old wizard turned, face neutral. “What makes you think that, Harry?”
 
-“The Sorting Hat yelled €33€{Gryffindor!} just before handing it out, the sword had a ruby pommel and gold letters on the blade, and the Latin script said €34€{Nothing better}. Just a hunch.”
+“The Sorting Hat yelled <em>Gryffindor!</em> just before handing it out, the sword had a ruby pommel and gold letters on the blade, and the Latin script said <em>Nothing better</em>. Just a hunch.”
 
-“€35€{Nihil supernum,}” said the old wizard. “That is not €36€{quite} what it means.”
+“<em>Nihil supernum,</em>” said the old wizard. “That is not <em>quite</em> what it means.”
 
 Harry nodded. “Mmhm. What’d you do with it?”
 
@@ -220,12 +220,12 @@ Harry nodded, and turned to go. “I’m surprised,” Harry said. “I read a l
 
 The Headmaster stepped into green fire, and was gone.
 
-€37€{The second meeting\\
-(in a small cubbyhole off the Hufflepuff Common Room):}
+€8€<b>The second meeting\\
+(in a small cubbyhole off the Hufflepuff Common Room):</b>
 
 Neville Longbottom’s face was drawn up in anguish, as he spoke with no-one to hear, to the empty air.
 
-“Seriously,” the empty air said back to him. “I’m wearing an invisibility cloak with extra anti-detection charms just to walk through the hallways because €38€{I} don’t want to be killed. My parents would have me out of Hogwarts in an instant if the Headmaster allowed it. Neville, your getting the heck out of Hogwarts is common sense, it has €39€{nothing to do} with—”
+“Seriously,” the empty air said back to him. “I’m wearing an invisibility cloak with extra anti-detection charms just to walk through the hallways because <em>I</em> don’t want to be killed. My parents would have me out of Hogwarts in an instant if the Headmaster allowed it. Neville, your getting the heck out of Hogwarts is common sense, it has <em>nothing to do</em> with—”
 
 “I betrayed you, General,” Neville said, his voice around as hollow as any normal eleven-year-old boy could reasonably manage. “I didn’t even do it the Chaotic way. I conformed to authority and tried to make you conform to authority too. What’s that you always say, about how in the Chaos Legion, a soldier who can only obey orders is useless?”
 
@@ -233,13 +233,13 @@ Neville Longbottom’s face was drawn up in anguish, as he spoke with no-one to 
 
 “Slightly better than worthless?” Neville said bitterly.
 
-“€40€{Significantly} better than worthless. Neville, you made an error of judgement. It cost me around six seconds. Now it could be that Hermione’s injuries were just barely fatal, but even then, I don’t think six seconds was actually enough time for the troll to take an extra bite of Hermione. In the counterfactual world where you didn’t step in front of me, Hermione still died. Now, I could stand here listing out the first dozen ways that Hermione would be alive if I hadn’t been stupid—”
+“<em>Significantly</em> better than worthless. Neville, you made an error of judgement. It cost me around six seconds. Now it could be that Hermione’s injuries were just barely fatal, but even then, I don’t think six seconds was actually enough time for the troll to take an extra bite of Hermione. In the counterfactual world where you didn’t step in front of me, Hermione still died. Now, I could stand here listing out the first dozen ways that Hermione would be alive if I hadn’t been stupid—”
 
-“You? €41€{You} ran right out after her. €42€{I’m} the one who tried to stop you. It’s my fault if it’s anyone’s,” Neville said bitterly.
+“You? <em>You</em> ran right out after her. <em>I’m</em> the one who tried to stop you. It’s my fault if it’s anyone’s,” Neville said bitterly.
 
 The empty air went silent at this for a while.
 
-“Wow,” the empty air finally said. “Wow. That puts a pretty different perspective on things, I have to say. I’m going to remember this the next time I feel an impulse to blame myself for something. Neville, the term in the literature for this is ‘egocentric bias’, it means that you experience everything about your own life but you don’t get to experience everything else that happens in the world. There was way, way more going on than you running in front of me. You’re going to spend weeks remembering that thing you did there for six seconds, I can tell, but nobody else is going to bother thinking about it. Other people spend a lot less time thinking about your past mistakes than you do, just because you’re not the centre of their worlds. I €43€{guarantee} to you that nobody except you has even €44€{considered} blaming Neville Longbottom for what happened to Hermione. Not for a fraction of a second. You are being, if you will pardon the phrase, a silly-billy. Now shut up and say goodbye.”
+“Wow,” the empty air finally said. “Wow. That puts a pretty different perspective on things, I have to say. I’m going to remember this the next time I feel an impulse to blame myself for something. Neville, the term in the literature for this is ‘egocentric bias’, it means that you experience everything about your own life but you don’t get to experience everything else that happens in the world. There was way, way more going on than you running in front of me. You’re going to spend weeks remembering that thing you did there for six seconds, I can tell, but nobody else is going to bother thinking about it. Other people spend a lot less time thinking about your past mistakes than you do, just because you’re not the centre of their worlds. I <em>guarantee</em> to you that nobody except you has even <em>considered</em> blaming Neville Longbottom for what happened to Hermione. Not for a fraction of a second. You are being, if you will pardon the phrase, a silly-billy. Now shut up and say goodbye.”
 
 “I don’t want to say goodbye,” Neville said. His voice was trembling, but he managed not to cry. “I want to stay here and fight with you against—against whatever’s happening.”
 

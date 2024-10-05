@@ -1,15 +1,15 @@
-€1€{The Stanford Prison Experiment}{I}
+€1€<b>The Stanford Prison Experiment</b><b>I</b>
 
-€2€{S}{aturday}.
+€2€<b>S</b><b>aturday</b>.
 
 €3€
-Harry had run into trouble falling asleep Friday night, which he had anticipated might happen, and so he had decided to take the obvious advance precaution of buying a sleeping potion; and to prevent it from constituting a visible sign that he was nervous, he had decided to buy it off Fred and George a couple of months earlier. €4€{(Be prepared, that’s the Boy Scout’s marching song…)}
+Harry had run into trouble falling asleep Friday night, which he had anticipated might happen, and so he had decided to take the obvious advance precaution of buying a sleeping potion; and to prevent it from constituting a visible sign that he was nervous, he had decided to buy it off Fred and George a couple of months earlier. <em>(Be prepared, that’s the Boy Scout’s marching song…)</em>
 
 Thus Harry was fully rested, and his pouch contained almost everything which he owned and might conceivably need. Harry had, in fact, run into the volume limitation on the pouch; and keeping in mind that he would need to store a large snake, and might need to store who-knew-what-else, he had removed some of the bulkier items, like the car battery. He was up to the point now where he could Transfigure something the size of a car battery in four minutes flat, so it wasn’t much of a loss.
 
-Harry €5€{had} kept the emergency flares and the oxyacetylene welding torch and fuel tank, since you couldn’t just Transfigure things that were to be burned.
+Harry <em>had</em> kept the emergency flares and the oxyacetylene welding torch and fuel tank, since you couldn’t just Transfigure things that were to be burned.
 
-€6€{(Be prepared, as through life you march along…)}
+<em>(Be prepared, as through life you march along…)</em>
 
 Mary’s Place.
 
@@ -23,15 +23,15 @@ Professor Quirrell finished his Charms—
 
 —blurred into a green snake, banded in blue and white—
 
-—hissed, “€7€{Hungry, boy? Eat your fill swiftly, we shall need both strength and time.}”
+—hissed, “€4€<b>Hungry, boy? Eat your fill swiftly, we shall need both strength and time.</b>”
 
-Harry’s eyes were a bit wide, but he hissed, “€8€{I ate well at breakfast,}” and then rapidly began forking noodles into his mouth.
+Harry’s eyes were a bit wide, but he hissed, “€5€<b>I ate well at breakfast,</b>” and then rapidly began forking noodles into his mouth.
 
-The snake watched him for a moment, with those flat eyes, and then hissed, “€9€{Do not wish to explain here. Prefer to be elsewhere first. Need to leave unobserved, without sign we have ever departed room.}”
+The snake watched him for a moment, with those flat eyes, and then hissed, “€6€<b>Do not wish to explain here. Prefer to be elsewhere first. Need to leave unobserved, without sign we have ever departed room.</b>”
 
-“€10€{So no-one can track us,}” hissed Harry.
+“€7€<b>So no-one can track us,</b>” hissed Harry.
 
-“€11€{Yes. Do you trust me that much, boy? Think before answer. I will have important request of you, which requires trust; if say no regardless, then say no now.}”
+“€8€<b>Yes. Do you trust me that much, boy? Think before answer. I will have important request of you, which requires trust; if say no regardless, then say no now.</b>”
 
 Harry dropped his gaze from the snake’s flat eyes, and looked back down at his sauce-coated noodles, and ate another bite, then another, while he thought.
 
@@ -39,17 +39,17 @@ The Defence Professor…was an ambiguous figure, to put it mildly; Harry thought
 
 But Professor Quirrell had knocked down two hundred girls to stop the ones summoning Harry. Professor Quirrell had deduced that the Dementor was draining Harry through his wand. The Defence Professor had saved Harry’s life, twice, in a two-week period.
 
-Which could mean that the Defence Professor was just saving Harry €12€{for later}, that there were ulterior motives. Indeed, it was €13€{certain} that there were ulterior motives. Professor Quirrell wasn’t doing this on a whim. But then Professor Quirrell had also seen Harry taught Occlumency, he had taught Harry how to lose…if the Defence Professor wanted to make some use of Harry Potter, it was a use that required a strengthened Harry Potter, not a weakened one. That was what it meant to be used by a friend, that they would want the use to make you stronger instead of weaker.
+Which could mean that the Defence Professor was just saving Harry <em>for later</em>, that there were ulterior motives. Indeed, it was <em>certain</em> that there were ulterior motives. Professor Quirrell wasn’t doing this on a whim. But then Professor Quirrell had also seen Harry taught Occlumency, he had taught Harry how to lose…if the Defence Professor wanted to make some use of Harry Potter, it was a use that required a strengthened Harry Potter, not a weakened one. That was what it meant to be used by a friend, that they would want the use to make you stronger instead of weaker.
 
 And if there was sometimes a cold atmosphere about the Defence Professor, bitterness in his voice or emptiness in his gaze, then Harry was the only one who Professor Quirrell allowed to see it.
 
-Harry didn’t quite know how to describe in words the sense of kinship he felt with Professor Quirrell, except to say that the Defence Professor was the only €14€{clear-thinking} person Harry had met in the wizarding world. Sooner or later everyone else started playing Quidditch, or not putting protective shells on their time machines, or thinking that Death was their friend. It didn’t matter how good their intentions were. Sooner or later, and usually sooner, they demonstrated that something deep inside their brain was confused. Everyone except Professor Quirrell. It was a bond that went beyond anything of debts owed, or even anything of personal liking, that the two of them were alone in the wizarding world. And if the Defence Professor occasionally seemed a little scary or a little Dark, well, that was just the same thing some people said about Harry.
+Harry didn’t quite know how to describe in words the sense of kinship he felt with Professor Quirrell, except to say that the Defence Professor was the only <em>clear-thinking</em> person Harry had met in the wizarding world. Sooner or later everyone else started playing Quidditch, or not putting protective shells on their time machines, or thinking that Death was their friend. It didn’t matter how good their intentions were. Sooner or later, and usually sooner, they demonstrated that something deep inside their brain was confused. Everyone except Professor Quirrell. It was a bond that went beyond anything of debts owed, or even anything of personal liking, that the two of them were alone in the wizarding world. And if the Defence Professor occasionally seemed a little scary or a little Dark, well, that was just the same thing some people said about Harry.
 
-“€15€{I trust you,}” hissed Harry.
+“€9€<b>I trust you,</b>” hissed Harry.
 
 And the snake explained the first stage of the plan.
 
-€16€
+€10€
 
 Harry took a final forkful of noodles, chewed. Beside him, Professor Quirrell, now in human form again, was eating his soup placidly, as though nothing of special interest were occurring.
 
@@ -57,27 +57,27 @@ Then Harry swallowed, and in the same moment stood up from his chair, already fe
 
 “Are you ready to test it, Mr~Potter?” Professor Quirrell said calmly.
 
-It €17€{wasn’t} a test, but Professor Quirrell wouldn’t say that, not out loud in human speech, even in this room screened to the limit that Professor Quirrell had secured with further Charms.
+It <em>wasn’t</em> a test, but Professor Quirrell wouldn’t say that, not out loud in human speech, even in this room screened to the limit that Professor Quirrell had secured with further Charms.
 
 “Yep,” Harry said as casually as he could.
 
-€18€{Step one.}
+<em>Step one.</em>
 
 Harry said “Cloak” to his pouch, drew forth the Cloak of Invisibility, and then unstuck the pouch from his belt and threw it toward the other side of the table.
 
 The Defence Professor stood up from his own seat, drew his wand, bent down, and touched his wand to the pouch, murmuring a quiet incantation. The new enchantments would ensure that Professor Quirrell could enter the pouch on his own in snake form, and leave it on his own, and hear what went on outside while he was in the pouch.
 
-€19€{Step two.}
+<em>Step two.</em>
 
 As Professor Quirrell stood up from where he’d bent over by the pouch, and put away his wand, his wand happened to point in Harry’s direction, and there was a brief crawling sensation on Harry’s chest near where the Time-Turner lay, like something creepy had passed very close by without touching him.
 
-€20€{Step three.}
+<em>Step three.</em>
 
 The Defence Professor turned into a snake again, and the sense of doom diminished; the snake crawled to the pouch and into it, the pouch’s mouth opening to admit the green shape, and as the mouth closed again behind the tail, the sense of doom diminished further.
 
-€21€{Step four.}
+<em>Step four.</em>
 
-Harry drew his wand, being careful to stand still as he did it, so that the Time-Turner would not move from where Professor Quirrell had anchored the hourglass within the shell in its current orientation. “€22€{Wingardium Leviosa},” murmured Harry, and the pouch began to float toward him.
+Harry drew his wand, being careful to stand still as he did it, so that the Time-Turner would not move from where Professor Quirrell had anchored the hourglass within the shell in its current orientation. “<em>Wingardium Leviosa</em>,” murmured Harry, and the pouch began to float toward him.
 
 Slowly, slowly, as Professor Quirrell had instructed, the pouch began to float toward Harry, who waited alert for any sign the pouch was opening, in which case Harry was to use the Hover Charm to propel it away from him as fast as possible.
 
@@ -87,13 +87,13 @@ As Harry reattached the pouch to his belt, the sense of doom was stronger than i
 
 Even with Professor Quirrell’s Animagus form lying within the extended space of the pouch resting on Harry’s very hip.
 
-€23€{Step five.}
+<em>Step five.</em>
 
 Harry sheathed his wand. His other hand still held the Cloak of Invisibility, and Harry drew that cloak over himself.
 
-€24€{Step six.}
+<em>Step six.</em>
 
-And so in that room shielded from every possible scrying, which Professor Quirrell had personally and further secured, it was not until €25€{after} Harry was wearing the true Cloak of Invisibility that he reached beneath his shirt and twisted the outer shell of the Time-Turner just once.
+And so in that room shielded from every possible scrying, which Professor Quirrell had personally and further secured, it was not until <em>after</em> Harry was wearing the true Cloak of Invisibility that he reached beneath his shirt and twisted the outer shell of the Time-Turner just once.
 
 The Time-Turner’s inner hourglass stayed anchored and motionless, the setting twisted around it—
 
@@ -101,15 +101,15 @@ The food vanished from the table, the chairs leaped back into place, the door sp
 
 Mary’s Room was deserted, as it should have been, because Professor Quirrell had earlier contacted Mary’s Place under a false name to inquire whether the room would be available at this hour—not to reserve it, not to place a cancelled reservation that might be noted, but only to inquire.
 
-€26€{Step seven.}
+<em>Step seven.</em>
 
 Staying under the Cloak of Invisibility, Harry left through the open door. He navigated the tiled hallways of Mary’s Place to the well-stocked bar that greeted new entrants, tended by the owner, Jake. There were only a few people at the bar in the late morning, and Harry had to wait invisibly by the door for several minutes, listening to the murmur of conversation and the gurgle of alcohol, before the door opened to emit a huge genial Irishman, and Harry slipped out silently in his wake.
 
-€27€{Step eight.}
+<em>Step eight.</em>
 
 Harry walked for a while. He was well away from Mary’s Place when he turned off Diagon Alley into a smaller alley, at the end of which lay a shop that was dark, the windows enchanted to blackness.
 
-€28€{Step nine.}
+<em>Step nine.</em>
 
 “Sword fish melon friend,” Harry spoke the passphrase to the lock, and it clicked open.
 
@@ -117,15 +117,15 @@ Within the shop was also darkness, the light from the open door briefly illumina
 
 The door clicked shut behind Harry, and then the darkness was pitch and complete.
 
-€29€{Step ten.}
+<em>Step ten.</em>
 
-Harry took out his wand and said “€30€{Lumos}”, lighting the room with white glow; he took his pouch from his belt (the sense of doom growing a little sharper as he grasped it with his fingers) and lightly tossed it to the opposite side of the room (the sense of doom fading almost completely). And then he began to take off the Cloak of Invisibility, even as his voice hissed, “€31€{It is done.}”
+Harry took out his wand and said “<em>Lumos</em>”, lighting the room with white glow; he took his pouch from his belt (the sense of doom growing a little sharper as he grasped it with his fingers) and lightly tossed it to the opposite side of the room (the sense of doom fading almost completely). And then he began to take off the Cloak of Invisibility, even as his voice hissed, “€11€<b>It is done.</b>”
 
-€32€{Step eleven.}
+<em>Step eleven.</em>
 
 From the pouch poked a green head, followed shortly by a metre-long green body as the snake slithered out. A moment later, the snake blurred into Professor Quirrell.
 
-€33€{Step twelve.}
+<em>Step twelve.</em>
 
 Harry waited in silence while the Defence Professor recited thirty Charms.
 
@@ -151,17 +151,17 @@ There was a slight pause.
 
 “I’m afraid that is not quite where I intended to direct this conversation,” said Professor Quirrell. The corners of his lips were twitching slightly. “I merely planned to ask for your help in doing something extremely treasonous and illegal.”
 
-€34€{Darn,} thought Harry. Still, Professor Quirrell hadn’t €35€{denied} it…“Go on.”
+<em>Darn,</em> thought Harry. Still, Professor Quirrell hadn’t <em>denied</em> it…“Go on.”
 
-“Before I do,” said Professor Quirrell. There was no levity in his voice, now. “€36€{Are} you open to such requests, Mr~Potter? I say again that if you are likely to say no regardless, you must say no now. If your curiosity impels you otherwise, squash it.”
+“Before I do,” said Professor Quirrell. There was no levity in his voice, now. “<em>Are</em> you open to such requests, Mr~Potter? I say again that if you are likely to say no regardless, you must say no now. If your curiosity impels you otherwise, squash it.”
 
-“Treasonous and illegal doesn’t bother me,” said Harry. “Risks bother me and the stakes would need to be commensurate, but I can’t imagine €37€{you} taking risks frivolously.”
+“Treasonous and illegal doesn’t bother me,” said Harry. “Risks bother me and the stakes would need to be commensurate, but I can’t imagine <em>you</em> taking risks frivolously.”
 
 Professor Quirrell nodded. “I would not. It is a terrible abuse of my friendship with you, and of such trust as is placed in my teaching position at Hogwarts—”
 
 “You can skip this part,” Harry said.
 
-The lips twitched again, and then went flat. “Then I shall skip it. Mr~Potter, you sometimes make a game of lying with truths, playing with words to conceal your meanings in plain sight. I, too, have been known to find that amusing. But if I so much as €38€{tell} you what I hope we shall do this day, Mr~Potter, you will €39€{lie} about it. You will lie straight out, without hesitation, without wordplay or hints, to anyone who asks about it, be they foe or closest friend. You will lie to Malfoy, to Granger, and to McGonagall. You will speak, always and without hesitation, in €40€{exactly} the fashion you would speak if you knew nothing, with no concern for your honour. That also is how it must be.”
+The lips twitched again, and then went flat. “Then I shall skip it. Mr~Potter, you sometimes make a game of lying with truths, playing with words to conceal your meanings in plain sight. I, too, have been known to find that amusing. But if I so much as <em>tell</em> you what I hope we shall do this day, Mr~Potter, you will <em>lie</em> about it. You will lie straight out, without hesitation, without wordplay or hints, to anyone who asks about it, be they foe or closest friend. You will lie to Malfoy, to Granger, and to McGonagall. You will speak, always and without hesitation, in <em>exactly</em> the fashion you would speak if you knew nothing, with no concern for your honour. That also is how it must be.”
 
 There was silence, then, for a time.
 
@@ -187,7 +187,7 @@ That was the keystone of their perfect security, it had to be, nothing human. It
 
 “The Dementors don’t like their meals being taken away from them,” Professor Quirrell said. Coldness had entered that voice, now. “They know if anyone tries. There are more than a hundred Dementors there, and they speak to the guards as well. It’s that simple, Mr~Potter. If you’re a powerful wizard then Azkaban isn’t hard to enter, and it isn’t hard to leave. So long as you don’t try to take anything out of it that belongs to the Dementors.”
 
-“But the Dementors are €41€{not} invincible,” said Harry. He could have cast the Patronus Charm with that thought, in that very moment. “Never believe that they are.”
+“But the Dementors are <em>not</em> invincible,” said Harry. He could have cast the Patronus Charm with that thought, in that very moment. “Never believe that they are.”
 
 Professor Quirrell’s voice was very quiet. “Do you remember what it was like when you went before the Dementor, the first time, when you failed?”
 
@@ -203,16 +203,16 @@ Harry nodded, there was a burning sensation in his throat, but he didn’t cry.
 
 Harry saw it in a single leap of intuition, his mouth racing almost ahead of his thoughts.
 
-€42€{There was no hint, no warning, we all thought—}
+<em>There was no hint, no warning, we all thought—</em>
 
 “A person by the name of Black,” Harry said.
 
 There was silence. Silence, while the pale blue eyes stared at him.
 
-“Well,” said Professor Quirrell after a while. “So much for not telling you the name until after you had accepted the mission. I would ask whether you’re reading €43€{my} mind, but that’s flatly impossible.”
+“Well,” said Professor Quirrell after a while. “So much for not telling you the name until after you had accepted the mission. I would ask whether you’re reading <em>my</em> mind, but that’s flatly impossible.”
 
-Harry said nothing, but it was simple enough if you €44€{believed} in the processes of modern democracy. The most obvious person in Azkaban to be innocent was the one who hadn’t had a trial—
+Harry said nothing, but it was simple enough if you <em>believed</em> in the processes of modern democracy. The most obvious person in Azkaban to be innocent was the one who hadn’t had a trial—
 
-“I am €45€{certainly} impressed, Mr~Potter,” said Professor Quirrell. His face was grave. “But this is a serious matter, and if there is some way others could make the same deduction, I €46€{must} know. So tell me, Mr~Potter. How in the name of Merlin, of Atlantis, and the void between the stars, did you guess that I was talking about Bellatrix?”
+“I am <em>certainly</em> impressed, Mr~Potter,” said Professor Quirrell. His face was grave. “But this is a serious matter, and if there is some way others could make the same deduction, I <em>must</em> know. So tell me, Mr~Potter. How in the name of Merlin, of Atlantis, and the void between the stars, did you guess that I was talking about Bellatrix?”
 
 €0€

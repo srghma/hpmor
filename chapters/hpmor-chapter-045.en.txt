@@ -1,6 +1,6 @@
-€7€{Humanism}{III}
+€7€<b>Humanism</b><b>III</b>
 
-€8€{F}{awkes’s} song gently trailed off into nothing.
+€8€<b>F</b><b>awkes’s</b> song gently trailed off into nothing.
 
 €9€
 Harry sat up from where he had lain on the winter-blasted grass, Fawkes still perched on his shoulder.
@@ -19,13 +19,13 @@ Fawkes bobbed its head in the direction of the Dementor.
 
 Harry looked at the unseeable horror still in its cage, then back at the phœnix, puzzled.
 
-“Mr~Potter?” said Minerva McGonagall’s voice from behind him. “€10€{Are} you all right?”
+“Mr~Potter?” said Minerva McGonagall’s voice from behind him. “<em>Are</em> you all right?”
 
 Harry climbed to his feet and turned.
 
 Minerva McGonagall was looking at him, looking very worried; Albus Dumbledore beside her was studying him carefully; Filius Flitwick appeared tremendously relieved; and all the students were just plain staring.
 
-“I think so, Professor McGonagall,” Harry said calmly. He’d almost said €11€{Minerva} before managing to stop himself. While Fawkes was on his shoulder, at least, Harry was fine; it might be that he would collapse a moment after Fawkes left, but somehow thoughts like that didn’t seem important. “I think I’m okay.”
+“I think so, Professor McGonagall,” Harry said calmly. He’d almost said <em>Minerva</em> before managing to stop himself. While Fawkes was on his shoulder, at least, Harry was fine; it might be that he would collapse a moment after Fawkes left, but somehow thoughts like that didn’t seem important. “I think I’m okay.”
 
 There ought to have been cheering, or sighs of relief, or something, but no-one seemed to know what to say, no-one at all.
 
@@ -63,7 +63,7 @@ Harry’s eyes went back to the tall tattered cloak, almost absent-mindedly, and
 
 “Hm,” Harry said. “Suppose you threw it into the Sun? Would it be destroyed?”
 
-“€12€{Throw} it into the €13€{Sun?}” squeaked Professor Flitwick, looking like he wanted to faint.
+“<em>Throw</em> it into the <em>Sun?</em>” squeaked Professor Flitwick, looking like he wanted to faint.
 
 “It seems unlikely, Mr~Potter,” Professor Quirrell said dryly. “The Sun is very large, after all; I doubt the Dementor would have much effect on it. But it is not a test I would like to try, Mr~Potter, just in case.”
 
@@ -89,7 +89,7 @@ In the end it turned out that Dean Thomas and Ron Weasley of Gryffindor were the
 
 Harry glanced in the Dementor’s direction. The word echoed in his mind again.
 
-€14€{All right,} Harry thought to himself, €15€{if the Dementor is a riddle, what is the answer?}
+<em>All right,</em> Harry thought to himself, <em>if the Dementor is a riddle, what is the answer?</em>
 
 And just like that, it was obvious.
 
@@ -111,9 +111,9 @@ It would have been better to get rid of the trio first, but Harry couldn’t thi
 
 “Excuse me,” Harry said. “I’d like to have another go at the Dementor.”
 
-€16€
+€10€
 
-Harry’s request met with a certain amount of opposition of the €17€{you’re completely insane} variety, though it was only Auror Butnaru who actually said that out loud.
+Harry’s request met with a certain amount of opposition of the <em>you’re completely insane</em> variety, though it was only Auror Butnaru who actually said that out loud.
 
 “Fawkes told me to,” Harry said.
 
@@ -127,11 +127,11 @@ This did not prove persuasive either.
 
 There was an appalled pause at this. It seemed like a good time to play his trump card.
 
-“I don’t mind if the Headmaster keeps his own Patronus up,” Harry said. €18€{For I will be in the presence of a Dementor just the same, Patronus or no.}
+“I don’t mind if the Headmaster keeps his own Patronus up,” Harry said. <em>For I will be in the presence of a Dementor just the same, Patronus or no.</em>
 
 There was confusion at this, even Professor Quirrell looked puzzled; but the Headmaster finally acceded, since it didn’t seem likely that Harry could be hurt through four Patronuses.
 
-€19€{If the Dementor could not reach through your Patronus on some level, Albus Dumbledore, you would not see a naked man painful to look upon…}
+<em>If the Dementor could not reach through your Patronus on some level, Albus Dumbledore, you would not see a naked man painful to look upon…</em>
 
 Harry didn’t say it out loud, for obvious reasons.
 
@@ -167,9 +167,9 @@ Fear.
 
 Though it was clear enough why people would be reluctant to look beyond the first answer.
 
-People €20€{understood} fear.
+People <em>understood</em> fear.
 
-People knew what they were supposed to €21€{do} about fear.
+People knew what they were supposed to <em>do</em> about fear.
 
 So, faced with a Dementor, it wouldn’t exactly be comforting to ask: ‘What if the fear is just a side effect rather than the main problem?’
 
@@ -189,9 +189,9 @@ Harry shook his head.
 
 “It said to me,” said Professor Quirrell, “that it knew me, and that it would hunt me down some day, wherever I tried to hide.” His face was rigid, showing no fright.
 
-“Ah,” Harry said. “I wouldn’t worry about that, Professor Quirrell.” €22€{It’s not like Dementors can actually talk, or think; the structure they have is borrowed from your own mind and expectations…}
+“Ah,” Harry said. “I wouldn’t worry about that, Professor Quirrell.” <em>It’s not like Dementors can actually talk, or think; the structure they have is borrowed from your own mind and expectations…</em>
 
-Now everyone was giving him €23€{very} strange looks. The Aurors were glancing nervously at each other, at the Dementor, at Harry.
+Now everyone was giving him <em>very</em> strange looks. The Aurors were glancing nervously at each other, at the Dementor, at Harry.
 
 And they stood directly before the Dementor’s cage.
 
@@ -199,15 +199,15 @@ And they stood directly before the Dementor’s cage.
 
 “Yes…” said Dumbledore. “How did you know?”
 
-€24€{It is a common misconception}, thought Harry, €25€{that all the best rationalists are Sorted into Ravenclaw, leaving none for other Houses. This is not so; being Sorted into Ravenclaw indicates that your strongest virtue is curiosity, wondering and desiring to know the true answer. And this is not the €26€{only} virtue a rationalist needs. Sometimes you have to work hard on a problem, and stick to it for a while. Sometimes you need a clever plan for finding out. And sometimes what you need more than anything else to see an answer, is the courage to face it…}
+<em>It is a common misconception</em>, thought Harry, <em>that all the best rationalists are Sorted into Ravenclaw, leaving none for other Houses. This is not so; being Sorted into Ravenclaw indicates that your strongest virtue is curiosity, wondering and desiring to know the true answer. And this is not the €11€<b>only</em> virtue a rationalist needs. Sometimes you have to work hard on a problem, and stick to it for a while. Sometimes you need a clever plan for finding out. And sometimes what you need more than anything else to see an answer, is the courage to face it…</b>
 
 Harry’s gaze went to what lay beneath the cloak, the horror far worse than any decaying mummy. Rowena Ravenclaw might also have known, for it was an obvious enough riddle once you saw it as a riddle.
 
 And it was also obvious why the Patronuses were animals. The animals didn’t know, and so were sheltered from the fear.
 
-But Harry knew, and would always know, and would never be able to forget. He’d tried to teach himself to face reality without flinching, and though Harry had not yet mastered that art, still those grooves had been worn into his mind, the learned reflex to look €27€{toward} the painful thought instead of away. Harry would never be able to forget by thinking warm happy thoughts about something else, and that was why the spell hadn’t worked for him.
+But Harry knew, and would always know, and would never be able to forget. He’d tried to teach himself to face reality without flinching, and though Harry had not yet mastered that art, still those grooves had been worn into his mind, the learned reflex to look <em>toward</em> the painful thought instead of away. Harry would never be able to forget by thinking warm happy thoughts about something else, and that was why the spell hadn’t worked for him.
 
-So Harry would think a warm happy thought that €28€{wasn’t} about something else.
+So Harry would think a warm happy thought that <em>wasn’t</em> about something else.
 
 Harry drew forth his wand that Professor Flitwick had returned to him, put his feet into the beginning stance for the Patronus Charm.
 
@@ -241,7 +241,7 @@ And Harry’s eyes stared directly at that which lay beneath the tattered cloak,
 
 The fear it exuded stole away all happy thoughts, its closeness drained your power and strength, its kiss would destroy everything that you were.
 
-€29€{I know you now}, Harry thought as his wand twitched once, twice, thrice and four times, as his fingers slid exactly the right distances, €30€{I comprehend your nature, you symbolize Death, through some law of magic you are a shadow that Death casts into the world.}
+<em>I know you now</em>, Harry thought as his wand twitched once, twice, thrice and four times, as his fingers slid exactly the right distances, <em>I comprehend your nature, you symbolize Death, through some law of magic you are a shadow that Death casts into the world.</em>
 
 €2€
 And Death is not something I will ever embrace.
@@ -257,15 +257,15 @@ And people won’t have to say goodbye any more…
 
 The wand rose up and levelled straight at the Dementor.
 
-“€31€{€32€{Expecto Patronum!}}”
+“<em>€12€<b>Expecto Patronum!</em></b>”
 
 The thought exploded from him like a breaking dam, surged down his arm into his wand, burst from it as blazing white light. Light that became corporeal, took on shape and substance.
 
-A figure with two arms, two legs, and a head, standing upright; the animal €33€{Homo sapiens,} the shape of a human being.
+A figure with two arms, two legs, and a head, standing upright; the animal <em>Homo sapiens,</em> the shape of a human being.
 
 Glowing brighter and brighter as Harry poured all his strength into his spell, blazing with incandescent light brighter than the fading sunset, the Aurors and Professor Quirrell shielding their eyes in shock—
 
-€34€{And some day when the descendants of humanity have spread from star to star, they won’t tell the children about the history of Ancient Earth until they’re old enough to bear it; and when they learn they’ll weep to hear that such a thing as Death had ever once existed!}
+<em>And some day when the descendants of humanity have spread from star to star, they won’t tell the children about the history of Ancient Earth until they’re old enough to bear it; and when they learn they’ll weep to hear that such a thing as Death had ever once existed!</em>
 
 The figure of a human shone more brilliant now than the noonday Sun, so radiant that Harry could feel the warmth of it on his skin; and Harry sent out all his defiance at the shadow of Death, opening all the floodgates inside him to make that bright shape blaze even brighter and yet brighter.
 

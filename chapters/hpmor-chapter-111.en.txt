@@ -1,6 +1,6 @@
-€3€{Failure}{I}
+€3€<b>Failure</b><b>I</b>
 
-€4€{T}{he} Dark Lord was laughing.
+€4€<b>T</b><b>he</b> Dark Lord was laughing.
 
 €5€
 From the empty air came the voice of the Defence Professor laughing wildly, so high and terrible his laughter; it was Voldemort’s laughter now, the Dark Lord’s laughter beyond all hiding or restraint.
@@ -15,7 +15,7 @@ And the Dark Lord went on laughing.
 
 “You—” A voice was coming from Harry’s throat. “You—”
 
-“Ahahahaha! Why, yes, little child, you were always along on this adventure as my hostage, it was your whole purpose in being here. Ha, hahahaha! You are decades too young to play this game against the real Tom Riddle, child.” The Dark Lord drew back the hood of the Cloak, his head becoming visible, and began to remove the rest of the Cloak. “And now, boy, €6€{you have helped me, yes indeed, and so it is time to resurrect your girl-child friend. To keep promise.}” The Dark Lord’s smile was cold, cold indeed. “I suppose you have doubts? Mark well, I could kill you this instant, for there is no longer a Headmaster of Hogwarts to be informed of it. Doubt me all you wish, but remember that.” The hand was once more holding the gun. “Now come along, foolish child.”
+“Ahahahaha! Why, yes, little child, you were always along on this adventure as my hostage, it was your whole purpose in being here. Ha, hahahaha! You are decades too young to play this game against the real Tom Riddle, child.” The Dark Lord drew back the hood of the Cloak, his head becoming visible, and began to remove the rest of the Cloak. “And now, boy, €6€<b>you have helped me, yes indeed, and so it is time to resurrect your girl-child friend. To keep promise.</b>” The Dark Lord’s smile was cold, cold indeed. “I suppose you have doubts? Mark well, I could kill you this instant, for there is no longer a Headmaster of Hogwarts to be informed of it. Doubt me all you wish, but remember that.” The hand was once more holding the gun. “Now come along, foolish child.”
 
 And they left.
 
@@ -25,7 +25,7 @@ They passed the huge three-headed Inferi, and at a whispered word from the Dark 
 
 They passed Severus Snape standing guard, who told them both that he was guarding the door, and that they must leave or he would deduct House points.
 
-The Dark Lord spoke the words “€7€{Hyakuju montauk}” without pausing in his stride, accompanied by a jab of his wand; and Severus staggered before he lifelessly drew himself up beside the door once more.
+The Dark Lord spoke the words “<em>Hyakuju montauk</em>” without pausing in his stride, accompanied by a jab of his wand; and Severus staggered before he lifelessly drew himself up beside the door once more.
 
 “What—” Harry said, as he followed. “What did you—”
 
@@ -33,7 +33,7 @@ The Dark Lord spoke the words “€7€{Hyakuju montauk}” without pausing in 
 
 “The hostages—” Harry said. It was hard to keep his voice steady. “The students, you said you’d stop whatever is going to kill them—”
 
-“€8€{Yes. Stop worrying. Will do on our way out.}”
+“€7€<b>Yes. Stop worrying. Will do on our way out.</b>”
 
 “Out?”
 
@@ -61,7 +61,7 @@ The Dark Lord reached into his robes, took out a Knut, and flipped it to her. �
 
 “I thought—” Harry said. “I thought you needed the Stone to—”
 
-The Dark Lord was still smiling, he had never stopped smiling. “I did not say that part in Parseltongue, child. All I said in Parseltongue was that I had set events in motion to kill students, events that I would stop if I obtained the Stone. The rest was in human speech. I would also have stopped the Blood Fort sacrifice if I had not obtained the Stone, so long as I was not discovered and restrained. The students of Hogwarts are a valuable resource, whom I have already spent much time training.” Then the Dark Lord hissed to the wall, “€9€{Open.}”
+The Dark Lord was still smiling, he had never stopped smiling. “I did not say that part in Parseltongue, child. All I said in Parseltongue was that I had set events in motion to kill students, events that I would stop if I obtained the Stone. The rest was in human speech. I would also have stopped the Blood Fort sacrifice if I had not obtained the Stone, so long as I was not discovered and restrained. The students of Hogwarts are a valuable resource, whom I have already spent much time training.” Then the Dark Lord hissed to the wall, “€8€<b>Open.</b>”
 
 Harry’s eyes saw the tiny snake that had been set in the upper-left of the carving, even as the wall slowly swung backward, revealing the opening of a huge pipe. Moss grew on its sides and a musty dusty smell welled up from it; the interior was also covered with cobwebs in multiple sheets.
 
@@ -71,7 +71,7 @@ The Dark Lord walked into the huge pipe, the cobwebs burning away before him. Ha
 
 The pipe branched in a Y-shape, then branched again. The Dark Lord went left, then right.
 
-The pipe came to a solid metal wall. “€10€{Open,}” the Dark Lord hissed, and a crack appeared in the metal; it seemed to fold into itself.
+The pipe came to a solid metal wall. “€9€<b>Open,</b>” the Dark Lord hissed, and a crack appeared in the metal; it seemed to fold into itself.
 
 Beyond was the middle of a long, stone tunnel.
 
@@ -85,85 +85,85 @@ Harry didn’t know, then or ever, how long he walked; the light of burning spid
 
 Slowly, Harry’s mind tried to recover itself a final time. Very possibly final, if he was right about the Dark Lord killing him after this…though the Dark Lord had said that he would resurrect Hermione, which seemed pointless if that was true…was that simply the Dark Lord following through on a promise he would not otherwise have been able to make in Parseltongue…why had he not just shot Harry on the spot…
 
-€11€{Seriously,} some last functioning part of his brain said to all the other parts, €12€{this would be a good time to think of something, something that the Dark Lord has not already thought of, something we can do without our pouch or our wand or our Time-Turner, something that Professor Quirrell has not imagined we can do…think, think, pretty pretty please think of something? Don’t shut down now, even if you’re scared, even if we’ve never really really faced death before in the sense of being about to die in the next hour, €13€{this is not the time to shut down—}}
+<em>Seriously,</em> some last functioning part of his brain said to all the other parts, <em>this would be a good time to think of something, something that the Dark Lord has not already thought of, something we can do without our pouch or our wand or our Time-Turner, something that Professor Quirrell has not imagined we can do…think, think, pretty pretty please think of something? Don’t shut down now, even if you’re scared, even if we’ve never really really faced death before in the sense of being about to die in the next hour, €10€<b>this is not the time to shut down—</em></b>
 
 Harry’s mind stayed blank.
 
-€14€{Suppose,} said that last remaining part, €15€{suppose we try to condition on the fact that we win this, or at least get out of this alive. If someone €16€{told you as a fact} that you had survived, or even won, somehow made everything turn out okay, what would you think had happened—}
+<em>Suppose,</em> said that last remaining part, <em>suppose we try to condition on the fact that we win this, or at least get out of this alive. If someone €11€<b>told you as a fact</em> that you had survived, or even won, somehow made everything turn out okay, what would you think had happened—</b>
 
-€17€{Not legitimate procedure,} whispered Ravenclaw, €18€{the universe doesn’t work like that, we’re just going to die}.
+<em>Not legitimate procedure,</em> whispered Ravenclaw, <em>the universe doesn’t work like that, we’re just going to die</em>.
 
-€19€{Someone realises we’re missing,} thought Hufflepuff, €20€{and Mad-Eye Moody shows up with a squad of Aurors and rescues us. I think the time has come to admit we’re not more competent than the standard authorities.}
+<em>Someone realises we’re missing,</em> thought Hufflepuff, <em>and Mad-Eye Moody shows up with a squad of Aurors and rescues us. I think the time has come to admit we’re not more competent than the standard authorities.</em>
 
-€21€{The saving factor does have to be something we €22€{do} somehow,} said the last voice. €23€{Otherwise there’s no point in our thinking about it.}
+<em>The saving factor does have to be something we €12€<b>do</em> somehow,</b> said the last voice. <em>Otherwise there’s no point in our thinking about it.</em>
 
-€24€{Problem two,} said Gryffindor. €25€{Harry Potter isn’t missing, he’s right there at the Quidditch match where everyone can see him. Professor Quirrell thought of that too, it’s part of why he sent that fake note. Problem three. I don’t think Mad-Eye Moody and an Auror squad can beat the Dark Lord, and certainly not before he kills us. I’m not sure the entire DMLE can beat the Dark Lord if he’s fighting seriously and Dumbledore is gone. Problem four. The Quidditch match was not disrupted, that’s probably the only reason why Professor Quirrell was willing to try something as complicated as bringing us along on this trip in the first place.}
+<em>Problem two,</em> said Gryffindor. <em>Harry Potter isn’t missing, he’s right there at the Quidditch match where everyone can see him. Professor Quirrell thought of that too, it’s part of why he sent that fake note. Problem three. I don’t think Mad-Eye Moody and an Auror squad can beat the Dark Lord, and certainly not before he kills us. I’m not sure the entire DMLE can beat the Dark Lord if he’s fighting seriously and Dumbledore is gone. Problem four. The Quidditch match was not disrupted, that’s probably the only reason why Professor Quirrell was willing to try something as complicated as bringing us along on this trip in the first place.</em>
 
-€26€{Thinking along different lines,} ventured Slytherin, €27€{maybe Professor Quirrell calls in someone else to Memory-Charm us}. €28€{Legilimency, Imperius, Confundus, who knows what else, we’re not a perfect Occlumens. Then the Dark Lord would have a smart—well, sort of smart lieutenant that he could use. That could be another reason why Professor Quirrell was so willing to tell us secrets, if he knew that the memory would disappear. It’s also a reason to leave the Hogwarts wards, so the Dark Lord can call Bellatrix to Apparate in and do the work…}
+<em>Thinking along different lines,</em> ventured Slytherin, <em>maybe Professor Quirrell calls in someone else to Memory-Charm us</em>. <em>Legilimency, Imperius, Confundus, who knows what else, we’re not a perfect Occlumens. Then the Dark Lord would have a smart—well, sort of smart lieutenant that he could use. That could be another reason why Professor Quirrell was so willing to tell us secrets, if he knew that the memory would disappear. It’s also a reason to leave the Hogwarts wards, so the Dark Lord can call Bellatrix to Apparate in and do the work…</em>
 
-€29€{This entire reasoning process is illegitimate and I refuse to participate,} said Ravenclaw.
+<em>This entire reasoning process is illegitimate and I refuse to participate,</em> said Ravenclaw.
 
-€30€{What lovely last words,} said the last voice. €31€{Now shut up and think.}
+<em>What lovely last words,</em> said the last voice. <em>Now shut up and think.</em>
 
 Rough stone tunnel went by underfoot, Harry’s shoes sometimes dipping into moisture or nearly slipping on a curved surface. The neurons in his brain, which kept on firing, imagined voices talking to each other, yelling at each other, even as the Listener stayed numb with horror and shame.
 
 Gryffindor and Hufflepuff were conducting a debate about suicide by charging the Dark Lord’s gun, or by swallowing the little jewel on Harry’s steel ring. It seemed unclear whether the fate of the world was better or worse if the Dark Lord had Harry as a mind-slave; if the Dark Lord was going to win anyway, it might be better if he won faster.
 
-And the last voice kept talking through it all; even in the depths of failure that last voice remained. €32€{What else did the Dark Lord always say in human speech and never in Parseltongue? Do we remember? Anything like that, anything at all?}
+And the last voice kept talking through it all; even in the depths of failure that last voice remained. <em>What else did the Dark Lord always say in human speech and never in Parseltongue? Do we remember? Anything like that, anything at all?</em>
 
 It was all too distant in time, too distant in time even though it had all happened this very day. The Dark Lord had told him in Parseltongue just now that it was time to revive Hermione, and then he’d said other things all in English, Harry could hardly remember for all that they’d just been spoken. Before then…before then there’d been the Circle of Concealment, when Professor Quirrell had hissed that the barrier would explode if touched. And the Defence Professor had said in English for Harry not to take off his Cloak or try crossing the Circle, said in English that the resonance might strike Professor Quirrell afterwards but Harry would be dead. Said in English that if Harry touched the magic and Professor Quirrell didn’t remember how to halt the resonance, it would kill them both…
 
-€33€{Suppose it doesn’t kill us both,} said the last voice. €34€{On Halloween in Godric’s Hollow, the Dark Lord’s body was burned and we only ended up with a scar on our forehead. Suppose the resonance between us is deadlier to the Dark Lord than to us. What if this entire time we’ve been able to kill the Dark Lord at any time, just by dashing forward and touching our hands to any part of his exposed skin? And then it makes our scar bleed again, but that’s all. The sense of ‘stop, don’t do that’ is inherited from the Dark Lord’s worst memory of his mistake in Godric’s Hollow, it may not actually apply to the Boy-Who-Lived.}
+<em>Suppose it doesn’t kill us both,</em> said the last voice. <em>On Halloween in Godric’s Hollow, the Dark Lord’s body was burned and we only ended up with a scar on our forehead. Suppose the resonance between us is deadlier to the Dark Lord than to us. What if this entire time we’ve been able to kill the Dark Lord at any time, just by dashing forward and touching our hands to any part of his exposed skin? And then it makes our scar bleed again, but that’s all. The sense of ‘stop, don’t do that’ is inherited from the Dark Lord’s worst memory of his mistake in Godric’s Hollow, it may not actually apply to the Boy-Who-Lived.</em>
 
 A small note of hope rose.
 
 Rose, and was quashed.
 
-€35€{The Dark Lord can just throw away his wand,} droned Ravenclaw. €36€{Professor Quirrell can turn into his Animagus form. Even if he dies the Dark Lord will possess someone else and return, and then torture our parents, to punish us.}
+<em>The Dark Lord can just throw away his wand,</em> droned Ravenclaw. <em>Professor Quirrell can turn into his Animagus form. Even if he dies the Dark Lord will possess someone else and return, and then torture our parents, to punish us.</em>
 
-€37€{We might be able to get to our parents in time,} said the last voice. €38€{We might be able to hide them. We might be able to get the Philosopher’s Stone away from the Dark Lord if we killed his current body now, and that Stone could provide the nucleus of a counter-army.}
+<em>We might be able to get to our parents in time,</em> said the last voice. <em>We might be able to hide them. We might be able to get the Philosopher’s Stone away from the Dark Lord if we killed his current body now, and that Stone could provide the nucleus of a counter-army.</em>
 
 The Dark Lord was moving on through the stony corridor. His hand still held the gun. He was at least four metres away from Harry.
 
-€39€{If we dart forward, he will sense us approaching through the resonance,} said Hufflepuff. €40€{He will fly forward rapidly, he can do that, he has the broomstick enchantments that let him fly. He will fly forward, turn around, and fire the gun. He knows about the resonance, he’s thought of this already. This is not something the Dark Lord has failed to consider. He will be ready for it, and waiting.}
+<em>If we dart forward, he will sense us approaching through the resonance,</em> said Hufflepuff. <em>He will fly forward rapidly, he can do that, he has the broomstick enchantments that let him fly. He will fly forward, turn around, and fire the gun. He knows about the resonance, he’s thought of this already. This is not something the Dark Lord has failed to consider. He will be ready for it, and waiting.</em>
 
-€41€{Continuing the same line of argument,} said the last voice. €42€{Suppose we can freely cast magic on Professor Quirrell but he can’t cast it on us.}
+<em>Continuing the same line of argument,</em> said the last voice. <em>Suppose we can freely cast magic on Professor Quirrell but he can’t cast it on us.</em>
 
-€43€{Why would that be true?} demanded Ravenclaw. €44€{In fact, we have evidence that it’s false. In Azkaban, when Professor Quirrell’s Avada Kedavra hit our Patronus Charm, it felt like our head was splitting apart—}
+<em>Why would that be true?</em> demanded Ravenclaw. <em>In fact, we have evidence that it’s false. In Azkaban, when Professor Quirrell’s Avada Kedavra hit our Patronus Charm, it felt like our head was splitting apart—</em>
 
-€45€{Suppose that was all €46€{his} magic going out of control. Suppose if we’d just cast, say, a Luminos targeting him, nothing bad would have happened.}
+<em>Suppose that was all €13€<b>his</em> magic going out of control. Suppose if we’d just cast, say, a Luminos targeting him, nothing bad would have happened.</b>
 
-€47€{But why?} said Ravenclaw. €48€{Why suppose that?}
+<em>But why?</em> said Ravenclaw. <em>Why suppose that?</em>
 
-€49€{Because,} thought Harry, €50€{it explains why Professor Quirrell didn’t €51€{warn me} not to cast any magic on him in Azkaban. Because Professor Quirrell never said in Parseltongue, that I can remember, that I’d hurt myself if I tried to cast magic on him. He could have given me that warning, but he didn’t, even though he gave me a lot of other warnings. Absence of evidence is weak evidence of absence.}
+<em>Because,</em> thought Harry, <em>it explains why Professor Quirrell didn’t €14€<b>warn me</em> not to cast any magic on him in Azkaban. Because Professor Quirrell never said in Parseltongue, that I can remember, that I’d hurt myself if I tried to cast magic on him. He could have given me that warning, but he didn’t, even though he gave me a lot of other warnings. Absence of evidence is weak evidence of absence.</b>
 
 There was a pause while Harry’s parts considered this.
 
-€52€{We don’t actually have our wand,} said Ravenclaw.
+<em>We don’t actually have our wand,</em> said Ravenclaw.
 
-€53€{We might get it back at some point,} thought the last voice.
+<em>We might get it back at some point,</em> thought the last voice.
 
-€54€{But even then,} Harry thought, and the grey hopelessness returned, €55€{the resonance is something the Dark Lord knows about. He’s already thought of everything I can do with that, he already has a response prepared. That was my mistake from the beginning. I didn’t respect the Dark Lord’s intelligence, I didn’t think that maybe he knew everything I knew and could see everything I saw and had already taken it into account.}
+<em>But even then,</em> Harry thought, and the grey hopelessness returned, <em>the resonance is something the Dark Lord knows about. He’s already thought of everything I can do with that, he already has a response prepared. That was my mistake from the beginning. I didn’t respect the Dark Lord’s intelligence, I didn’t think that maybe he knew everything I knew and could see everything I saw and had already taken it into account.</em>
 
-€56€{Then,} said the last voice, €57€{conditional on our winning, we must have hit him with something he doesn’t know about}.
+<em>Then,</em> said the last voice, <em>conditional on our winning, we must have hit him with something he doesn’t know about</em>.
 
-€58€{Dementors,} offered Gryffindor.
+<em>Dementors,</em> offered Gryffindor.
 
-€59€{The Dark Lord €60€{knows} we can destroy, deflect, and possibly control Dementors,} said Ravenclaw. €61€{He doesn’t know how, but he knows we have the capability, and where the heck would we get a Dementor anyway?}
+<em>The Dark Lord €15€<b>knows</em> we can destroy, deflect, and possibly control Dementors,</b> said Ravenclaw. <em>He doesn’t know how, but he knows we have the capability, and where the heck would we get a Dementor anyway?</em>
 
-Maybe, ventured Hufflepuff, €62€{the Dark Lord’s whole horcrux system would short out via the resonance if we grabbed him and held him, sacrificing our own life to destroy him forever.}
+Maybe, ventured Hufflepuff, <em>the Dark Lord’s whole horcrux system would short out via the resonance if we grabbed him and held him, sacrificing our own life to destroy him forever.</em>
 
-€63€{Balderdash,} said Ravenclaw. €64€{But I guess it doesn’t hurt to engage in some pleasant fantasy before we die, no matter how stupid.}
+<em>Balderdash,</em> said Ravenclaw. <em>But I guess it doesn’t hurt to engage in some pleasant fantasy before we die, no matter how stupid.</em>
 
-€65€{If Lord Voldemort had a strong enough fear of death,} Hufflepuff argued, €66€{if he wanted strongly enough to just not need to think about death again, then the horcrux system €67€{could} have design flaws like that. It never occurred to Voldemort to test his horcruxes on someone else, that could indicate he wasn’t able to think about the subject clearly—}
+<em>If Lord Voldemort had a strong enough fear of death,</em> Hufflepuff argued, <em>if he wanted strongly enough to just not need to think about death again, then the horcrux system €16€<b>could</em> have design flaws like that. It never occurred to Voldemort to test his horcruxes on someone else, that could indicate he wasn’t able to think about the subject clearly—</b>
 
-€68€{So his fear of death is his fatal weakness?} said Ravenclaw. €69€{Yeah, no. I’m thinking someone with over a hundred horcruxes might have a few fail-safe mechanisms in there.}
+<em>So his fear of death is his fatal weakness?</em> said Ravenclaw. <em>Yeah, no. I’m thinking someone with over a hundred horcruxes might have a few fail-safe mechanisms in there.</em>
 
 And Harry’s brain went on thinking.
 
 A genuine asymmetry in the magical resonance between them…seemed improbable, there was no reason for the magical effect to work like that. But the magical backlash could hit the stronger wizard harder, the more powerful magic resonating more dangerously. That could explain the observed event in Godric’s Hollow (Voldemort explodes, baby survives), and also explain the observed event in Azkaban (Voldemort severely impaired by backlash of his strong magic, first-year Boy-Who-Lived hit by lighter backlash of his weak magic). Or if it was only the caster’s magic that resonated, that could also explain both those two observations. That might even explain why Professor Quirrell had been in no rush to warn Harry against casting any magic on him. Though there was another obvious reason why Professor Quirrell would avoid raising the subject of the resonance; it was a gigantic hint about the mystery of Godric’s Hollow, if Harry had ever made the connection.
 
-The part that was numb with grief and guilt took this opportunity to observe, speaking of obliviousness, that after events at Hogwarts had turned serious, they really really €70€{really REALLY} should have reconsidered the decision made on First Thursday, at the behest of Professor McGonagall, €71€{not to tell Dumbledore about the sense of doom that Harry got around Professor Quirrell.} It was true that Harry hadn’t been sure who to trust, there was a long stretch where it had seemed plausible that Dumbledore was the bad guy and Professor Quirrell the heroic opposition, but…
+The part that was numb with grief and guilt took this opportunity to observe, speaking of obliviousness, that after events at Hogwarts had turned serious, they really really <em>really REALLY</em> should have reconsidered the decision made on First Thursday, at the behest of Professor McGonagall, <em>not to tell Dumbledore about the sense of doom that Harry got around Professor Quirrell.</em> It was true that Harry hadn’t been sure who to trust, there was a long stretch where it had seemed plausible that Dumbledore was the bad guy and Professor Quirrell the heroic opposition, but…
 
 Dumbledore would have realised.
 
@@ -183,7 +183,7 @@ Before them lay marble slabs, rising up from bare ground, upon them names and da
 
 The moon above was over three-quarters full, already seeming bright with night not fully fallen.
 
-Harry had stopped walking upon seeing the graveyard. There was a blaring alarm in his brain saying to be €72€{anywhere other than here}, but there weren’t any options for accomplishing that. So that alarm cried unanswered, even as behind Harry the stone doors of the mausoleum swung shut again and sealed themselves.
+Harry had stopped walking upon seeing the graveyard. There was a blaring alarm in his brain saying to be <em>anywhere other than here</em>, but there weren’t any options for accomplishing that. So that alarm cried unanswered, even as behind Harry the stone doors of the mausoleum swung shut again and sealed themselves.
 
 The Dark Lord came into the centre of the scattered graveyard. He stopped walking, and waved his wand above his head in a small circle.
 
@@ -191,19 +191,19 @@ There was a rumbling sound, and smoothly from the ground rose an altar, at least
 
 The unanswerable alarm in Harry’s brain grew louder.
 
-“This,” said the Dark Lord in Professor Quirrell’s cadences, “is a workspace I made for myself, convenient to either Hogwarts or Hogsmeade.” The Dark Lord flourished a hand at the altar. “That is where Miss~Granger shall revive, and also where I shall be reborn into my true body. I shall remake myself first, of course. €73€{Magics to revive girl-child easier with true body.}” A strange snakish laughter accompanied these words. “€74€{Rest assured that though some aspects of girl-child’s resurrection shall be what others consider Dark, girl-child will not be harmed or made ugly by it. Shall still look like herself, mind shall be her own, nor shall I or mine harm her after.}”
+“This,” said the Dark Lord in Professor Quirrell’s cadences, “is a workspace I made for myself, convenient to either Hogwarts or Hogsmeade.” The Dark Lord flourished a hand at the altar. “That is where Miss~Granger shall revive, and also where I shall be reborn into my true body. I shall remake myself first, of course. €17€<b>Magics to revive girl-child easier with true body.</b>” A strange snakish laughter accompanied these words. “€18€<b>Rest assured that though some aspects of girl-child’s resurrection shall be what others consider Dark, girl-child will not be harmed or made ugly by it. Shall still look like herself, mind shall be her own, nor shall I or mine harm her after.</b>”
 
 Harry’s tongue was dry and his mind was having trouble functioning. “Please, Professor, would you say in Parseltongue what is your real purpose in resurrecting Miss~Granger?”
 
-“€75€{To restore to you girl-child friend’s counsel and restraint. To make sure she is part of the world for you to care about. That, boy, is truly the greater part of the reason I am doing this deed.}” Again snakish laughter accompanied these words, conveying sardonic awareness of some vast irony.
+“€19€<b>To restore to you girl-child friend’s counsel and restraint. To make sure she is part of the world for you to care about. That, boy, is truly the greater part of the reason I am doing this deed.</b>” Again snakish laughter accompanied these words, conveying sardonic awareness of some vast irony.
 
 A small spark of hope kindled inside Harry, alongside the much greater note of confusion, and the fear that a perfect Occlumens could indeed lie in Parseltongue. Harry didn’t understand why the Dark Lord was doing this, if the next step was just to kill the Boy-Who-Lived or enslave him…
 
-Maybe he’d just never understood Professor Quirrell at all, maybe somehow Harry’s model of Tom Riddle was just €76€{that wrong}…maybe the Boy-Who-Lived would be Obliviated of the last day and dropped off somewhere with a confused Hermione Granger, while Lord Voldemort went on to conquer the world…?
+Maybe he’d just never understood Professor Quirrell at all, maybe somehow Harry’s model of Tom Riddle was just <em>that wrong</em>…maybe the Boy-Who-Lived would be Obliviated of the last day and dropped off somewhere with a confused Hermione Granger, while Lord Voldemort went on to conquer the world…?
 
 Hope flared up in Harry, but it was a confused hope that didn’t make any sense. It didn’t square with the Dark Lord who had mocked Dumbledore and laughed at his defeat. Harry couldn’t come up with any consistent account of Professor Quirrell’s motives that allowed for something like that.
 
-€77€{I do not know what is meant to happen next.}
+<em>I do not know what is meant to happen next.</em>
 
 The Dark Lord had moved forward to the altar. He knelt there, and seemed to reach deep into the stone of the altar itself, drawing forth a vial of liquid that looked black in the fading twilight.
 
@@ -211,15 +211,15 @@ When the Dark Lord spoke again his voice was clipped and precise. “Blood, bloo
 
 And the obelisks surrounding the altar began to speak, voices like a chanting chorus coming from the motionless stones, cadences older than Latin.
 
-€78€{Apokatastethi, apokatastethi, apokatastethi to soma mou emoi.}
+<em>Apokatastethi, apokatastethi, apokatastethi to soma mou emoi.</em>
 
-€79€{Apokatastethi, apokatastethi, apokatastethi to soma mou emoi.}
+<em>Apokatastethi, apokatastethi, apokatastethi to soma mou emoi.</em>
 
 The obelisks’ chant echoed after the end of each line, as if they were speaking out of synchrony with each other. The blood was poured from the vial, and it seemed to catch and hang over the altar, slowly expanding through the air, taking on a shape.
 
-€80€{Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi).}
+<em>Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi).</em>
 
-€81€{Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi).}
+<em>Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi).</em>
 
 A tall form rested upon the altar, and even in the dimming twilight it looked too pale.
 
@@ -243,7 +243,7 @@ The Dark Lord placed his wand in the hand of the figure lying on the altar.
 
 He placed his hands, both of them, over the body’s forehead.
 
-The Dark Lord spoke. “€82€{Fal. Tor. Pan.}”
+The Dark Lord spoke. “<em>Fal. Tor. Pan.</em>”
 
 Without any warning there was a flash like lightning that lit up the entire graveyard, and Harry staggered back a step, his hands involuntarily going to his forehead. It felt as if he had been shot there, or a wasp stung him, upon his scar.
 
@@ -253,9 +253,9 @@ And the too-tall figure sat up upon the altar.
 
 It swung around smoothly, and stood tall upon the ground, at least a head higher than a normal man. The form’s limbs were lean and pale, little-muscled but giving an impression of terrible strength.
 
-Harry took another staggering step back, his hands still clasped to his scar. Though the distance between them was wide, Harry felt a sense of terrifying apprehension in the air, as though the sense of doom had always been €83€{out of focus} and had now clarified, concentrated into a physical pain in the scar on Harry’s forehead.
+Harry took another staggering step back, his hands still clasped to his scar. Though the distance between them was wide, Harry felt a sense of terrifying apprehension in the air, as though the sense of doom had always been <em>out of focus</em> and had now clarified, concentrated into a physical pain in the scar on Harry’s forehead.
 
-Was that what Voldemort was €84€{supposed} to look like? The nose looked like, it looked like it had €85€{malfunctioned} during the resurrection process—
+Was that what Voldemort was <em>supposed</em> to look like? The nose looked like, it looked like it had <em>malfunctioned</em> during the resurrection process—
 
 The too-tall figure threw back his head and laughed, raising his hands and wand to look at them. The left hand opened wide and it was like a pale half-spider with four over-long legs, fingers caressing the wand held in the other hand. Leaves stirred up from the graveyard, approaching to dance around the too-tall figure, surrounding him and clothing him, reforming into a high-necked shirt and flowing robes; and Lord Voldemort was laughing. Exactly the mirthless laughter that Harry remembered coming from his own throat inside the Dementor’s nightmare, precise in tone and timbre.
 
@@ -263,23 +263,23 @@ Red eyes gleamed beneath the fading twilight, their pupils slitted like a cat’
 
 The form that Voldemort had abandoned raised itself, quivering, from the ground; and in a voice that Harry could barely hear, Quirinus Quirrell gasped, “Free—oh, free—”
 
-“€86€{Stupefy,}” said the high cold voice of Voldemort, and Quirinus Quirrell was blasted down into the ground; then, with a wave of Voldemort’s other hand, Quirinus Quirrell was picked up and flung away from the altar.
+“<em>Stupefy,</em>” said the high cold voice of Voldemort, and Quirinus Quirrell was blasted down into the ground; then, with a wave of Voldemort’s other hand, Quirinus Quirrell was picked up and flung away from the altar.
 
 Voldemort walked away from the altar, then turned and looked at Harry; and the pain in Harry’s scar flared at it.
 
-“Frightened, child?” Voldemort hissed, like there was an undercurrent of Parseltongue even to the Dark Lord’s human speech. “Good. Place the girl on the altar, and break your Transfiguration. €87€{Is time for me to revive her.}”
+“Frightened, child?” Voldemort hissed, like there was an undercurrent of Parseltongue even to the Dark Lord’s human speech. “Good. Place the girl on the altar, and break your Transfiguration. €20€<b>Is time for me to revive her.</b>”
 
-€88€{Is this really going to happen? Are we really going to do this?}
+<em>Is this really going to happen? Are we really going to do this?</em>
 
 Harry swallowed, mastering his fear through that note of impossible hope amid the confusion, and walked over to the altar. Then Harry took off his left shoe, and his left sock, and took off the toe-ring that was Hermione Granger, the Transfigured shape identical to the toe-ring that had been given Harry as an emergency portkey. There was a twinge of regret in Harry for not having the real portkey now, but only a twinge; an inner-circle Death Eater would routinely put up boundaries against portkeys, if Severus had been right. Behind Harry, Voldemort laughed again in what sounded like surprised appreciation.
 
-“I need my wand to €89€{Finite} her,” Harry said aloud.
+“I need my wand to <em>Finite</em> her,” Harry said aloud.
 
-“You do €90€{not}.” High the voice and cruel. “You learned to sustain a Transfiguration by touch alone, without further use of the wand. You can likewise break your own Transfiguration wandlessly, by commanding your sustaining magic to drain away. Do so now.”
+“You do <em>not</em>.” High the voice and cruel. “You learned to sustain a Transfiguration by touch alone, without further use of the wand. You can likewise break your own Transfiguration wandlessly, by commanding your sustaining magic to drain away. Do so now.”
 
 Harry swallowed, and touched the toe-ring. He had to try three times, and clear his mind, before he could push his magic out of the toe-ring, as before he had learned to make a tiny stream of magic flow in.
 
-The breaking of the spell went much more slowly that way than a €91€{Finite Incantatem}, almost like the sped-up reverse of watching something being Transfigured. The toe-ring distorted, flowing together, expanding. Colours changed, textures changed.
+The breaking of the spell went much more slowly that way than a <em>Finite Incantatem</em>, almost like the sped-up reverse of watching something being Transfigured. The toe-ring distorted, flowing together, expanding. Colours changed, textures changed.
 
 Two-thirds of a dead girl lay strewn across the altar, on her side with one arm falling off the altar’s edge, the position in which the reversion had chanced to place her. No blood flowed now from the chewed stumps of her thighs. The dead girl wore Hermione Granger’s face, but twisted and pale. It was as Harry had seen before in the hospital’s back room, the image burned into his brain during thirty long minutes of Transfiguration, the image he had reproduced during four even longer hours to Transfigure the decoy. The dead girl was naked, for her clothes were not part of her, and had not been Transfigured.
 
@@ -287,15 +287,15 @@ The sight brought back flashbacks, of the hours spent in the infirmary room, of 
 
 “Go back,” said Voldemort’s high voice. “This is my work, now.”
 
-Harry swallowed, and retreated from the altar, to the mouth of the long corridor where he’d stood before. “Her body is, should be, around five Celsius, I cooled her so, so there wouldn’t be brain damage—” Harry’s own voice was wavering in pitch. €92€{Is he really going to do this? Really?} There had to be a catch and Harry just couldn’t see it. Voldemort had said that neither he nor any of his would harm Hermione, that her body and mind would be her own—€93€{why}?
+Harry swallowed, and retreated from the altar, to the mouth of the long corridor where he’d stood before. “Her body is, should be, around five Celsius, I cooled her so, so there wouldn’t be brain damage—” Harry’s own voice was wavering in pitch. <em>Is he really going to do this? Really?</em> There had to be a catch and Harry just couldn’t see it. Voldemort had said that neither he nor any of his would harm Hermione, that her body and mind would be her own—<em>why</em>?
 
 Voldemort walked forth to the altar once more, orienting the body before him with a wave of his hand to lie straight across the altar. The Dark Lord spoke with high monotone precision, “Flesh, flesh, flesh so wisely hidden.”
 
 The obelisks began chanting once more.
 
-€94€{Apokatastethi, apokatastethi, apokatastethi to soma hou emoi (emoi).}
+<em>Apokatastethi, apokatastethi, apokatastethi to soma hou emoi (emoi).</em>
 
-€95€{Apokatastethi, apokatastethi, apokatastethi to soma hou emoi (emoi).}
+<em>Apokatastethi, apokatastethi, apokatastethi to soma hou emoi (emoi).</em>
 
 New flesh flowed out of the stumps of the girl’s thighs, creeping forward like an ooze and solidifying.
 
@@ -315,23 +315,23 @@ The chunk of red glass turned, slightly.
 
 The Dark Lord Voldemort floated to the ground, and prodded Hermione Granger’s body with his wand.
 
-“€96€{There is an obstacle,}” hissed Voldemort.
+“€21€<b>There is an obstacle,</b>” hissed Voldemort.
 
-In Harry’s mind the expectation of betrayal or other failure had already been so strong that the confirmation came only as a dull shock, not a sharp one. “€97€{What obstacle?}”
+In Harry’s mind the expectation of betrayal or other failure had already been so strong that the confirmation came only as a dull shock, not a sharp one. “€22€<b>What obstacle?</b>”
 
-“€98€{Girl’s body is restored. Substance is repaired. But not magic, or life…this is body of dead Muggle.}” Voldemort turned from the altar, began to pace. “The full ritual would solve this. But that would require time…time and the blood of Granger’s enemy, and I do not think Draco Malfoy still qualifies, nor can I take my own blood unwillingly…foolish.” Voldemort’s voice was a lower hiss. “Foolish, I should have foreseen this, and prepared. Her brain might awaken with an electrical shock, I know that much of Muggle medicine…but would her magic return to her? That I do not know, and I suspect if she awakens as a Muggle she will be a Muggle forever. Still, I can think of nothing better.” The Dark Lord raised his wand—
+“€23€<b>Girl’s body is restored. Substance is repaired. But not magic, or life…this is body of dead Muggle.</b>” Voldemort turned from the altar, began to pace. “The full ritual would solve this. But that would require time…time and the blood of Granger’s enemy, and I do not think Draco Malfoy still qualifies, nor can I take my own blood unwillingly…foolish.” Voldemort’s voice was a lower hiss. “Foolish, I should have foreseen this, and prepared. Her brain might awaken with an electrical shock, I know that much of Muggle medicine…but would her magic return to her? That I do not know, and I suspect if she awakens as a Muggle she will be a Muggle forever. Still, I can think of nothing better.” The Dark Lord raised his wand—
 
-“Wait!” Harry blurted, feeling hope return. €99€{She needs a spark of life and magic, just a spark to get her started…}
+“Wait!” Harry blurted, feeling hope return. <em>She needs a spark of life and magic, just a spark to get her started…</em>
 
 Voldemort turned and looked at him. The snakelike face showed some slight degree of surprise.
 
-“€100€{Think I have something that might work,}” Harry hissed. “€101€{Needs wand. Have no intentions to use it against you.}” Harry said nothing about expecting his intentions wouldn’t change; he’d simply blurted out the idea fast enough that he hadn’t formed any specific intentions yet.
+“€24€<b>Think I have something that might work,</b>” Harry hissed. “€25€<b>Needs wand. Have no intentions to use it against you.</b>” Harry said nothing about expecting his intentions wouldn’t change; he’d simply blurted out the idea fast enough that he hadn’t formed any specific intentions yet.
 
-“€102€{This,}” Voldemort hissed, “€103€{I desire to see.}” The Dark Lord reached into the heap of things by the altar, and picked up the wrapped form of Harry’s wand. It was thrown, gliding through the air and then dropping at Harry’s feet; and then the Dark Lord floated back, the heap of things moving smoothly backwards with him.
+“€26€<b>This,</b>” Voldemort hissed, “€27€<b>I desire to see.</b>” The Dark Lord reached into the heap of things by the altar, and picked up the wrapped form of Harry’s wand. It was thrown, gliding through the air and then dropping at Harry’s feet; and then the Dark Lord floated back, the heap of things moving smoothly backwards with him.
 
 Harry unwrapped his wand, and moved forward.
 
-€104€{We have our wand back, that’s step one,} said the last voice, the voice of hope.
+<em>We have our wand back, that’s step one,</em> said the last voice, the voice of hope.
 
 No part of Harry had any idea what step two might be, but it was still step one accomplished.
 
@@ -345,25 +345,25 @@ Harry looked at her.
 
 Focused on her, now that she looked human again.
 
-€105€{She looks like she is sleeping, not dead.} It took a conscious effort to look for breathing, fail to see it, and make the deduction. So far as naked perception was concerned…Hermione might as well be alive, right now.
+<em>She looks like she is sleeping, not dead.</em> It took a conscious effort to look for breathing, fail to see it, and make the deduction. So far as naked perception was concerned…Hermione might as well be alive, right now.
 
 That Hermione Granger would not approve of this situation, taken as a whole, seemed beyond question. But it didn’t mean that she would rather stay dead than be alive, other things being equal, though they might not be.
 
-€106€{Because you wish to live, because my best guess is that you would wish to live…}
+<em>Because you wish to live, because my best guess is that you would wish to live…</em>
 
 Harry reached out his shaking left hand, and touched Hermione’s forehead. It was warm now, not the chill of five degrees Celsius; either Voldemort had increased her body temperature to normal, or the magic of the ritual had done it automatically. Which meant that Hermione’s brain was currently warm and without oxygen, come to think.
 
 That did it, the sense of urgency rising in him.
 
-Harry’s feet assumed the stance, his wand swung up to point at Hermione Granger’s dead body. The €107€{only} thing wrong with Hermione’s body was that it was dead; everything else about that body was right, only one thing needed changing.
+Harry’s feet assumed the stance, his wand swung up to point at Hermione Granger’s dead body. The <em>only</em> thing wrong with Hermione’s body was that it was dead; everything else about that body was right, only one thing needed changing.
 
-€108€{You don’t belong here, death.}
+<em>You don’t belong here, death.</em>
 
-“€109€{Expecto,}” Harry shouted, feeling €110€{the magic and the life} rise up into the Patronus Charm that was fuelled by both, “€111€{Patronum!}”
+“€28€<b>Expecto,</b>” Harry shouted, feeling <em>the magic and the life</em> rise up into the Patronus Charm that was fuelled by both, “€29€<b>Patronum!</b>”
 
 The girl in the Hogwarts uniform was surrounded by a blazing aura of silver fire, as the Patronus was born inside her.
 
-Harry staggered, as he felt a €112€{dip}, a bite. Intuition or Tom Riddle’s memory told Harry that the life and magic that had just flowed into Hermione would never return to him, either one. It hadn’t been all his life or all his magic, not by a long shot, there hadn’t been €113€{time} to expend that much, but whatever he’d just expended was gone forever.
+Harry staggered, as he felt a <em>dip</em>, a bite. Intuition or Tom Riddle’s memory told Harry that the life and magic that had just flowed into Hermione would never return to him, either one. It hadn’t been all his life or all his magic, not by a long shot, there hadn’t been <em>time</em> to expend that much, but whatever he’d just expended was gone forever.
 
 And Hermione Granger was breathing, just like she was sleeping, rhythmic inhalations and exhalations. The twilight sky had dimmed further, and Harry could not see if colour was returning to her, but it should have been, it certainly should have been. She looked to be sleeping peacefully, and it wasn’t because being dead looked like sleeping, it was because she was asleep and her body was fine and nothing was hurting her while she slept.
 
@@ -373,21 +373,21 @@ Harry was still smiling, as he slowly lowered his wand. The celebratory firework
 
 That—
 
-€114€{€115€{That,}} Harry said aloud inside his mind, €116€{€117€{That} is what I call Step Two.}
+<em>€30€<b>That,</em></b> Harry said aloud inside his mind, <em>€31€<b>That</em> is what I call Step Two.</b>
 
-“Interesting,” said the cold high voice. “Your Patronus draws upon your life as well as your magic…I guessed that much, for it was too powerful for a first-year to fuel with magic alone. And yet there must be more to the puzzle, since not just any life-fuelled spell would have done…was your happy thought the image of her returning to life? Was that all it took?” Lord Voldemort was again toying with his wand, a dark interest in those red-slitted eyes. “I suspect I will feel quite stupid when I finally comprehend that spell, some day in my eternity. Now step away from the girl. €118€{There is more work I intend to do, to give her best chance of continued life.}”
+“Interesting,” said the cold high voice. “Your Patronus draws upon your life as well as your magic…I guessed that much, for it was too powerful for a first-year to fuel with magic alone. And yet there must be more to the puzzle, since not just any life-fuelled spell would have done…was your happy thought the image of her returning to life? Was that all it took?” Lord Voldemort was again toying with his wand, a dark interest in those red-slitted eyes. “I suspect I will feel quite stupid when I finally comprehend that spell, some day in my eternity. Now step away from the girl. €32€<b>There is more work I intend to do, to give her best chance of continued life.</b>”
 
 Harry stepped back, reluctantly, the sense of tension starting to return to him. He almost tripped over one haphazard grave marker, as the Dark Lord continued to walk forward.
 
 Standing before the altar, the Dark Lord laid one finger upon Hermione Granger’s forehead.
 
-Then the Dark Lord tapped his finger upon Hermione Granger’s forehead, and said, in a voice so low Harry almost did not hear, “€119€{Requiescus.}”
+Then the Dark Lord tapped his finger upon Hermione Granger’s forehead, and said, in a voice so low Harry almost did not hear, “<em>Requiescus.</em>”
 
 Voldemort waved his hand at an obelisk, which began to rotate, turning itself to lay flat upon the ground, pointing outward. “Fascinating indeed,” Voldemort hissed. “She is alive, and magical, and not another Tom Riddle as I feared you might have made her.”
 
-The tension was rising again in Harry. He’d put his wand away into the back belt of his trousers, he €120€{did not want} to remind Voldemort that he still had the wand on him. “What are you doing to her now?”
+The tension was rising again in Harry. He’d put his wand away into the back belt of his trousers, he <em>did not want</em> to remind Voldemort that he still had the wand on him. “What are you doing to her now?”
 
-Another obelisk turned, lay flat upon the ground. “€121€{There is old, lost ritual to sacrifice magical creature, transfer magical nature to subject. Limitations are great. Transfer is temporary, only few hours. Subject sometimes dies when transfer wears off. But Stone will make permanent.}”
+Another obelisk turned, lay flat upon the ground. “€33€<b>There is old, lost ritual to sacrifice magical creature, transfer magical nature to subject. Limitations are great. Transfer is temporary, only few hours. Subject sometimes dies when transfer wears off. But Stone will make permanent.</b>”
 
 Four obelisks lay flat upon the ground, evenly spaced; the other two obelisks had been floated away.
 
@@ -399,15 +399,15 @@ Huge and misshapen, lumpy skin, legs thick as tree trunks, a small head that loo
 
 A mountain troll stood within the circle of obelisks, motionless as though asleep while standing.
 
-“€122€{What are you doing?}”
+“<em>What are you doing?</em>”
 
-Voldemort’s mouth was stretched in a wide smile; it looked €123€{horrible} on him, like his face had too many teeth. “€124€{Shall sacrifice my fallback weapon, and girl-child shall gain troll’s power of regeneration. Transfiguration sickness is nothing before that, if perchance it was not fixed by previous ritual. And no knife shall slay girl-child, nor cutting curse, nor sickness take her.}”
+Voldemort’s mouth was stretched in a wide smile; it looked <em>horrible</em> on him, like his face had too many teeth. “€34€<b>Shall sacrifice my fallback weapon, and girl-child shall gain troll’s power of regeneration. Transfiguration sickness is nothing before that, if perchance it was not fixed by previous ritual. And no knife shall slay girl-child, nor cutting curse, nor sickness take her.</b>”
 
 “Why—why are you doing this?” Harry’s voice shook.
 
-“€125€{Have not the tiniest intention of letting girl-child die again, after going to such lengths to resurrect her.}”
+“€35€<b>Have not the tiniest intention of letting girl-child die again, after going to such lengths to resurrect her.</b>”
 
-Harry swallowed. “I’m very confused.” Was Voldemort €126€{practising being nice}? This hypothesis did not seem like a sufficient explanation.
+Harry swallowed. “I’m very confused.” Was Voldemort <em>practising being nice</em>? This hypothesis did not seem like a sufficient explanation.
 
 “Stay well back,” Voldemort said coldly. “This ritual is Darker than the last.” The Dark Lord began a new chant, softer syllables that seemed to seethe through the air like living things; and Harry, feeling a new surge of apprehension, stepped backwards.
 
@@ -417,7 +417,7 @@ Hermione Granger slept on peacefully, whatever spell of repose Voldemort had cas
 
 “Um,” Harry said in a small voice. “Did it work?”
 
-“€127€{Diffindo.}”
+“<em>Diffindo.</em>”
 
 Harry stepped forward with a choked yell, and then halted, both as the stupidity of his motion caught up with him, and as the sudden cut that the Severing Charm had opened on Hermione’s leg closed almost as quickly as it had been made. In seconds there was only a light stain of blood on the surrounding flesh.
 
@@ -425,21 +425,21 @@ The Stone was laid again on Hermione, and after a time it turned. Voldemort laug
 
 Then another tiny tooth was floating within the circle of obelisks; and an instant later, a unicorn stood where the troll had stood before, eyes dull and head lowered.
 
-“What?” Harry said. “Why a €128€{unicorn}?”
+“What?” Harry said. “Why a <em>unicorn</em>?”
 
-“€129€{Power of unicorn’s blood to preserve life makes excellent combination with troll’s healing. Only Fiendfyre and Killing Curse shall girl-child fear, from this day.}” A flicker of snakish laughter. “€130€{Besides, had spare unicorn left over, might as well use.}”
+“€36€<b>Power of unicorn’s blood to preserve life makes excellent combination with troll’s healing. Only Fiendfyre and Killing Curse shall girl-child fear, from this day.</b>” A flicker of snakish laughter. “€37€<b>Besides, had spare unicorn left over, might as well use.</b>”
 
 “Unicorn’s blood has side effects—”
 
-“€131€{That is only when power of unicorn’s blood is stolen by another. This spell will make power of unicorn belong inside girl-child, as if she was always born that way.}”
+“€38€<b>That is only when power of unicorn’s blood is stolen by another. This spell will make power of unicorn belong inside girl-child, as if she was always born that way.</b>”
 
 The grim chant and its seething words began again.
 
 Harry watched, not understanding in the slightest.
 
-€132€{Forget understanding, what am I seeing?}
+<em>Forget understanding, what am I seeing?</em>
 
-€133€{I’m seeing the Dark Lord Voldemort going to enormous lengths to resurrect Hermione Granger and keep her alive. It’s like he thinks that his own life depends on Hermione Granger being alive, somehow.}
+<em>I’m seeing the Dark Lord Voldemort going to enormous lengths to resurrect Hermione Granger and keep her alive. It’s like he thinks that his own life depends on Hermione Granger being alive, somehow.</em>
 
 The confused parts of Harry looked around for a procedure to follow. ‘Make a prediction based on your best current hypothesis’ was the first thought that came to mind, but it didn’t seem to lead anywhere. The plot of the story wasn’t going how it ought to, after the villain had won.
 
@@ -447,11 +447,11 @@ Again the blaze of pain in his scar, like a blow to Harry’s forehead. The unic
 
 The Dark Lord laid the Stone upon Hermione’s form once more, clasping her hands around it.
 
-Voldemort watched the unremarkable process for a time, then turned while the Stone still laid on her, making a high humming sound in his throat. “€134€{Ah, yes,}” hissed Voldemort. “€135€{That would be most appropriate. Do you still have the diary I gave you, boy? The diary of the famous scientist?}”
+Voldemort watched the unremarkable process for a time, then turned while the Stone still laid on her, making a high humming sound in his throat. “€39€<b>Ah, yes,</b>” hissed Voldemort. “€40€<b>That would be most appropriate. Do you still have the diary I gave you, boy? The diary of the famous scientist?</b>”
 
 Harry’s brain took a moment to place what Voldemort was talking about. It had been in Mary’s Room, in Mary’s Place, in October, that precious gift from a friend. The thought should have triggered a wave of awful sadness, for the Professor Quirrell that had been lost or never real; but there had been enough of that emotion already, and his brain had set it aside for now.
 
-“Yes,” Harry said aloud. “I think it’s in my pouch, can I check?” Harry €136€{knew} it was in the pouch. He’d loaded it up with everything that he might possibly conceivably need, that he owned or had bought; everything that could have been a quest item.
+“Yes,” Harry said aloud. “I think it’s in my pouch, can I check?” Harry <em>knew</em> it was in the pouch. He’d loaded it up with everything that he might possibly conceivably need, that he owned or had bought; everything that could have been a quest item.
 
 From the heap of items by the altar, Harry’s mokeskin pouch was drawn out, tossed to Harry’s feet.
 
@@ -461,13 +461,13 @@ Voldemort picked up the diary, examining it, appearing quite absorbed.
 
 Harry, as quietly and unobtrusively as he could, attached the pouch to his belt loop in back, where it wouldn’t be visible, near where Harry had put his wand.
 
-€137€{Step three, the pouch.}
+<em>Step three, the pouch.</em>
 
-“€138€{Yes,}” Voldemort hissed as he flipped pages of the diary, “€139€{this will do quite well.}” The Stone moved slightly, and the Dark Lord’s other hand stored the Stone again within his robes.
+“€41€<b>Yes,</b>” Voldemort hissed as he flipped pages of the diary, “€42€<b>this will do quite well.</b>” The Stone moved slightly, and the Dark Lord’s other hand stored the Stone again within his robes.
 
 “What was your hidden purpose behind the diary?” Harry said when the pouch was attached to his belt, and he’d put both of his empty hands where Voldemort could see them again. “I tried translating a little at the beginning, but it was going slowly—” Actually, it had been excruciatingly slow and Harry had found other priorities.
 
-“€140€{Diary was exactly what it seemed, a gift meant to seduce you to my side.}” Voldemort made intricate gestures in the air with his wand, not even looking at what his hand was doing, as he held the diary in his other hand. For a moment Harry thought he could see a trail of darkness in the air, but the moonlight was too faint for certainty. “And now, my dear boy,” Voldemort’s high voice was laced with grim amusement, as his wand briefly tapped Hermione Granger’s forehead with a casual gesture, “I make this diary into a far more precious gift, a sign of how much wisdom I have learned from you. For I would never want you to be deprived of Hermione Granger’s counsel and restraint, not ever while the stars yet live. €141€{Avada Kedavra.}”
+“€43€<b>Diary was exactly what it seemed, a gift meant to seduce you to my side.</b>” Voldemort made intricate gestures in the air with his wand, not even looking at what his hand was doing, as he held the diary in his other hand. For a moment Harry thought he could see a trail of darkness in the air, but the moonlight was too faint for certainty. “And now, my dear boy,” Voldemort’s high voice was laced with grim amusement, as his wand briefly tapped Hermione Granger’s forehead with a casual gesture, “I make this diary into a far more precious gift, a sign of how much wisdom I have learned from you. For I would never want you to be deprived of Hermione Granger’s counsel and restraint, not ever while the stars yet live. <em>Avada Kedavra.</em>”
 
 The green bolt of the Killing Curse blazed out faster than Harry could possibly have cast the Patronus Charm, faster than he could possibly have moved, it was already over even as Harry cried out and went for his wand.
 
@@ -479,9 +479,9 @@ The pain in Harry’s scar flared overwhelmingly, like a brand driven into his f
 
 And Voldemort was also screaming, shrieking as he dropped the diary to the ground, holding his own head and screaming.
 
-€142€{Chance—}
+<em>Chance—</em>
 
-The last voice of hope said that, as Harry tried frantically to think, to understand. There wasn’t any €143€{point} in trying to kill Voldemort now, it might only €144€{annoy} him, weapons couldn’t kill him while any of his hundreds of horcruxes remained—
+The last voice of hope said that, as Harry tried frantically to think, to understand. There wasn’t any <em>point</em> in trying to kill Voldemort now, it might only <em>annoy</em> him, weapons couldn’t kill him while any of his hundreds of horcruxes remained—
 
 But it still seemed worth it to temporarily discarnate Voldemort, take the Stone and Hermione and run.
 
@@ -495,4 +495,4 @@ The item came up from Harry’s pouch into his hand, and Harry began to step for
 
 Harry raised his gun and pulled the trigger three times.
 
-€145€
+€44€

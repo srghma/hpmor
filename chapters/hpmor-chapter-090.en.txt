@@ -1,8 +1,8 @@
-€0€{Roles}{I}
+€0€<b>Roles</b><b>I</b>
 
-€1€{A}{simple} €2€{Innervate} from the Headmaster had awakened Fred Weasley, followed by a preliminary healing Charm for a broken arm and cracked ribs. Harry’s voice had distantly told the Headmaster about the Transfigured acid inside the troll’s head (Dumbledore had looked down over the side of the terrace and made a gesture before returning) and then about the Weasley twins’ minds having been tampered with, carrying on a separate conversation that Harry remembered but could not process.
+€1€<b>A</b><b>simple</b> <em>Innervate</em> from the Headmaster had awakened Fred Weasley, followed by a preliminary healing Charm for a broken arm and cracked ribs. Harry’s voice had distantly told the Headmaster about the Transfigured acid inside the troll’s head (Dumbledore had looked down over the side of the terrace and made a gesture before returning) and then about the Weasley twins’ minds having been tampered with, carrying on a separate conversation that Harry remembered but could not process.
 
-Harry still stood over Hermione’s body, he hadn’t moved from that spot, thinking as fast as he could through the sense of dissociation and fragmented time, was there anything he should be doing €3€{now}, any opportunities that were passing irrevocably. Some way to reduce the amount of magical omnipotence that would be required later. A temporal beacon effect to mark this instant for later time travel, if he some day found a way to travel back further than six hours. There were theories of time travel under General Relativity (which had seemed much less plausible before Harry had run across Time-Turners) and those theories said you couldn’t go back to before the time machine was built—a relativistic time machine maintained a continuous pathway through time, it didn’t teleport anything. But Harry didn’t see anything helpful he could do using spells in his lexicon, Dumbledore wasn’t being very cooperative, and in any case this was several minutes after the critical location within Time.
+Harry still stood over Hermione’s body, he hadn’t moved from that spot, thinking as fast as he could through the sense of dissociation and fragmented time, was there anything he should be doing <em>now</em>, any opportunities that were passing irrevocably. Some way to reduce the amount of magical omnipotence that would be required later. A temporal beacon effect to mark this instant for later time travel, if he some day found a way to travel back further than six hours. There were theories of time travel under General Relativity (which had seemed much less plausible before Harry had run across Time-Turners) and those theories said you couldn’t go back to before the time machine was built—a relativistic time machine maintained a continuous pathway through time, it didn’t teleport anything. But Harry didn’t see anything helpful he could do using spells in his lexicon, Dumbledore wasn’t being very cooperative, and in any case this was several minutes after the critical location within Time.
 
 “Harry,” the Headmaster whispered, laying his hand on Harry’s shoulder. He had vanished from where he was standing over the Weasley twins and come into existence beside Harry; George Weasley had discontinuously teleported from where he was sitting to be kneeling next to his brother’s side, and Fred was now lying straight with his eyes open and wincing as he breathed. “Harry, you must go from this place.”
 
@@ -16,9 +16,9 @@ Harry levelled his wand at Hermione’s body—
 
 “Harry! What are you—”
 
-—and poured €4€{everything} down his arm into his hand—
+—and poured <em>everything</em> down his arm into his hand—
 
-“€5€{Frigideiro!}”
+“<em>Frigideiro!</em>”
 
 “—doing?”
 
@@ -32,17 +32,17 @@ Harry allowed himself to be turned away from Hermione’s body, walked forward a
 
 Now there was time to think.
 
-€6€
+€2€
 
 Minerva had seen Albus’s face and she’d known something was wrong; there had been time for her to wonder what had happened, and even who had died; her mind flashing to Alastor, to Augusta, to Arthur and Molly, all the most likely targets at the start of Voldemort’s second rise. She had thought that she had steeled herself, she had thought herself ready for the worst.
 
 Then Albus spoke, and all the steel left her.
 
-€7€{Not Hermione—no—}
+<em>Not Hermione—no—</em>
 
 Albus gave her a brief space to weep; and then told her that Harry Potter, who had watched Miss~Granger die, had seated himself outside the infirmary storeroom where Miss~Granger’s remains were being kept, refusing to move from the spot, and telling anyone who spoke to him to go away so he could think.
 
-The only thing that had elicited any reaction from the boy was when Fawkes had tried to sing to him; Harry Potter had shrieked at the phœnix not to do that, his feelings were real, he didn’t want magic trying to €8€{heal} them like they were a disease. After that Fawkes had refused to sing again.
+The only thing that had elicited any reaction from the boy was when Fawkes had tried to sing to him; Harry Potter had shrieked at the phœnix not to do that, his feelings were real, he didn’t want magic trying to <em>heal</em> them like they were a disease. After that Fawkes had refused to sing again.
 
 Albus thought that she might have the best chance of reaching Harry Potter now.
 
@@ -56,7 +56,7 @@ Harry Potter’s eyes gazed at her. The boy was sitting on the floor in front of
 
 “Why are you here, Professor McGonagall?” Harry Potter said. “I told the Headmaster I’d like to be left alone for a while.”
 
-She couldn’t think of anything to say. €9€{To help you—you’re not all right—} but she didn’t know what to say, there was nothing she could imagine saying that would make things better. She hadn’t planned ahead before she’d walked into the room, having not been at her best.
+She couldn’t think of anything to say. <em>To help you—you’re not all right—</em> but she didn’t know what to say, there was nothing she could imagine saying that would make things better. She hadn’t planned ahead before she’d walked into the room, having not been at her best.
 
 “What are you thinking about?” Minerva said. It was the only sentence that came into her mind. Albus had told her that Harry had been saying, over and over, that he was thinking; and she had to get Harry talking, somehow.
 
@@ -74,7 +74,7 @@ It took a while before Harry spoke.
 
 Something flickered in Harry’s expression. His eyes seemed to focus on her for the first time.
 
-“Nothing I could have €10€{done}?” Harry’s voice rose on the last word. “€11€{Nothing I could have €12€{done}? I’ve lost track of how many different ways I could’ve saved her! If I’d asked to have us all given communications mirrors! If I’d insisted on Hermione being taken out of Hogwarts and put in a school that isn’t insane! If I’d sneaked out immediately instead of trying to argue with normal people! If I’d remembered the Patronus earlier! If I’d thought through possible emergencies and trained myself to think about Patronuses earlier! Even at the very last minute it might not have been too late! I killed the troll and turned to her and she was still ALIVE and I just knelt next to her listening to her last words like an IDIOT instead of casting the Patronus again and calling Dumbledore to send Fawkes!} Or if I’d just approached the whole problem from a different angle—if I’d looked for a student with a Time-Turner to send a message back in time €13€{before} I found out about anything happening to her, instead of ending up with an outcome that can’t be altered—I €14€{asked} the Headmaster to go back and save Hermione and then fake everything, fake the dead body, edit everyone’s memories, but Dumbledore said that he tried something like that once and it didn’t work and he lost another friend instead. Or if I’d—if only I’d gone too—if, that night—”
+“Nothing I could have <em>done</em>?” Harry’s voice rose on the last word. “<em>Nothing I could have €3€<b>done</em>? I’ve lost track of how many different ways I could’ve saved her! If I’d asked to have us all given communications mirrors! If I’d insisted on Hermione being taken out of Hogwarts and put in a school that isn’t insane! If I’d sneaked out immediately instead of trying to argue with normal people! If I’d remembered the Patronus earlier! If I’d thought through possible emergencies and trained myself to think about Patronuses earlier! Even at the very last minute it might not have been too late! I killed the troll and turned to her and she was still ALIVE and I just knelt next to her listening to her last words like an IDIOT instead of casting the Patronus again and calling Dumbledore to send Fawkes!</b> Or if I’d just approached the whole problem from a different angle—if I’d looked for a student with a Time-Turner to send a message back in time <em>before</em> I found out about anything happening to her, instead of ending up with an outcome that can’t be altered—I <em>asked</em> the Headmaster to go back and save Hermione and then fake everything, fake the dead body, edit everyone’s memories, but Dumbledore said that he tried something like that once and it didn’t work and he lost another friend instead. Or if I’d—if only I’d gone too—if, that night—”
 
 Harry pressed his hands over his face, and when he removed them again, his face was calm and composed once more.
 
@@ -90,13 +90,13 @@ She was aware now that tears were sliding down her cheeks, again. “Harry—Har
 
 Some distant part of her mind made a note to wait until much later and then speak sharply to the Headmaster about what he was showing to impressionable young children. She might even scream at him this time. She’d been thinking about screaming at him anyway, because of Miss~Granger—
 
-“You’re €15€{not} responsible,” she said, though her voice trembled. “It’s the Professors—it’s us who are responsible for student safety, not you.”
+“You’re <em>not</em> responsible,” she said, though her voice trembled. “It’s the Professors—it’s us who are responsible for student safety, not you.”
 
-Harry’s eyes flicked back to her. “€16€{You’re} responsible?” There was a tightness in the voice. “You want me to hold you responsible, Professor McGonagall?”
+Harry’s eyes flicked back to her. “<em>You’re</em> responsible?” There was a tightness in the voice. “You want me to hold you responsible, Professor McGonagall?”
 
 She raised her chin and nodded. It would be better, by far, than Harry blaming himself.
 
-The boy pushed himself up from where he was sitting on the floor, and took a step forward. “All right, then,” Harry said in a monotone. “I tried to do the sensible thing, when I saw Hermione was missing and that none of the Professors knew. I asked for a seventh-year student to go with me on a broomstick and protect me while we looked for Hermione. I asked for help. I begged for help. And nobody helped me. Because you gave everyone an absolute order to stay in one place or they’d be expelled, no excuses. No matter what else Dumbledore gets wrong, he at least thinks of his students as people, not animals that have to be herded into a pen and kept from wandering out. You knew you weren’t any good at military thinking, your first idea was to have us walking through the hallways, you knew some students there were better than you at strategy and tactics, and you still nailed us down in one room without any discretionary judgement. So when something you didn’t foresee happened and it would’ve made perfect sense to send out a seventh-year student on a fast broom to look for Hermione Granger, the students knew you wouldn’t understand or forgive. They weren’t afraid of the troll, they were afraid of you. The discipline, the conformity, the €17€{cowardice} that you instilled in them delayed me just long enough for Hermione to die. Not that I should’ve tried asking for help from normal people, of course, and I will change and be less stupid next time. But if I were dumb enough to allocate responsibility to someone who isn’t me, that’s what I’d say.”
+The boy pushed himself up from where he was sitting on the floor, and took a step forward. “All right, then,” Harry said in a monotone. “I tried to do the sensible thing, when I saw Hermione was missing and that none of the Professors knew. I asked for a seventh-year student to go with me on a broomstick and protect me while we looked for Hermione. I asked for help. I begged for help. And nobody helped me. Because you gave everyone an absolute order to stay in one place or they’d be expelled, no excuses. No matter what else Dumbledore gets wrong, he at least thinks of his students as people, not animals that have to be herded into a pen and kept from wandering out. You knew you weren’t any good at military thinking, your first idea was to have us walking through the hallways, you knew some students there were better than you at strategy and tactics, and you still nailed us down in one room without any discretionary judgement. So when something you didn’t foresee happened and it would’ve made perfect sense to send out a seventh-year student on a fast broom to look for Hermione Granger, the students knew you wouldn’t understand or forgive. They weren’t afraid of the troll, they were afraid of you. The discipline, the conformity, the <em>cowardice</em> that you instilled in them delayed me just long enough for Hermione to die. Not that I should’ve tried asking for help from normal people, of course, and I will change and be less stupid next time. But if I were dumb enough to allocate responsibility to someone who isn’t me, that’s what I’d say.”
 
 Tears were streaming down her cheeks.
 
@@ -108,7 +108,7 @@ Unable to speak, she brought forth her wand and did so, releasing the time-keyed
 
 Harry Potter flipped open the golden shell, looked at the tiny glass hourglass within its circles, nodded, and then snapped the case shut. “Thank you. Now go away.” The boy’s voice cracked again. “I have to think.”
 
-€18€
+€4€
 
 She closed the door behind her, an awful and still mostly-muffled sound escaping her throat—
 
@@ -126,9 +126,9 @@ Albus flickered his fingers at the door behind her. “I was afraid Mr~Potter mi
 
 Albus’s brows rose. “Your role in this disaster was tiny, your decisions quite sensible at the time, and it is only Harry Potter’s perfect hindsight that lets him imagine otherwise. Surely you are wiser than to blame yourself for this, Minerva.”
 
-She knew perfectly well that Albus would be placing a picture of Hermione in that awful room of his, that it would occupy a place of honour. Albus would hold €19€{himself} responsible, she was certain, even though he hadn’t even been in Hogwarts at the time. But not her.
+She knew perfectly well that Albus would be placing a picture of Hermione in that awful room of his, that it would occupy a place of honour. Albus would hold <em>himself</em> responsible, she was certain, even though he hadn’t even been in Hogwarts at the time. But not her.
 
-€20€{So you also don’t think it’s worth the trouble of holding me responsible…}
+<em>So you also don’t think it’s worth the trouble of holding me responsible…</em>
 
 She slumped against the nearest wall, trying not to let the tears emerge again; she’d never seen Albus weep save thrice. “You have always believed in your students, as I never have. They would not have been afraid of you. They would have known you would understand.”
 
@@ -140,7 +140,7 @@ She slumped against the nearest wall, trying not to let the tears emerge again; 
 
 She shook her head. “What now, Albus? If he will not listen to me, then who?”
 
-€21€
+€5€
 
 It was perhaps half an hour later. The boy still guarded the door to where his best friend’s body lay, keeping his vigil. He was staring downward, at his wand as it lay in his hands. Sometimes his face screwed up in thought, at other times it relaxed.
 
@@ -156,11 +156,11 @@ The man tilted his head slightly. Pale eyes examined the boy as though he were a
 
 “I’ve come to apologize, Mr~Potter,” the man said quietly.
 
-“Apologize for what?” the boy said. “Why, what could €22€{you} have done to prevent Hermione’s death?”
+“Apologize for what?” the boy said. “Why, what could <em>you</em> have done to prevent Hermione’s death?”
 
 “I should have thought to check for the presence of yourself, Mr~Longbottom, and Miss~Granger, all of whom were obvious next targets,” the Defence Professor said without hesitation. “Mr~Hagrid was not mentally equipped to command the student contingent. I should have ignored the Deputy Headmistress’s request for silence, and told her to leave behind Professor Flitwick, who would have been better able to defend the students from any threat, and who could have maintained communication via Patronus.”
 
-“Correct.” The boy’s voice was razor-sharp. “I’d forgotten there was someone else in Hogwarts who could be responsible for things. So why didn’t you think of it, Professor? Because I don’t believe that €23€{you} were stupid.”
+“Correct.” The boy’s voice was razor-sharp. “I’d forgotten there was someone else in Hogwarts who could be responsible for things. So why didn’t you think of it, Professor? Because I don’t believe that <em>you</em> were stupid.”
 
 There was a pause, and the boy’s fingers whitened on his wand.
 
@@ -228,7 +228,7 @@ There was a slight narrowing of the boy’s eyes, so imperceptible that someone 
 
 The boy took a while to speak, and when he did it was in a cracked voice.
 
-“I mean to bring Hermione back. Because there isn’t an afterlife, and I’m not about to just let her—just €24€{not be}—”
+“I mean to bring Hermione back. Because there isn’t an afterlife, and I’m not about to just let her—just <em>not be</em>—”
 
 The boy pressed his hands over his face, and when he withdrew them, he once more seemed as dispassionate as the man standing in the corner.
 
@@ -254,11 +254,11 @@ The Defence Professor’s eyes were thoughtful. “But what general approach did
 
 “What of the Resurrection Stone of Cadmus Peverell, if it could be obtained for you?”
 
-The boy shook his head. “I don’t want an illusion of Hermione drawn from my memories. I want her to be able to €25€{live} her €26€{life—}” the boy’s voice cracked. “I haven’t decided yet on an object-level angle of attack. If I have to brute-force the problem by acquiring enough power and knowledge to just €27€{make it happen}, I will.”
+The boy shook his head. “I don’t want an illusion of Hermione drawn from my memories. I want her to be able to <em>live</em> her <em>life—</em>” the boy’s voice cracked. “I haven’t decided yet on an object-level angle of attack. If I have to brute-force the problem by acquiring enough power and knowledge to just <em>make it happen</em>, I will.”
 
 Another pause.
 
-“And to go about €28€{that},” the man in the corner said, “you will use your favourite tool, science.”
+“And to go about <em>that</em>,” the man in the corner said, “you will use your favourite tool, science.”
 
 “Of course.”
 
@@ -276,7 +276,7 @@ The Defence Professor exhaled, almost like a sigh. “I suppose that makes sense
 
 “Oh, the situation is far worse than that, Mr~Potter. There is hardly a scholar of the esoteric who has not unravelled the nature of magic, and every one of them believes something different.”
 
-“Where do new spells come from? I keep reading about someone who invented a spell to do something-or-other but there’s no mention of €29€{how}.”
+“Where do new spells come from? I keep reading about someone who invented a spell to do something-or-other but there’s no mention of <em>how</em>.”
 
 A shrug of robed shoulders. “Where do new books come from, Mr~Potter? Those who read many books sometimes become able to write them in turn. How? No-one knows.”
 
@@ -326,7 +326,7 @@ The boy smiled humourlessly. “And I once heard about an adult casting Obliviat
 
 “Thank you for the compliment.” The boy did not look up from where he was again gazing down at the wand held between his hands. “I would like to go back to thinking now. Please explain to them on my behalf what happens if I am disturbed.”
 
-€30€
+€6€
 
 The door to the storeroom clicked open, and Professor Quirrell stepped out. His face had a dead, emotionless look to it; she would have said that it reminded her of Severus, though Severus had never looked quite like that.
 
@@ -338,10 +338,10 @@ Professor Quirrell paced swiftly across the room to the far wall near the entran
 
 “I am afraid that I promised him not to speak of it. And now…I think that I must visit the Hogwarts library.”
 
-“The €31€{library}?”
+“The <em>library</em>?”
 
-“Yes,” Professor Quirrell said. An uncharacteristic tension had come into his voice. “I intend to strengthen the security upon the Restricted Section with certain precautions of my own devising. The current wards are a joke. And Mr~Potter must be kept out of the Restricted Section €32€{at all costs.}”
+“Yes,” Professor Quirrell said. An uncharacteristic tension had come into his voice. “I intend to strengthen the security upon the Restricted Section with certain precautions of my own devising. The current wards are a joke. And Mr~Potter must be kept out of the Restricted Section <em>at all costs.</em>”
 
 She stared at the Defence Professor, her heart suddenly in her throat.
 
-Professor Quirrell continued speaking. “You will €33€{not} tell the boy that I have said this much to you. You will confirm to Flitwick and Vector that the boy is to be diverted by the usual evasions if he asks precocious questions about spell creation. And though it is not my own area of expertise, Deputy Headmistress, if there is any way you can imagine to convince the boy to stop sinking further into his grief and madness—any way at all to undo the resolutions he is coming to—then I suggest you resort to it €34€{immediately}.”
+Professor Quirrell continued speaking. “You will <em>not</em> tell the boy that I have said this much to you. You will confirm to Flitwick and Vector that the boy is to be diverted by the usual evasions if he asks precocious questions about spell creation. And though it is not my own area of expertise, Deputy Headmistress, if there is any way you can imagine to convince the boy to stop sinking further into his grief and madness—any way at all to undo the resolutions he is coming to—then I suggest you resort to it <em>immediately</em>.”

@@ -1,6 +1,6 @@
-€1€{Reflections}{II}
+€1€<b>Reflections</b><b>II</b>
 
-€2€{T}{he} grimness on Albus Dumbledore’s face lasted only an instant before giving way to bewilderment. “Quirinus? What—”
+€2€<b>T</b><b>he</b> grimness on Albus Dumbledore’s face lasted only an instant before giving way to bewilderment. “Quirinus? What—”
 
 And then there was a pause.
 
@@ -16,7 +16,7 @@ Dumbledore’s grimness had returned and redoubled. “There I am, searching so 
 
 Professor Quirrell chuckled; he looked for all the world as though the two of them were just having a casual conversation. “I never was insane, you know. Lord Voldemort was just another game for me, the same as Professor Quirrell.”
 
-Albus Dumbledore did not look like he was enjoying a casual chat. “I thought you might say that. I regret to inform you, Tom, that anyone who can bring himself to act the part of Voldemort €3€{is} Voldemort.”
+Albus Dumbledore did not look like he was enjoying a casual chat. “I thought you might say that. I regret to inform you, Tom, that anyone who can bring himself to act the part of Voldemort <em>is</em> Voldemort.”
 
 “Ah,” said Professor Quirrell, raising an admonishing finger. “There is a loophole in that reasoning, old man. Anyone who acts the part of Voldemort must be what moralists call ‘evil’, on this we agree. But perhaps the real me is completely, utterly, irredeemably evil in an interestingly different fashion from what I was pretending with Voldemort—”
 
@@ -24,19 +24,19 @@ Albus Dumbledore did not look like he was enjoying a casual chat. “I thought y
 
 “Then you must think yourself to be rid of me very soon,” said Professor Quirrell. “How interesting. My immortal existence must depend on discovering what trap you have set, and finding a way to escape from it, as soon as possible.” Professor Quirrell paused. “But let us pointlessly delay to talk of other matters first. How did you come to be waiting inside the Mirror? I thought you would be elsewhere.”
 
-“I am there,” Albus Dumbledore said, “and €4€{also} inside the Mirror, unfortunately for you. I have always been here, all along.”
+“I am there,” Albus Dumbledore said, “and <em>also</em> inside the Mirror, unfortunately for you. I have always been here, all along.”
 
 “Ah,” said Professor Quirrell, and sighed. “I suppose my little distraction was for naught, then.”
 
-And the rage of Albus Dumbledore was no longer leashed. “€5€{Distraction?}” roared Dumbledore, his sapphire eyes tight with fury. “€6€{You killed Master Flamel for a distraction?}”
+And the rage of Albus Dumbledore was no longer leashed. “<em>Distraction?</em>” roared Dumbledore, his sapphire eyes tight with fury. “<em>You killed Master Flamel for a distraction?</em>”
 
 Professor Quirrell looked dismayed. “I am wounded by the injustice of your accusation. I did not kill the one you know as Flamel. I simply commanded another to do so.”
 
-“€7€{How could you? Even you, how could you? He was the library of all our lore! Secrets you have forever lost to wizardry!}”
+“<em>How could you? Even you, how could you? He was the library of all our lore! Secrets you have forever lost to wizardry!</em>”
 
 There was an edge to Professor Quirrell’s smile, now. “You know, I still do not comprehend how your twisted mind can consider it acceptable for Flamel to be immortal, but when I seek the same it makes me a monster.”
 
-“Master Flamel never descended into €8€{immortality}! He—” Dumbledore choked. “He only stayed awake past his evening, for our sakes, through his long, long day—”
+“Master Flamel never descended into <em>immortality</em>! He—” Dumbledore choked. “He only stayed awake past his evening, for our sakes, through his long, long day—”
 
 “I don’t know if you recall this,” Professor Quirrell said, his voice airy, “but do you recall that day in your office with Tom Riddle? The one where I begged you, where I went down on my knees and begged you, to introduce me to Nicholas Flamel so that I could ask to become his apprentice, to some day make for myself the Philosopher’s Stone? That was my last attempt to be a good person, if you are curious. You told me no, and gave me a lecture on how disgraceful it was to be afraid of death. I went from your office in bitterness and in fury. I reasoned that if I was to be called evil in any case, just for not wanting to die, then I might as well be evil; and one month later I killed Abigail Myrtle to pursue immortality by other means. Even when I knew more of Flamel, I remained quite put out with your hypocrisy; and for that reason I tormented you and yours more than I otherwise would have done. I have often felt that you ought to know this, but we never had a chance to talk frankly.”
 
@@ -56,7 +56,7 @@ Albus Dumbledore’s eyes were like stones. “James and Lily would have gone wi
 
 “And the little baby?” Professor Quirrell said. “Somehow I doubt the Potters would have been so eager to leave him in the path of You-Know-Who.”
 
-You could scarcely see the flinch. “The Boy-Who-Lived came out of it well enough. Tried to turn him into €9€{you}, did you? Instead you turned yourself into a corpse, and Harry Potter became the wizard you should have been.” Now there was something like the usual Dumbledore behind the half-moon glasses, a tiny twinkle in those eyes. “All of Tom Riddle’s icy brilliance, tamed to the service of James and Lily’s warmth and love. I wonder how you felt when you saw what Tom Riddle could have become, if he had grown up in a loving family?”
+You could scarcely see the flinch. “The Boy-Who-Lived came out of it well enough. Tried to turn him into <em>you</em>, did you? Instead you turned yourself into a corpse, and Harry Potter became the wizard you should have been.” Now there was something like the usual Dumbledore behind the half-moon glasses, a tiny twinkle in those eyes. “All of Tom Riddle’s icy brilliance, tamed to the service of James and Lily’s warmth and love. I wonder how you felt when you saw what Tom Riddle could have become, if he had grown up in a loving family?”
 
 Professor Quirrell’s lips twitched. “I was surprised, even shocked, by the abyssal depths of Mr~Potter’s naivete.”
 
@@ -74,11 +74,11 @@ Professor Quirrell nodded. “What have you done, exactly?”
 
 “Indeed,” said Albus Dumbledore. But his eyes were suddenly wary.
 
-And Harry, from where he stood just before and to the right of the door, waiting in silence and controlled terror, could feel it in the air; he could feel the sense of a €10€{presence} gathering within the Mirror’s field. Something more alien than magic, everything about it incomprehensible except for the fact of its strangeness and the fact of its power. It had been slow but now it was waxing faster, that presence.
+And Harry, from where he stood just before and to the right of the door, waiting in silence and controlled terror, could feel it in the air; he could feel the sense of a <em>presence</em> gathering within the Mirror’s field. Something more alien than magic, everything about it incomprehensible except for the fact of its strangeness and the fact of its power. It had been slow but now it was waxing faster, that presence.
 
 “But you could still reverse the effect, if Chang’s account is true,” said Professor Quirrell. “Most powers of the Mirror are double-sided, according to legend. So you could banish what is on the other side of the Mirror instead. Send yourself, instead of me, into that frozen instant. If you wanted to, that is.”
 
-“And why would I do that?” Albus Dumbledore’s voice was tight. “I suppose you are going to tell me that you have taken hostages? That was futile, Tom, you €11€{fool}! You utter €12€{fool}! You should have known that I would give you nothing for any hostages you had taken.”
+“And why would I do that?” Albus Dumbledore’s voice was tight. “I suppose you are going to tell me that you have taken hostages? That was futile, Tom, you <em>fool</em>! You utter <em>fool</em>! You should have known that I would give you nothing for any hostages you had taken.”
 
 “You always were one step too slow,” said Professor Quirrell. “Allow me to introduce you to my hostage.”
 
@@ -88,7 +88,7 @@ Professor Quirrell caught it, and swiftly drew it over himself; in less than a s
 
 Albus Dumbledore staggered, as though some essential support had been removed from him.
 
-“Harry Potter,” the Headmaster breathed. “€13€{What are you doing here?}”
+“Harry Potter,” the Headmaster breathed. “<em>What are you doing here?</em>”
 
 Harry stared at the image of Albus Dumbledore, on whose face utter shock and utter dismay were warring.
 
@@ -98,7 +98,7 @@ The guilt and the shame were too much, too much, hitting Harry all at once, and 
 
 “Why, look at that,” sang out Professor Quirrell’s voice from the empty air, “I don’t seem to have a reflection any more.”
 
-“No,” said Albus Dumbledore. “No, no, €14€{no!}”
+“No,” said Albus Dumbledore. “No, no, €3€<b>no!</b>”
 
 Into the hand of Albus Dumbledore flew from his sleeve his long, dark-grey wand, and in his other hand, as though from nowhere, appeared a short rod of dark stone.
 

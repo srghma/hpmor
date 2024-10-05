@@ -1,12 +1,12 @@
-€8€{Dominance Hierarchies}
+€8€<b>Dominance Hierarchies</b>
 
 €2€
 Any sufficiently advanced J.~K.~Rowling is indistinguishable from magic.
-€100€
+€16€
 That does sound like the sort of thing I would do, doesn’t it?
-€101€{I}{t} was breakfast time on Friday morning. Harry took another huge bite out of his toast and then tried to remind his brain that scoffing his breakfast wouldn’t actually get him into the dungeons any faster. Anyway they had a full hour of study time between breakfast and the start of Potions.
+€17€<b>I</b><b>t</b> was breakfast time on Friday morning. Harry took another huge bite out of his toast and then tried to remind his brain that scoffing his breakfast wouldn’t actually get him into the dungeons any faster. Anyway they had a full hour of study time between breakfast and the start of Potions.
 
-But dungeons! In Hogwarts! Harry’s imagination was already sketching the chasms, narrow bridges, torch-lit sconces, and patches of glowing moss. Would there be rats? Would there be €10€{dragons}?
+But dungeons! In Hogwarts! Harry’s imagination was already sketching the chasms, narrow bridges, torch-lit sconces, and patches of glowing moss. Would there be rats? Would there be <em>dragons</em>?
 
 “Harry Potter,” said a quiet voice from behind him.
 
@@ -38,7 +38,7 @@ Some time later, Harry was finishing up his third plate of rashers. (He’d lear
 
 “We hope that’ll cheer you up afterwards,” finished George.
 
-Harry swallowed his last bite of rasher and turned around. “All right,” said Harry. “I wasn’t going to ask this after Professor Binns, I really wasn’t, but if Professor Snape is €11€{that} awful why hasn’t he been fired?”
+Harry swallowed his last bite of rasher and turned around. “All right,” said Harry. “I wasn’t going to ask this after Professor Binns, I really wasn’t, but if Professor Snape is <em>that</em> awful why hasn’t he been fired?”
 
 “Fired?” said Fred.
 
@@ -64,9 +64,9 @@ Harry had run into some stupid teachers during his abortive forays into standard
 
 And it showed, too. Harry had given up after five minutes and started reading a textbook. When it became clear that “Professor Binns” wasn’t going to object, Harry had also reached into his pouch and withdrawn earplugs.
 
-Did ghosts not require a salary? Was that it? Or was it literally impossible to fire anyone in Hogwarts €12€{even if they died}?
+Did ghosts not require a salary? Was that it? Or was it literally impossible to fire anyone in Hogwarts <em>even if they died</em>?
 
-Now it seemed that Professor Snape was going about being absolutely awful to everyone who wasn’t a Slytherin and it hadn’t even €13€{occurred} to anyone to terminate his contract.
+Now it seemed that Professor Snape was going about being absolutely awful to everyone who wasn’t a Slytherin and it hadn’t even <em>occurred</em> to anyone to terminate his contract.
 
 And the Headmaster had set fire to a chicken.
 
@@ -74,21 +74,21 @@ And the Headmaster had set fire to a chicken.
 
 “I swear,” Harry said without turning around, “this place is almost eight and a half percent as bad as what Dad says about Oxford.”
 
-€14€
+€10€
 
 Harry stamped down the stone corridors, looking affronted, annoyed, and infuriated all at once.
 
-“Dungeons!” Harry hissed. “€15€{Dungeons!} These are not dungeons! This is a basement! A €16€{basement}!”
+“Dungeons!” Harry hissed. “<em>Dungeons!</em> These are not dungeons! This is a basement! A <em>basement</em>!”
 
 Some of the Ravenclaw girls gave him odd looks. The boys were all used to him by now.
 
 It seemed that the level in which the Potions classroom was located was called the “dungeons” for no better reason than that it was below ground and slightly colder than the main castle.
 
-In €17€{Hogwarts!} In €18€{Hogwarts!} Harry had been waiting his whole life and now he was €19€{still} waiting and if there was anywhere €20€{on the face of the Earth} that had decent dungeons it ought to be Hogwarts! Was Harry going to have to build his own castle if he wanted to see one little bottomless abyss?
+In <em>Hogwarts!</em> In <em>Hogwarts!</em> Harry had been waiting his whole life and now he was <em>still</em> waiting and if there was anywhere <em>on the face of the Earth</em> that had decent dungeons it ought to be Hogwarts! Was Harry going to have to build his own castle if he wanted to see one little bottomless abyss?
 
 A short time later they got to the actual Potions classroom and Harry cheered up considerably.
 
-The Potions classroom had strange preserved creatures floating in huge jars on shelves that covered every centimetre of wall space between the cupboards. Harry was far enough along in his reading now that he could actually identify some of the creatures, like the Zabriskan Fontema. Albeit the fifty-centimetre spider €21€{looked} like an Acromantula but it was too small to €22€{be} one. He’d tried asking Hermione, but she hadn’t seemed very interested in looking anywhere near where he was pointing.
+The Potions classroom had strange preserved creatures floating in huge jars on shelves that covered every centimetre of wall space between the cupboards. Harry was far enough along in his reading now that he could actually identify some of the creatures, like the Zabriskan Fontema. Albeit the fifty-centimetre spider <em>looked</em> like an Acromantula but it was too small to <em>be</em> one. He’d tried asking Hermione, but she hadn’t seemed very interested in looking anywhere near where he was pointing.
 
 Harry was looking at a large dust ball with eyes and feet when the assassin swept into the room.
 
@@ -108,15 +108,15 @@ Severus seated himself behind the teacher’s desk, and without the slightest tr
 
 And so it went, no-one daring to say a word in edgewise, until:
 
-“Ah, yes. Harry Potter. Our new…€23€{celebrity.}”
+“Ah, yes. Harry Potter. Our new…<em>celebrity.</em>”
 
-“The celebrity is present, €24€{sir}.”
+“The celebrity is present, <em>sir</em>.”
 
 Half the class flinched, and some of the smarter ones suddenly looked like they wanted to run out the door while the classroom was still there.
 
 Severus smiled in an anticipatory sort of way and called the next name on his list.
 
-Harry gave a mental sigh. That had happened way too fast for him to do anything about it. Oh well. Clearly this man already didn’t like him, for whatever reason. And when Harry thought about it, better by far that this Potions professor should pick on €25€{him} rather than, say, Neville or Hermione. Harry was a lot better able to defend himself. Yep, probably all for the best.
+Harry gave a mental sigh. That had happened way too fast for him to do anything about it. Oh well. Clearly this man already didn’t like him, for whatever reason. And when Harry thought about it, better by far that this Potions professor should pick on <em>him</em> rather than, say, Neville or Hermione. Harry was a lot better able to defend himself. Yep, probably all for the best.
 
 When full attendance had been taken, Severus swept his gaze over the full class. His eyes were as empty as a night sky without stars.
 
@@ -126,13 +126,13 @@ Severus somehow seemed to notice the look of skepticism on Harry’s face, or at
 
 “Potter!” snapped the Potions professor. “What would I get if I added powdered root of asphodel to an infusion of wormwood?”
 
-Harry blinked. “Was that in €26€{Magical Drafts and Potions}?” he said. “I just finished reading it, and I don’t remember anything which used wormwood—”
+Harry blinked. “Was that in <em>Magical Drafts and Potions</em>?” he said. “I just finished reading it, and I don’t remember anything which used wormwood—”
 
 Hermione’s hand went up and Harry shot her a glare which caused her to raise her hand even higher.
 
 “Tut, tut,” Severus said silkily. “Fame clearly isn’t everything.”
 
-“Really?” Harry said. “But you just told us you’d teach us how to bottle fame. Say, how €27€{does} that work, exactly? You drink it and turn into a celebrity?”
+“Really?” Harry said. “But you just told us you’d teach us how to bottle fame. Say, how <em>does</em> that work, exactly? You drink it and turn into a celebrity?”
 
 Three-quarters of the class flinched.
 
@@ -146,15 +146,15 @@ Harry was trying hard to keep control of his temper. The first rejoinder that ha
 
 “Wrong,” Severus said. “A bezoar is found in the stomach of a goat, it is not made of hair, and it will cure most poisons but not all.”
 
-“I didn’t €28€{say} it would, I said that was what I read in one Muggle book—”
+“I didn’t <em>say</em> it would, I said that was what I read in one Muggle book—”
 
-“No-one here is interested in your €29€{pathetic} Muggle books. Final try. What is the difference, Potter, between monksblood and wolfsbane?”
+“No-one here is interested in your <em>pathetic</em> Muggle books. Final try. What is the difference, Potter, between monksblood and wolfsbane?”
 
 That did it.
 
-“You know,” Harry said icily, “in one of my quite €30€{fascinating} Muggle books, they describe a study in which people managed to make themselves look very smart by asking questions about random facts that only they knew. Apparently the onlookers only noticed that the askers knew and the answerers didn’t, and failed to adjust for the unfairness of the underlying game. So, Professor, can you tell me how many electrons are in the outermost orbital of a carbon atom?”
+“You know,” Harry said icily, “in one of my quite <em>fascinating</em> Muggle books, they describe a study in which people managed to make themselves look very smart by asking questions about random facts that only they knew. Apparently the onlookers only noticed that the askers knew and the answerers didn’t, and failed to adjust for the unfairness of the underlying game. So, Professor, can you tell me how many electrons are in the outermost orbital of a carbon atom?”
 
-Severus’s smile widened. “Four,” he said. “It is a useless fact which no-one should bother writing down, however. And for your information, Potter, asphodel and wormwood make a sleeping potion so powerful it is known as the Draught of Living Death. As for monkshood and wolfsbane, they are the same plant, which also goes by the name of aconite, as you would know if you had read €31€{One Thousand Magical Herbs and Fungi.} Thought you didn’t need to open the book before coming, eh, Potter? All the rest of you should be copying that down so that you will not be as ignorant as him.” Severus paused, looking quite pleased with himself. “And that will be…five points? No, let us make it an even ten points from Ravenclaw for backchat.”
+Severus’s smile widened. “Four,” he said. “It is a useless fact which no-one should bother writing down, however. And for your information, Potter, asphodel and wormwood make a sleeping potion so powerful it is known as the Draught of Living Death. As for monkshood and wolfsbane, they are the same plant, which also goes by the name of aconite, as you would know if you had read <em>One Thousand Magical Herbs and Fungi.</em> Thought you didn’t need to open the book before coming, eh, Potter? All the rest of you should be copying that down so that you will not be as ignorant as him.” Severus paused, looking quite pleased with himself. “And that will be…five points? No, let us make it an even ten points from Ravenclaw for backchat.”
 
 Hermione gasped, along with a number of others.
 
@@ -182,7 +182,7 @@ People stopped breathing.
 
 Severus’s smile vanished. “Then you will be—” his voice stopped short.
 
-“Expelled, were you about to say?” Harry, on the other hand, was now smiling thinly. “But then you seemed to doubt your ability to carry out the threat, or fear the consequences if you did. I, on the other hand, neither doubt nor fear the prospect of finding a school with less abusive professors. Or perhaps I should hire private tutors, as is my accustomed practice, and be taught at my full learning speed. I have enough money in my vault. Something about bounties on a Dark Lord I defeated. But there €32€{are} teachers at Hogwarts who I rather like, so I think it will be easier if I find some way to get rid of you instead.”
+“Expelled, were you about to say?” Harry, on the other hand, was now smiling thinly. “But then you seemed to doubt your ability to carry out the threat, or fear the consequences if you did. I, on the other hand, neither doubt nor fear the prospect of finding a school with less abusive professors. Or perhaps I should hire private tutors, as is my accustomed practice, and be taught at my full learning speed. I have enough money in my vault. Something about bounties on a Dark Lord I defeated. But there <em>are</em> teachers at Hogwarts who I rather like, so I think it will be easier if I find some way to get rid of you instead.”
 
 “Get rid of me?” Severus said, now also smiling thinly. “What an amusing conceit. How do you suppose you will do that, Potter?”
 
@@ -192,17 +192,17 @@ Two poles of ice radiated freezing winter across the classroom.
 
 “You will find,” Severus said softly, “that the Board of Governors is not the slightest bit sympathetic to your offer.”
 
-“Lucius…” Harry said. “€33€{That’s} why you’re still here. Perhaps I should chat with Lucius about that. I believe he desires to meet with me. I wonder if I have anything he wants?”
+“Lucius…” Harry said. “<em>That’s</em> why you’re still here. Perhaps I should chat with Lucius about that. I believe he desires to meet with me. I wonder if I have anything he wants?”
 
 Hermione frantically shook her head. Harry noticed out of the corner of his eye, but his attention was all on Severus.
 
-“You are a very foolish boy,” Severus said. He wasn’t smiling at all, now. “You have nothing that Lucius values more than my friendship. And if you did, I have other allies.” His voice grew hard. “And I find it increasingly unlikely that you were not Sorted into Slytherin. How was it that you managed to stay out of my House? Ah, yes, because the Sorting Hat claimed it was €34€{joking}. For the first time in recorded history. What were you really €35€{chatting} about with the Sorting Hat, Potter? Did you have something that it wanted?”
+“You are a very foolish boy,” Severus said. He wasn’t smiling at all, now. “You have nothing that Lucius values more than my friendship. And if you did, I have other allies.” His voice grew hard. “And I find it increasingly unlikely that you were not Sorted into Slytherin. How was it that you managed to stay out of my House? Ah, yes, because the Sorting Hat claimed it was <em>joking</em>. For the first time in recorded history. What were you really <em>chatting</em> about with the Sorting Hat, Potter? Did you have something that it wanted?”
 
 Harry stared into Severus’s cold gaze and remembered that the Sorting Hat had warned him not to meet anyone’s eyes while thinking about—Harry dropped his gaze to Severus’s desk.
 
 “You seem oddly reluctant to look me in the eyes, Potter!”
 
-A shock of sudden understanding—“So it was €36€{you} the Sorting Hat was warning me about!”
+A shock of sudden understanding—“So it was <em>you</em> the Sorting Hat was warning me about!”
 
 “What?” said Severus’s voice, sounding genuinely surprised, though of course Harry didn’t look at his face.
 
@@ -212,7 +212,7 @@ Harry got up out of his desk.
 
 Harry ignored it, and looked around the classroom. “I have no intention of letting one unprofessional teacher ruin my time at Hogwarts,” Harry said with deadly calm. “I think I’ll take my leave of this class, and either hire a tutor to teach me Potions while I’m here, or if the Board is really that locked up, learn over the summer. If any of you decide that you don’t care to be bullied by this man, my sessions will be open to you.”
 
-“€37€{Sit down, Potter!}”
+“<em>Sit down, Potter!</em>”
 
 Harry strode across the room and grasped the doorknob.
 
@@ -234,15 +234,15 @@ Then Harry drew himself upright and raised his right hand in one terrible motion
 
 Neville screamed and dived under his desk. Other children shrank back or instinctively raised their arms to shield themselves.
 
-“€38€{Harry don’t!}” shrieked Hermione. “Whatever you were going to do to him, don’t do it!”
+“<em>Harry don’t!</em>” shrieked Hermione. “Whatever you were going to do to him, don’t do it!”
 
-“Have you all gone €39€{mad}?” barked Severus’s voice.
+“Have you all gone <em>mad</em>?” barked Severus’s voice.
 
 Slowly, Harry lowered his hand. “I wasn’t going to hurt him, Hermione,” Harry said, his voice a little lower. “I was just going to blow up the door.”
 
 Though now that Harry remembered it, you weren’t supposed to Transfigure things that were to be burned, which meant that going back in time afterwards and getting Fred or George to Transfigure some carefully measured amount of explosives might not actually have been such a good idea…
 
-“€40€{Silencio,}” said Severus’s voice.
+“<em>Silencio,</em>” said Severus’s voice.
 
 Harry tried to say “What?” and found that no sound was coming out.
 
@@ -270,7 +270,7 @@ The Potions Master’s face was now completely enraged. He crossed the room in t
 
 The cupboard was empty.
 
-€41€
+€11€
 
 One hour earlier, Harry listened from inside the closed cupboard. There was no sound from outside, and no point in taking risks either.
 
@@ -288,7 +288,7 @@ Harry’s invisible face was frozen in absolute horror.
 
 He’d antagonized a teacher three orders of magnitude beyond anything he’d ever managed before. He’d threatened to walk out of Hogwarts and might have to follow through on it. He’d lost all the points Ravenclaw had and then he’d used the Time-Turner…
 
-His imagination showed him his parents yelling at him after he was expelled, Professor McGonagall disappointed in him, and it was just too painful and he couldn’t bear it and he €42€{couldn’t think of any way to save himself—}
+His imagination showed him his parents yelling at him after he was expelled, Professor McGonagall disappointed in him, and it was just too painful and he couldn’t bear it and he <em>couldn’t think of any way to save himself—</em>
 
 The thought that Harry allowed himself to think was that if getting angry had landed him in all this trouble, then maybe when he was angry he’d think of a way out, things seemed clearer somehow when he was angry.
 
@@ -296,21 +296,21 @@ And the thought that Harry didn’t let himself think was that he just couldn’
 
 So he cast his thoughts back and remembered the burning humiliation…
 
-€43€{Tut, tut. Fame clearly isn’t everything.}
+<em>Tut, tut. Fame clearly isn’t everything.</em>
 
-€44€{Ten points from Ravenclaw for backchat.}
+<em>Ten points from Ravenclaw for backchat.</em>
 
 The calming cold washed back through his veins like a wave reflected and returning from some breaker, and Harry let out his breath.
 
 Okay. Back to being sane now.
 
-He was actually feeling a bit disappointed in his non-angry self for collapsing like that and wanting only to get out of trouble. Professor Severus Snape was €45€{everyone’s} problem. Normal-Harry had forgotten that and wished for a way to protect €46€{himself}. And let all the other victims go hang? The question wasn’t how to protect himself, the question was how to destroy this Potions professor.
+He was actually feeling a bit disappointed in his non-angry self for collapsing like that and wanting only to get out of trouble. Professor Severus Snape was <em>everyone’s</em> problem. Normal-Harry had forgotten that and wished for a way to protect <em>himself</em>. And let all the other victims go hang? The question wasn’t how to protect himself, the question was how to destroy this Potions professor.
 
-€47€{So this is my dark side, is it? Bit of a prejudiced term that, my light side seems more selfish and cowardly, not to mention confused and panicky.}
+<em>So this is my dark side, is it? Bit of a prejudiced term that, my light side seems more selfish and cowardly, not to mention confused and panicky.</em>
 
 And now that he was thinking clearly, it was equally clear what to do next. He’d already given himself an extra hour to prepare, and could get up to five hours more if required…
 
-€48€
+€12€
 
 Minerva McGonagall waited in the Headmaster’s office.
 
@@ -318,9 +318,9 @@ Dumbledore sat in his padded throne behind his desk, dressed in four layers of f
 
 They were waiting for Harry Potter.
 
-€49€{Harry,} Minerva thought despairingly, €50€{you promised you wouldn’t bite any teachers}!
+<em>Harry,</em> Minerva thought despairingly, <em>you promised you wouldn’t bite any teachers</em>!
 
-And in her mind she could see very clearly the reply, Harry’s angry face and his outraged response: €51€{I said I wouldn’t bite anyone who didn’t bite me first!}
+And in her mind she could see very clearly the reply, Harry’s angry face and his outraged response: <em>I said I wouldn’t bite anyone who didn’t bite me first!</em>
 
 There was a knock at the door.
 
@@ -362,7 +362,7 @@ When the boy spoke again his voice was icy. “Am I missing something here?”
 
 “Quite a number of things, Mr~Potter,” said the Headmaster. “You should understand, to start with, that the purpose of this meeting is to discuss how to discipline you for the events of this morning.”
 
-“This man has terrorized your school for years. I spoke to students and collected stories to make sure there would be enough for a newspaper campaign to rally the parents against him. Some of the younger students cried while they told me. I almost cried when I heard them! €52€{You allowed this abuser to run free? You did this to your students? Why?}”
+“This man has terrorized your school for years. I spoke to students and collected stories to make sure there would be enough for a newspaper campaign to rally the parents against him. Some of the younger students cried while they told me. I almost cried when I heard them! <em>You allowed this abuser to run free? You did this to your students? Why?</em>”
 
 Minerva swallowed a lump in her throat. She’d—thought that, sometimes, but somehow she’d never quite—
 
@@ -374,9 +374,9 @@ Minerva was speechless.
 
 “This is not a request, Mr~Potter,” the Headmaster said. The full, entire force of the wizard’s gaze was turned on the boy. “This is your punishme—”
 
-“You will explain to me why you allowed this man to hurt the children placed in your care, and if your explanation is not sufficient then I will begin my newspaper campaign with €53€{you} as the target.”
+“You will explain to me why you allowed this man to hurt the children placed in your care, and if your explanation is not sufficient then I will begin my newspaper campaign with <em>you</em> as the target.”
 
-Minerva’s body swayed with the force of that blow, with the sheer raw €54€{lèse majesté}.
+Minerva’s body swayed with the force of that blow, with the sheer raw <em>lèse majesté</em>.
 
 Even Severus looked shocked.
 
@@ -394,7 +394,7 @@ Dumbledore sighed. “I’m sorry, Harry. It has to do with things that you are 
 
 The boy stared at Dumbledore. Then he turned to look at Severus. Then back to Dumbledore again.
 
-“It €55€{is} insanity,” the boy said slowly. “You haven’t reined him in because you think he’s €56€{part of the pattern}. That Hogwarts needs an evil Potions Master to be a proper magical school, just as it needs a ghost to teach History.”
+“It <em>is</em> insanity,” the boy said slowly. “You haven’t reined him in because you think he’s <em>part of the pattern</em>. That Hogwarts needs an evil Potions Master to be a proper magical school, just as it needs a ghost to teach History.”
 
 “That does sound like the sort of thing I would do, doesn’t it?” said Dumbledore, smiling.
 
@@ -408,7 +408,7 @@ And Harry sat there, smiling thinly.
 
 Sudden horror dawned on Minerva. Surely Harry wouldn’t—
 
-“You forget,” Harry said, “that you’re not the only one who can see patterns. €57€{This grows private. Now send him}—” Harry flicked a hand at Severus again, and then stopped in mid-sentence and mid-gesture.
+“You forget,” Harry said, “that you’re not the only one who can see patterns. <em>This grows private. Now send him</em>—” Harry flicked a hand at Severus again, and then stopped in mid-sentence and mid-gesture.
 
 Minerva could see it on Harry’s face, the moment when he remembered.
 
@@ -422,13 +422,13 @@ Dumbledore didn’t react to the insult. “Told him what?”
 
 “That the Dark Lord is alive.”
 
-“€58€{What in Merlin’s name are you on about, Potter?}” cried Severus in tones of sheer astonishment and outrage.
+“<em>What in Merlin’s name are you on about, Potter?</em>” cried Severus in tones of sheer astonishment and outrage.
 
-Harry glanced briefly at him, smiling grimly. “Oh, so we €59€{are} a Slytherin, then,” Harry said. “I was starting to wonder.”
+Harry glanced briefly at him, smiling grimly. “Oh, so we <em>are</em> a Slytherin, then,” Harry said. “I was starting to wonder.”
 
 And then there was silence.
 
-Finally Dumbledore spoke. His voice was mild. “Harry, what €60€{are} you talking about?”
+Finally Dumbledore spoke. His voice was mild. “Harry, what <em>are</em> you talking about?”
 
 “I’m sorry, Albus,” Minerva whispered.
 
@@ -438,23 +438,23 @@ Severus and Dumbledore turned to look at her.
 
 “And I told him,” said Minerva, her voice trembling a little, “that you, and I, and Severus were the only ones who knew.”
 
-“Which she did as a concession to prevent me from simply going around asking questions, as I threatened to do if she didn’t talk,” Harry said. The boy chuckled briefly. “I really should have got one of you alone and told you that she told me everything, to see if you let anything slip. Probably wouldn’t have worked, but would have been worth a shot.” The boy smiled again. “Threat’s still on the table and I do expect to be briefed €61€{fully} at some point.”
+“Which she did as a concession to prevent me from simply going around asking questions, as I threatened to do if she didn’t talk,” Harry said. The boy chuckled briefly. “I really should have got one of you alone and told you that she told me everything, to see if you let anything slip. Probably wouldn’t have worked, but would have been worth a shot.” The boy smiled again. “Threat’s still on the table and I do expect to be briefed <em>fully</em> at some point.”
 
 Severus was giving her a look of utter contempt. Minerva raised her chin and bore it. She knew it was deserved.
 
 Dumbledore leaned back in his padded throne. His eyes were as cold as anything Minerva had seen from him since the day his brother died. “And you threaten to abandon us to Voldemort if we do not comply with your wishes.”
 
-Harry’s voice was razor-sharp. “I regret to inform you that you are not the centre of the universe. I’m not threatening to walk out on magical Britain. I’m threatening to walk out on €62€{you}. I am not a meek little Frodo. This is €63€{my} quest and if you want in you will play by €64€{my} rules.”
+Harry’s voice was razor-sharp. “I regret to inform you that you are not the centre of the universe. I’m not threatening to walk out on magical Britain. I’m threatening to walk out on <em>you</em>. I am not a meek little Frodo. This is <em>my</em> quest and if you want in you will play by <em>my</em> rules.”
 
 Dumbledore’s face was still cold. “I am beginning to doubt your suitability as the hero, Mr~Potter.”
 
-Harry’s return gaze was equally icy. “I am beginning to doubt your suitability as my Gandalf, €65€{Mr~Dumbledore}. Boromir was at least a plausible mistake. What is this €66€{Nazgûl} doing in my Fellowship?”
+Harry’s return gaze was equally icy. “I am beginning to doubt your suitability as my Gandalf, <em>Mr~Dumbledore</em>. Boromir was at least a plausible mistake. What is this <em>Nazgûl</em> doing in my Fellowship?”
 
 Minerva was completely lost. She looked at Severus, to see if he was following this, and she saw that Severus had turned his face away from Harry’s field of vision and was smiling.
 
 “I suppose,” Dumbledore said slowly, “that from your perspective it is a reasonable question. So, Mr~Potter, if Professor Snape is to leave you alone henceforth, will that be the last time this issue arises, or will I find you here every week with a new demand?”
 
-“Leave €67€{me} alone?” Harry’s voice was outraged. “I am not his only victim and certainly not the most vulnerable! €68€{Have you forgotten how defenceless children are? How much they hurt?} Henceforth Severus will treat €69€{every} student of Hogwarts with appropriate and professional courtesy, or you will find another Potions Master, or you will find another hero!”
+“Leave <em>me</em> alone?” Harry’s voice was outraged. “I am not his only victim and certainly not the most vulnerable! <em>Have you forgotten how defenceless children are? How much they hurt?</em> Henceforth Severus will treat <em>every</em> student of Hogwarts with appropriate and professional courtesy, or you will find another Potions Master, or you will find another hero!”
 
 Dumbledore started laughing. Full-throated, warm, humorous laughter, as if Harry had just performed a comic dance in front of him.
 
@@ -466,7 +466,7 @@ Harry’s visage grew even colder. “You mistake me, Headmaster, if you think t
 
 Harry made a shushing gesture at her and continued to speak to Dumbledore. “And if that seems impolite to you,” Harry said, his voice now a little less hard, “it seemed no less impolite when you said it to me. You would not say such a thing to anyone who you considered a real human being instead of a subordinate child, and I will treat you with just the same courtesy as you treat me—”
 
-“Oh, indeed, in very deed, this is my punishment if ever there was one! Of €70€{course} you’re in here blackmailing me to save your fellow students, not to save yourself! I can’t imagine why I would have thought otherwise!” Dumbledore was now laughing even harder. He pounded his fist on the desk three times.
+“Oh, indeed, in very deed, this is my punishment if ever there was one! Of <em>course</em> you’re in here blackmailing me to save your fellow students, not to save yourself! I can’t imagine why I would have thought otherwise!” Dumbledore was now laughing even harder. He pounded his fist on the desk three times.
 
 Harry’s gaze grew uncertain. His face turned toward her, addressing her for the first time. “Excuse me,” Harry said. His voice seemed to be wavering. “Does he need to take his medication or something?”
 
@@ -480,7 +480,7 @@ Harry opened his mouth, then closed it again. He now seemed a little unsteady. �
 
 “Sorting Hat warned me,” said Harry.
 
-“€71€{What?}”
+“<em>What?</em>”
 
 “Can’t say anything else. Anyway I think that’s it. I’m done.”
 
@@ -490,13 +490,13 @@ Silence.
 
 “Now what?” Dumbledore echoed. “Why, now the hero wins, of course.”
 
-“€72€{What?}” said Severus, Minerva, and Harry.
+“<em>What?</em>” said Severus, Minerva, and Harry.
 
-“Well, he certainly seems to have backed us into a corner,” Dumbledore said, smiling happily. “But Hogwarts €73€{does} need an evil Potions Master, or it just wouldn’t be a proper magical school, now would it? So how about if Professor Snape is only awful toward students in their fifth year and higher?”
+“Well, he certainly seems to have backed us into a corner,” Dumbledore said, smiling happily. “But Hogwarts <em>does</em> need an evil Potions Master, or it just wouldn’t be a proper magical school, now would it? So how about if Professor Snape is only awful toward students in their fifth year and higher?”
 
-“€74€{What?}” said all three of them again.
+“<em>What?</em>” said all three of them again.
 
-“If it’s the most vulnerable victims about whom you’re concerned. Maybe you’re right, Harry. Maybe I €75€{have} forgotten over the decades what it’s like to be a child. So let’s compromise. Severus will continue to unfairly award points to Slytherin and impose lax discipline on his House, and he will be awful to non-Slytherin students in their fifth year and higher. To others he will be scary, but not abusive. He will promise to only read minds when the safety of a student requires it. Hogwarts will have its evil Potions Master, and the most vulnerable victims, as you put it, will be safe.”
+“If it’s the most vulnerable victims about whom you’re concerned. Maybe you’re right, Harry. Maybe I <em>have</em> forgotten over the decades what it’s like to be a child. So let’s compromise. Severus will continue to unfairly award points to Slytherin and impose lax discipline on his House, and he will be awful to non-Slytherin students in their fifth year and higher. To others he will be scary, but not abusive. He will promise to only read minds when the safety of a student requires it. Hogwarts will have its evil Potions Master, and the most vulnerable victims, as you put it, will be safe.”
 
 Minerva McGonagall was as shocked as she’d ever been in her life. She glanced uncertainly at Severus, whose face had been left completely neutral, as though he couldn’t decide what sort of expression he ought to be wearing.
 
@@ -524,7 +524,7 @@ It was Minerva who said it.
 
 Harry looked at her.
 
-“I’m sorry, Mr~Potter,” she said. She €76€{was} sorry, but it had to be done. “There €77€{must} be some consequences for your misbehaviour or this school will fall to pieces.”
+“I’m sorry, Mr~Potter,” she said. She <em>was</em> sorry, but it had to be done. “There <em>must</em> be some consequences for your misbehaviour or this school will fall to pieces.”
 
 Harry shrugged. “Acceptable,” he said flatly. “But in the future Severus will not strike at my House connections by taking points from me, nor will he waste my valuable time with detentions. Should he feel that my behaviour requires correction, he may communicate his concerns to Professor McGonagall.”
 
@@ -548,11 +548,11 @@ Harry’s lips curved into a twisted smile. “The first and last resort is the 
 
 “In your dreams, Potter!” spat Severus.
 
-“After all,” said Harry, smiling grimly, “if the students see that rules are for €78€{everyone}…for professors too, not just for poor helpless students who get nothing but suffering out of the system…why, the positive effects on school discipline should be €79€{tremendous}.”
+“After all,” said Harry, smiling grimly, “if the students see that rules are for <em>everyone</em>…for professors too, not just for poor helpless students who get nothing but suffering out of the system…why, the positive effects on school discipline should be <em>tremendous</em>.”
 
 There was a brief pause, and then Dumbledore chuckled. “Minerva is thinking that you’re righter than you have any right to be.”
 
-Harry’s gaze jerked away from Dumbledore, down to the floor. “Are €80€{you} reading €81€{her} mind?”
+Harry’s gaze jerked away from Dumbledore, down to the floor. “Are <em>you</em> reading <em>her</em> mind?”
 
 “Common sense is often mistaken for Legilimency,” said Dumbledore. “I shall talk over this matter with Severus, and no apology will be required from you unless he apologizes as well. And now I declare this matter concluded, at least until lunchtime.” He paused. “Although, Harry, I’m afraid that Minerva wished to speak with you about an additional matter. And that is not the result of any pressure on my part. Minerva, if you would?”
 
@@ -568,7 +568,7 @@ The phœnix soared across the room like a smooth tongue of flame leaping out, an
 
 “Please follow me, Mr~Potter,” she said, firmly now, and they left through the door.
 
-€82€
+€13€
 
 They stood on the rotating stairs, descending in silence.
 
@@ -578,7 +578,7 @@ And Fawkes began to croon.
 
 It was tender, and soft, like a fireplace would sound if it had melody, and it washed over Minerva’s mind, easing, soothing, gentling what it touched…
 
-“€83€{What} is €84€{that}?” Harry whispered beside her. His voice was unstable, wobbling, changing pitch.
+“<em>What</em> is <em>that</em>?” Harry whispered beside her. His voice was unstable, wobbling, changing pitch.
 
 “The song of the phœnix,” said Minerva, not really aware of what she was saying, her attention was all on that strange quiet music. “It, too, heals.”
 
@@ -630,9 +630,9 @@ He didn’t know. He hadn’t figured it out yet. She felt her throat tighten. B
 
 All the peace of the phœnix vanished from his face in an instant and Minerva felt like she had just stabbed him.
 
-“€85€{No!}” Harry said. His voice was panicked. “I need it, I won’t be able to attend Hogwarts, I won’t be able to sleep!”
+“<em>No!</em>” Harry said. His voice was panicked. “I need it, I won’t be able to attend Hogwarts, I won’t be able to sleep!”
 
-“You’ll be able to sleep,” she said. “The Ministry has delivered the protective shell for your Time-Turner. I will enchant it to open only between the hours of 9€86€ and midnight.”
+“You’ll be able to sleep,” she said. “The Ministry has delivered the protective shell for your Time-Turner. I will enchant it to open only between the hours of 9€14€ and midnight.”
 
 Harry’s face twisted. “But—but I—”
 
@@ -650,7 +650,7 @@ From the look on Harry’s face he hadn’t thought of that.
 
 “And more importantly,” she said, “you should have simply sat in Professor Snape’s class. And watched. And left at the end of class. As you would have done if you had not possessed a Time-Turner. There are some students who cannot be entrusted with Time-Turners, Mr~Potter. You are one of them. I am sorry.”
 
-“But I €87€{need} it!” Harry blurted. “What if there are Slytherins threatening me and I have to escape? It keeps me €88€{safe}—”
+“But I <em>need</em> it!” Harry blurted. “What if there are Slytherins threatening me and I have to escape? It keeps me <em>safe</em>—”
 
 “Every other student in this castle runs the same risk, and I assure you that they survive. No student has died in this castle for fifty years. Mr~Potter, you will hand over your Time-Turner and do so now.”
 
@@ -658,13 +658,13 @@ Harry’s face twisted in agony, but he drew out the Time-Turner from under his 
 
 From her desk, Minerva drew out one of the protective shells that had been sent to Hogwarts. She snapped the cover into place around the Time-Turner’s turning hourglass, and then she laid her wand on the cover to complete the enchantment.
 
-“€89€{This isn’t fair!}” Harry shrieked. “I saved half of Hogwarts from Professor Snape today, is it right that I be punished for it? I saw the look on your face, you €90€{hated} what he was doing!”
+“<em>This isn’t fair!</em>” Harry shrieked. “I saved half of Hogwarts from Professor Snape today, is it right that I be punished for it? I saw the look on your face, you <em>hated</em> what he was doing!”
 
 Minerva didn’t speak for a few moments. She was enchanting.
 
-When she finished and looked up, she knew that her face was stern. Maybe it was the wrong thing to do. And then again maybe it was the right thing to do. There was an obstinate child in front of her, and that €91€{didn’t} mean the universe was broken.
+When she finished and looked up, she knew that her face was stern. Maybe it was the wrong thing to do. And then again maybe it was the right thing to do. There was an obstinate child in front of her, and that <em>didn’t</em> mean the universe was broken.
 
-“€92€{Fair,} Mr~Potter?” she snapped. “I have had to file €93€{two reports} with the Ministry on public use of a Time-Turner in €94€{two successive days}! Be €95€{extremely} grateful you were allowed to retain the Time-Turner even in restricted form! The Headmaster made a Floo call to plead with them personally and if you were not the Boy-Who-Lived even that would not have sufficed!”
+“<em>Fair,</em> Mr~Potter?” she snapped. “I have had to file <em>two reports</em> with the Ministry on public use of a Time-Turner in <em>two successive days</em>! Be <em>extremely</em> grateful you were allowed to retain the Time-Turner even in restricted form! The Headmaster made a Floo call to plead with them personally and if you were not the Boy-Who-Lived even that would not have sufficed!”
 
 Harry gaped at her.
 
@@ -680,7 +680,7 @@ Harry turned and fled from her office, sobbing. She heard his feet pattering awa
 
 “I’m sorry too, Harry,” she whispered to the quiet room. “I’m sorry too.”
 
-€96€
+€15€
 
 Fifteen minutes into lunch hour.
 
@@ -728,9 +728,9 @@ There was the sound of many people emitting muffled chokes at the same time.
 
 Severus continued as if he had not heard. “The Potions classroom is a dangerous place, and I still feel that strict discipline is necessary, but henceforth I will be more aware of the…emotional fragility…of students in their fourth year and younger. My deduction of points from Ravenclaw still stands, but I will revoke Mr~Potter’s detention. Thank you.”
 
-There was a single clap from the direction of Gryffindor and faster than lightning Severus’s wand was in his hand and “€97€{Quietus!}” silenced the offender.
+There was a single clap from the direction of Gryffindor and faster than lightning Severus’s wand was in his hand and “<em>Quietus!</em>” silenced the offender.
 
-“I will still demand discipline and respect in €98€{all} my classes,” Severus said coldly, “and anyone who trifles with me will regret it.”
+“I will still demand discipline and respect in <em>all</em> my classes,” Severus said coldly, “and anyone who trifles with me will regret it.”
 
 He sat down.
 
@@ -738,7 +738,7 @@ He sat down.
 
 And Harry, still expressionless, began to walk back to his seat in Ravenclaw.
 
-There was an explosion of conversation. Two words were clearly identifiable in the beginning. The first was an initial “What—” beginning many different sentences such as “What just happened—” and “What the hell—” The second was “€99€{Scourgify!}” as students cleaned up the dropped food and spit-out drinks from themselves, the tablecloth, and each other.
+There was an explosion of conversation. Two words were clearly identifiable in the beginning. The first was an initial “What—” beginning many different sentences such as “What just happened—” and “What the hell—” The second was “<em>Scourgify!</em>” as students cleaned up the dropped food and spit-out drinks from themselves, the tablecloth, and each other.
 
 Some students were weeping openly. So was Professor Sprout.
 
@@ -746,4 +746,4 @@ At the Gryffindor table, where a cake waited with fifty-one unlit candles, Fred 
 
 And from that day onward, no matter what Hermione tried to tell anyone, it would be an accepted legend of Hogwarts that Harry Potter could make absolutely anything happen by snapping his fingers.
 
-€102€
+€18€

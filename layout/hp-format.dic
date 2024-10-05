@@ -21,7 +21,11 @@
 17: '% Avoid widows and orphans'
 18: '% https://mailman.ntg.nl/pipermail/ntg-context/2013/074250.html'
 19: '% Various packages used'
-20: \usepackage{xltxtra}
+20: "\\usepackage{xltxtra}\n\\defaultfontfeatures{Ligatures={TeX}}\n\\setmainfont[\n\
+  \  Extension=.otf\n, UprightFont=*-Regular\n, ItalicFont=*-Italic\n, BoldFont=*-Bold\n\
+  , BoldItalicFont=*-BoldItalic\n, SmallCapsFont=AlegreyaSC-Regular\n]{Alegreya}\n\
+  \n\\newfontface\\hpfont[ExternalLocation]{Lumos}\n\\newfontface\\ptsansi[ExternalLocation]{AlegreyaSans-Italic}\n\
+  \n€3€\n\\renewcommand{\\LettrineFontHook}{\\hpfont}"
 21: \usepackage{xfrac}
 22: \usepackage{censor}
 23: \usepackage{afterpage}
@@ -31,73 +35,84 @@
 27: \usepackage[normalem]{ulem}
 28: \usepackage[useregional]{datetime2}
 29: \usepackage[nopagecolor=white,pagecolor=white]{pagecolor}
-30: \RequirePackage{fmtcount}
-31: \RequirePackage{calc}
-32: \defaultfontfeatures
-33: \setmainfont
-34: \newfontface
-35: \hpfont
-36: \newfontface
-37: \ptsansi
-38: \renewcommand
-39: \LettrineFontHook
-40: \hpfont
-41: \renewcommand
-42: \LettrineTextFont
-43: \renewcommand
-44: \DefaultLoversize
-45: \renewcommand
-46: \DefaultLraise
-47: \newcount
+30: '\RequirePackage{fmtcount}
+
+  \RequirePackage{calc}
+
+
+  €2€
+
+  €20€
+
+  \renewcommand{\LettrineTextFont}{}
+
+  \renewcommand{\DefaultLoversize}'
+31: \renewcommand
+32: \DefaultLraise
+33: \newcount
+34: \hplettrinecount
+35: \makeatletter
+36: \def
+37: \hplettrineextrapara
+38: \ifnum
+39: \prevgraf
+40: \c
+41: \hplettrinecount
+42: \z
+43: \loop
+44: \ifnum
+45: \hplettrinecount
+46: \prevgraf
+47: \advance
 48: \hplettrinecount
-49: \makeatletter
-50: \def
-51: \hplettrineextrapara
-52: \ifnum
-53: \prevgraf
-54: \c
-55: \hplettrinecount
-56: \z
-57: \loop
-58: \ifnum
-59: \hplettrinecount
-60: \prevgraf
-61: \advance
-62: \hplettrinecount
-63: \afterassignment
-64: \hplettrinedima
-65: \count
-66: \L
-67: \relax
-68: \repeat
-69: \parshape
-70: \L
-71: \fi
-72: \def
-73: \hplettrinedima
-74: \afterassignment
-75: \hplettrinedimb
-76: \dimen
-77: \def
-78: \hplettrinedimb
-79: \afterassignment
-80: \hplettrinedef
-81: \dimen
-82: \def
-83: \hplettrinedef
-84: \relax
-85: \edef
-86: \L
-87: \the
-88: \numexpr
-89: \count
-90: \relax
-91: \space
-92: \makeatother
-93: \newcommand
-94: \lettrinepara
-95: \lettrine
-96: \newXeTeXintercharclass
+49: \afterassignment
+50: \hplettrinedima
+51: \count
+52: \L
+53: \relax
+54: \repeat
+55: \parshape
+56: \L
+57: \fi
+58: \def
+59: \hplettrinedima
+60: \afterassignment
+61: \hplettrinedimb
+62: \dimen
+63: \def
+64: \hplettrinedimb
+65: \afterassignment
+66: \hplettrinedef
+67: \dimen
+68: \def
+69: \hplettrinedef
+70: \relax
+71: \edef
+72: \L
+73: \the
+74: \numexpr
+75: \count
+76: \relax
+77: \space
+78: \makeatother
+79: \newcommand
+80: \lettrinepara
+81: \lettrine
+82: \newXeTeXintercharclass
+83: \punctuationClass
+84: \XeTeXcharclass
+85: \punctuationClass
+86: \XeTeXcharclass
+87: \punctuationClass
+88: \XeTeXcharclass
+89: \punctuationClass
+90: \XeTeXcharclass
+91: \punctuationClass
+92: \XeTeXcharclass
+93: \punctuationClass
+94: \XeTeXcharclass
+95: \punctuationClass
+96: \XeTeXcharclass
 97: \punctuationClass
 98: \XeTeXcharclass
 99: \punctuationClass
@@ -105,21 +120,21 @@
 101: \punctuationClass
 102: \XeTeXcharclass
 103: \punctuationClass
-104: \XeTeXcharclass
-105: \punctuationClass
+104: \newXeTeXintercharclass
+105: \digitClass
 106: \XeTeXcharclass
-107: \punctuationClass
+107: \digitClass
 108: \XeTeXcharclass
-109: \punctuationClass
+109: \digitClass
 110: \XeTeXcharclass
-111: \punctuationClass
+111: \digitClass
 112: \XeTeXcharclass
-113: \punctuationClass
+113: \digitClass
 114: \XeTeXcharclass
-115: \punctuationClass
+115: \digitClass
 116: \XeTeXcharclass
-117: \punctuationClass
-118: \newXeTeXintercharclass
+117: \digitClass
+118: \XeTeXcharclass
 119: \digitClass
 120: \XeTeXcharclass
 121: \digitClass
@@ -127,245 +142,217 @@
 123: \digitClass
 124: \XeTeXcharclass
 125: \digitClass
-126: \XeTeXcharclass
-127: \digitClass
+126: \newXeTeXintercharclass
+127: \dashClass
 128: \XeTeXcharclass
-129: \digitClass
+129: \dashClass
 130: \XeTeXcharclass
-131: \digitClass
+131: \dashClass
 132: \XeTeXcharclass
-133: \digitClass
+133: \dashClass
 134: \XeTeXcharclass
-135: \digitClass
-136: \XeTeXcharclass
-137: \digitClass
-138: \XeTeXcharclass
-139: \digitClass
-140: \newXeTeXintercharclass
+135: \dashClass
+136: \XeTeXinterchartokenstate
+137: \def
+138: \morhyphenpenalty
+139: \exhyphenpenalty
+140: \XeTeXinterchartoks
 141: \dashClass
-142: \XeTeXcharclass
-143: \dashClass
-144: \XeTeXcharclass
-145: \dashClass
-146: \XeTeXcharclass
-147: \dashClass
-148: \XeTeXcharclass
-149: \dashClass
-150: \XeTeXinterchartokenstate
-151: \def
-152: \morhyphenpenalty
-153: \exhyphenpenalty
-154: \XeTeXinterchartoks
-155: \dashClass
-156: \hskip
-157: \penalty
-158: \morhyphenpenalty
-159: \setlength
-160: \topsep
-161: \baselineskip
-162: \baselineskip
-163: \baselineskip
-164: \setlength
-165: \partopsep
-166: \baselineskip
-167: \baselineskip
-168: \baselineskip
-169: \frenchspacing
-170: \setlength
-171: \emergencystretch
-172: \textwidth
-173: \doublehyphendemerits
-174: \finalhyphendemerits
-175: \adjdemerits
-176: \brokenpenalty
-177: \relax
-178: \makeatletter
-179: \newcommand
-180: \emdashhyp
-181: \leavevmode
-182: \prw
-183: \discretionary
-184: \prw
-185: \makeatother
-186: \widowpenalty
-187: \clubpenalty
-188: '€0€
+142: \hskip
+143: \penalty
+144: \morhyphenpenalty
+145: \setlength
+146: \topsep
+147: \baselineskip
+148: \baselineskip
+149: \baselineskip
+150: \setlength
+151: \partopsep
+152: \baselineskip
+153: \baselineskip
+154: \baselineskip
+155: \frenchspacing
+156: \setlength
+157: \emergencystretch
+158: \textwidth
+159: \doublehyphendemerits
+160: \finalhyphendemerits
+161: \adjdemerits
+162: \brokenpenalty
+163: \relax
+164: \makeatletter
+165: \newcommand
+166: \emdashhyp
+167: \leavevmode
+168: \prw
+169: \discretionary
+170: \prw
+171: \makeatother
+172: \widowpenalty
+173: \clubpenalty
+174: '€0€
 
   €1€
 
 
-  €30€
-
-  €31€
-
-
-  €2€
-
-  €20€
-
-  €32€'
-189: €34€€35€
-190: €36€€37€
-191: '€3€
-
-  €38€'
-192: '€4€
+  €30€'
+175: '€4€
 
   €5€
 
   €6€
 
-  €47€€48€
+  €33€€34€
 
-  €49€
+  €35€
 
-  €50€€51€'
-193: '€7€
+  €36€€37€'
+176: '€7€
 
-  €52€€53€'
-194: €55€€56€
-195: '€57€
+  €38€€39€'
+177: €41€€42€
+178: '€43€
 
-  €58€€59€'
-196: '€60€
+  €44€€45€'
+179: '€46€
 
-  €61€€62€'
-197: €63€€64€€65€
-198: '€67€
+  €47€€48€'
+180: €49€€50€€51€
+181: '€53€
 
-  €68€
+  €54€
 
-  €69€€70€'
-199: €72€€73€
-200: €74€€75€€76€
-201: €77€€78€
-202: €79€€80€€81€
-203: €82€€83€
-204: €85€€86€
-205: €87€€88€€89€
-206: €90€€91€
-207: '€92€
+  €55€€56€'
+182: €58€€59€
+183: €60€€61€€62€
+184: €63€€64€
+185: €65€€66€€67€
+186: €68€€69€
+187: €71€€72€
+188: €73€€74€€75€
+189: €76€€77€
+190: '€78€
 
-  €93€'
-208: '€8€
+  €79€'
+191: '€8€
 
-  €96€ €97€
+  €82€ €83€
 
+
+  €84€'
+192: '€85€
+
+  €86€'
+193: '€87€
+
+  €88€'
+194: '€89€
+
+  €90€'
+195: '€91€
+
+  €92€'
+196: '€93€
+
+  €94€'
+197: '€95€
+
+  €96€'
+198: '€97€
 
   €98€'
-209: '€99€
+199: '€99€
 
   €100€'
-210: '€101€
+200: '€101€
 
   €102€'
-211: '€103€
+201: '€103€
 
-  €104€'
-212: '€105€
+
+  €104€ €105€
 
   €106€'
-213: '€107€
+202: '€107€
 
   €108€'
-214: '€109€
+203: '€109€
 
   €110€'
-215: '€111€
+204: '€111€
 
   €112€'
-216: '€113€
+205: '€113€
 
   €114€'
-217: '€115€
+206: '€115€
 
   €116€'
-218: '€117€
+207: '€117€
 
-
-  €118€ €119€
+  €118€'
+208: '€119€
 
   €120€'
-219: '€121€
+209: '€121€
 
   €122€'
-220: '€123€
+210: '€123€
 
   €124€'
-221: '€125€
+211: '€125€
 
-  €126€'
-222: '€127€
+
+  €126€ €127€
 
   €128€'
-223: '€129€
+212: '€129€ €9€
 
   €130€'
-224: '€131€
+213: '€131€ €10€
 
   €132€'
-225: '€133€
+214: '€133€ €11€
 
   €134€'
-226: '€135€
+215: '€135€
+
 
   €136€'
-227: '€137€
+216: €137€€138€
+217: €140€ €141€
+218: €143€ €144€
+219: '€12€
 
-  €138€'
-228: '€139€
+  €145€'
+220: '€13€
 
+  €155€
 
-  €140€ €141€
-
-  €142€'
-229: '€143€ €9€
-
-  €144€'
-230: '€145€ €10€
-
-  €146€'
-231: '€147€ €11€
-
-  €148€'
-232: '€149€
-
-
-  €150€'
-233: €151€€152€
-234: €154€ €155€
-235: €157€ €158€
-236: '€12€
+  €156€'
+221: '€14€
 
   €159€'
-237: '€13€
-
-  €169€
-
-  €170€'
-238: '€14€
-
-  €173€'
-239: '€177€
+222: '€163€
 
 
   €15€
 
-  €178€
+  €164€
 
-  €179€'
-240: '€181€€16€
+  €165€'
+223: '€167€€16€
 
-  €182€'
-241: '€185€
+  €168€'
+224: '€171€
 
 
   €17€
 
   €18€
 
-  €186€'
-242: '€19€
+  €172€'
+225: '€19€
 
   €27€
 

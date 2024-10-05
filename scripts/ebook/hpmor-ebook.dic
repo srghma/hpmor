@@ -126,41 +126,16 @@
 125: \include{chapters/hpmor-chapter-120}
 126: \include{chapters/hpmor-chapter-121}
 127: \include{chapters/hpmor-chapter-122}
-128: \input{layout/hp-format}
-129: \input{layout/hp-markup}
-130: \input{layout/hp-intro}
-131: \RequirePackage[pdf]{layout/hp-book}
-132: \renewenvironment
-133: \renewenvironment
-134: \renewenvironment
-135: \newcommand
-136: \writtenNoteA
-137: \par
-138: \textcolor
-139: \renewcommand
-140: \parsel
-141: \textcolor
-142: \renewcommand
-143: \McGonagallWhiteBoard
-144: \textcolor
-145: \par
-146: \renewcommand
-147: \headline
-148: \textcolor
-149: \renewcommand
-150: \inlineheadline
-151: \textcolor
-152: \renewcommand
-153: \newspaperHeader
-154: \renewcommand
-155: \hplettrineextrapara
-156: \part
-157: \part
-158: \part
-159: \part
-160: \part
-161: \part
-162: '€131€
+128: '\input{layout/hp-format}
+
+  \input{layout/hp-markup}
+
+
+  \input{layout/hp-intro}
+
+
+  \renewenvironment{headlines}{}{}'
+129: '\RequirePackage[pdf]{layout/hp-book}
 
 
   €0€
@@ -168,19 +143,44 @@
 
   €128€
 
-  €129€
+  \renewenvironment{writtenNote}{}{}'
+130: \renewenvironment
+131: \newcommand
+132: \writtenNoteA
+133: \par
+134: \textcolor
+135: \renewcommand
+136: \parsel
+137: \textcolor
+138: \renewcommand
+139: \McGonagallWhiteBoard
+140: \textcolor
+141: \par
+142: \renewcommand
+143: \headline
+144: \textcolor
+145: \renewcommand
+146: \inlineheadline
+147: \textcolor
+148: \renewcommand
+149: \newspaperHeader
+150: \renewcommand
+151: \hplettrineextrapara
+152: \part
+153: \part
+154: \part
+155: \part
+156: \part
+157: \part
+158: '€129€
 
+  €130€'
+159: €133€€134€
+160: €1€€144€
+161: '€4€
 
-  €130€
-
-
-  €132€'
-163: €137€€138€
-164: €1€€148€
-165: '€4€
-
-  €156€'
-166: '€5€
+  €152€'
+162: '€5€
 
   €6€
 
@@ -222,8 +222,8 @@
 
   €25€
 
-  €157€'
-167: '€26€
+  €153€'
+163: '€26€
 
   €27€
 
@@ -255,8 +255,8 @@
 
   €41€
 
-  €158€'
-168: '€42€
+  €154€'
+164: '€42€
 
   €43€
 
@@ -308,8 +308,8 @@
 
   €67€
 
-  €159€'
-169: '€68€
+  €155€'
+165: '€68€
 
   €69€
 
@@ -353,8 +353,8 @@
 
   €89€
 
-  €160€'
-170: '€90€
+  €156€'
+166: '€90€
 
   €91€
 
@@ -382,8 +382,8 @@
 
   €103€
 
-  €161€'
-171: '€104€
+  €157€'
+167: '€104€
 
   €105€
 

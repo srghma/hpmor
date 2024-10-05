@@ -1,6 +1,6 @@
-€2€{The Stanford Prison Experiment}{IV}
+€2€<b>The Stanford Prison Experiment</b><b>IV</b>
 
-€3€{A}{} faint green spark moved forward to set the pace, and behind it followed a brilliant silver figure, all other entities invisible. They had traversed five legs of corridor, turned right five times and gone up five flights of stairs; and when Bellatrix had finished her second bottle of chocolate milk, she had been given solid bars of chocolate to eat.
+€3€<b>A</b><b></b> faint green spark moved forward to set the pace, and behind it followed a brilliant silver figure, all other entities invisible. They had traversed five legs of corridor, turned right five times and gone up five flights of stairs; and when Bellatrix had finished her second bottle of chocolate milk, she had been given solid bars of chocolate to eat.
 
 It was after her third bar of chocolate that strange noises began to come from Bellatrix’s throat.
 
@@ -10,7 +10,7 @@ Bellatrix Black was crying, the Dark Lord’s most terrible weapon was crying, s
 
 “It’s real?” said Bellatrix. Tonality had returned into her voice, no longer a dead mutter, it rose up at the end to form the question. “It’s real?”
 
-€4€{Yes,} thought the part of Harry simulating the Dark Lord, €5€{now be silent}—
+<em>Yes,</em> thought the part of Harry simulating the Dark Lord, <em>now be silent</em>—
 
 He couldn’t make those words pass his lips, he just couldn’t.
 
@@ -32,7 +32,7 @@ The brilliant silver figure stopped walking.
 
 Because Harry had stopped walking.
 
-€6€{The Dark Lord, he…} The part of Harry’s self that was soft and vulnerable was screaming in disbelieving horror, trying to reject reality, refuse the understanding, even as a colder and harder part completed the pattern: €7€{She obeyed him in that as she obeyed him in all things.}
+<em>The Dark Lord, he…</em> The part of Harry’s self that was soft and vulnerable was screaming in disbelieving horror, trying to reject reality, refuse the understanding, even as a colder and harder part completed the pattern: <em>She obeyed him in that as she obeyed him in all things.</em>
 
 The green spark bobbed urgently, darted forward.
 
@@ -62,24 +62,24 @@ Brighter the Patronus, brighter and brighter, it was waxing faster than on the d
 
 “My Lord!” the silhouette said in a terrified whisper. “Help me! Everyone will feel it, my Lord!”
 
-€8€{Everyone will feel it,} thought Harry. His imagination could picture it clearly, the prisoners in their cells stirring as the cold and darkness fell away, replaced by healing light.
+<em>Everyone will feel it,</em> thought Harry. His imagination could picture it clearly, the prisoners in their cells stirring as the cold and darkness fell away, replaced by healing light.
 
 Every exposed surface now burned like a white sun in the reflections, the silhouette of Bellatrix’s skeleton and the sallow man now clearly visible in the blaze, the Disillusionment spells unable to keep pace with the unearthly brilliance; only the Cloak of Invisibility of the Deathly Hallows withstood it.
 
-“My Lord! €9€{You must stop it!}”
+“My Lord! <em>You must stop it!</em>”
 
-But Harry could no longer will it to stop, he no longer wanted it to stop. He could sense it, more and more of the sparks of life in Azkaban being sheltered by his Patronus, €10€{as it unfolded like spreading wings of sunlight, the air turned to absolute silver as he thought it, Harry knew what he had to do.}
+But Harry could no longer will it to stop, he no longer wanted it to stop. He could sense it, more and more of the sparks of life in Azkaban being sheltered by his Patronus, <em>as it unfolded like spreading wings of sunlight, the air turned to absolute silver as he thought it, Harry knew what he had to do.</em>
 
-“€11€{Please, my Lord!}”
+“<em>Please, my Lord!</em>”
 
 The words went unheard.
 
-€12€{They were far from him, the Dementors in their pit, but Harry knew that they could be destroyed even at this distance if the light blazed bright enough, he knew that Death itself could not face him if he stopped holding back, so he unsealed all the gates inside him and sank the wells of his spell into all the deepest parts of his spirit, all his mind and all his will, and gave over absolutely everything to the spell—}
+<em>They were far from him, the Dementors in their pit, but Harry knew that they could be destroyed even at this distance if the light blazed bright enough, he knew that Death itself could not face him if he stopped holding back, so he unsealed all the gates inside him and sank the wells of his spell into all the deepest parts of his spirit, all his mind and all his will, and gave over absolutely everything to the spell—</em>
 
 And in the interior of the Sun, an only slightly dimmer shadow moved forward, reaching out an entreating hand.
 
-€13€{WRONG\\
-DON’T}
+<em>WRONG\\
+DON’T</em>
 
 The sudden sense of doom clashed with Harry’s steel determination, dread and uncertainty striving against the bright purpose, nothing else might have reached him but that. The silhouette took another step forward and another, the sense of doom rising to a point of terrible catastrophe; and in the drench of cold water, Harry saw it, he realized the consequences of what he was doing, the danger and the trap.
 
@@ -119,7 +119,7 @@ Otherwise his Patronus would wax until it burned away every Dementor in Azkaban,
 
 Otherwise his Patronus would wax until it burned away every Dementor in Azkaban, taking all of Harry’s life as fuel.
 
-€14€
+€4€
 
 In the Auror’s quarters at the top of Azkaban, one Auror trio was snoring in the barracks, one was resting in the break room, and one was on duty in the command room, keeping watch. The room was simple but large, with three chairs at the back where the Aurors sat, their wands always in hand to sustain their three Patronuses, as the bright white forms paced in front of the open window, sheltering them all from the Dementors’ fear.
 
@@ -127,7 +127,7 @@ The three of them usually stuck to the back, and played poker, and didn’t look
 
 Just in case a Dementor wanted to float up and talk to you.
 
-There was no way that Auror Li would have agreed to serve duty here, triple pay or no triple pay, if he hadn’t had a family to support. (His real name was Xiaoguang, and everyone called him Mike instead; he’d named his children Su and Kao, which hopefully would serve them better.) His only consolation, besides the money, was that at least his mates played an excellent game of Dragon Poker. Though it would be hard €15€{not} to, at this point.
+There was no way that Auror Li would have agreed to serve duty here, triple pay or no triple pay, if he hadn’t had a family to support. (His real name was Xiaoguang, and everyone called him Mike instead; he’d named his children Su and Kao, which hopefully would serve them better.) His only consolation, besides the money, was that at least his mates played an excellent game of Dragon Poker. Though it would be hard <em>not</em> to, at this point.
 
 It was their 5,366th game and Li had what would probably be his best hand of the 5,300s. It was a Saturday in February and there were three players, which let him shift the suit of any one hole card except a two, three, or seven; and that was enough to let him build a Corps-a-Corps with Unicorns, Dragons, and sevens…
 
@@ -161,7 +161,7 @@ After Li raked in the pot, Bahry gave them all formal nods, and stood up from th
 
 Li had been Sorted into Hufflepuff, and he sometimes felt a little queasy about this kind of business. But Bahry had shown them all the pictures, and you had to let a man do what he could for his poor sick wife, especially when he only had seven months left before his retirement.
 
-€16€
+€5€
 
 The faint green spark floated through the metal corridors, and the silver humanoid, seeming a little dimmer now, followed after it. Sometimes the bright figure would flare, especially when they passed one of the huge metal doors, but it always died back down again.
 
@@ -185,7 +185,7 @@ Harry pressed his wand against the side of the metal step just above him. If he 
 
 Thirty seconds later Harry was the proud new owner of a curved mirror, and…
 
-“€17€{Wingardium Leviosa,}” Harry whispered as quietly as he could.
+“<em>Wingardium Leviosa,</em>” Harry whispered as quietly as he could.
 
 …was levitating it just above the steps, and watching, in that curved surface, almost the whole corridor where Professor Quirrell invisibly waited.
 
@@ -195,37 +195,37 @@ And saw the form (a little hard to see in the mirror) of a person in red robes, 
 
 The Auror was protected by a blue shimmer, it was hard to see the details but Harry could see that much, the Auror had shields already raised and strengthened.
 
-€18€{Crap,} thought Harry. According to the Defence Professor, the essential art of duelling consisted of trying to put up defences that would block whatever someone was likely to throw at you, while trying in turn to attack in ways that were likely to go past their current set of defences. And by far the easiest way to win any sort of real fight—Professor Quirrell had said this over and over—was to shoot the enemy before they raised a shield in the first place, either from behind or from close enough range that they couldn’t dodge or counter in time.
+<em>Crap,</em> thought Harry. According to the Defence Professor, the essential art of duelling consisted of trying to put up defences that would block whatever someone was likely to throw at you, while trying in turn to attack in ways that were likely to go past their current set of defences. And by far the easiest way to win any sort of real fight—Professor Quirrell had said this over and over—was to shoot the enemy before they raised a shield in the first place, either from behind or from close enough range that they couldn’t dodge or counter in time.
 
 Though Professor Quirrell might still be able to get in a shot from behind, if—
 
 But the Auror halted after taking three steps into the corridor.
 
-“Nice Disillusionment,” said a hard male voice that Harry didn’t recognize. “Now show yourself, or you’ll be in €19€{real} trouble.”
+“Nice Disillusionment,” said a hard male voice that Harry didn’t recognize. “Now show yourself, or you’ll be in <em>real</em> trouble.”
 
 The form of the sallow, bearded man became visible then.
 
-“And you with the Patronus,” said the hard voice. “Come out too. €20€{Now.}”
+“And you with the Patronus,” said the hard voice. “Come out too. <em>Now.</em>”
 
 “Wouldn’t be smart,” said the gravelly voice of the sallow man. It was no longer the terrified voice of the Dark Lord’s servant; it had suddenly become the professional intimidation of a competent criminal. “You don’t want to see who’s behind me. Trust me, you don’t. Five hundred Galleons, cold cash up front, if you turn around and walk away. Big trouble for your career if you don’t.”
 
 There was a long pause.
 
-“Look, whoever you are,” said the hard voice. “You seem confused about how this works. I don’t care if that’s Lucius Malfoy behind you or Albus bloody Dumbledore. You €21€{all} come out, I scan the whole lot of you, and €22€{then} we talk about how much this is going to cost you—”
+“Look, whoever you are,” said the hard voice. “You seem confused about how this works. I don’t care if that’s Lucius Malfoy behind you or Albus bloody Dumbledore. You <em>all</em> come out, I scan the whole lot of you, and <em>then</em> we talk about how much this is going to cost you—”
 
 “Two thousand Galleons, final offer,” said the gravelly voice, taking on a warning undertone. “That’s ten times the going rate and more than you make in a year. And believe me, if you see something you shouldn’t, you’re going to regret not taking that—”
 
 “Shut it!” said the hard voice. “You’ve got exactly five seconds to drop that wand before I drop you. Five, four—”
 
-€23€{What are you doing, Professor Quirrell?} Harry thought frantically. €24€{Attack first! Cast a shield at least!}
+<em>What are you doing, Professor Quirrell?</em> Harry thought frantically. <em>Attack first! Cast a shield at least!</em>
 
-“—three, two, one! €25€{Stupefy!}”
+“—three, two, one! <em>Stupefy!</em>”
 
-€26€
+€6€
 
 Bahry stared, a chill running down his spine.
 
-The man’s wand had moved so fast that it was like it had Apparated into place, and Bahry’s stunner was currently sparkling tamely at the end of it, not blocked, not countered, not deflected, €27€{caught} like a fly in honey.
+The man’s wand had moved so fast that it was like it had Apparated into place, and Bahry’s stunner was currently sparkling tamely at the end of it, not blocked, not countered, not deflected, <em>caught</em> like a fly in honey.
 
 “My offer has gone back down to five hundred Galleons,” said the man in a colder, more formal voice. He smiled dryly, and the smile looked wrong on that bearded face. “And you shall need to accept a Memory Charm.”
 
@@ -259,9 +259,9 @@ There was a long silence.
 
 Then the air screamed like metal cutting glass as Bahry slashed his wand downward.
 
-€28€
+€7€
 
-Harry could hardly see it, could hardly make out anything amid the lights and flashes, his mirror’s curve was perfect (they’d practised that tactic before in the Chaos Legion) but the scene was still too small, and Harry had the feeling he wouldn’t be able to understand even if he was watching from a metre away, it was all happening too €29€{fast}, red blasts deflecting from blue shields, green bars of light clashing together, shadowy forms appearing and vanishing, he couldn’t even tell who was casting what, except that the Auror was shouting incantation after incantation and frantically dodging while Professor Quirrell’s Polyjuiced form stood in one place and flicked his wand, mostly silently, but now and then pronouncing words in unrecognisable languages that would white out the whole mirror and show half the Auror’s shielding torn away as he staggered back.
+Harry could hardly see it, could hardly make out anything amid the lights and flashes, his mirror’s curve was perfect (they’d practised that tactic before in the Chaos Legion) but the scene was still too small, and Harry had the feeling he wouldn’t be able to understand even if he was watching from a metre away, it was all happening too <em>fast</em>, red blasts deflecting from blue shields, green bars of light clashing together, shadowy forms appearing and vanishing, he couldn’t even tell who was casting what, except that the Auror was shouting incantation after incantation and frantically dodging while Professor Quirrell’s Polyjuiced form stood in one place and flicked his wand, mostly silently, but now and then pronouncing words in unrecognisable languages that would white out the whole mirror and show half the Auror’s shielding torn away as he staggered back.
 
 Harry had seen exhibition duels between the strongest seventh-year students, and this was so far above it that Harry’s mind felt numbed, looking at how far he had left to go. There wasn’t a single seventh-year student who could have lasted half a minute against the Auror, all three seventh-year armies put together might not be able to scratch the Defence Professor…
 
@@ -273,27 +273,27 @@ And Harry saw Professor Quirrell’s Polyjuiced form deliberately point his wand
 
 The Auror spat something unspeakable.
 
-“In that case,” said the voice, “€30€{Avada}—”
+“In that case,” said the voice, “<em>Avada</em>—”
 
-Time seemed to move very slowly, like there was time to hear the individual syllables, €31€{Ke,} and €32€{Da,} and €33€{Vra,} time to watch the Auror starting to throw himself desperately aside; and even though it was all happening so slowly, somehow there wasn’t time to €34€{do} anything, no time for Harry to open his lips and scream €35€{no}, no time to move, maybe even not any time to think.
+Time seemed to move very slowly, like there was time to hear the individual syllables, <em>Ke,</em> and <em>Da,</em> and <em>Vra,</em> time to watch the Auror starting to throw himself desperately aside; and even though it was all happening so slowly, somehow there wasn’t time to <em>do</em> anything, no time for Harry to open his lips and scream €8€<b>no</b>, no time to move, maybe even not any time to think.
 
-Only time for one desperate wish that an innocent man should not die€36€{—}
+Only time for one desperate wish that an innocent man should not die<em>—</em>
 
 And a blazing silver figure stood before the Auror.
 
 Stood there just a fraction of a second before the green light struck home.
 
-€37€
+€9€
 
 Bahry was twisting frantically aside, not knowing if he was going to make it—
 
-His eyes were focused on his opponent and his onrushing death, so Bahry only briefly saw the outline of the brilliant silhouette, the Patronus brighter than any he’d ever seen, saw it just barely long enough to recognize the impossible shape, before the green and the silver light collided and both lights vanished, €38€{both} lights vanished, €39€{the Killing Curse had been blocked}, and then Bahry’s ears were pierced as he saw his terrible opponent screaming, screaming, screaming, clutching at his head and screaming, starting to fall as Bahry was already falling—
+His eyes were focused on his opponent and his onrushing death, so Bahry only briefly saw the outline of the brilliant silhouette, the Patronus brighter than any he’d ever seen, saw it just barely long enough to recognize the impossible shape, before the green and the silver light collided and both lights vanished, <em>both</em> lights vanished, <em>the Killing Curse had been blocked</em>, and then Bahry’s ears were pierced as he saw his terrible opponent screaming, screaming, screaming, clutching at his head and screaming, starting to fall as Bahry was already falling—
 
 Bahry hit the ground, falling from his own frantic lunge, and his dislocated left shoulder and broken rib screamed in protest. Bahry ignored the pain, managed to scramble back to his knees, brought up his wand to stun his opponent, he didn’t understand what was happening but he knew that this was his only chance.
 
-“€40€{Stupefy!}”
+“<em>Stupefy!</em>”
 
-The red bolt struck out toward the man’s falling body, and was torn apart in mid-air and dissipated—and not by any shield. Bahry could €41€{see} it, the wavering in the air that surrounded his fallen and screaming opponent.
+The red bolt struck out toward the man’s falling body, and was torn apart in mid-air and dissipated—and not by any shield. Bahry could <em>see</em> it, the wavering in the air that surrounded his fallen and screaming opponent.
 
 Bahry could feel it like a deadly pressure on his skin, the flux of magic building and building and building toward some terrible breaking point. His instincts screamed at him to run before the explosion came, this was no Charm, no Curse, this was wizardry run wild, but before Bahry could even finish getting to his feet—
 
@@ -305,7 +305,7 @@ As the dreadful flux and pressure began to dissipate, as the wild wizardry died 
 
 That scream choked off too, and then there was silence except for Bahry’s frantic panting.
 
-His thoughts were slow, confused, disarrayed. His opponent had been €42€{insanely} powerful, that hadn’t been a duel, it had been like his first year as a trainee Auror trying to fight Madam Tarma. The Death Eaters hadn’t been a tenth that good, Mad-Eye Moody wasn’t that good…and who, what, how in the name of Merlin’s balls had anyone blocked a €43€{Killing Curse?}
+His thoughts were slow, confused, disarrayed. His opponent had been <em>insanely</em> powerful, that hadn’t been a duel, it had been like his first year as a trainee Auror trying to fight Madam Tarma. The Death Eaters hadn’t been a tenth that good, Mad-Eye Moody wasn’t that good…and who, what, how in the name of Merlin’s balls had anyone blocked a <em>Killing Curse?</em>
 
 Bahry managed to summon the energy to press his wand against his rib, mutter the healing spell, and then press it again to his shoulder. It took more out of him than it should have, took far too much out of him, his magic was within a bare breath of utter exhaustion; he didn’t have anything left for his minor cuts and bruises or even to reinforce the scraps left of his shielding. It was all he could do not to let his Patronus go out.
 
@@ -319,7 +319,7 @@ Well, there was one way to test that.
 
 “Come out,” said Bahry, making his voice harder, “or I start using area-effect curses.” He probably couldn’t have managed one if he’d tried.
 
-“Wait,” said a boy’s voice, a €44€{young} boy’s voice, high and thin and wavering, like someone was holding back exhaustion or tears. The voice now seemed to be coming from closer to hand. “Please wait. I’m—coming out—”
+“Wait,” said a boy’s voice, a <em>young</em> boy’s voice, high and thin and wavering, like someone was holding back exhaustion or tears. The voice now seemed to be coming from closer to hand. “Please wait. I’m—coming out—”
 
 “Drop the invisibility,” growled Bahry. He was too tired to bother with anti-Disillusionment Charms.
 
@@ -341,11 +341,11 @@ The rest of Harry Potter emerged from invisibility, showing the sweat-soaked blu
 
 “Sorry,” whispered the eleven-year-old boy, “here,” and he held out the wand toward Bahry.
 
-Bahry barely stopped himself from snarling at the traumatized boy who’d just saved his life. Instead he overrode the impulse with a sigh, and just stretched out a hand to take the wand. “Look, son, you’re €45€{really} not supposed to point a wand at—”
+Bahry barely stopped himself from snarling at the traumatized boy who’d just saved his life. Instead he overrode the impulse with a sigh, and just stretched out a hand to take the wand. “Look, son, you’re <em>really</em> not supposed to point a wand at—”
 
-The wand’s end twisted lightly beneath Bahry’s hand just as the boy whispered, “€46€{Somnium}.”
+The wand’s end twisted lightly beneath Bahry’s hand just as the boy whispered, “<em>Somnium</em>.”
 
-€47€
+€10€
 
 Harry stared at the Auror’s crumpled body, there was no sense of triumph, just a crushing sense of despair.
 
@@ -353,13 +353,13 @@ Harry stared at the Auror’s crumpled body, there was no sense of triumph, just
 
 Harry turned to look at where the green snake lay motionless.
 
-“€48€{Teacher?}” hissed Harry. “€49€{Friend? Please, are you alive?}” An awful fear was taking hold in Harry’s heart; in that moment he had entirely forgotten that he’d just seen the Defence Professor try to kill a police officer.
+“€11€<b>Teacher?</b>” hissed Harry. “€12€<b>Friend? Please, are you alive?</b>” An awful fear was taking hold in Harry’s heart; in that moment he had entirely forgotten that he’d just seen the Defence Professor try to kill a police officer.
 
-Harry pointed his wand at the snake, and his lips even began to shape the word €50€{Innervate}, before his brain caught up with him and screamed at him.
+Harry pointed his wand at the snake, and his lips even began to shape the word <em>Innervate</em>, before his brain caught up with him and screamed at him.
 
 He didn’t dare use magic on Professor Quirrell.
 
-Harry had felt it, the burning, tearing pain in his head, like his brain was about to split in half. He’d felt it, his magic and Professor Quirrell’s magic, matched and anti-harmonized in a fulfilment of doom. That was the mysterious terrible thing that would happen if Harry and Professor Quirrell ever got too close to each other, or if they ever cast magic on each other, or if €51€{their spells ever touched}, their magic would resonate out of control—
+Harry had felt it, the burning, tearing pain in his head, like his brain was about to split in half. He’d felt it, his magic and Professor Quirrell’s magic, matched and anti-harmonized in a fulfilment of doom. That was the mysterious terrible thing that would happen if Harry and Professor Quirrell ever got too close to each other, or if they ever cast magic on each other, or if <em>their spells ever touched</em>, their magic would resonate out of control—
 
 Harry stared at the snake, he couldn’t tell if it was breathing.
 
@@ -367,13 +367,13 @@ Harry stared at the snake, he couldn’t tell if it was breathing.
 
 He turned to stare at the Auror, who had seen the Boy-Who-Lived, who knew.
 
-The full magnitude of the disaster crushed in on Harry like a thousand hundred-ton weights, he’d managed to stun the Auror but now there was nothing left to do, no way to recover, the mission had failed, everything had failed, €52€{he} had failed.
+The full magnitude of the disaster crushed in on Harry like a thousand hundred-ton weights, he’d managed to stun the Auror but now there was nothing left to do, no way to recover, the mission had failed, everything had failed, <em>he</em> had failed.
 
-Shocked, dismayed, despairing, he €53€{didn’t think of it}, didn’t see the obvious, didn’t remember where the hopeless feelings were coming from, didn’t realize that he still needed to recast the True Patronus Charm.
+Shocked, dismayed, despairing, he <em>didn’t think of it</em>, didn’t see the obvious, didn’t remember where the hopeless feelings were coming from, didn’t realize that he still needed to recast the True Patronus Charm.
 
 (And then it was already too late.)
 
-€54€
+€13€
 
 Auror Li and Auror McCusker had rearranged their chairs around the table, and so they both saw it at the same time, the naked, skeletally thin horror rising up to hover outside the window, the headache already hitting them from seeing it.
 
@@ -383,4 +383,4 @@ The Dementor’s speech hurt their ears as it said, “Bellatrix Black is out of
 
 There was a split second of horrified silence, and then Li tore out of his chair, heading for the communicator to call in reinforcements from the Ministry, even as McCusker grabbed his mirror and started frantically trying to raise the three Aurors who’d gone on patrol.
 
-€55€
+€14€

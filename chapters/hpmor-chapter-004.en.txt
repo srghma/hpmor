@@ -1,15 +1,15 @@
-€5€[The Efficient Market Hypothesis]{The Efficient Market Hypothesis€42€}
+€5€[The Efficient Market Hypothesis]<b>The Efficient Market Hypothesis€11€</b>
 
 €1€
 Disclaimer: J.~K.~Rowling is watching you from where she waits, eternally in the void between worlds.
-€43€
+€12€
 World domination is such an ugly phrase. I prefer to call it world optimisation.
-€44€{As others have noted, the novels seem inconsistent in the apparent purchasing power of a Galleon; I’m picking a consistent value and sticking with it. Five pounds sterling to the Galleon doesn’t square with seven Galleons for a wand and children using hand-me-down wands.}
+€13€<b>As others have noted, the novels seem inconsistent in the apparent purchasing power of a Galleon; I’m picking a consistent value and sticking with it. Five pounds sterling to the Galleon doesn’t square with seven Galleons for a wand and children using hand-me-down wands.</b>
 
-€9€{H}{eaps} of gold Galleons. Stacks of silver Sickles. Piles of bronze Knuts.
+€9€<b>H</b><b>eaps</b> of gold Galleons. Stacks of silver Sickles. Piles of bronze Knuts.
 
 €10€
-Harry stood there, and stared with his mouth open at the family vault. He had so many questions he didn’t know €11€{where} to start.
+Harry stood there, and stared with his mouth open at the family vault. He had so many questions he didn’t know <em>where</em> to start.
 
 From just outside the door of the vault, Professor McGonagall watched him, seeming to lean casually against the wall, but her eyes intent. Well, that made sense. Being plopped in front of a giant heap of gold coins was a test of character so pure it was archetypal.
 
@@ -35,7 +35,7 @@ Griphook stared at Harry. Professor McGonagall looked bemused.
 
 “For a fee, Mr~Potter-Evans-Verres.” The goblin watched him with glittering eyes. “For a certain fee. Where would you find a ton of silver, I wonder?”
 
-“I was speaking hypothetically,” Harry said. €12€{For now, at any rate.} “So…how much would you charge in fees, as a fraction of the whole weight?”
+“I was speaking hypothetically,” Harry said. <em>For now, at any rate.</em> “So…how much would you charge in fees, as a fraction of the whole weight?”
 
 Griphook’s eyes were intent. “I would have to consult my superiors…”
 
@@ -45,13 +45,13 @@ Griphook’s eyes were intent. “I would have to consult my superiors…”
 
 Harry nodded. “Thank you very much, Mr~Griphook.”
 
-€13€{So not only is the wizarding economy almost completely decoupled from the Muggle economy, no-one here has ever heard of arbitrage.} The larger Muggle economy had a fluctuating trading range of gold to silver, so every time the Muggle gold-to-silver ratio got more than 5\% away from the weight of seventeen Sickles to one Galleon, either gold or silver should have drained from the wizarding economy until it became impossible to maintain the exchange rate. Bring in a ton of silver, change to Sickles (and pay 5\%), change the Sickles for Galleons, take the gold to the Muggle world, exchange it for more silver than you started with, and repeat.
+<em>So not only is the wizarding economy almost completely decoupled from the Muggle economy, no-one here has ever heard of arbitrage.</em> The larger Muggle economy had a fluctuating trading range of gold to silver, so every time the Muggle gold-to-silver ratio got more than 5\% away from the weight of seventeen Sickles to one Galleon, either gold or silver should have drained from the wizarding economy until it became impossible to maintain the exchange rate. Bring in a ton of silver, change to Sickles (and pay 5\%), change the Sickles for Galleons, take the gold to the Muggle world, exchange it for more silver than you started with, and repeat.
 
-Wasn’t the Muggle gold-to-silver ratio somewhere around fifty to one? Harry didn’t think it was seventeen, anyway. And it looked like the silver coins were actually €14€{smaller} than the gold coins.
+Wasn’t the Muggle gold-to-silver ratio somewhere around fifty to one? Harry didn’t think it was seventeen, anyway. And it looked like the silver coins were actually <em>smaller</em> than the gold coins.
 
-Then again, Harry was standing in a bank that €15€{literally} stored your money in vaults full of gold coins guarded by dragons, where you had to go in and take coins out of your vault whenever you wanted to spend money. The finer points of arbitraging away market inefficiencies might well be lost on them. He’d been tempted to make snide remarks about the crudity of their financial system…
+Then again, Harry was standing in a bank that <em>literally</em> stored your money in vaults full of gold coins guarded by dragons, where you had to go in and take coins out of your vault whenever you wanted to spend money. The finer points of arbitraging away market inefficiencies might well be lost on them. He’d been tempted to make snide remarks about the crudity of their financial system…
 
-€16€{But the sad thing is, their way is probably better.}
+<em>But the sad thing is, their way is probably better.</em>
 
 On the other hand, one competent hedge fundie could probably own the whole wizarding world within a week. Harry filed away this notion in case he ever ran out of money, or had a week free.
 
@@ -63,7 +63,7 @@ When he had reached twenty, Professor McGonagall coughed. “I think that will b
 
 “Hm?” Harry said, his mind elsewhere. “Hold on, I’m doing a Fermi calculation.”
 
-“A €17€{what}?” said Professor McGonagall, sounding somewhat alarmed.
+“A <em>what</em>?” said Professor McGonagall, sounding somewhat alarmed.
 
 “It’s a mathematical thing. Named after Enrico Fermi. A way of getting rough numbers quickly in your head…”
 
@@ -71,17 +71,17 @@ Twenty gold Galleons weighed a tenth of a kilogram, maybe? And gold was, what, t
 
 Not bad. Harry smiled with a certain grim satisfaction. It was too bad that he was right in the middle of discovering the amazing new world of magic, and couldn’t take time out to explore the amazing new world of being rich, which a quick Fermi estimate said was roughly a billion times less interesting.
 
-€18€{Still, that’s the last time I ever mow a lawn for one lousy pound.}
+<em>Still, that’s the last time I ever mow a lawn for one lousy pound.</em>
 
-Harry wheeled from the giant heap of money. “Pardon me for asking, Professor McGonagall, but I understand that my parents were in their twenties when they died. Is this a €19€{usual} amount of money for a young couple to have in their vault, in the wizarding world?” If it was, a cup of tea probably cost five thousand pounds. Rule one of economics: you can’t eat money.
+Harry wheeled from the giant heap of money. “Pardon me for asking, Professor McGonagall, but I understand that my parents were in their twenties when they died. Is this a <em>usual</em> amount of money for a young couple to have in their vault, in the wizarding world?” If it was, a cup of tea probably cost five thousand pounds. Rule one of economics: you can’t eat money.
 
 Professor McGonagall shook her head. “Your father was the last heir of an old family, Mr~Potter. It’s also possible…” The witch hesitated. “Some of this money may be from bounties placed on You-Know-Who, payable to his ki—ah, to whoever might defeat him. Or those bounties might not have been collected yet. I am not sure.”
 
-“Interesting…” Harry said slowly. “So some of this really is, in a sense, mine. That is, earned by me. Sort of. Possibly. Even if I don’t remember the occasion.” Harry’s fingers tapped against his trouser-leg. “That makes me feel less guilty about spending €20€{a very tiny fraction of it! Don’t panic, Professor McGonagall!}”
+“Interesting…” Harry said slowly. “So some of this really is, in a sense, mine. That is, earned by me. Sort of. Possibly. Even if I don’t remember the occasion.” Harry’s fingers tapped against his trouser-leg. “That makes me feel less guilty about spending <em>a very tiny fraction of it! Don’t panic, Professor McGonagall!</em>”
 
-“Mr~Potter! You are a minor, and as such, you will only be allowed to make €21€{reasonable} withdrawals from—”
+“Mr~Potter! You are a minor, and as such, you will only be allowed to make <em>reasonable</em> withdrawals from—”
 
-“I am €22€{all about} reasonable! I am totally on board with fiscal prudence and impulse control! But I €23€{did} see some things on the way here which would constitute €24€{sensible, grown-up} purchases…”
+“I am <em>all about</em> reasonable! I am totally on board with fiscal prudence and impulse control! But I <em>did</em> see some things on the way here which would constitute <em>sensible, grown-up</em> purchases…”
 
 Harry locked gazes with Professor McGonagall, engaging in a silent staring contest.
 
@@ -89,33 +89,33 @@ Harry locked gazes with Professor McGonagall, engaging in a silent staring conte
 
 “Trunks whose insides hold more than their outsides?”
 
-Professor McGonagall’s face grew stern. “Those are €25€{very} expensive, Mr~Potter!”
+Professor McGonagall’s face grew stern. “Those are <em>very</em> expensive, Mr~Potter!”
 
-“Yes, but—” Harry pleaded. “I’m sure that when I’m an adult I’ll want one. And I €26€{can} afford one. Logically, it would make just as much sense to buy it now instead of later, and get the use of it right away. It’s the same money either way, right? I mean, I €27€{would} want a good one, with €28€{lots} of room inside, good enough that I wouldn’t have to just get a better one later…” Harry trailed off hopefully.
+“Yes, but—” Harry pleaded. “I’m sure that when I’m an adult I’ll want one. And I <em>can</em> afford one. Logically, it would make just as much sense to buy it now instead of later, and get the use of it right away. It’s the same money either way, right? I mean, I <em>would</em> want a good one, with <em>lots</em> of room inside, good enough that I wouldn’t have to just get a better one later…” Harry trailed off hopefully.
 
-Professor McGonagall’s gaze didn’t waver. “And just what would you €29€{keep} in a trunk like that, Mr~Potter—”
+Professor McGonagall’s gaze didn’t waver. “And just what would you <em>keep</em> in a trunk like that, Mr~Potter—”
 
 “Books.”
 
 “Of course,” sighed Professor McGonagall.
 
-“You should have told me €30€{much earlier} that sort of magic item existed! And that I could afford one! Now my father and I are going to have to spend the next two days €31€{frantically} hitting up all the second-hand bookshops for old textbooks, so I can have a decent science library with me at Hogwarts—and maybe a small science-fiction collection, if I can assemble something decent out of the bargain bins. Or better yet, I’ll make the deal a little sweeter for you, okay? Just let me buy—”
+“You should have told me <em>much earlier</em> that sort of magic item existed! And that I could afford one! Now my father and I are going to have to spend the next two days <em>frantically</em> hitting up all the second-hand bookshops for old textbooks, so I can have a decent science library with me at Hogwarts—and maybe a small science-fiction collection, if I can assemble something decent out of the bargain bins. Or better yet, I’ll make the deal a little sweeter for you, okay? Just let me buy—”
 
-“€32€{Mr~Potter!} You think you can €33€{bribe} me?”
+“<em>Mr~Potter!</em> You think you can <em>bribe</em> me?”
 
-“What? €34€{No!} Not like that! I’m saying, Hogwarts can keep some of the books I bring, if you think that any of them would make good additions to the library. I’m going to be getting them cheap, and €35€{I} just want to have them around somewhere or other. It’s okay to bribe people with €36€{books}, right? That’s a—”
+“What? <em>No!</em> Not like that! I’m saying, Hogwarts can keep some of the books I bring, if you think that any of them would make good additions to the library. I’m going to be getting them cheap, and <em>I</em> just want to have them around somewhere or other. It’s okay to bribe people with <em>books</em>, right? That’s a—”
 
 “Family tradition.”
 
 “Yes, exactly.”
 
-Professor McGonagall’s body seemed to slump, the shoulders lowering within her black robes. “I cannot deny the sense of your words, though I much wish I could. I will allow you to withdraw an additional hundred Galleons, Mr~Potter.” She sighed again. “I €37€{know} that I shall regret this, and I am doing it anyway.”
+Professor McGonagall’s body seemed to slump, the shoulders lowering within her black robes. “I cannot deny the sense of your words, though I much wish I could. I will allow you to withdraw an additional hundred Galleons, Mr~Potter.” She sighed again. “I <em>know</em> that I shall regret this, and I am doing it anyway.”
 
 “That’s the spirit! And does a ‘mokeskin pouch’ do what I think it does?”
 
 “It can’t do as much as a trunk,” the witch said with visible reluctance, “but…a mokeskin pouch with a Retrieval Charm and Undetectable Extension Charm can hold a number of items until they are called forth by the one who emplaced them—”
 
-“Yes! I definitely need one of those too! It would be like the super belt pack of ultimate awesomeness! Batman’s utility belt of holding! Never mind my Swiss army knife, I could carry a whole tool set in there! Or €38€{books}! I could have the top three books I was reading on me at all times, and just pull one out anywhere! I’ll never have to waste another minute of my life! What do you say, Professor McGonagall? It’s for the sake of children’s reading, the best of all possible causes.”
+“Yes! I definitely need one of those too! It would be like the super belt pack of ultimate awesomeness! Batman’s utility belt of holding! Never mind my Swiss army knife, I could carry a whole tool set in there! Or <em>books</em>! I could have the top three books I was reading on me at all times, and just pull one out anywhere! I’ll never have to waste another minute of my life! What do you say, Professor McGonagall? It’s for the sake of children’s reading, the best of all possible causes.”
 
 “…I suppose you may add another ten Galleons.”
 
@@ -123,11 +123,11 @@ Griphook was favouring Harry with a gaze of frank respect, possibly even outrigh
 
 “And a little spending money, like you mentioned earlier. I think I can remember seeing one or two other things I might want to store in that pouch.”
 
-“€39€{Don’t push it, Mr~Potter.}”
+“<em>Don’t push it, Mr~Potter.</em>”
 
-“But oh, Professor McGonagall, why rain on my parade? Surely this is a €40€{happy} day, when I discover all things wizarding for the first time! Why act the part of the grumpy grown-up when instead you could smile and remember your own innocent childhood, watching the look of delight upon my young face as I buy a few toys using an insignificant fraction of the wealth that I earned by defeating the most terrible wizard Britain has ever known, not that I’m accusing you of being ungrateful or anything, but still, what are a few toys compared to that?”
+“But oh, Professor McGonagall, why rain on my parade? Surely this is a <em>happy</em> day, when I discover all things wizarding for the first time! Why act the part of the grumpy grown-up when instead you could smile and remember your own innocent childhood, watching the look of delight upon my young face as I buy a few toys using an insignificant fraction of the wealth that I earned by defeating the most terrible wizard Britain has ever known, not that I’m accusing you of being ungrateful or anything, but still, what are a few toys compared to that?”
 
-“€41€{You,}” growled Professor McGonagall. There was a look on her face so fearsome and terrible that Harry squeaked and stepped back, knocking over a pile of gold coins with a great jingling noise and sprawling backwards into a heap of money. Griphook sighed and put a palm over his face. “I would be doing a great service to wizarding Britain, Mr~Potter, if I locked you in this vault and left you here.”
+“<em>You,</em>” growled Professor McGonagall. There was a look on her face so fearsome and terrible that Harry squeaked and stepped back, knocking over a pile of gold coins with a great jingling noise and sprawling backwards into a heap of money. Griphook sighed and put a palm over his face. “I would be doing a great service to wizarding Britain, Mr~Potter, if I locked you in this vault and left you here.”
 
 And they left without any more trouble.
 

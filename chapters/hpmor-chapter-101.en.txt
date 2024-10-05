@@ -1,6 +1,6 @@
-€1€{Precautionary Measures}{II}
+€1€<b>Precautionary Measures</b><b>II</b>
 
-€2€{H}{arry} stood, panting, in the midst of a brief wasted circle amid the forest, more destruction than a first-year should have been able to reach, by himself. The Severing Charm wouldn’t bring down a tree, so he’d started partially Transfiguring cross-sections through the wood. It hadn’t let out what was inside him, bringing down a small circle of trees hadn’t made him feel any better, all the emotions were still there but while he was destroying trees he at least wasn’t thinking about how the feelings couldn’t be let out.
+€2€<b>H</b><b>arry</b> stood, panting, in the midst of a brief wasted circle amid the forest, more destruction than a first-year should have been able to reach, by himself. The Severing Charm wouldn’t bring down a tree, so he’d started partially Transfiguring cross-sections through the wood. It hadn’t let out what was inside him, bringing down a small circle of trees hadn’t made him feel any better, all the emotions were still there but while he was destroying trees he at least wasn’t thinking about how the feelings couldn’t be let out.
 
 After Harry had run out of available magic he’d started tearing off branches with his bare hands and snapping them. His hands were bleeding, though nothing that Madam Pomfrey couldn’t fix in the morning. Only Dark magic left permanent scars on wizards.
 
@@ -14,7 +14,7 @@ In one hand the centaur held a long wooden spear, with an overlarge metal blade 
 
 A jolt of sudden fear brought Harry into the now, and he said quickly, “It’s not what it looks like.”
 
-“I know. The stars themselves proclaim your innocence, ironically enough.” The centaur took a step toward Harry within the small clearing, still holding his spear upright. “A strange word, €3€{innocence}. It means lack of knowledge, like the innocence of a child, and also means lack of guilt. Only those entirely ignorant can lack all responsibility for the consequences of their actions. He knows not what he does, and therefore can be without harmful intent; so says that word.” The deep voice did not echo in the woods.
+“I know. The stars themselves proclaim your innocence, ironically enough.” The centaur took a step toward Harry within the small clearing, still holding his spear upright. “A strange word, <em>innocence</em>. It means lack of knowledge, like the innocence of a child, and also means lack of guilt. Only those entirely ignorant can lack all responsibility for the consequences of their actions. He knows not what he does, and therefore can be without harmful intent; so says that word.” The deep voice did not echo in the woods.
 
 Harry’s eyes flickered to the spear-tip, and he realized that he should have grabbed his Time-Turner the moment he saw the centaur. Now, if Harry tried to reach beneath his robes, the spear could strike him before then, if the centaur was fast enough. “I read once,” Harry said, his voice a bit unsteady as he tried to match deep-sounding words to deep-sounding words, “that it’s wrong to think of little children as innocent, because not knowing isn’t the same as not choosing. That children do little harms to each other with school-yard fights, because they don’t have the power to do great harm. And some adults do great harm. But the adults who don’t, aren’t they more innocent than children, not less?”
 
@@ -36,7 +36,7 @@ Harry didn’t dare look up to the sky. “That means Mars is coming closer to t
 
 The centaur shook his head. “From a diagram? No. The light of the planets, the comets, the subtle shifts in the stars themselves, those I would not see.”
 
-“Cometary orbits are also set thousands of years in advance so they shouldn’t correlate much to current events. And the light of the stars takes years to travel from the stars to Earth, and the stars don’t move much at all, not visibly. So the obvious hypothesis is that centaurs have a native magical talent for Divination which you just, well, €4€{project} onto the night sky.”
+“Cometary orbits are also set thousands of years in advance so they shouldn’t correlate much to current events. And the light of the stars takes years to travel from the stars to Earth, and the stars don’t move much at all, not visibly. So the obvious hypothesis is that centaurs have a native magical talent for Divination which you just, well, <em>project</em> onto the night sky.”
 
 “Perhaps,” the centaur said thoughtfully. His head lowered. “The others would strike you for saying such a thing, but I have ever sought to know what I do not know. Why the night sky can foretell the future—that I surely do not know. It is hard enough to grasp the skill itself. All I can say, son of Lily, is that even if what you are saying is true, it does not seem useful.”
 
@@ -68,21 +68,21 @@ By that time the sense of doom, of power almost tangible in the air, had approac
 
 “P-Professor Quirrell? What are you doing here?”
 
-“Well,” the man in the black cloak said thoughtfully, “€5€{you} needed to fly into a rage and have a loud tantrum in the Forbidden Forest in the middle of the night, and €6€{I} needed to go just outside your ability to detect me and keep watch. One does not leave a student alone in the Forbidden Forest. That should be obvious in retrospect.”
+“Well,” the man in the black cloak said thoughtfully, “<em>you</em> needed to fly into a rage and have a loud tantrum in the Forbidden Forest in the middle of the night, and <em>I</em> needed to go just outside your ability to detect me and keep watch. One does not leave a student alone in the Forbidden Forest. That should be obvious in retrospect.”
 
 Harry stared at the fallen centaur.
 
 The horse-form wasn’t breathing.
 
-“You—you €7€{killed} him, that was Avada Kedavra—”
+“You—you <em>killed</em> him, that was Avada Kedavra—”
 
-“I do not always understand how other people imagine morality to work, Mr~Potter. But even I know that on conventional morality, it is acceptable to kill non-human creatures which are about to slay a wizard child. Perhaps you do not care about the non-human part, but he was about to €8€{kill} you. He was hardly innocent—”
+“I do not always understand how other people imagine morality to work, Mr~Potter. But even I know that on conventional morality, it is acceptable to kill non-human creatures which are about to slay a wizard child. Perhaps you do not care about the non-human part, but he was about to <em>kill</em> you. He was hardly innocent—”
 
 The Defence Professor stopped, looking at Harry, who had raised one trembling hand to his mouth.
 
 “Well,” the Defence Professor said then, “I have made my point, and you may think on it. Centaur spears can block many spells, but no-one tries to block if they see that the spell is a certain shade of green. For this purpose it is useful to know some green stunning hexes. Really, Mr~Potter, you should understand by now how I operate.”
 
-The Defence Professor came nearer the centaur’s body, and Harry took an involuntary step back, then another, at the terrible rising sense of €9€{STOP, DON’T—}
+The Defence Professor came nearer the centaur’s body, and Harry took an involuntary step back, then another, at the terrible rising sense of <em>STOP, DON’T—</em>
 
 The Defence Professor knelt and pressed his wand to the centaur’s head.
 
@@ -96,7 +96,7 @@ The centaur walked away, the four horse-legs moving in strange synchrony.
 
 “Happy now?” the Defence Professor said, sounding rather sardonic about it.
 
-Harry’s brain still felt broken. “He was trying to €10€{kill} me.”
+Harry’s brain still felt broken. “He was trying to <em>kill</em> me.”
 
 “Oh, for Merlin’s sake—yes, he was trying to kill you. Get used to it. Only boring people never have that experience.”
 
@@ -108,9 +108,9 @@ Harry stared at where the centaur had wandered into the trees.
 
 His brain still felt half-broken, like an engine misfiring, but Harry did not see how this could possibly be a good sign.
 
-€11€
+€3€
 
-The news of Draco Malfoy nearly being eaten by a horror had been sufficient to summon back Dumbledore from wherever he’d gone, to wake Lord Malfoy and the Lady Greengrass’s handsome husband, to bring forth Amelia Bones. The supposed presence of the horror had provoked skepticism even from Dumbledore, and the possibility of False Memory Charms had been raised. Harry had said (after some internal debate about the consequences of people believing a demon was on the loose) that he didn’t actually remember making the same effort he’d put forth to frighten the Dementor, the dark thing had just left; which was what you would expect someone to create as a False Memory, if they hadn’t actually known how Harry had done it. The names of Bellatrix Black, Severus Snape, and Quirinus Quirrell had been mentioned in connection with wizards strong enough to subdue everyone present and cast False Memory Charms, and Harry had known that Lucius was thinking of Dumbledore. There had been Aurors testifying, and discussions going in circles, and glares of accusation, and cutting remarks at 2€12€ in the morning. There had been motions, and votes, and consequences.
+The news of Draco Malfoy nearly being eaten by a horror had been sufficient to summon back Dumbledore from wherever he’d gone, to wake Lord Malfoy and the Lady Greengrass’s handsome husband, to bring forth Amelia Bones. The supposed presence of the horror had provoked skepticism even from Dumbledore, and the possibility of False Memory Charms had been raised. Harry had said (after some internal debate about the consequences of people believing a demon was on the loose) that he didn’t actually remember making the same effort he’d put forth to frighten the Dementor, the dark thing had just left; which was what you would expect someone to create as a False Memory, if they hadn’t actually known how Harry had done it. The names of Bellatrix Black, Severus Snape, and Quirinus Quirrell had been mentioned in connection with wizards strong enough to subdue everyone present and cast False Memory Charms, and Harry had known that Lucius was thinking of Dumbledore. There had been Aurors testifying, and discussions going in circles, and glares of accusation, and cutting remarks at 2€4€ in the morning. There had been motions, and votes, and consequences.
 
 “Do you believe,” Headmaster Dumbledore said quietly to Harry, when all of it was done, and the two of them alone, “that the Hogwarts you have wrought is an improvement?”
 
@@ -148,7 +148,7 @@ The old wizard gazed down at Harry through the half-moon glasses. His voice was 
 
 “Perhaps,” the old wizard said. “And your own error, Harry, is that you do not feel the pain of those you hurt, once you have done your multiplication.”
 
-“Maybe.” Harry went on staring at his knees. “Or maybe it’s worse than that. Headmaster, what does it mean if a centaur doesn’t like me?” €13€{What does it mean when a member of a race of magical creatures known for Divination gives you a lecture on people who are ignorant of consequences, apologizes, and then tries to stab you with a spear?}
+“Maybe.” Harry went on staring at his knees. “Or maybe it’s worse than that. Headmaster, what does it mean if a centaur doesn’t like me?” <em>What does it mean when a member of a race of magical creatures known for Divination gives you a lecture on people who are ignorant of consequences, apologizes, and then tries to stab you with a spear?</em>
 
 “A centaur?” the Headmaster said. “When did you—ah, the Time-Turner. You are the reason why I could not travel back to before the event, on pain of paradox.”
 

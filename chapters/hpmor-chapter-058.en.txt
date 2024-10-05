@@ -1,25 +1,25 @@
-€3€{The Stanford Prison Experiment}{TSPE}{VIII}{Constrained Cognition}
+€3€<b>The Stanford Prison Experiment</b><b>TSPE</b><b>VIII</b><b>Constrained Cognition</b>
 
 €1€
-A movie trailer for Army of Darkness, resembling the one Harry saw, is €4€{https://www.youtube.com/watch?v=UHZQEtG8xYo}{UHZQEtG8xYo on YouTube}
+A movie trailer for Army of Darkness, resembling the one Harry saw, is €4€<b>https://www.youtube.com/watch?v=UHZQEtG8xYo</b><b>UHZQEtG8xYo on YouTube</b>
 
 The key quote is as follows, spoken by a man of modern times to listeners from the Middle Ages:
 “All right you primitive screwheads! Listen up! You see this? This…is my boomstick!”
-€108€{I}{n} darkness absolute, a boy stood holding his wand to the solid metal wall of Azkaban, essaying a magic that only three other people in the world would have believed possible, and that none save he alone could wield.
+€50€<b>I</b><b>n</b> darkness absolute, a boy stood holding his wand to the solid metal wall of Azkaban, essaying a magic that only three other people in the world would have believed possible, and that none save he alone could wield.
 
 Of course a powerful wizard could’ve cut through the wall in seconds, with a gesture and a word.
 
 For an average adult it might have been a matter of a few minutes’ work, and afterwards they would have been winded.
 
-But to accomplish the same end as a first-year Hogwarts student, you had to be €6€{efficient}.
+But to accomplish the same end as a first-year Hogwarts student, you had to be <em>efficient</em>.
 
-Luckily—well, not €7€{luckily}, luck had nothing to do with it€109€{conscientiously}, Harry had practised Transfiguration for an extra hour every day, to the point where he was ahead of even Hermione in that one class; he’d practised partial Transfiguration to the point where his thoughts had begun taking the true universe for granted, so that it required only slightly more effort to keep its timeless quantum nature in mind, even as he kept a firm mental separation between the concept of Form and the concept of substance.
+Luckily—well, not <em>luckily</em>, luck had nothing to do with it€6€<em>conscientiously</em>, Harry had practised Transfiguration for an extra hour every day, to the point where he was ahead of even Hermione in that one class; he’d practised partial Transfiguration to the point where his thoughts had begun taking the true universe for granted, so that it required only slightly more effort to keep its timeless quantum nature in mind, even as he kept a firm mental separation between the concept of Form and the concept of substance.
 
-And the €10€{problem} with that art having become so routine…
+And the <em>problem</em> with that art having become so routine…
 
 …was that Harry could think about other things while he was doing it.
 
-Somehow his thoughts had managed to not go there, to not confront the obvious, until he was faced with the prospect of €11€{really actually doing it in just a few minutes}.
+Somehow his thoughts had managed to not go there, to not confront the obvious, until he was faced with the prospect of <em>really actually doing it in just a few minutes</em>.
 
 What Harry was about to do…
 
@@ -29,7 +29,7 @@ Really dangerous.
 
 Someone-might-actually-genuinely-get-killed dangerous.
 
-Facing down twelve Dementors without a Patronus Charm had been €12€{scary}, but merely scary. Harry could have cast the Patronus Charm, €13€{would} have cast it as soon as he thought he was in danger of not being able to do so, as soon as he felt his resistance beginning to fail. And even if that hadn’t worked…even so, unless the Dementors had been instructed to Kiss anyone they found, failure shouldn’t have been €14€{fatal}.
+Facing down twelve Dementors without a Patronus Charm had been <em>scary</em>, but merely scary. Harry could have cast the Patronus Charm, <em>would</em> have cast it as soon as he thought he was in danger of not being able to do so, as soon as he felt his resistance beginning to fail. And even if that hadn’t worked…even so, unless the Dementors had been instructed to Kiss anyone they found, failure shouldn’t have been <em>fatal</em>.
 
 This was different.
 
@@ -41,21 +41,21 @@ The Aurors could get in a lucky shot.
 
 It was just, well…
 
-€15€{Seriously} dangerous.
+<em>Seriously</em> dangerous.
 
 Harry had caught his mind trying to argue itself into believing that it was safe.
 
-And sure, the whole thing €16€{could} work, but…
+And sure, the whole thing <em>could</em> work, but…
 
 But even leaving out that rationalists weren’t ever allowed to argue themselves into things, Harry knew he couldn’t possibly have argued himself into estimating less than a 20\% probability of dying.
 
-€17€{Lose,} said Hufflepuff.
+<em>Lose,</em> said Hufflepuff.
 
-€18€{Lose}, said the voice of Professor Quirrell in his mind.
+<em>Lose</em>, said the voice of Professor Quirrell in his mind.
 
-€19€{Lose,} said his mental model of Hermione and Professor McGonagall and Professor Flitwick and Neville Longbottom and, well, basically everyone Harry knew except for Fred and George, who would have gone for it in a hot second.
+<em>Lose,</em> said his mental model of Hermione and Professor McGonagall and Professor Flitwick and Neville Longbottom and, well, basically everyone Harry knew except for Fred and George, who would have gone for it in a hot second.
 
-He should just go find Dumbledore and turn himself in. He should, he really really should, it was the only €20€{sane} thing to do at this point.
+He should just go find Dumbledore and turn himself in. He should, he really really should, it was the only <em>sane</em> thing to do at this point.
 
 And if it’d been only Harry on the mission, only his own life that’d been at stake, he would have; he surely would have.
 
@@ -67,53 +67,53 @@ If Professor Quirrell went to Azkaban for his part in the escape, he would die. 
 
 It was that simple.
 
-If Harry €21€{lost} here…
+If Harry <em>lost</em> here…
 
 He lost Professor Quirrell.
 
-€22€{Even though he’s probably evil,} said the Hufflepuff part of him quietly. €23€{Even so?}
+<em>Even though he’s probably evil,</em> said the Hufflepuff part of him quietly. <em>Even so?</em>
 
-It wasn’t a decision that Harry had made in any conscious way. He just couldn’t do it. Losing was for House points, not €24€{people}.
+It wasn’t a decision that Harry had made in any conscious way. He just couldn’t do it. Losing was for House points, not <em>people</em>.
 
-€25€{If you think your own life is valuable enough that you’re not willing to take on an eighty percent probability of dying in order to protect all the prisoners in Azkaban,} his Slytherin side observed, €26€{there’s no way you can justify taking a twenty percent risk to your life to save Bellatrix and Professor Quirrell. The maths doesn’t add up, you can’t be assigning consistent utilities over outcomes here.}
+<em>If you think your own life is valuable enough that you’re not willing to take on an eighty percent probability of dying in order to protect all the prisoners in Azkaban,</em> his Slytherin side observed, <em>there’s no way you can justify taking a twenty percent risk to your life to save Bellatrix and Professor Quirrell. The maths doesn’t add up, you can’t be assigning consistent utilities over outcomes here.</em>
 
 The logical side of him noted that Slytherin had just won the argument.
 
-Harry kept the Form in his mind, kept on casting the spell. He could always just abort the mission when he was €27€{done} with the Transfiguration, he didn’t want to lose the effort he’d already invested.
+Harry kept the Form in his mind, kept on casting the spell. He could always just abort the mission when he was <em>done</em> with the Transfiguration, he didn’t want to lose the effort he’d already invested.
 
 And then Harry thought of something else that suddenly made it very hard to keep the magic going, very hard to keep up his resistance to the Dementors.
 
-€28€{What if the portkey doesn’t take us where Professor Quirrell said it did?}
+<em>What if the portkey doesn’t take us where Professor Quirrell said it did?</em>
 
 It was obvious in retrospect the moment he thought about it.
 
-Even if the planned escape went completely right, even if the Muggle device worked and €29€{didn’t} explode and €30€{didn’t} interact badly with the mated magic item, even if the Aurors didn’t get in a lucky shot, even if Harry made it far enough away from Azkaban to use the portkey…
+Even if the planned escape went completely right, even if the Muggle device worked and <em>didn’t</em> explode and <em>didn’t</em> interact badly with the mated magic item, even if the Aurors didn’t get in a lucky shot, even if Harry made it far enough away from Azkaban to use the portkey…
 
 …there might not be a psychiatric healer at the end of it.
 
 That was something Harry had believed when he’d trusted Professor Quirrell, and he’d forgotten to re-evaluate it after Professor Quirrell was no longer to be trusted.
 
-€31€{You can’t do this,} said Hufflepuff. €32€{At this point we’re talking mere stupidity.}
+<em>You can’t do this,</em> said Hufflepuff. <em>At this point we’re talking mere stupidity.</em>
 
 Cold seemed to spread through the room, but Harry kept the Transfiguration going, even as his resistance against the Dementors faltered.
 
-€33€{I can’t lose Professor Quirrell.}
+<em>I can’t lose Professor Quirrell.</em>
 
-€34€{He tried to kill a police officer,} said Hufflepuff. €35€{You already lost him, in that moment. Bellatrix is probably just what everyone thinks she is. Just take your Cloak back, go find Dumbledore and tell him you were tricked.}
+<em>He tried to kill a police officer,</em> said Hufflepuff. <em>You already lost him, in that moment. Bellatrix is probably just what everyone thinks she is. Just take your Cloak back, go find Dumbledore and tell him you were tricked.</em>
 
-€36€{No,} thought Harry desperately, €37€{not without talking to Professor Quirrell, there might be an explanation, I don’t know, maybe he was standing far enough away from my Patronus that the Dementors got to him…I don’t understand, it doesn’t make sense on any hypothesis, why he would do that…I can’t just…}
+<em>No,</em> thought Harry desperately, <em>not without talking to Professor Quirrell, there might be an explanation, I don’t know, maybe he was standing far enough away from my Patronus that the Dementors got to him…I don’t understand, it doesn’t make sense on any hypothesis, why he would do that…I can’t just…</em>
 
 Harry turned his mind away from that chain of thought before it completely broke his resistance to the fear, because he couldn’t think of feeding Professor Quirrell to Dementors while staying resolved against Death, it was a cognitive impossibility.
 
-€38€{Your reasoning is artificially impaired,} observed the logical part of him calmly, €39€{find a way to unimpair it}.
+<em>Your reasoning is artificially impaired,</em> observed the logical part of him calmly, <em>find a way to unimpair it</em>.
 
-€40€{All right, let’s just generate alternatives,} Harry thought. €41€{Not choose, not weigh, certainly not commit…just think about what else I might be able to do besides the original plan.}
+<em>All right, let’s just generate alternatives,</em> Harry thought. <em>Not choose, not weigh, certainly not commit…just think about what else I might be able to do besides the original plan.</em>
 
 And Harry went on cutting the hole in the wall. He was using partial Transfiguration on a thin cylindrical shell of metal, two metres in diameter and half a millimetre thick, running all the way through the wall. He was Transfiguring that half-millimetre thickness of metal into motor oil. Motor oil was a liquid and you weren’t to Transfigure liquids because they might evaporate, but he and Bellatrix and the snake all had Bubble-Head Charms. And Harry would cast Finite on the oil immediately after, dispelling his own Transfiguration…
 
 …as soon as the separated and lubricated hunk of metal slid out of the wall and onto the floor of their cell, he’d slanted it so gravity would pull it in, once the Transfiguration was done.
 
-If Harry and Bellatrix €42€{didn’t} exit on his broomstick through the resulting hole in the wall…
+If Harry and Bellatrix <em>didn’t</em> exit on his broomstick through the resulting hole in the wall…
 
 Harry’s brain suggested that he could try to Transfigure a surface cover over the hole in the wall, leaving a space for Bellatrix and Professor Quirrell to hide in, wearing the Cloak, while Harry turned himself in. And Professor Quirrell would eventually wake up, and he and Bellatrix could try to figure out how to exit Azkaban on their own.
 
@@ -121,7 +121,7 @@ It was, first of all, a dumb idea, and second, there would still be a huge hunk 
 
 And then Harry’s brain saw the obvious.
 
-€43€{Let Bellatrix and Professor Quirrell use the escape route you invented. You stay behind, and turn yourself in.}
+<em>Let Bellatrix and Professor Quirrell use the escape route you invented. You stay behind, and turn yourself in.</em>
 
 Bellatrix and Professor Quirrell were the ones whose lives were at stake.
 
@@ -129,11 +129,11 @@ They were gaining, not losing, from taking the risk.
 
 And there was no reason, no sane reason at all, for Harry to go with them.
 
-A calm came over Harry as he thought it, the cold and darkness that had been wavering around the fringes of his mind retreated. Yes, that was it, that was the creative outside-the-box route, that was the hidden third alternative. The falseness of the dilemma was obvious in retrospect. If Harry turned himself in, he €44€{didn’t} have to turn in Bellatrix and Professor Quirrell. If Bellatrix and Professor Quirrell took a dangerous escape route, Harry €45€{didn’t} need to go with them.
+A calm came over Harry as he thought it, the cold and darkness that had been wavering around the fringes of his mind retreated. Yes, that was it, that was the creative outside-the-box route, that was the hidden third alternative. The falseness of the dilemma was obvious in retrospect. If Harry turned himself in, he <em>didn’t</em> have to turn in Bellatrix and Professor Quirrell. If Bellatrix and Professor Quirrell took a dangerous escape route, Harry <em>didn’t</em> need to go with them.
 
 Harry didn’t even need to face the embarrassment of admitting he’d been tricked, if he ordered Bellatrix to remove the memory. Everyone would just assume he’d been kidnapped, including Harry himself. Admittedly, there was no plausible reason why the Dark Lord would ever ask Bellatrix to do that; but Harry could simply smile and tell Bellatrix she wasn’t allowed to know, and that would be that…
 
-€46€
+€7€
 
 Her Auror team was around three-quarters of the way down Azkaban, as were the other two teams on the other two spirals. Amelia was feeling tenser already, though she was betting on the criminals hiding on the second-to-lowest floor, part of her wished Dumbledore had thought to check that specific floor more carefully and part of her was glad he hadn’t.
 
@@ -143,15 +143,15 @@ Amelia looked at Dumbledore before she realized, before she managed to stop hers
 
 The old wizard shrugged, gave her a small smile, said, “Since you asked it, Amelia,” and went off yet again.
 
-€47€
+€8€
 
-“€48€{Finite Incantatem,}” Harry said to the oil coating the giant chunk of metal on the floor. He hardly heard himself speak, his ears were still ringing from the gigantic thud of the solid metal sliding out of the wall and falling. (He should have put up a Quieting Charm, in retrospect, though that wouldn’t have stopped the noise from spreading through the solid metal floor.) And then Harry said it again, “€49€{Finite Incantatem}” to the oil coating the two-metre hole in the wall, spreading the effect wide; it was his own magic Harry was cancelling, which made the spell almost effortless. Harry was feeling a bit tired now, but that was the last use of magic he would need. He hadn’t even €50€{needed} to do it, really, but Harry didn’t want to leave Transfigured liquid lying around, and he didn’t want to betray the secret of partial Transfiguration either.
+“<em>Finite Incantatem,</em>” Harry said to the oil coating the giant chunk of metal on the floor. He hardly heard himself speak, his ears were still ringing from the gigantic thud of the solid metal sliding out of the wall and falling. (He should have put up a Quieting Charm, in retrospect, though that wouldn’t have stopped the noise from spreading through the solid metal floor.) And then Harry said it again, “<em>Finite Incantatem</em>” to the oil coating the two-metre hole in the wall, spreading the effect wide; it was his own magic Harry was cancelling, which made the spell almost effortless. Harry was feeling a bit tired now, but that was the last use of magic he would need. He hadn’t even <em>needed</em> to do it, really, but Harry didn’t want to leave Transfigured liquid lying around, and he didn’t want to betray the secret of partial Transfiguration either.
 
-It seemed very…€51€{inviting}, that two-metre hole leading to freedom.
+It seemed very…<em>inviting</em>, that two-metre hole leading to freedom.
 
 The light from outside coming in…wasn’t exactly the Sun shining on his face, but it was brighter than anything in Azkaban’s interior.
 
-Harry €52€{was} tempted to just go with them, just hop on the broomstick with Bellatrix and the snake. Chances were that they €53€{would} get out safely. And if they €54€{did} get out safely, and Harry came along, then he and Professor Quirrell could go back in time and look perfectly innocent, and everything could go back to normal.
+Harry <em>was</em> tempted to just go with them, just hop on the broomstick with Bellatrix and the snake. Chances were that they <em>would</em> get out safely. And if they <em>did</em> get out safely, and Harry came along, then he and Professor Quirrell could go back in time and look perfectly innocent, and everything could go back to normal.
 
 If Harry stayed behind and turned himself in…then even if everyone assumed Harry had been a hostage, assumed Harry had lied to Professor McGonagall’s Patronus at wand-point…even if Harry himself got off lightly, well…
 
@@ -161,71 +161,71 @@ Professor Quirrell would have reached the predestined end of his career, in Febr
 
 And yes, Professor McGonagall would kill Harry, and yes, it would be slow and painful.
 
-But staying behind was the sensible, safe, €55€{sane} thing to do, and Harry was feeling more relaxed than regretful.
+But staying behind was the sensible, safe, <em>sane</em> thing to do, and Harry was feeling more relaxed than regretful.
 
 Harry turned to Bellatrix; he opened his mouth to instruct her a final time—
 
 And there was a hiss, a weak hiss, a hiss that sounded slow and confused, and the hiss said,
 
-“€56€{What was…that noise?}”
+“€9€<b>What was…that noise?</b>”
 
-€57€
+€10€
 
 Through the corridor the old wizard strode. He came to a metal door and opened it, already knowing from memory that the cells within were empty.
 
 Seven mighty and discerning incantations the wizard spoke then, before he moved on; it would be little enough exertion in total, with so few cells left to check.
 
-€58€
+€11€
 
-“€59€{Teacher,}” Harry hissed. So many emotions bubbling up in him, all at once. He knew, though he could not see, that the green snake around Bellatrix’s shoulders was slowly lifting its head to look around. “€60€{Are you…all right, teacher?}”
+“€12€<b>Teacher,</b>” Harry hissed. So many emotions bubbling up in him, all at once. He knew, though he could not see, that the green snake around Bellatrix’s shoulders was slowly lifting its head to look around. “€13€<b>Are you…all right, teacher?</b>”
 
-“€61€{Teacher?}” came the weak, confused hiss. “€62€{Where is this?}”
+“€14€<b>Teacher?</b>” came the weak, confused hiss. “€15€<b>Where is this?</b>”
 
-“€63€{Prison,}” Harry replied, “€64€{the prison with life-eaters, we were to rescue a woman, you and I\@. You tried to slay the protector man, I blocked your killing curse, there was a resonance between us…you fell unconscious, I had to defeat the protector man myself…my guardian Charm was dispelled, the life-eaters could tell the protectors that the woman had escaped. There is someone here who can sense my guardian Charm, probably the schoolmaster…so had to dispel my guardian Charm, find different way to hide you and the woman from life-eaters without guardian Charm, learn to protect myself without guardian Charm, scare off life-eaters without guardian Charm, then devise new escape plan for you and the woman, and finally, cut hole in thick metal wall of prison even though I am only first-year student. No time to explain, you must go now. If we never meet again, teacher, then I was glad to know you for a time, even though you are probably evil. It is good to have the chance to say this much: goodbye.}”
+“€16€<b>Prison,</b>” Harry replied, “€17€<b>the prison with life-eaters, we were to rescue a woman, you and I\@. You tried to slay the protector man, I blocked your killing curse, there was a resonance between us…you fell unconscious, I had to defeat the protector man myself…my guardian Charm was dispelled, the life-eaters could tell the protectors that the woman had escaped. There is someone here who can sense my guardian Charm, probably the schoolmaster…so had to dispel my guardian Charm, find different way to hide you and the woman from life-eaters without guardian Charm, learn to protect myself without guardian Charm, scare off life-eaters without guardian Charm, then devise new escape plan for you and the woman, and finally, cut hole in thick metal wall of prison even though I am only first-year student. No time to explain, you must go now. If we never meet again, teacher, then I was glad to know you for a time, even though you are probably evil. It is good to have the chance to say this much: goodbye.</b>”
 
 And Harry took the broomstick and presented it to Bellatrix, saying simply, “Get on.”
 
-He had decided to keep the memories. For one thing, they were important. For another, he and the Defence Professor had started planning this a week ago, and Harry wasn’t about to obliterate the whole last week, €65€{or} explain to Bellatrix exactly what needed to be Obliviated. Harry could probably fool Veritaserum, and if Dumbledore insisted that Harry drop his Occlumency shields for a deeper examination…well, Harry had acted heroically throughout.
+He had decided to keep the memories. For one thing, they were important. For another, he and the Defence Professor had started planning this a week ago, and Harry wasn’t about to obliterate the whole last week, <em>or</em> explain to Bellatrix exactly what needed to be Obliviated. Harry could probably fool Veritaserum, and if Dumbledore insisted that Harry drop his Occlumency shields for a deeper examination…well, Harry had acted heroically throughout.
 
-“€66€{Stop!}” said the snake. Its voice was stronger now. “€67€{Stop, stop, stop! What do you mean, goodbye?}”
+“€18€<b>Stop!</b>” said the snake. Its voice was stronger now. “€19€<b>Stop, stop, stop! What do you mean, goodbye?</b>”
 
-“€68€{Escape plan is risky,}” said Harry. “€69€{My life is not at stake, only yours and hers. So I am staying, turning myself in}—”
+“€20€<b>Escape plan is risky,</b>” said Harry. “€21€<b>My life is not at stake, only yours and hers. So I am staying, turning myself in</b>—”
 
-“€70€{No!}” said the snake. The hiss was forceful. “€71€{Must not! Not permitted!}”
+“€22€<b>No!</b>” said the snake. The hiss was forceful. “€23€<b>Must not! Not permitted!</b>”
 
 Bellatrix mounted the broomstick; Harry could sense (but never see) her head turning to look at him, she said no word. Awaiting him, perhaps, or merely awaiting his orders.
 
-“€72€{No longer trust you,}” Harry said simply. “€73€{Not since you tried to slay the protector man.}”
+“€24€<b>No longer trust you,</b>” Harry said simply. “€25€<b>Not since you tried to slay the protector man.</b>”
 
-And the snake hissed, “€74€{I did not seek to slay the protector man! Are you fool, boy? Slaying him would not make sense, evil or no!}”
+And the snake hissed, “€26€<b>I did not seek to slay the protector man! Are you fool, boy? Slaying him would not make sense, evil or no!</b>”
 
 The Earth ceased to turn on its axis, paused in its orbit around the Sun.
 
-The snake’s hiss was now more furious than anything Harry had ever heard from the human Professor Quirrell. “€75€{Slay him? Had I sought to slay him he would have been dead within seconds, fool boy, he was no match for me! I sought to subdue, to dominate, force him to drop shields upon his mind, needed to read him, to know who awaited his reply, learn details for memory spell}—”
+The snake’s hiss was now more furious than anything Harry had ever heard from the human Professor Quirrell. “€27€<b>Slay him? Had I sought to slay him he would have been dead within seconds, fool boy, he was no match for me! I sought to subdue, to dominate, force him to drop shields upon his mind, needed to read him, to know who awaited his reply, learn details for memory spell</b>—”
 
-“€76€{You cast killing curse!}”
+“€28€<b>You cast killing curse!</b>”
 
-“€77€{Knew he would dodge!}”
+“€29€<b>Knew he would dodge!</b>”
 
-“€78€{Was his life worth so little? What if he did not dodge?}”
+“€30€<b>Was his life worth so little? What if he did not dodge?</b>”
 
-“€79€{Would have pushed him out of the way with own magic, fool boy!}”
+“€31€<b>Would have pushed him out of the way with own magic, fool boy!</b>”
 
 Again the pause in the planet’s spin. Harry hadn’t thought of that.
 
-“€80€{Witless dunce of a plotter,}” hissed the snake, so angrily that the hisses seemed to overlap and slither over each other’s tails, “€81€{clever imbecile, cunning idiot, fool of an untrained Slytherin, your misplaced mistrust has ruined}—”
+“€32€<b>Witless dunce of a plotter,</b>” hissed the snake, so angrily that the hisses seemed to overlap and slither over each other’s tails, “€33€<b>clever imbecile, cunning idiot, fool of an untrained Slytherin, your misplaced mistrust has ruined</b>—”
 
-“€82€{This is not a fair time to argue,}” Harry observed mildly. The surge of relief trying to flood through him was cancelled by the increased tension. “€83€{Since I cannot get angry at you properly, without opening myself to life-eaters. Must rush, someone may have heard noise}—”
+“€34€<b>This is not a fair time to argue,</b>” Harry observed mildly. The surge of relief trying to flood through him was cancelled by the increased tension. “€35€<b>Since I cannot get angry at you properly, without opening myself to life-eaters. Must rush, someone may have heard noise</b>—”
 
-“€84€{Explain escape plan,}” the snake said imperiously. “€85€{Swiftly!}”
+“€36€<b>Explain escape plan,</b>” the snake said imperiously. “€37€<b>Swiftly!</b>”
 
 Harry explained. Parseltongue didn’t have words for the Muggle technology, but Harry described the function and Professor Quirrell seemed to understand.
 
-There were a few short hisses, the snakish equivalent of a bark of surprised laughter, and then, snapped commands. “€86€{Tell woman to look away, cast spell of silence, set guardian Charm outside door. Will transform myself, make few swift improvements to your invention, give woman emergency potion so she can shield us, transform back before you dispel Charm. Plan will be safer, then.}”
+There were a few short hisses, the snakish equivalent of a bark of surprised laughter, and then, snapped commands. “€38€<b>Tell woman to look away, cast spell of silence, set guardian Charm outside door. Will transform myself, make few swift improvements to your invention, give woman emergency potion so she can shield us, transform back before you dispel Charm. Plan will be safer, then.</b>”
 
-“€87€{And am I to believe,}” Harry hissed, “€88€{that healer for woman truly awaits us?}”
+“€39€<b>And am I to believe,</b>” Harry hissed, “€40€<b>that healer for woman truly awaits us?</b>”
 
-“€89€{Use sense, boy! Suppose I am evil. To end use of you here is obviously not what I planned. Mission is target of opportunity, invented after saw your guardian Charm, whole affair meant to be unnoticed, hid when left eating-place. Obviously you will see person pretending to be healer on arrival! Go back to eating-place afterwards, original plan carries on undisturbed!}”
+“€41€<b>Use sense, boy! Suppose I am evil. To end use of you here is obviously not what I planned. Mission is target of opportunity, invented after saw your guardian Charm, whole affair meant to be unnoticed, hid when left eating-place. Obviously you will see person pretending to be healer on arrival! Go back to eating-place afterwards, original plan carries on undisturbed!</b>”
 
 Harry stared at the invisible snake.
 
@@ -233,11 +233,11 @@ On the one hand, saying it like that made Harry feel rather dumb.
 
 And on the other hand, it wasn’t exactly reassuring.
 
-“€90€{So,}” Harry hissed, “€91€{what is your plan for me, precisely?}”
+“€42€<b>So,</b>” Harry hissed, “€43€<b>what is your plan for me, precisely?</b>”
 
-“€92€{You said no time,}” came the snake’s hiss, “€93€{but plan is for you to rule country, obviously, even your young noble friend has understood that by now, ask him on return if you wish. Will say no more now, is time to fly, not speak.}”
+“€44€<b>You said no time,</b>” came the snake’s hiss, “€45€<b>but plan is for you to rule country, obviously, even your young noble friend has understood that by now, ask him on return if you wish. Will say no more now, is time to fly, not speak.</b>”
 
-€94€
+€46€
 
 The old wizard reached out toward another metal door, from behind which came an endless dead mutter, “I’m not serious, I’m not serious, I’m not serious…” The red-golden phœnix on his shoulder was already screaming urgently, and the old wizard was already wincing, when—
 
@@ -251,7 +251,7 @@ The old wizard raced off after, legs churning like a spry young man of sixty.
 
 The true phœnix screamed once, twice, and a third time, hovering before the metal door; and then, when it became clear that its master would not return for all its calling, flew reluctantly after.
 
-€95€
+€47€
 
 Professor Quirrell had assumed his true form, this time—Polyjuice only lasted for an hour without re-dosing—and though the Defence Professor was pale, leaning against the metal bars of the nearest cell, his magic was strong enough to seize his wand without a word, even as Bellatrix doffed the Cloak and placed it obediently in Harry’s waiting hand. The sense of doom was building once more, though not in full force, as the Defence Professor’s power returned, the fringes of its vast force clashing with Harry’s slight childish aura.
 
@@ -283,7 +283,7 @@ A strange, unhealthy colour seemed to come over Bellatrix’s pale face, she str
 
 The Defence Professor threw his wand toward Bellatrix, and an instant later blurred into a green snake.
 
-An instant after €96€{that} the Dementors’ fear returned to the room.
+An instant after <em>that</em> the Dementors’ fear returned to the room.
 
 Bellatrix flinched only slightly, caught the wand, and gestured without a word; the snake flew up and was inserted into the harness on her back.
 
@@ -303,23 +303,23 @@ Harry angled the broomstick and began accelerating, upward and toward the centre
 
 Far above them, distant shouts rang out.
 
-€97€{All right, you primitive screwheads!}
+<em>All right, you primitive screwheads!</em>
 
 Aurors on fast racing broomsticks angled out of the sky, diving straight down toward them, faint sparks of light already blazing downward as the first shots were fired.
 
-€98€{Listen up!}
+<em>Listen up!</em>
 
 “Protego Maximus!” shouted Bellatrix in a mighty, cracked voice, followed by a cackling laugh as a shimmering blue field surrounded them.
 
-€99€{You see this?}
+<em>You see this?</em>
 
 From the decaying pit in the centre of Azkaban, over a hundred Dementors rose into the air, appearing to some as a great mass of corpses, a flying graveyard; appearing to another as a conglomerate of absences that seemed to form one vast rip in the world as they slid upward.
 
-€100€{This…}
+<em>This…</em>
 
 The voice of an ancient and powerful wizard bellowed a terrible incantation, and a great blast of white-golden fire shot out of the hole in Azkaban’s wall, shapeless for only a moment before it began to form wings.
 
-€101€{Is…}
+<em>Is…</em>
 
 And the Aurors activated the Anti-Anti-Gravity Jinx that had been built into the wards of Azkaban, disabling all flying spells whose enchantment had not been cast with the recently changed passphrase.
 
@@ -329,13 +329,13 @@ Gravity, on the other hand, stayed on.
 
 Their broom’s upward rise slowed, started to decelerate, began the process of turning into a fall.
 
-€102€{My…}
+<em>My…</em>
 
-But the enchantments that kept the broom pointed in a direction and allowed steering, the enchantments that kept the riders attached and somewhat protected them from acceleration, €103€{those} enchantments were still functioning.
+But the enchantments that kept the broom pointed in a direction and allowed steering, the enchantments that kept the riders attached and somewhat protected them from acceleration, <em>those</em> enchantments were still functioning.
 
-€104€{€105€{Broomstick!}}
+<em>€48€<b>Broomstick!</em></b>
 
-Harry hit the ignition switch on the General Technics made, model €106€{Berserker PFRC}, N-class, ammonium perchlorate composite propellant, solid-fuel rocket that had been mated to his Nimbus €107€{X200} two-person broomstick.
+Harry hit the ignition switch on the General Technics made, model <em>Berserker PFRC</em>, N-class, ammonium perchlorate composite propellant, solid-fuel rocket that had been mated to his Nimbus €49€<b>X200</b> two-person broomstick.
 
 And there was noise.
 

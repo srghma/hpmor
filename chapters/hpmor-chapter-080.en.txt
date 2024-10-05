@@ -1,6 +1,6 @@
-€3€{Taboo Trade-offs}{Taboo Trade-offs}{II}{The Horns Effect}
+€3€<b>Taboo Trade-offs</b><b>Taboo Trade-offs</b><b>II</b><b>The Horns Effect</b>
 
-€4€{T}{he} Most Ancient Hall of the Wizengamot is cool and dark, with concentric half-circles of stone rising up from the lowest centre, and simple wooden benches set down upon those elevated half-circles. There is no source of light, but the chamber is well-lit, without any apparent cause or reason; it is simply a brute fact that the hall is well-lit. The walls, like the floor, are stone, dark stone, some elegant and mysterious conjugation of rock most fine to gaze upon, with a smooth texture that seems to flow and shift beneath its surface. This is the Most Ancient Hall, the oldest place of wizardry that has lasted into the modern day; every other place of power was destroyed in one war or another. This is the Hall of the Wizengamot, which is most ancient because the wars ended with the building of this place.
+€4€<b>T</b><b>he</b> Most Ancient Hall of the Wizengamot is cool and dark, with concentric half-circles of stone rising up from the lowest centre, and simple wooden benches set down upon those elevated half-circles. There is no source of light, but the chamber is well-lit, without any apparent cause or reason; it is simply a brute fact that the hall is well-lit. The walls, like the floor, are stone, dark stone, some elegant and mysterious conjugation of rock most fine to gaze upon, with a smooth texture that seems to flow and shift beneath its surface. This is the Most Ancient Hall, the oldest place of wizardry that has lasted into the modern day; every other place of power was destroyed in one war or another. This is the Hall of the Wizengamot, which is most ancient because the wars ended with the building of this place.
 
 This is the Hall of the Wizengamot; there are older places, but they are hidden. Legend holds that the walls of dark stone were conjured, created, willed into existence by Merlin, when he gathered the most powerful wizards left in the world and awed them into accepting him as their chief. And when (the legend continues) the Seers continued to foretell that not enough had yet been done to prevent the end of the world and its magic, then (the story goes) Merlin sacrificed his life, and his wizardry, and his time, to lay in force the Interdict of Merlin. It was not an act without cost, for a place like this one could not be raised again by any power still known to wizardkind. Nor yet destroyed, for those walls of dark stone would pass unharmed, and perhaps unwarmed, through the heart of a nuclear explosion. It is a pity that nobody knows how to make them any more.
 
@@ -28,9 +28,9 @@ Harry gazed unseeing around the hall of the Wizengamot; it looked quite old and 
 
 Professor McGonagall was sitting beside him, and her eyes never left him for more than twenty consecutive seconds.
 
-Harry had read the €6€{Daily Prophet} that morning. The headline had been “€7€{Mad Muggle-born Tries To End Ancient Line}” and the rest of the paper had been the same. When Harry was nine years old the IRA had blown up a British barracks, and he’d watched on TV as all the politicians contested to see who could be the most loudly outraged. And the thought had occurred to Harry—even then, before he’d known much about psychology—that it looked like €8€{everyone} was competing to see who could be most angry, and €9€{nobody} would’ve been allowed to suggest that anyone was being €10€{too} angry, even if they’d just proposed the saturation nuclear bombing of Ireland. He’d been struck, even then, by an essential emptiness in the indignation of politicians—though he hadn’t had the words to describe it, at that age—a sense that they were trying to score cheap points by hitting at the same safe target as everyone else.
+Harry had read the <em>Daily Prophet</em> that morning. The headline had been “€6€<b>Mad Muggle-born Tries To End Ancient Line</b>” and the rest of the paper had been the same. When Harry was nine years old the IRA had blown up a British barracks, and he’d watched on TV as all the politicians contested to see who could be the most loudly outraged. And the thought had occurred to Harry—even then, before he’d known much about psychology—that it looked like <em>everyone</em> was competing to see who could be most angry, and <em>nobody</em> would’ve been allowed to suggest that anyone was being <em>too</em> angry, even if they’d just proposed the saturation nuclear bombing of Ireland. He’d been struck, even then, by an essential emptiness in the indignation of politicians—though he hadn’t had the words to describe it, at that age—a sense that they were trying to score cheap points by hitting at the same safe target as everyone else.
 
-Harry had always possessed that sense of hollowness about political indignation, but it was strange how very much more obvious it seemed, when you were reading a dozen articles in the €11€{Daily Prophet} attacking Hermione Granger.
+Harry had always possessed that sense of hollowness about political indignation, but it was strange how very much more obvious it seemed, when you were reading a dozen articles in the <em>Daily Prophet</em> attacking Hermione Granger.
 
 The leading article, written by some name that Harry didn’t recognize, had called for the minimum age for Azkaban to be lowered, just so that the twisted mudblood who had defaced the honour of Scotland with her savage, unprovoked attack upon the last heir of a Most Ancient House within the sacred refuge of Hogwarts could be sent to the Dementors that were the only punishment commensurate with the severity of her unspeakable crime. Only this would be enough to discourage any other foreign, subhuman brutes who similarly believed in their twisted insanity that they could evade the majesty of the Wizengamot’s inevitable and merciless scourging of all that threatened the honourable nobility of etcetera etcetera etcetera.
 
@@ -60,7 +60,7 @@ Harry stared at the plum-coloured robes, his eyes narrowing.
 
 And with the growing anger came something else, a rising sense of disquiet, of something horribly skewed, like reality itself was being disrupted. Harry knew that, somehow, but he couldn’t figure out what was awry, or why his mind thought it was getting worse…
 
-“€12€{Order!}” Dumbledore bellowed. He rapped the stone rod twice against the podium, producing two more small clicks that overrode all noise. “I will have order here!”
+“<em>Order!</em>” Dumbledore bellowed. He rapped the stone rod twice against the podium, producing two more small clicks that overrode all noise. “I will have order here!”
 
 The door through which the witness was brought forth was set directly beneath Harry’s own seat, so it wasn’t until the entire group had emerged fully into the stone hall that Harry saw—
 
@@ -72,11 +72,11 @@ The door through which the witness was brought forth was set directly beneath Ha
 
 —and the source of the horrible wrongness, half-hidden beneath a tattered cloak.
 
-Harry shot to his feet before he could even think, it was only Professor McGonagall’s sudden frantic grab on his wrist that stopped his hand going for his wand; and the Transfiguration Professor whispered desperately, “€13€{Harry it’s all right there’s a Patronus—}”
+Harry shot to his feet before he could even think, it was only Professor McGonagall’s sudden frantic grab on his wrist that stopped his hand going for his wand; and the Transfiguration Professor whispered desperately, “<em>Harry it’s all right there’s a Patronus—</em>”
 
 It took a few seconds for Harry to remember himself. For the part of himself that understood that Hermione hadn’t been directly exposed to a Dementor, to argue his other parts into something like sanity—
 
-€14€{But animal Patronuses aren’t perfect,} said another voice inside his mind. €15€{Or Dumbledore wouldn’t see the form of a naked man painful to look upon. You felt it approaching, animal Patronus or no…}
+<em>But animal Patronuses aren’t perfect,</em> said another voice inside his mind. <em>Or Dumbledore wouldn’t see the form of a naked man painful to look upon. You felt it approaching, animal Patronus or no…</em>
 
 Slowly, Harry Potter sat back down again as Professor McGonagall pulled down with her grip on his wrist.
 
@@ -94,27 +94,27 @@ Slowly, Harry turned his head away from the chair and saw a smiling woman wearin
 
 Other people were also looking at him now.
 
-Harry couldn’t speak, all the words in his mind would have been stupid to speak aloud. He couldn’t find anything to say that Neville could also have said. Dumbledore had warned Harry that if anyone €16€{else} wanted the Boy-Who-Lived to speak, he must €17€{pretend to be his age}—
+Harry couldn’t speak, all the words in his mind would have been stupid to speak aloud. He couldn’t find anything to say that Neville could also have said. Dumbledore had warned Harry that if anyone <em>else</em> wanted the Boy-Who-Lived to speak, he must <em>pretend to be his age</em>—
 
 “The Headmaster said I shouldn’t talk,” the boy said, not quite able to keep the edge out of his voice.
 
-“Oh, but you have €18€{our} permission to talk!” the woman said brightly. “I’m sure the Wizengamot is always happy to hear from the Boy-Who-Lived!” Beside her, Minister Cornelius Fudge was nodding.
+“Oh, but you have <em>our</em> permission to talk!” the woman said brightly. “I’m sure the Wizengamot is always happy to hear from the Boy-Who-Lived!” Beside her, Minister Cornelius Fudge was nodding.
 
-The woman’s face was puffy and overweight, visibly pale beneath the make-up. Almost inevitably, a certain word came to mind, and that word was €19€{toad}. Which, said Harry’s logical part, shouldn’t correlate to morality in any way. Only in Disney films were ugly people more likely to be evil and vice versa; and those films were probably scripted by writers who’d never been ugly. He’d give her a chance, everyone in this room deserved one chance…
+The woman’s face was puffy and overweight, visibly pale beneath the make-up. Almost inevitably, a certain word came to mind, and that word was <em>toad</em>. Which, said Harry’s logical part, shouldn’t correlate to morality in any way. Only in Disney films were ugly people more likely to be evil and vice versa; and those films were probably scripted by writers who’d never been ugly. He’d give her a chance, everyone in this room deserved one chance…
 
 “Because I got rid of the Dark Lord?” the boy said, and pointed at the Dementor where it was hovering behind Hermione’s chair. “There’s something in this room that’s Darker.”
 
 The woman’s face narrowed, growing a little stern. “I realize a young boy like yourself may be scared by them, Mr~Potter, but the Dementors are quite obedient to the Ministry of Magic. And they would, of course, be necessary to guard—”
 
-“A twelve-year-old girl?” the boy yelled. “Those are the Darkest creatures in the whole world, I could feel it coming here even through the Patronus—the €20€{wrongness} coming nearer—it’s horribly evil and it—it’d eat everyone in this room, if it could! It shouldn’t be let near any child, ever! Not me, not her, not anyone! You ought to vote to send it away!”
+“A twelve-year-old girl?” the boy yelled. “Those are the Darkest creatures in the whole world, I could feel it coming here even through the Patronus—the <em>wrongness</em> coming nearer—it’s horribly evil and it—it’d eat everyone in this room, if it could! It shouldn’t be let near any child, ever! Not me, not her, not anyone! You ought to vote to send it away!”
 
-“We’ll €21€{certainly} have no such vote—” the toad-woman snapped.
+“We’ll <em>certainly</em> have no such vote—” the toad-woman snapped.
 
 “That’s enough, Madam Umbridge, Mr~Potter,” came Dumbledore’s stern voice from high above. And then after a short pause, the old wizard went on, “Although, of course, the boy is correct on every count.”
 
 Some of the members of the Wizengamot were looking abashed at the Boy-Who-Lived’s admonition, and a few others were nodding violently to the old wizard’s words. But they were too few. Harry could see it. They were too few.
 
-The Veritaserum was brought in then, and Hermione looked for a brief moment like she €22€{was} about to sob, she was looking at Harry—no, at Professor McGonagall—and Professor McGonagall was mouthing words that Harry couldn’t make out from his angle. Then Hermione swallowed three drops of Veritaserum and her face grew slack.
+The Veritaserum was brought in then, and Hermione looked for a brief moment like she <em>was</em> about to sob, she was looking at Harry—no, at Professor McGonagall—and Professor McGonagall was mouthing words that Harry couldn’t make out from his angle. Then Hermione swallowed three drops of Veritaserum and her face grew slack.
 
 “Gawain Robards,” said the smooth voice of Lucius Malfoy. “Your probity is known to all of us. If you would do the honours?”
 
@@ -122,7 +122,7 @@ One of the three Aurors stepped forward.
 
 After the first few questions Harry looked away and stared off to one side with his fingers in his ears, as Hermione’s brain played back the contents of the False Memory Charm. He couldn’t handle the drug-dulled anguish in Hermione’s voice as she recounted the false memories, and his dark side couldn’t handle it either, and he’d already heard the contents summarized.
 
-Harry’s mind flashed back to another day of horror, and even though Harry had been on the verge of writing off Lord Voldemort’s continued existence as the senility of an old wizard, it suddenly seemed horribly and uniquely plausible that the entity who’d Memory-Charmed Hermione was the very same mind that had—€23€{made use of}—Bellatrix Black. The two events had a certain signature in common. To choose that this should happen, €24€{plan} for this to happen—it would take more than evil, it would take €25€{emptiness}.
+Harry’s mind flashed back to another day of horror, and even though Harry had been on the verge of writing off Lord Voldemort’s continued existence as the senility of an old wizard, it suddenly seemed horribly and uniquely plausible that the entity who’d Memory-Charmed Hermione was the very same mind that had—<em>made use of</em>—Bellatrix Black. The two events had a certain signature in common. To choose that this should happen, <em>plan</em> for this to happen—it would take more than evil, it would take <em>emptiness</em>.
 
 Harry looked up for a moment, then, and saw that the plum-coloured robes were watching, just watching.
 
@@ -130,21 +130,21 @@ Some time later, after all the stars in the night sky had gone cold and dark and
 
 “If it pleases my Lords,” said the voice of Lord Malfoy, “I should like to have the testimony of my son Draco, witnessed under two drops of Veritaserum, read aloud at this time.”
 
-€26€{Until she went after me in that battle, I wasn’t plotting anything against Granger. But after that day I really was feeling insulted, I’d helped her all those times—}
+<em>Until she went after me in that battle, I wasn’t plotting anything against Granger. But after that day I really was feeling insulted, I’d helped her all those times—</em>
 
 The sound that came from Hermione’s throat was like she’d just been crushed under a falling stone, so huge that she couldn’t cry or breathe, just a small sad gasp.
 
-“Pardon me,” said one witch from what seemed to be the Malfoy-aligned side of the room. “But Lord Malfoy, why would your son €27€{help} this mudblood girl?”
+“Pardon me,” said one witch from what seemed to be the Malfoy-aligned side of the room. “But Lord Malfoy, why would your son <em>help</em> this mudblood girl?”
 
 “My son,” Lucius Malfoy said in a heavy voice, “seems to have been listening to certain misguided ideas. He is young—and he has learned, now, we have all seen as a country, what such folly brings in repayment.”
 
-A few steps down along the visitor’s benches, a man wearing a newsman’s cap and a badge identifying him as belonging to the €28€{Daily Prophet} was avidly scribbling with a long quill.
+A few steps down along the visitor’s benches, a man wearing a newsman’s cap and a badge identifying him as belonging to the <em>Daily Prophet</em> was avidly scribbling with a long quill.
 
 The few people who’d nodded along to Dumbledore earlier had rather sick looks on their faces. One witch in plum-coloured robes quite deliberately stood up from what had seemed like Dumbledore’s side of the room, and made her way over toward the Malfoy side.
 
 The Auror went on reading, his voice monotone.
 
-“€29€{I’d been so tired from casting all those locking wards, I was weak when I cast the last one. I thought I was stronger than Granger but I wasn’t certain, so I tested it empirically by challenging her to a duel, that’s why I d-d-did it and also because if I’d won I was planning to beat her again the next day where everyone could see. Stupid Veritaserum. But €30€{she} didn’t know about that when she tried to €31€{kill} me! And I really was insulted by what she’d done, I really had helped her before and I hadn’t been planning anything against her then, only €32€{she} went after €33€{me} in front of everyone!}”
+“<em>I’d been so tired from casting all those locking wards, I was weak when I cast the last one. I thought I was stronger than Granger but I wasn’t certain, so I tested it empirically by challenging her to a duel, that’s why I d-d-did it and also because if I’d won I was planning to beat her again the next day where everyone could see. Stupid Veritaserum. But €7€<b>she</em> didn’t know about that when she tried to <em>kill</em> me! And I really was insulted by what she’d done, I really had helped her before and I hadn’t been planning anything against her then, only <em>she</em> went after <em>me</em> in front of everyone!</b>”
 
 When all the witness testimony was done, the deliberations of the Wizengamot began.
 
@@ -166,9 +166,9 @@ Albus Dumbledore said that Hermione Granger had been beloved of all the Hogwarts
 
 Albus Dumbledore said that nobody who knew Hermione Granger would be anything but shocked by these events. That they had, all of them, heard the horror in her voice as she recounted her testimony. And if some unusual madness had temporarily possessed her, then—his voice rising in stern command—she deserved nothing from them except sympathy and a healer’s attentions.
 
-And at the last, Albus Dumbledore reminded the Wizengamot, over cries of protest, that the charge was €34€{attempted} murder and not murder. Albus Dumbledore said, over a rising storm of objections, that no lasting harm had come to anyone. And Albus Dumbledore begged them not to do worse themselves than anything that had yet been done—
+And at the last, Albus Dumbledore reminded the Wizengamot, over cries of protest, that the charge was <em>attempted</em> murder and not murder. Albus Dumbledore said, over a rising storm of objections, that no lasting harm had come to anyone. And Albus Dumbledore begged them not to do worse themselves than anything that had yet been done—
 
-“€35€{Enough!}” bellowed Lucius Malfoy, and a show of hands ended the deliberations. The white-maned man stood tall and terrible, his silver cane held high in one hand like a gavel about to fall. “For what this mad woman has tried to do to my son—for the blood debt that she owes for trying to end the line of a Noble and Most Ancient House—I say that she will—”
+“<em>Enough!</em>” bellowed Lucius Malfoy, and a show of hands ended the deliberations. The white-maned man stood tall and terrible, his silver cane held high in one hand like a gavel about to fall. “For what this mad woman has tried to do to my son—for the blood debt that she owes for trying to end the line of a Noble and Most Ancient House—I say that she will—”
 
 “Azkaban!” roared a man with a scarred face, seated at Lord Malfoy’s right hand. “Send the mad mudblood to Azkaban!”
 
@@ -180,11 +180,11 @@ Lucius Malfoy had listened to this with an impassive face. “Well,” Lord Malf
 
 A great cheer of rage went up—
 
-“Are you all €36€{lost}?” cried Albus Dumbledore. “She is too young! Her mind would not withstand it! Not in three centuries has such a thing been done in Britain!”
+“Are you all <em>lost</em>?” cried Albus Dumbledore. “She is too young! Her mind would not withstand it! Not in three centuries has such a thing been done in Britain!”
 
 “What will the other countries think of us?” said the sharp voice of a woman that Harry recognized as Neville’s grandmother.
 
-“Will €37€{you} guard Azkaban after she goes there, Lord Malfoy?” said a stern old witch that Harry didn’t know. “For my Aurors may decline to guard it, I fear, if small children are kept within.”
+“Will <em>you</em> guard Azkaban after she goes there, Lord Malfoy?” said a stern old witch that Harry didn’t know. “For my Aurors may decline to guard it, I fear, if small children are kept within.”
 
 “The deliberations are ended,” Lucius Malfoy said coldly. “But if you are incapable of finding Aurors who can obey the vote of the Wizengamot, Madam Bones, you may relinquish the position; we can easily find another to serve in your place. The will of this Hall is clear. For the monstrosity of her crimes, the girl is to be tried as an adult and punished accordingly; ten years in Azkaban, the justice for attempted murder.”
 
@@ -220,15 +220,15 @@ The Veritaserum must have been wearing off, because Hermione Granger’s face wa
 
 She looked at Harry Potter and though she didn’t speak, it was absolutely clear what she was saying.
 
-€38€{Harry}
+<em>Harry</em>
 
-€39€{help me}
+<em>help me</em>
 
-€40€{please—}
+<em>please—</em>
 
-And in the Most Ancient Hall of the Wizengamot an icy voice rang out, speech the colour of liquid nitrogen, pitched too high for that it came from too young a throat, and that voice said, “€41€{Lucius Malfoy.}”
+And in the Most Ancient Hall of the Wizengamot an icy voice rang out, speech the colour of liquid nitrogen, pitched too high for that it came from too young a throat, and that voice said, “<em>Lucius Malfoy.</em>”
 
-€42€
+€8€
 
 In the ancient and hallowed halls of the Wizengamot, people looked around and it took their eyes too long to find what they sought. It might have been high in pitch, it might have been under-loud for the words being spoken; and yet even so, you wouldn’t have expected to hear that voice from a child.
 
@@ -238,17 +238,17 @@ It wasn’t until Lord Malfoy spoke in return that people even realized where th
 
 Heads spun, eyes moved, and people focused on the messy-haired young boy standing near the weeping older witch. The boy stood merely chest-high with his shoes on, dressed in short robes of formal black. Though unless your eyes were keen indeed, you couldn’t have seen, from all the way across the Hall, that famous and deadly scar beneath his messy hair.
 
-“This folly does not become you, Lucius,” said the boy. “Twelve-year-old girls do not go around committing murders. You are a Slytherin and an intelligent one. You know this is a plot. Hermione Granger was placed on this game board by force, by whatever hand lies behind that plot. €43€{You} were surely intended to act just as you are acting now—except that Draco Malfoy was meant to be dead, and you were meant to be beyond all reason. But he is alive and you are sane. Why are you cooperating with your intended role, in a plot meant to take the life of your son?”
+“This folly does not become you, Lucius,” said the boy. “Twelve-year-old girls do not go around committing murders. You are a Slytherin and an intelligent one. You know this is a plot. Hermione Granger was placed on this game board by force, by whatever hand lies behind that plot. <em>You</em> were surely intended to act just as you are acting now—except that Draco Malfoy was meant to be dead, and you were meant to be beyond all reason. But he is alive and you are sane. Why are you cooperating with your intended role, in a plot meant to take the life of your son?”
 
 A storm seemed to be raging inside Lucius, the face beneath the flowing white hair threatening to crack open and spill something unguessable. The Lord of Malfoy seemed to almost speak once and then twice again, swallowing three unheard sentences before his lips parted for true. “A plot, you say?” Lord Malfoy said at last. His face was twitching, hardly controlled. “And whose plot would that be, then?”
 
 “If I knew,” said the boy, “I would have said so a good deal earlier. But anyone who had ever been Hermione Granger’s classmate could tell you that she is a most unlikely murderess. She does, in fact, help Hufflepuffs with their homework. This was not a natural event, Lord Malfoy.”
 
-“Plot—or no plot—” Lucius’s voice was trembling. “This mudblood filth has touched my son and for that I will end her. You should know that full well, €44€{Harry Potter}.”
+“Plot—or no plot—” Lucius’s voice was trembling. “This mudblood filth has touched my son and for that I will end her. You should know that full well, <em>Harry Potter</em>.”
 
 “It is questionable,” the boy said, “to put it mildly, whether Hermione Granger actually cast that Blood-Cooling Charm. I do not know the exact circumstances or what spells were involved, but simple trickery would not have sufficed to make her do it. She did not act of her own will, and perhaps did not act at all. Your vengeance is being misdirected, Lord Malfoy, and deliberately so. It is not a twelve-year-old girl who deserves your ire.”
 
-“And what do €45€{you} care for her fate?” Lucius Malfoy’s voice was rising. “What is €46€{your} stake in this?”
+“And what do <em>you</em> care for her fate?” Lucius Malfoy’s voice was rising. “What is <em>your</em> stake in this?”
 
 “She is my friend,” the boy said, “as Draco is my friend. It is possible that this blow was aimed at me, and not at House Malfoy at all.”
 
@@ -256,11 +256,11 @@ Again the muscles jumped in Lucius’s face. “And now you are lying to me—as
 
 “Believe it or not,” the boy said quietly, “I never willed anything but that Draco should know the truth—”
 
-“€47€{Enough!}” cried the Lord Malfoy. “Enough of your lies! Enough of your €48€{games}! You do not understand—you would never understand—what it means that he is my son! I will not be denied this vengeance! No more! Never again! For the blood this girl owes House Malfoy, she shall go to Azkaban. And if I ever find another hand at work—even if it is your own—that hand shall be cut off as well!” Lucius Malfoy raised his deadly silver cane as though in command, his teeth clenched and his lips drawn back in a snarl, like a wolf facing a dragon. “And if you have nothing better to say than that—be silent, Harry Potter!”
+“<em>Enough!</em>” cried the Lord Malfoy. “Enough of your lies! Enough of your <em>games</em>! You do not understand—you would never understand—what it means that he is my son! I will not be denied this vengeance! No more! Never again! For the blood this girl owes House Malfoy, she shall go to Azkaban. And if I ever find another hand at work—even if it is your own—that hand shall be cut off as well!” Lucius Malfoy raised his deadly silver cane as though in command, his teeth clenched and his lips drawn back in a snarl, like a wolf facing a dragon. “And if you have nothing better to say than that—be silent, Harry Potter!”
 
-€49€
+€9€
 
-Harry’s blood was hammering even beneath the ice of his dark side, the fear for Hermione, the part of him that wanted to lash out at Lucius and destroy him where he stood for his insolence and his €50€{stupidity—} but Harry didn’t have the €51€{power}, he didn’t even have a single vote in the Wizengamot—
+Harry’s blood was hammering even beneath the ice of his dark side, the fear for Hermione, the part of him that wanted to lash out at Lucius and destroy him where he stood for his insolence and his <em>stupidity—</em> but Harry didn’t have the <em>power</em>, he didn’t even have a single vote in the Wizengamot—
 
 Draco had said that Lucius was scared of him, for some unknown reason. And Harry could see it in the rictus that Lord Malfoy’s face had become, drawn and tight, that it was taking all his courage for him to tell Harry to shut up.
 
@@ -268,7 +268,7 @@ So Harry said, his voice cool and deadly, hoping to hell that it meant something
 
 Someone in the lower rows of what was evidently the blood-purist side of the Wizengamot, who was looking down at the young boy rather than up at Lord Malfoy, laughed in outright incredulity. Other plum-coloured robes began to laugh as well.
 
-Lord Malfoy gazed at him with hard dignity, as that laughter spread. “If you want the enmity of the House of Malfoy, you shall have it, €52€{child}.”
+Lord Malfoy gazed at him with hard dignity, as that laughter spread. “If you want the enmity of the House of Malfoy, you shall have it, <em>child</em>.”
 
 “Now really,” said the woman in too much pink make-up, “I think this has gone on quite long enough, wouldn’t you say, Lord Malfoy? The boy will miss his classes.”
 

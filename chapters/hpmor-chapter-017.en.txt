@@ -1,19 +1,19 @@
-€10€{Locating the Hypothesis}
+€10€<b>Locating the Hypothesis</b>
 
 €6€
 You have always been J.~K.~Rowling.
 
 Historical note: In the Roman calendar, the “Ides” of a month referred to the 15th day of March, May, July, and October, and to the 13th day of all other months.
-€215€
+€35€
 You start to see the pattern, hear the rhythm of the world.
-€216€{T}{hursday}.
+€36€<b>T</b><b>hursday</b>.
 
 €12€
 If you wanted to be specific, 7:24€13€ on Thursday morning.
 
 Harry was sitting on his bed, a textbook lying limp in his motionless hands.
 
-Harry had just had an idea for a €14€{truly brilliant} experimental test.
+Harry had just had an idea for a <em>truly brilliant</em> experimental test.
 
 It would mean waiting an extra hour for breakfast, but that was why he had cereal bars. No, this idea absolutely positively had to be tested right away, immediately, now.
 
@@ -57,17 +57,17 @@ Otherwise Harry would add 2 to the number on the right and write down the new pa
 
 And if Paper-2 said 997€4€997, Harry would leave Paper-1 blank.
 
-Which meant that the only possible €15€{stable} time loop was the one in which Paper-2 contained the two prime factors of 181,429.
+Which meant that the only possible <em>stable</em> time loop was the one in which Paper-2 contained the two prime factors of 181,429.
 
-If this worked, Harry could use it to recover any sort of answer that was easy to check but hard to find. He wouldn’t have €16€{just} shown that €5€ once you had a Time-Turner, this trick was €17€{more general} than that. Harry could use it to find the combinations on combination locks, or passwords of every sort. Maybe even find the entrance to Slytherin’s Chamber of Secrets, if Harry could figure out some systematic way of describing all the locations in Hogwarts. It would be an awesome cheat even by Harry’s standards of cheating.
+If this worked, Harry could use it to recover any sort of answer that was easy to check but hard to find. He wouldn’t have <em>just</em> shown that €5€ once you had a Time-Turner, this trick was <em>more general</em> than that. Harry could use it to find the combinations on combination locks, or passwords of every sort. Maybe even find the entrance to Slytherin’s Chamber of Secrets, if Harry could figure out some systematic way of describing all the locations in Hogwarts. It would be an awesome cheat even by Harry’s standards of cheating.
 
 Harry took Paper-2 in his trembling hand, and unfolded it.
 
 Paper-2 said in slightly shaky handwriting:
 
-€18€{Do not mess with time}
+€14€<b>Do not mess with time</b>
 
-Harry wrote down “€19€{Do not mess with time}” on Paper-1 in slightly shaky handwriting, folded it neatly, and resolved not to do any more truly brilliant experiments on Time until he was at least fifteen years old.
+Harry wrote down “€15€<b>Do not mess with time</b>” on Paper-1 in slightly shaky handwriting, folded it neatly, and resolved not to do any more truly brilliant experiments on Time until he was at least fifteen years old.
 
 To the best of Harry’s knowledge, that had been the scariest experimental result in the entire history of science.
 
@@ -75,31 +75,31 @@ It had been somewhat difficult for Harry to focus on reading his textbook for th
 
 That was how Harry’s Thursday started.
 
-€20€
+€16€
 
 Thursday.
 
-If you wanted to be specific, 3:32€21€ on Thursday afternoon.
+If you wanted to be specific, 3:32€17€ on Thursday afternoon.
 
 Harry and all the other boys in the first year were outside on a grassy field with Madam Hooch, standing next to the Hogwarts supply of broomsticks. The girls would be learning to fly separately. Apparently, for some reason, girls didn’t want to learn how to fly on broomsticks in the presence of boys.
 
-Harry had been a little wobbly all day long. He just couldn’t seem to stop wondering how that €22€{particular} stable time loop had been selected out of what was, in retrospect, a rather large space of possibilities.
+Harry had been a little wobbly all day long. He just couldn’t seem to stop wondering how that <em>particular</em> stable time loop had been selected out of what was, in retrospect, a rather large space of possibilities.
 
-Also: seriously, €23€{broomsticks}? He was going to fly on, basically, a line segment? Wasn’t that pretty much the single most unstable shape you could possibly find, short of attempting to hold on to a point marble? Who’d selected €24€{that} design for a flying device, out of all the possibilities? Harry had been hoping that it was just a figure of speech, but no, they were standing in front of what looked for all the world like ordinary wooden kitchen broomsticks. Had someone just got stuck on the idea of broomsticks and failed to consider anything else? It had to be. There was no way that the €25€{optimal} designs for cleaning kitchens and flying would happen to coincide if you worked them out from scratch.
+Also: seriously, <em>broomsticks</em>? He was going to fly on, basically, a line segment? Wasn’t that pretty much the single most unstable shape you could possibly find, short of attempting to hold on to a point marble? Who’d selected <em>that</em> design for a flying device, out of all the possibilities? Harry had been hoping that it was just a figure of speech, but no, they were standing in front of what looked for all the world like ordinary wooden kitchen broomsticks. Had someone just got stuck on the idea of broomsticks and failed to consider anything else? It had to be. There was no way that the <em>optimal</em> designs for cleaning kitchens and flying would happen to coincide if you worked them out from scratch.
 
 It was a clear day with a bright-blue sky and a brilliant sun that was just begging to get in your eyes and make it impossible to see, if you were trying to fly around the sky. The ground was nice and dry, smelling positively baked, and somehow felt very, very hard under Harry’s shoes.
 
 Harry kept reminding himself that the lowest common denominator of eleven-year-olds was expected to learn this and it couldn’t be that hard.
 
-“Stick out your right hand over the broom, or left hand if you’re left-handed,” called Madam Hooch. “And say, €26€{Up!}”
+“Stick out your right hand over the broom, or left hand if you’re left-handed,” called Madam Hooch. “And say, €18€<b>Up!</b>”
 
-“€27€{Up!}” everyone shouted.
+“€19€<b>Up!</b>” everyone shouted.
 
 The broomstick leapt eagerly into Harry’s hand.
 
-Which put him at the head of the class, for once. Apparently saying “€28€{Up!}” was a lot more difficult than it looked, and most of the broomsticks were rolling around on the ground or trying to inch away from their would-be riders.
+Which put him at the head of the class, for once. Apparently saying “€20€<b>Up!</b>” was a lot more difficult than it looked, and most of the broomsticks were rolling around on the ground or trying to inch away from their would-be riders.
 
-(Of course Harry would have bet money that Hermione had done at least as well when it came her own turn to try, earlier in the day. There couldn’t possibly be anything €29€{he} could master on the first try which would baffle Hermione, and if there €30€{was} and it turned out to be €31€{broomstick riding} instead of anything intellectual, Harry would just die.)
+(Of course Harry would have bet money that Hermione had done at least as well when it came her own turn to try, earlier in the day. There couldn’t possibly be anything <em>he</em> could master on the first try which would baffle Hermione, and if there <em>was</em> and it turned out to be <em>broomstick riding</em> instead of anything intellectual, Harry would just die.)
 
 It took a while for everyone to get a broomstick in front of them. Madam Hooch showed them how to mount and then walked around the field, correcting grips and stances. Apparently even among the few children who’d been allowed to fly at home, they hadn’t been taught to do it correctly.
 
@@ -111,21 +111,21 @@ Harry swallowed hard, trying to quell the queasy feeling in his stomach.
 
 One of the brooms shot skyward, accompanied by a young boy’s screams—of horror, not delight. The boy was spinning at an awful rate as he ascended, they only got glimpses of his white face—
 
-As though in slow motion, Harry was leaping back off his own broomstick and scrabbling for his wand, though he didn’t really know what he planned to do with it, he’d had exactly two sessions of Charms and the last one €32€{had} been the Hover Charm but Harry had only been able to cast the spell successfully one time out of three and he certainly couldn’t levitate whole people—
+As though in slow motion, Harry was leaping back off his own broomstick and scrabbling for his wand, though he didn’t really know what he planned to do with it, he’d had exactly two sessions of Charms and the last one <em>had</em> been the Hover Charm but Harry had only been able to cast the spell successfully one time out of three and he certainly couldn’t levitate whole people—
 
-€33€{If there is any hidden power in me, let it reveal itself €34€{now}!}
+<em>If there is any hidden power in me, let it reveal itself €21€<b>now</em>!</b>
 
-“Come back, boy!” shouted Madam Hooch (which had to be the most unhelpful instruction imaginable for dealing with an out-of-control broomstick, from a €35€{flying instructor}, and a fully automatic section of Harry’s brain added Madam Hooch to his tally of fools).
+“Come back, boy!” shouted Madam Hooch (which had to be the most unhelpful instruction imaginable for dealing with an out-of-control broomstick, from a <em>flying instructor</em>, and a fully automatic section of Harry’s brain added Madam Hooch to his tally of fools).
 
 And the boy was thrown off the broomstick.
 
 He seemed to move very slowly through the air, at first.
 
-“€36€{Wingardium Leviosa!}” screamed Harry.
+“<em>Wingardium Leviosa!</em>” screamed Harry.
 
 The spell failed. He could feel it fail.
 
-There was a €37€{thud} and a distant cracking sound, and the boy lay face down on the grass in a heap.
+There was a <em>thud</em> and a distant cracking sound, and the boy lay face down on the grass in a heap.
 
 Harry sheathed his wand and raced forwards at full speed. He arrived at the boy’s side at the same time as Madam Hooch, and Harry reached into his pouch and tried to recall oh god what was the name never mind he’d just try “Healer’s Pack!” and it popped up into his hand and—
 
@@ -141,7 +141,7 @@ The Emergency Healing Pack Plus lay open in front of him, and there was a syring
 
 “You’re not seriously going to make him ride the broomstick again?” Harry said in horror.
 
-Madam Hooch sent Harry a glare. “Of course not!” She pulled the boy to his feet using his good arm—Harry saw with a shock that it was Neville Longbottom €38€{again}, what was €39€{with} him?—and she turned to all the watching children. “None of you is to move while I take this boy to the hospital wing! You leave those brooms where they are or you’ll be out of Hogwarts before you can say ‘Quidditch.’ Come on, dear.”
+Madam Hooch sent Harry a glare. “Of course not!” She pulled the boy to his feet using his good arm—Harry saw with a shock that it was Neville Longbottom <em>again</em>, what was <em>with</em> him?—and she turned to all the watching children. “None of you is to move while I take this boy to the hospital wing! You leave those brooms where they are or you’ll be out of Hogwarts before you can say ‘Quidditch.’ Come on, dear.”
 
 And Madam Hooch walked off with Neville, who was clutching his wrist and trying to control his sniffles.
 
@@ -161,13 +161,13 @@ Ernie Macmillan arrived just as Harry was feeding the pack back into his mokeski
 
 “Thank you, Harry Potter, on behalf of Hufflepuff,” Ernie Macmillan said formally. “It was a good try and a good thought.”
 
-“A good thought indeed,” drawled Draco. “Why didn’t anyone in Hufflepuff have their wands out? Maybe if you’d €40€{all} helped instead of just Potter, you could’ve caught him. I thought Hufflepuffs were supposed to stick together?”
+“A good thought indeed,” drawled Draco. “Why didn’t anyone in Hufflepuff have their wands out? Maybe if you’d <em>all</em> helped instead of just Potter, you could’ve caught him. I thought Hufflepuffs were supposed to stick together?”
 
 Ernie looked like he was torn between getting angry and wanting to die of shame. “We didn’t think of it in time—”
 
-“Ah,” said Draco, “didn’t €41€{think} of it, I guess that’s why it’s better to have one Ravenclaw as a friend than all of Hufflepuff.”
+“Ah,” said Draco, “didn’t <em>think</em> of it, I guess that’s why it’s better to have one Ravenclaw as a friend than all of Hufflepuff.”
 
-Oh, hell, how was Harry supposed to juggle this one…“You’re not helping,” Harry said in a mild tone. Hoping Draco would interpret that as €42€{you’re interfering with my plans, please shut up}.
+Oh, hell, how was Harry supposed to juggle this one…“You’re not helping,” Harry said in a mild tone. Hoping Draco would interpret that as <em>you’re interfering with my plans, please shut up</em>.
 
 “Hey, what’s this?” said Mr~Goyle. He stooped to the grass and picked up something around the size of a large marble, a glass ball that seemed to be filled with a swirling white mist.
 
@@ -183,11 +183,11 @@ Ernie stood still for a moment in surprise, and then shouted “Hey!” and ran 
 
 And Mr~Goyle grabbed a broomstick, hopped on with one smooth motion and took to the air.
 
-Harry’s jaw dropped. Hadn’t Madam Hooch said that would get him €43€{expelled}?
+Harry’s jaw dropped. Hadn’t Madam Hooch said that would get him <em>expelled</em>?
 
-“€44€{That idiot!}” Draco hissed. He opened his mouth to shout—
+“<em>That idiot!</em>” Draco hissed. He opened his mouth to shout—
 
-“€45€{Hey!}” shouted Ernie. “That’s Neville’s! €46€{Give it back!}”
+“<em>Hey!</em>” shouted Ernie. “That’s Neville’s! <em>Give it back!</em>”
 
 The Slytherins started cheering and hooting.
 
@@ -195,37 +195,37 @@ Draco’s mouth snapped shut. Harry caught the sudden look of indecision on his 
 
 “Draco,” Harry said in a low tone, “if you don’t order that idiot back on the ground, the teacher’s going to get back and—”
 
-“€47€{Come and get it, Hufflepuffle!}” shouted Mr~Goyle, and a great cheer went up from the Slytherins.
+“<em>Come and get it, Hufflepuffle!</em>” shouted Mr~Goyle, and a great cheer went up from the Slytherins.
 
-“I €48€{can’t}!” whispered Draco. “Everyone in Slytherin would think I’m €49€{weak}!”
+“I <em>can’t</em>!” whispered Draco. “Everyone in Slytherin would think I’m <em>weak</em>!”
 
-“And if Mr~Goyle gets expelled,” hissed Harry, “your €50€{father} is going to think you’re a €51€{moron}!”
+“And if Mr~Goyle gets expelled,” hissed Harry, “your <em>father</em> is going to think you’re a <em>moron</em>!”
 
 Draco’s face twisted in agony.
 
 At that moment—
 
-“Hey, €52€{Slytherslime},” shouted Ernie, “didn’t anyone ever tell you that Hufflepuffs stick together? €53€{Wands out, Hufflepuff!}”
+“Hey, <em>Slytherslime</em>,” shouted Ernie, “didn’t anyone ever tell you that Hufflepuffs stick together? <em>Wands out, Hufflepuff!</em>”
 
 And there were suddenly a whole lot of wands pointed in Mr~Goyle’s direction.
 
 Three seconds later—
 
-“€54€{Wands out, Slytherin!}” said around five different Slytherins.
+“<em>Wands out, Slytherin!</em>” said around five different Slytherins.
 
 And there were a whole lot of wands pointed in Hufflepuff’s direction.
 
 Two seconds later—
 
-“€55€{Wands out, Gryffindor!}”
+“<em>Wands out, Gryffindor!</em>”
 
-“€56€{Do something, Potter!}” whispered Draco. “€57€{I can’t be the one to stop this it has to be you! I’ll owe you a favour just think of something aren’t you supposed to be brilliant?}”
+“<em>Do something, Potter!</em>” whispered Draco. “<em>I can’t be the one to stop this it has to be you! I’ll owe you a favour just think of something aren’t you supposed to be brilliant?</em>”
 
 In around five and a half seconds, realised Harry, someone was going to cast the Sumerian Simple Strike Hex and by the time it was over and the teachers were done expelling people the only boys left in his year would be Ravenclaws.
 
-“€58€{Wands out, Ravenclaw!}” shouted Michael Corner who was apparently feeling left out of the disaster.
+“€22€<b>Wands out, Ravenclaw!</b>” shouted Michael Corner who was apparently feeling left out of the disaster.
 
-“€59€{Gregory Goyle!}” screamed Harry. “€60€{I challenge you to a contest for possession of Neville’s Remembrall!}”
+“€23€<b>Gregory Goyle!</b>” screamed Harry. “€24€<b>I challenge you to a contest for possession of Neville’s Remembrall!</b>”
 
 There was a sudden pause.
 
@@ -239,11 +239,11 @@ Er…
 
 There was another pause as people’s looks of relief transmuted to confusion.
 
-“Hah, Potter!” said Draco loudly. “I’d like to see you do €61€{that}! Mr~Goyle accepts!”
+“Hah, Potter!” said Draco loudly. “I’d like to see you do <em>that</em>! Mr~Goyle accepts!”
 
 “It’s on!” said Harry.
 
-“Potter, €62€{what}?” whispered Draco, which he somehow did without moving his lips.
+“Potter, <em>what</em>?” whispered Draco, which he somehow did without moving his lips.
 
 Harry didn’t know how to answer without moving his.
 
@@ -255,9 +255,9 @@ Slowly, deliberately, Harry sheathed his wand.
 
 Everyone else backed away.
 
-Harry swallowed. He knew in broad outline what he €63€{wanted} to do, but it had to be done in such a way that no-one understood €64€{what} he’d done—
+Harry swallowed. He knew in broad outline what he <em>wanted</em> to do, but it had to be done in such a way that no-one understood <em>what</em> he’d done—
 
-“All right,” Harry said loudly. “And now…” He took a deep breath and raised one hand, fingers ready to snap. There were gasps from anyone who’d heard about the pies, which was practically everyone. “€65€{I call upon the insanity of Hogwarts! Happy happy boom boom swamp swamp swamp!}” And Harry snapped his fingers.
+“All right,” Harry said loudly. “And now…” He took a deep breath and raised one hand, fingers ready to snap. There were gasps from anyone who’d heard about the pies, which was practically everyone. “<em>I call upon the insanity of Hogwarts! Happy happy boom boom swamp swamp swamp!</em>” And Harry snapped his fingers.
 
 A lot of people flinched.
 
@@ -293,9 +293,9 @@ People looked even more confused.
 
 “Just do it,” said Terry Boot. “He’ll keep trying until something works, and the scary thing is that—”
 
-“€66€{Merlin!}” gasped Ernie. He was holding up Neville’s Remembrall. “It’s €67€{here}! Right where he fell!”
+“<em>Merlin!</em>” gasped Ernie. He was holding up Neville’s Remembrall. “It’s <em>here</em>! Right where he fell!”
 
-“€68€{What?}” cried Mr~Goyle. He looked down and saw…
+“<em>What?</em>” cried Mr~Goyle. He looked down and saw…
 
 …that he was still holding Neville’s Remembrall.
 
@@ -305,31 +305,31 @@ There was a rather long pause.
 
 “It’s a plot hole,” said Harry. “I made myself weird enough to distract the universe for a moment and it forgot that Goyle had already picked up the Remembrall.”
 
-“No, wait, I mean, that’s €69€{totally} not possible—”
+“No, wait, I mean, that’s <em>totally</em> not possible—”
 
 “Excuse me, are we all standing around here waiting to go flying on broomsticks? Yes we are. So shut up. Anyway, once I get my hands on Neville’s Remembrall, the contest is over and Gregory Goyle has to relinquish all claim to the Remembrall he’s holding and give it to me. Those were the terms, remember?” Harry stretched out a hand and beckoned Ernie. “Just roll it over here, since no-one’s supposed to get close to me, okay?”
 
-“Hold on!” shouted a Slytherin—Blaise Zabini, Harry wasn’t likely to forget that name. “How do we know that’s Neville’s Remembrall? You could’ve just dropped €70€{another} Remembrall there—”
+“Hold on!” shouted a Slytherin—Blaise Zabini, Harry wasn’t likely to forget that name. “How do we know that’s Neville’s Remembrall? You could’ve just dropped <em>another</em> Remembrall there—”
 
 “The Slytherin is strong with this one,” Harry said, smiling. “But you have my word that the one Ernie’s holding is Neville’s. No comment about the one Gregory Goyle’s holding.”
 
-Zabini spun to Draco. “€71€{Malfoy!} You’re not just going to let him get away with that—”
+Zabini spun to Draco. “<em>Malfoy!</em> You’re not just going to let him get away with that—”
 
-“Shut up, you,” rumbled Mr~Crabbe, standing behind Draco. “Mr~Malfoy doesn’t need €72€{you} to tell him what to do!”
+“Shut up, you,” rumbled Mr~Crabbe, standing behind Draco. “Mr~Malfoy doesn’t need <em>you</em> to tell him what to do!”
 
-€73€{Good} minion.
+<em>Good</em> minion.
 
 “My bet was with Draco, of the Noble and Most Ancient House of Malfoy,” Harry said. “Not with you, Zabini. I have done what Mr~Malfoy said he’d like to see me do, and as for the judgement of the bet, I leave that up to Mr~Malfoy.” Harry inclined his head towards Draco and raised his eyebrows slightly. That ought to allow Draco to save enough face.
 
 There was a pause.
 
-“You promise that actually €74€{is} Neville’s Remembrall?” Draco said.
+“You promise that actually <em>is</em> Neville’s Remembrall?” Draco said.
 
 “Yes,” Harry said. “That’s the one that’ll go back to Neville and it was his originally. And the one Gregory Goyle’s holding goes to me.”
 
 Draco nodded, looking decisive. “I won’t question the word of the Noble House of Potter, then, no matter how strange that all was. And the Noble and Most Ancient House of Malfoy keeps its word as well. Mr~Goyle, give that to Mr~Potter—”
 
-“Hey!” Zabini said. “He hasn’t won €75€{yet}, he hasn’t got his hands on—”
+“Hey!” Zabini said. “He hasn’t won <em>yet</em>, he hasn’t got his hands on—”
 
 “Catch, Harry!” said Ernie, and he tossed the Remembrall.
 
@@ -339,37 +339,37 @@ Harry trailed off. All conversation stopped.
 
 The Remembrall was glowing bright red in his hand, blazing like a miniature sun that cast shadows on the ground in broad daylight.
 
-€76€
+€25€
 
 Thursday.
 
-If you wanted to be specific, 5:09€77€ on Thursday afternoon, in Professor McGonagall’s office, after flying classes. (With an extra hour for Harry slipped in between.)
+If you wanted to be specific, 5:09€26€ on Thursday afternoon, in Professor McGonagall’s office, after flying classes. (With an extra hour for Harry slipped in between.)
 
 Professor McGonagall sitting on her stool. Harry in the hot seat in front of her desk.
 
-“Professor,” Harry said tightly, “Slytherin was pointing their wands at Hufflepuff, Gryffindor was pointing their wands at Slytherin, some €78€{idiot} called wands out in Ravenclaw, and I had maybe five seconds to keep the whole thing from blowing sky-high! It was all I could think of!”
+“Professor,” Harry said tightly, “Slytherin was pointing their wands at Hufflepuff, Gryffindor was pointing their wands at Slytherin, some <em>idiot</em> called wands out in Ravenclaw, and I had maybe five seconds to keep the whole thing from blowing sky-high! It was all I could think of!”
 
-Professor McGonagall’s face was pinched and angry. “€79€{You are not to use the Time-Turner in that fashion, Mr~Potter!} Is the concept of secrecy not something that you understand?”
+Professor McGonagall’s face was pinched and angry. “<em>You are not to use the Time-Turner in that fashion, Mr~Potter!</em> Is the concept of secrecy not something that you understand?”
 
-“They don’t €80€{know} how I did it! They just think I can do really weird things by snapping my fingers! I’ve done other weird stuff that can’t be done with Time-Turners even, and I’ll do €81€{more} stuff like that, and €82€{this} case won’t even stand out! I €83€{had to do it}, Professor!”
+“They don’t <em>know</em> how I did it! They just think I can do really weird things by snapping my fingers! I’ve done other weird stuff that can’t be done with Time-Turners even, and I’ll do <em>more</em> stuff like that, and <em>this</em> case won’t even stand out! I <em>had to do it</em>, Professor!”
 
-“You did €84€{not} have to do it!” snapped Professor McGonagall. “All you needed to do was get this €85€{anonymous Slytherin} back on the ground and the wands put away! You could have challenged him to a game of Exploding Snap but no, you had to use the Time-Turner in a flagrant and unnecessary manner!”
+“You did <em>not</em> have to do it!” snapped Professor McGonagall. “All you needed to do was get this <em>anonymous Slytherin</em> back on the ground and the wands put away! You could have challenged him to a game of Exploding Snap but no, you had to use the Time-Turner in a flagrant and unnecessary manner!”
 
-“It was all I could think of! I don’t even know what Exploding Snap €86€{is}, they wouldn’t have accepted a game of chess and if I’d picked arm-wresting I would have lost!”
+“It was all I could think of! I don’t even know what Exploding Snap <em>is</em>, they wouldn’t have accepted a game of chess and if I’d picked arm-wresting I would have lost!”
 
-“€87€{Then you should have picked wrestling!}”
+“<em>Then you should have picked wrestling!</em>”
 
-Harry blinked. “But then I’d have €88€{lost}—”
+Harry blinked. “But then I’d have <em>lost</em>—”
 
 Harry stopped.
 
-Professor McGonagall was looking €89€{very} angry.
+Professor McGonagall was looking <em>very</em> angry.
 
 “I’m sorry, Professor McGonagall,” Harry said in a small voice. “I honestly didn’t think of that, and you’re right, I should have, it would have been brilliant if I had, but I just didn’t think of that at all…”
 
-Harry’s voice trailed off. It was suddenly apparent to him that he’d had a €90€{lot} of other options. He could have asked €91€{Draco} to suggest something, he could have asked the crowd…his use of the Time-Turner €92€{had} been flagrant and unnecessary. There had been a giant space of possibilities, why had he picked €93€{that} one?
+Harry’s voice trailed off. It was suddenly apparent to him that he’d had a <em>lot</em> of other options. He could have asked <em>Draco</em> to suggest something, he could have asked the crowd…his use of the Time-Turner <em>had</em> been flagrant and unnecessary. There had been a giant space of possibilities, why had he picked <em>that</em> one?
 
-Because he’d seen a way to €94€{win}. Win possession of an unimportant trinket that the teachers would’ve taken back from Mr~Goyle anyway.
+Because he’d seen a way to <em>win</em>. Win possession of an unimportant trinket that the teachers would’ve taken back from Mr~Goyle anyway.
 
 Intent to win. That was what had got him.
 
@@ -381,7 +381,7 @@ Professor McGonagall wiped a hand across her forehead. Some of her anger seemed 
 
 “Then, Mr~Potter, you will be allowed to retain the Time-Turner for now. And considering the size of the debacle you did, in fact, avert, I will not deduct any points from Ravenclaw.”
 
-€95€{Plus you couldn’t explain why you’d deducted the points.} But Harry wasn’t dumb enough to say that out loud.
+<em>Plus you couldn’t explain why you’d deducted the points.</em> But Harry wasn’t dumb enough to say that out loud.
 
 “More importantly, why did the Remembrall go off like that?” Harry said. “Does it mean I’ve been Obliviated?”
 
@@ -395,37 +395,37 @@ You could hardly see the flinch. “What is it, Mr~Potter?”
 
 “I’m sure, Mr~Potter, that it is nothing of importance.” Professor McGonagall spoke the words in a great rush. “Surely you heard the Headmaster tell the students that you were not to bother us with any unimportant complaints about the Defence Professor?”
 
-Harry was rather confused. “But this could €96€{be} important, yesterday I got this sudden sense of doom when—”
+Harry was rather confused. “But this could <em>be</em> important, yesterday I got this sudden sense of doom when—”
 
-“Mr~Potter! I have a sense of doom as well! And my sense of doom is suggesting that €97€{you must not finish that sentence!}”
+“Mr~Potter! I have a sense of doom as well! And my sense of doom is suggesting that <em>you must not finish that sentence!</em>”
 
 Harry’s mouth gaped open. Professor McGonagall had succeeded; Harry was speechless.
 
 “Mr~Potter,” said Professor McGonagall, “if you have discovered anything that seems interesting about Professor Quirrell, please feel free not to share it with me or anyone else. Now I think you’ve taken up enough of my valuable time—”
 
-“€98€{This isn’t like you!}” Harry burst out. “I’m sorry but that just seems €99€{unbelievably} irresponsible! From what I’ve heard there’s some kind of jinx on the Defence position, and if you already €100€{know} something’s going to go wrong, I’d think you’d all be on your toes—”
+“<em>This isn’t like you!</em>” Harry burst out. “I’m sorry but that just seems <em>unbelievably</em> irresponsible! From what I’ve heard there’s some kind of jinx on the Defence position, and if you already <em>know</em> something’s going to go wrong, I’d think you’d all be on your toes—”
 
-“Go €101€{wrong}, Mr~Potter? €102€{I certainly hope not.}” Professor McGonagall’s face was expressionless. “After Professor Blake was caught in a cupboard with no fewer than three fifth-year Slytherins last February, and a year before that, Professor Summers failed so completely as an educator that her students thought a boggart was a kind of furniture, it would be €103€{catastrophic} if some problem with the extraordinarily competent Professor Quirrell came to my attention now, and I dare say most of our students would fail their Defence O.W.L.s and N.E.W.T.s.”
+“Go <em>wrong</em>, Mr~Potter? <em>I certainly hope not.</em>” Professor McGonagall’s face was expressionless. “After Professor Blake was caught in a cupboard with no fewer than three fifth-year Slytherins last February, and a year before that, Professor Summers failed so completely as an educator that her students thought a boggart was a kind of furniture, it would be <em>catastrophic</em> if some problem with the extraordinarily competent Professor Quirrell came to my attention now, and I dare say most of our students would fail their Defence O.W.L.s and N.E.W.T.s.”
 
 “I see,” Harry said slowly, taking it all in. “So in other words, whatever’s wrong with Professor Quirrell, you desperately don’t want to know about it until the end of the school year. And since it’s currently September, he could assassinate the Prime Minister on live television and get away with it so far as you’re concerned.”
 
-Professor McGonagall gazed at him unblinkingly. “I am certain that I could never be heard endorsing such a statement, Mr~Potter. At Hogwarts we strive to be proactive with respect to €104€{anything} that threatens the educational attainment of our students.”
+Professor McGonagall gazed at him unblinkingly. “I am certain that I could never be heard endorsing such a statement, Mr~Potter. At Hogwarts we strive to be proactive with respect to <em>anything</em> that threatens the educational attainment of our students.”
 
-€105€{Such as first-year Ravenclaws who can’t keep their mouths shut.} “I believe I understand you completely, Professor McGonagall.”
+<em>Such as first-year Ravenclaws who can’t keep their mouths shut.</em> “I believe I understand you completely, Professor McGonagall.”
 
-“Oh, I doubt that, Mr~Potter. I doubt that very much.” Professor McGonagall leaned forward, her face tightening again. “Since you and I have already discussed matters far more sensitive than these, I shall speak frankly. You, and you alone, have reported this mysterious sense of doom. You, and you alone, are a chaos magnet the likes of which I have never seen. After our little shopping trip to Diagon Alley, and €106€{then} the Sorting Hat, and then €107€{today’s} little episode, I can well foresee that I am fated to sit in the Headmaster’s office and hear some hilarious tale about Professor Quirrell in which you and you alone play a starring role, after which there will be no choice but to fire him. I am already resigned to it, Mr~Potter. And if this sad event takes place any earlier than the Ides of May, I will string you up by the gates of Hogwarts with your own intestines and pour fire beetles into your nose. €108€{Now} do you understand me completely?”
+“Oh, I doubt that, Mr~Potter. I doubt that very much.” Professor McGonagall leaned forward, her face tightening again. “Since you and I have already discussed matters far more sensitive than these, I shall speak frankly. You, and you alone, have reported this mysterious sense of doom. You, and you alone, are a chaos magnet the likes of which I have never seen. After our little shopping trip to Diagon Alley, and <em>then</em> the Sorting Hat, and then <em>today’s</em> little episode, I can well foresee that I am fated to sit in the Headmaster’s office and hear some hilarious tale about Professor Quirrell in which you and you alone play a starring role, after which there will be no choice but to fire him. I am already resigned to it, Mr~Potter. And if this sad event takes place any earlier than the Ides of May, I will string you up by the gates of Hogwarts with your own intestines and pour fire beetles into your nose. <em>Now</em> do you understand me completely?”
 
 Harry nodded, his eyes very wide. Then, after a second, “What do I get if I can make it happen on the last day of the school year?”
 
-“€109€{Get out of my office!}”
+“<em>Get out of my office!</em>”
 
-€110€
+€27€
 
 Thursday.
 
 There must have been something about Thursdays in Hogwarts.
 
-It was 5:32€111€ on Thursday afternoon, and Harry was standing next to Professor Flitwick, in front of the great stone gargoyle that guarded the entrance to the Headmaster’s office.
+It was 5:32€28€ on Thursday afternoon, and Harry was standing next to Professor Flitwick, in front of the great stone gargoyle that guarded the entrance to the Headmaster’s office.
 
 No sooner had he made it back from Professor McGonagall’s office to the Ravenclaw study rooms than one of the students told him to report to Professor Flitwick’s office, and there Harry had learned that Dumbledore wanted to speak to him.
 
@@ -435,7 +435,7 @@ Professor Flitwick had shrugged in a helpless sort of way.
 
 Apparently Dumbledore had said that Harry was far too young to invoke the words of power and madness.
 
-€112€{Happy happy boom boom swamp swamp swamp?} Harry had thought but not said aloud.
+<em>Happy happy boom boom swamp swamp swamp?</em> Harry had thought but not said aloud.
 
 “Please don’t worry too much, Mr~Potter,” squeaked Professor Flitwick from somewhere around Harry’s shoulder level. (Harry was grateful for Professor Flitwick’s gigantic puffy beard, it was hard getting used to a Professor who was not only shorter than him but spoke in a higher-pitched voice.) “Headmaster Dumbledore may seem a little odd, or a lot odd, or even extremely odd, but he has never hurt a student in the slightest, and I don’t believe he ever will.” Professor Flitwick gave Harry an encouraging smile. “Just keep that in mind at all times and you’ll be sure not to panic!”
 
@@ -443,7 +443,7 @@ This was not helping.
 
 “Good luck!” squeaked Professor Flitwick, and leaned over to the gargoyle and said something that Harry somehow failed to hear at all. (Of course, the password wouldn’t be much good if you could hear someone saying it.) And the stone gargoyle walked aside with a very natural and ordinary movement that Harry found rather shocking, since the gargoyle still looked like solid, immovable stone the whole time.
 
-Behind the gargoyle was a set of slowly revolving spiral stairs. There was something disturbingly hypnotic about it, and even more disturbing was that €113€{revolving} the spiral ought not to take you anywhere.
+Behind the gargoyle was a set of slowly revolving spiral stairs. There was something disturbingly hypnotic about it, and even more disturbing was that <em>revolving</em> the spiral ought not to take you anywhere.
 
 “Up you go!” squeaked Flitwick.
 
@@ -463,7 +463,7 @@ In the midst of all the chaos was a clean black oaken desk. Before the desk was 
 
 Dumbledore was smiling, and his bright eyes twinkled with a mad intensity.
 
-With some trepidation, Harry seated himself in front of the desk. The door swung shut behind him with a loud €114€{thunk}.
+With some trepidation, Harry seated himself in front of the desk. The door swung shut behind him with a loud <em>thunk</em>.
 
 “Hello, Harry,” said Dumbledore.
 
@@ -481,21 +481,21 @@ There was a slight pause.
 
 “Heh, please!” said Dumbledore cheerfully. “And there’s no call to be so worried, I won’t launch you out a window just because you make one mistake. I’ll give you plenty of warnings first, if you’re doing something wrong! Besides, what matters isn’t how people talk to you, it’s what they think of you.”
 
-€115€{He’s never hurt a student, just keep remembering that and you’ll be sure not to panic.}
+<em>He’s never hurt a student, just keep remembering that and you’ll be sure not to panic.</em>
 
 Dumbledore drew forth a small metal case and flipped it open, showing some small yellow lumps. “Sherbet lemon?” said the Headmaster.
 
-“Er, no thank you, Heh,” said Harry. €116€{Does slipping a student LSD count as hurting them, or does that fall into the category of harmless fun?} “You, um, said something about my being too young to invoke the words of power and madness?”
+“Er, no thank you, Heh,” said Harry. <em>Does slipping a student LSD count as hurting them, or does that fall into the category of harmless fun?</em> “You, um, said something about my being too young to invoke the words of power and madness?”
 
 “That you most certainly are!” Dumbledore said. “Thankfully the Words of Power and Madness were lost seven centuries ago and no-one has the slightest idea what they are any more. It was just a little remark.”
 
 “Ah…” Harry said. He was aware that his mouth was hanging open. “Why did you call me here, then?”
 
-“€117€{Why?}” Dumbledore repeated. “Ah, Harry, if I went around all day asking €118€{why} I do things, I’d never have time to get a single thing done! I’m quite a busy person, you know.”
+“<em>Why?</em>” Dumbledore repeated. “Ah, Harry, if I went around all day asking <em>why</em> I do things, I’d never have time to get a single thing done! I’m quite a busy person, you know.”
 
 Harry nodded, smiling. “Yes, it was a very impressive list. Headmaster of Hogwarts, Chief Warlock of the Wizengamot, and Supreme Mugwump of the International Confederation of Wizards. Sorry to ask but I was wondering, is it possible to get more than six hours if you use more than one Time-Turner? Because it’s pretty impressive if you’re doing all that on just thirty hours a day.”
 
-There was another slight pause, during which Harry went on smiling. He was a little apprehensive, actually a lot apprehensive, but once it had become clear that Dumbledore was deliberately messing with him, something within him €119€{absolutely refused} to sit and take it like a defenceless lump.
+There was another slight pause, during which Harry went on smiling. He was a little apprehensive, actually a lot apprehensive, but once it had become clear that Dumbledore was deliberately messing with him, something within him <em>absolutely refused</em> to sit and take it like a defenceless lump.
 
 “I’m afraid Time doesn’t like being stretched out too much,” said Dumbledore after the slight pause, “and yet we ourselves seem to be a little too large for it, and so it’s a constant struggle to fit our lives into Time.”
 
@@ -503,9 +503,9 @@ There was another slight pause, during which Harry went on smiling. He was a lit
 
 For a moment Harry wondered if he’d gone too far.
 
-Then Dumbledore chuckled. “Straight to the point it shall be.” The Headmaster leaned forwards, tilting his squashed mushroom hat and brushing his beard against his desk. “Harry, this Monday you did something that should have been impossible even with a Time-Turner. Or rather, impossible with €120€{only} a Time-Turner. Where did those two pies come from, I wonder?”
+Then Dumbledore chuckled. “Straight to the point it shall be.” The Headmaster leaned forwards, tilting his squashed mushroom hat and brushing his beard against his desk. “Harry, this Monday you did something that should have been impossible even with a Time-Turner. Or rather, impossible with <em>only</em> a Time-Turner. Where did those two pies come from, I wonder?”
 
-A jolt of adrenaline shot through Harry. He’d done that using the Cloak of Invisibility, the one that had been given him in a Christmas box along with a note, and that note had said: €121€{If Dumbledore saw a chance to possess one of the Deathly Hallows he would never let it escape his grasp….}
+A jolt of adrenaline shot through Harry. He’d done that using the Cloak of Invisibility, the one that had been given him in a Christmas box along with a note, and that note had said: <em>If Dumbledore saw a chance to possess one of the Deathly Hallows he would never let it escape his grasp….</em>
 
 “A natural thought,” Dumbledore went on, “is that since none of the first-years present were able to cast such a spell, someone else was present, and yet unseen. And if no-one could see them, why, it would be easy enough for them to throw the pies. One might further suspect that since you had a Time-Turner, you were the invisible one; and that since the spell of Disillusionment is far beyond your current abilities, you had an invisibility cloak.” Dumbledore smiled conspiratorially. “Am I on the right track so far, Harry?”
 
@@ -515,7 +515,7 @@ Dumbledore waved a friendly hand. “Don’t worry, Harry, you haven’t done an
 
 “Oh?” Harry said in the most normal voice he could manage.
 
-Dumbledore’s eyes shone with enthusiasm. “You see, Harry, after you’ve been through a few adventures you tend to catch the hang of these things. You start to see the pattern, hear the rhythm of the world. You begin to harbour suspicions €122€{before} the moment of revelation. You are the Boy-Who-Lived, and somehow an invisibility cloak made its way into your hands only four days after you discovered our magical Britain. Such cloaks are not for sale in Diagon Alley, but there is €123€{one} which might find its own way to a destined wearer. And so I cannot help but wonder if by some strange chance you have found not just €124€{an} invisibility cloak, but €125€{the} Cloak of Invisibility, one of the three Deathly Hallows and reputed to hide the wearer from the gaze of Death himself.” Dumbledore’s gaze was bright and eager. “May I see it, Harry?”
+Dumbledore’s eyes shone with enthusiasm. “You see, Harry, after you’ve been through a few adventures you tend to catch the hang of these things. You start to see the pattern, hear the rhythm of the world. You begin to harbour suspicions <em>before</em> the moment of revelation. You are the Boy-Who-Lived, and somehow an invisibility cloak made its way into your hands only four days after you discovered our magical Britain. Such cloaks are not for sale in Diagon Alley, but there is <em>one</em> which might find its own way to a destined wearer. And so I cannot help but wonder if by some strange chance you have found not just <em>an</em> invisibility cloak, but <em>the</em> Cloak of Invisibility, one of the three Deathly Hallows and reputed to hide the wearer from the gaze of Death himself.” Dumbledore’s gaze was bright and eager. “May I see it, Harry?”
 
 Harry swallowed. There was a full flood of adrenaline in his system now and it was entirely useless, this was the most powerful wizard in the world and there was no way he could make it out the door and there was nowhere in Hogwarts for him to hide if he did, he was about to lose the Cloak that had been passed down through the Potters for who knew how long—
 
@@ -527,9 +527,9 @@ Slowly Dumbledore leaned back into his high chair. The bright light had gone out
 
 Harry swallowed. “Is there some way you can swear a binding magical oath that you won’t take my cloak?”
 
-Dumbledore shook his head slowly. “Unbreakable Vows are not to be used so lightly. And besides, Harry, if you did not already know the spell, you would have only my word that the spell was binding. Yet surely you realise that I do not €126€{need} your permission to see the Cloak. I am powerful enough to draw it forth myself, mokeskin pouch or no.” Dumbledore’s face was very grave. “But this I will not do. The Cloak is yours, Harry. I will not seize it from you. Not even to look at for just a moment, unless you decide to show it to me. That is a promise and an oath. Should I need to prohibit you from using it on the school grounds, I will require you to go to your vault at Gringotts and store it there.”
+Dumbledore shook his head slowly. “Unbreakable Vows are not to be used so lightly. And besides, Harry, if you did not already know the spell, you would have only my word that the spell was binding. Yet surely you realise that I do not <em>need</em> your permission to see the Cloak. I am powerful enough to draw it forth myself, mokeskin pouch or no.” Dumbledore’s face was very grave. “But this I will not do. The Cloak is yours, Harry. I will not seize it from you. Not even to look at for just a moment, unless you decide to show it to me. That is a promise and an oath. Should I need to prohibit you from using it on the school grounds, I will require you to go to your vault at Gringotts and store it there.”
 
-“Ah…” Harry said. He swallowed hard, trying to calm the flood of adrenaline and think reasonably. He took the mokeskin pouch off his belt. “If you really €127€{don’t} need my permission…then you have it.” Harry held out the pouch to Dumbledore, and bit down hard on his lip, sending that signal to himself in case he was Obliviated afterwards.
+“Ah…” Harry said. He swallowed hard, trying to calm the flood of adrenaline and think reasonably. He took the mokeskin pouch off his belt. “If you really <em>don’t</em> need my permission…then you have it.” Harry held out the pouch to Dumbledore, and bit down hard on his lip, sending that signal to himself in case he was Obliviated afterwards.
 
 The old wizard reached into the pouch, and without saying any word of retrieval, drew forth the Cloak of Invisibility.
 
@@ -563,9 +563,9 @@ Dumbledore stood up from his chair, and began examining one of his instruments, 
 
 After a few moments, the old wizard spoke again. “He probably seems to you quite charming,” said Dumbledore. “Polite—to you at least. Well-spoken, maybe even admiring. Always ready with a helping hand, a favour, a word of advice—”
 
-“Oh, €128€{Draco Malfoy!}” Harry said, feeling rather relieved that it wasn’t Hermione or something. “Oh no, no no no, you’ve got it all wrong, he’s not turning me, I’m turning him.”
+“Oh, <em>Draco Malfoy!</em>” Harry said, feeling rather relieved that it wasn’t Hermione or something. “Oh no, no no no, you’ve got it all wrong, he’s not turning me, I’m turning him.”
 
-Dumbledore froze where he was peering at the dial. “You’re €129€{what}?”
+Dumbledore froze where he was peering at the dial. “You’re <em>what</em>?”
 
 “I’m going to turn Draco Malfoy from the Dark Side,” Harry said. “You know, make him a good guy.”
 
@@ -575,21 +575,21 @@ Dumbledore straightened and turned to Harry. He was wearing one of the most asto
 
 Dumbledore’s left eye twitched. “You intend to sow seeds of love and kindness in Draco Malfoy’s heart because you expect Malfoy’s heir to prove valuable to you?”
 
-“Not just to €130€{me}!” Harry said indignantly. “To all of magical Britain, if this works out! €131€{And} he’ll have a happier and mentally healthier life himself! Look, I don’t have enough time to turn €132€{everyone} away from the Dark Side and I’ve got to ask where the Light can gain the most advantage the fastest—”
+“Not just to <em>me</em>!” Harry said indignantly. “To all of magical Britain, if this works out! <em>And</em> he’ll have a happier and mentally healthier life himself! Look, I don’t have enough time to turn <em>everyone</em> away from the Dark Side and I’ve got to ask where the Light can gain the most advantage the fastest—”
 
-Dumbledore started laughing. Laughing a lot harder than Harry would expect, almost howling. It seemed positively €133€{undignified}. An ancient and powerful wizard ought to chuckle in deep booming tones, not laugh so hard he was gasping for breath. Harry had once literally fallen out of his chair while watching the Marx Brothers film €134€{Duck Soup,} and that was how hard Dumbledore was laughing now.
+Dumbledore started laughing. Laughing a lot harder than Harry would expect, almost howling. It seemed positively <em>undignified</em>. An ancient and powerful wizard ought to chuckle in deep booming tones, not laugh so hard he was gasping for breath. Harry had once literally fallen out of his chair while watching the Marx Brothers film <em>Duck Soup,</em> and that was how hard Dumbledore was laughing now.
 
-“It’s not €135€{that} funny,” Harry said after a while. He was starting to worry about Dumbledore’s sanity again.
+“It’s not <em>that</em> funny,” Harry said after a while. He was starting to worry about Dumbledore’s sanity again.
 
 Dumbledore got himself under control again with a visible effort. “Ah, Harry, one symptom of the disease called wisdom is that you begin laughing at things that no-one else thinks is funny, because when you’re wise, Harry, you start getting the jokes!” The old wizard wiped tears away from his eyes. “Ah, me. Ah, me. Oft evil will shall evil mar indeed, in very deed.”
 
-Harry’s brain took a moment to place the familiar words…“Hey, that’s a €136€{Tolkien} quote! €137€{Gandalf} says that!”
+Harry’s brain took a moment to place the familiar words…“Hey, that’s a <em>Tolkien</em> quote! <em>Gandalf</em> says that!”
 
 “Théoden, actually,” said Dumbledore.
 
-“You’re €138€{Muggle-born?}” Harry said in shock.
+“You’re <em>Muggle-born?</em>” Harry said in shock.
 
-“I’m afraid not,” said Dumbledore, smiling again. “I was born seventy years before that book was published, dear child. But it seems that my Muggle-born students tend to think alike in certain ways. I have accumulated no fewer than twenty copies of €139€{The Lord of the Rings} and three sets of Tolkien’s entire collected works, and I treasure every one of them.” Dumbledore drew his wand and held it up and struck a pose. “€140€{You cannot pass!} How does that look?”
+“I’m afraid not,” said Dumbledore, smiling again. “I was born seventy years before that book was published, dear child. But it seems that my Muggle-born students tend to think alike in certain ways. I have accumulated no fewer than twenty copies of <em>The Lord of the Rings</em> and three sets of Tolkien’s entire collected works, and I treasure every one of them.” Dumbledore drew his wand and held it up and struck a pose. “<em>You cannot pass!</em> How does that look?”
 
 “Ah,” Harry said in something approaching complete brain shutdown, “I think you’re missing a Balrog.” And the pink pyjamas and squashed mushroom hat were not helping in the slightest.
 
@@ -609,11 +609,11 @@ Harry looked up. “This is a joke, right?”
 
 “It is not,” said Dumbledore, shaking his head and looking very serious. “I took this from the ruins of James and Lily’s home in Godric’s Hollow, where also I found you; and I have kept it from then until now, against the day when I could give it to you.”
 
-In the mixture of hypotheses that served as Harry’s model of the world, Dumbledore’s insanity was rapidly rising in probability. But there €141€{was} still a substantial amount of probability allocated to other alternatives…“Um, is it a €142€{magical} rock?”
+In the mixture of hypotheses that served as Harry’s model of the world, Dumbledore’s insanity was rapidly rising in probability. But there <em>was</em> still a substantial amount of probability allocated to other alternatives…“Um, is it a <em>magical</em> rock?”
 
 “Not so far as I know,” said Dumbledore. “But I advise you with the greatest possible stringency to keep it close about your person at all times.”
 
-All right. Dumbledore was €143€{probably} insane but if he €144€{wasn’t}…well, it would be just too €145€{embarrassing} to get in trouble from ignoring the advice of the inscrutable old wizard. That had to be like \#4 on the list of the Top 100 Obvious Failure Modes.
+All right. Dumbledore was <em>probably</em> insane but if he <em>wasn’t</em>…well, it would be just too <em>embarrassing</em> to get in trouble from ignoring the advice of the inscrutable old wizard. That had to be like \#4 on the list of the Top 100 Obvious Failure Modes.
 
 Harry stepped forward and put his hands on the rock, trying to find some angle from which to lift it without cutting himself. “I’ll put it in my pouch, then.”
 
@@ -633,15 +633,15 @@ Dumbledore gave Harry a serious look. “That might prove wise.”
 
 “Reality is always lawful,” said Harry, “even if we don’t know the law.”
 
-“Precisely, Harry,” said Dumbledore. “To understand this—and I see that you €146€{do} understand it—is the essence of wisdom.”
+“Precisely, Harry,” said Dumbledore. “To understand this—and I see that you <em>do</em> understand it—is the essence of wisdom.”
 
-“So…€147€{why} do I have to carry this rock exactly?”
+“So…<em>why</em> do I have to carry this rock exactly?”
 
 “I can’t think of a reason, actually,” said Dumbledore.
 
 “…you can’t.”
 
-Dumbledore nodded. “But just because I can’t think of a reason doesn’t mean there €148€{is} no reason.”
+Dumbledore nodded. “But just because I can’t think of a reason doesn’t mean there <em>is</em> no reason.”
 
 The instruments ticked on.
 
@@ -649,41 +649,41 @@ The instruments ticked on.
 
 “It isn’t?” said the old wizard, looking surprised and disappointed.
 
-Harry had the feeling this conversation was not going to work out in his favour, but he carried on regardless. “No. I don’t even know if that fallacy has an official name, but if I had to make one up myself, it would be ‘privileging the hypothesis’ or something like that. How can I put this formally…um…suppose you had a million boxes, and only one of the boxes contained a diamond. And you had a box full of diamond-detectors, and each diamond-detector always went off in the presence of a diamond, and went off half the time on boxes that didn’t have a diamond. If you ran twenty detectors over all the boxes, you’d have, on average, one false candidate and one true candidate left. And then it would just take one or two more detectors before you were left with the one true candidate. The point being that when there are lots of possible answers, €149€{most} of the evidence you need goes into just €150€{locating} the true hypothesis out of millions of possibilities—bringing it to your attention in the first place. The amount of evidence you need to judge between two or three plausible candidates is much smaller by comparison. So if you just jump ahead without evidence and promote one particular possibility to the focus of your attention, you’re skipping over most of the work. Like, you live in a city where there are a million people, and there’s a murder, and a detective says, well, we’ve got no evidence at all, so have we considered the possibility that Mortimer Snodgrass did it?”
+Harry had the feeling this conversation was not going to work out in his favour, but he carried on regardless. “No. I don’t even know if that fallacy has an official name, but if I had to make one up myself, it would be ‘privileging the hypothesis’ or something like that. How can I put this formally…um…suppose you had a million boxes, and only one of the boxes contained a diamond. And you had a box full of diamond-detectors, and each diamond-detector always went off in the presence of a diamond, and went off half the time on boxes that didn’t have a diamond. If you ran twenty detectors over all the boxes, you’d have, on average, one false candidate and one true candidate left. And then it would just take one or two more detectors before you were left with the one true candidate. The point being that when there are lots of possible answers, <em>most</em> of the evidence you need goes into just <em>locating</em> the true hypothesis out of millions of possibilities—bringing it to your attention in the first place. The amount of evidence you need to judge between two or three plausible candidates is much smaller by comparison. So if you just jump ahead without evidence and promote one particular possibility to the focus of your attention, you’re skipping over most of the work. Like, you live in a city where there are a million people, and there’s a murder, and a detective says, well, we’ve got no evidence at all, so have we considered the possibility that Mortimer Snodgrass did it?”
 
 “Did he?” said Dumbledore.
 
-“No,” said Harry. “But later it turns out that the murderer had black hair, and Mortimer has black hair, so everyone’s like, ah, looks like Mortimer did it after all. So it’s unfair to Mortimer for the police to €151€{promote him to their attention} without having good reasons already in hand to suspect him. When there are lots of possibilities, most of the work goes into just €152€{locating} the true answer—starting to pay attention to it. You don’t need €153€{proof}, or the sort of official evidence that scientists or courts demand, but you need some sort of €154€{hint}, and that hint has to discriminate that particular possibility from the millions of others. Otherwise you can’t just pluck the right answer out of thin air. You can’t even pluck a possibility worth thinking about out of thin air. And there’s got to be a million other things I could do besides carrying around my father’s rock. Just because I’m ignorant about the universe doesn’t mean that I’m unsure about how I should reason in the presence of my uncertainty. The laws for thinking with probabilities are no less iron than the laws that govern old-fashioned logic, and what you just did is €155€{not allowed.}” Harry paused. “€156€{Unless}, of course, you have some €157€{hint} you’re not mentioning.”
+“No,” said Harry. “But later it turns out that the murderer had black hair, and Mortimer has black hair, so everyone’s like, ah, looks like Mortimer did it after all. So it’s unfair to Mortimer for the police to <em>promote him to their attention</em> without having good reasons already in hand to suspect him. When there are lots of possibilities, most of the work goes into just <em>locating</em> the true answer—starting to pay attention to it. You don’t need <em>proof</em>, or the sort of official evidence that scientists or courts demand, but you need some sort of <em>hint</em>, and that hint has to discriminate that particular possibility from the millions of others. Otherwise you can’t just pluck the right answer out of thin air. You can’t even pluck a possibility worth thinking about out of thin air. And there’s got to be a million other things I could do besides carrying around my father’s rock. Just because I’m ignorant about the universe doesn’t mean that I’m unsure about how I should reason in the presence of my uncertainty. The laws for thinking with probabilities are no less iron than the laws that govern old-fashioned logic, and what you just did is <em>not allowed.</em>” Harry paused. “<em>Unless</em>, of course, you have some <em>hint</em> you’re not mentioning.”
 
 “Ah,” said Dumbledore. He tapped his cheek, looking thoughtful. “An interesting argument, certainly, but doesn’t it break down at the point where you make an analogy between a million potential murderers only one of whom committed the murder, and taking one out of many possible courses of action, when many possible courses of action may all be wise? I do not say that carrying your father’s rock is the one best possible course of action, only that it is wiser to do than not.”
 
-Dumbledore once again reached into the same desk drawer he had accessed earlier, this time seeming to root around inside—at least his arm seemed to be moving. “I will remark,” Dumbledore said while Harry was still trying to sort out how to reply to this completely unexpected rejoinder, “that it is a common misconception of Ravenclaws that all the smart children are Sorted there, leaving none for other Houses. This is not so; being Sorted to Ravenclaw indicates that you are driven by your desire to know things, which is not at all the same quality as being intelligent.” The wizard was smiling as he bent over the drawer. “Nonetheless, you €158€{do} seem rather intelligent. Less like an ordinary young hero and more like a young mysterious ancient wizard. I think I may have been taking the wrong approach with you, Harry, and that you may be able to understand things that few others could grasp. So I shall be daring, and offer you a certain €159€{other} heirloom.”
+Dumbledore once again reached into the same desk drawer he had accessed earlier, this time seeming to root around inside—at least his arm seemed to be moving. “I will remark,” Dumbledore said while Harry was still trying to sort out how to reply to this completely unexpected rejoinder, “that it is a common misconception of Ravenclaws that all the smart children are Sorted there, leaving none for other Houses. This is not so; being Sorted to Ravenclaw indicates that you are driven by your desire to know things, which is not at all the same quality as being intelligent.” The wizard was smiling as he bent over the drawer. “Nonetheless, you <em>do</em> seem rather intelligent. Less like an ordinary young hero and more like a young mysterious ancient wizard. I think I may have been taking the wrong approach with you, Harry, and that you may be able to understand things that few others could grasp. So I shall be daring, and offer you a certain <em>other</em> heirloom.”
 
-“You don’t mean…” gasped Harry. “My father…€160€{owned another rock?}”
+“You don’t mean…” gasped Harry. “My father…<em>owned another rock?</em>”
 
-“Excuse me,” said Dumbledore, “I €161€{am} still older and more mysterious than you and if there are any revelations to be made then €162€{I} will do the revealing, thank you…oh, where €163€{is} that thing!” Dumbledore reached down further into the desk drawer, and still further. His head and shoulders and whole torso disappeared inside until only his hips and legs were sticking out, as though the desk drawer was eating him.
+“Excuse me,” said Dumbledore, “I <em>am</em> still older and more mysterious than you and if there are any revelations to be made then <em>I</em> will do the revealing, thank you…oh, where <em>is</em> that thing!” Dumbledore reached down further into the desk drawer, and still further. His head and shoulders and whole torso disappeared inside until only his hips and legs were sticking out, as though the desk drawer was eating him.
 
 Harry couldn’t help but wonder just how much stuff was in there and what the complete inventory would look like.
 
 Finally Dumbledore rose back up out of the drawer, holding the objective of his search, which he set down on the desk alongside the rock.
 
-It was a used, ragged-edged, textbook with a worn spine: €164€{Intermediate Potion Making} by Libatius Borage. There was a picture of a smoking vial on the cover.
+It was a used, ragged-edged, textbook with a worn spine: <em>Intermediate Potion Making</em> by Libatius Borage. There was a picture of a smoking vial on the cover.
 
 “This,” Dumbledore intoned, “was your mother’s fifth-year Potions textbook.”
 
 “Which I am to carry with me at all times,” said Harry.
 
-“€165€{Which holds a terrible secret}. A secret whose revelation could prove so disastrous that I must ask you to swear—and I do require you to swear it seriously, Harry, whatever you may think of all this—never to tell anyone or anything else.”
+“<em>Which holds a terrible secret</em>. A secret whose revelation could prove so disastrous that I must ask you to swear—and I do require you to swear it seriously, Harry, whatever you may think of all this—never to tell anyone or anything else.”
 
 Harry considered his mother’s fifth-year Potions textbook, which, apparently, held a terrible secret.
 
-The problem was that Harry €166€{did} take that oaths like that very seriously. Any vow was an Unbreakable Vow if made by the right sort of person.
+The problem was that Harry <em>did</em> take that oaths like that very seriously. Any vow was an Unbreakable Vow if made by the right sort of person.
 
 And…
 
 “I’m feeling thirsty,” Harry said, “and that is not at all a good sign.”
 
-Dumbledore entirely failed to ask any questions about this cryptic statement. “€167€{Do} you swear, Harry?” said Dumbledore. His eyes gazed intently into Harry’s. “Otherwise I cannot tell you.”
+Dumbledore entirely failed to ask any questions about this cryptic statement. “<em>Do</em> you swear, Harry?” said Dumbledore. His eyes gazed intently into Harry’s. “Otherwise I cannot tell you.”
 
 “Yes,” said Harry. “I swear.” That was the trouble with being a Ravenclaw. You couldn’t refuse an offer like that or your curiosity would eat you alive, and everyone else knew it.
 
@@ -693,13 +693,13 @@ Dumbledore opened the book, seemingly at random, and Harry leaned in to see.
 
 “Do you see these notes,” Dumbledore said in a voice so low it was almost a whisper, “written in the margins of the book?”
 
-Harry squinted slightly. The yellowing pages seemed to be describing something called a €168€{potion of eagle’s splendour}, many of the ingredients being items that Harry didn’t recognise at all and whose names didn’t appear to derive from English. Scrawled in the margin was a handwritten annotation saying, €169€{I wonder what would happen if you used Thestral blood here instead of blueberries?} and immediately beneath was a reply in different handwriting, €170€{You’d get sick for weeks and maybe die.}
+Harry squinted slightly. The yellowing pages seemed to be describing something called a <em>potion of eagle’s splendour</em>, many of the ingredients being items that Harry didn’t recognise at all and whose names didn’t appear to derive from English. Scrawled in the margin was a handwritten annotation saying, <em>I wonder what would happen if you used Thestral blood here instead of blueberries?</em> and immediately beneath was a reply in different handwriting, <em>You’d get sick for weeks and maybe die.</em>
 
 “I see them,” said Harry. “What about them?”
 
-Dumbledore pointed to the second scrawl. “The ones in this handwriting,” he said, still in that low voice, “were written by your mother. And the ones in €171€{this} handwriting,” moving his finger to indicate the first scrawl, “were written by me. I would turn myself invisible and sneak into her dorm while she was sleeping. Lily thought one of her friends was writing them and they had the most amazing fights.”
+Dumbledore pointed to the second scrawl. “The ones in this handwriting,” he said, still in that low voice, “were written by your mother. And the ones in <em>this</em> handwriting,” moving his finger to indicate the first scrawl, “were written by me. I would turn myself invisible and sneak into her dorm while she was sleeping. Lily thought one of her friends was writing them and they had the most amazing fights.”
 
-That was the exact point at which Harry realised that the Headmaster of Hogwarts €172€{was}, in fact, crazy.
+That was the exact point at which Harry realised that the Headmaster of Hogwarts <em>was</em>, in fact, crazy.
 
 Dumbledore was looking at him with a serious expression. “Do you understand the implications of what I have just told you, Harry?”
 
@@ -727,15 +727,15 @@ There was the sound behind him of a door opening.
 
 “There were more things I planned to say to you,” Dumbledore said, “and if you leave now, you will not know what they were.”
 
-Sometimes Harry absolutely €173€{hated} being a Ravenclaw.
+Sometimes Harry absolutely <em>hated</em> being a Ravenclaw.
 
-€174€{He’s never hurt a student,} said Harry’s Gryffindor side. €175€{Just keep remembering that and you’ll be sure not to panic. You’re not going to run away just because things are getting interesting, are you?}
+<em>He’s never hurt a student,</em> said Harry’s Gryffindor side. <em>Just keep remembering that and you’ll be sure not to panic. You’re not going to run away just because things are getting interesting, are you?</em>
 
-€176€{You can’t just walk out on the Headmaster!} said the Hufflepuff part. €177€{What if he starts deducting House points? He could make your school life very difficult if he decides he doesn’t like you!}
+<em>You can’t just walk out on the Headmaster!</em> said the Hufflepuff part. <em>What if he starts deducting House points? He could make your school life very difficult if he decides he doesn’t like you!</em>
 
-And a piece of himself which Harry didn’t much like but couldn’t quite manage to silence was pondering the potential advantages of being one of the few friends of this mad old wizard who also happened to be Headmaster, Chief Warlock, and Supreme Mugwump. And unfortunately his inner Slytherin seemed to be much better than Draco at turning people to the Dark Side, because it was saying things like €178€{poor fellow, he looks like he needs someone to talk to, doesn’t he? €179€{and} you wouldn’t want such a powerful man to end up trusting someone less virtuous, would you?} and €180€{I wonder what sort of incredible secrets Dumbledore could tell you if, you know, you became friends with him} and even €181€{I bet he’s got a reaallly interesting book collection.}
+And a piece of himself which Harry didn’t much like but couldn’t quite manage to silence was pondering the potential advantages of being one of the few friends of this mad old wizard who also happened to be Headmaster, Chief Warlock, and Supreme Mugwump. And unfortunately his inner Slytherin seemed to be much better than Draco at turning people to the Dark Side, because it was saying things like <em>poor fellow, he looks like he needs someone to talk to, doesn’t he? €29€<b>and</em> you wouldn’t want such a powerful man to end up trusting someone less virtuous, would you?</b> and <em>I wonder what sort of incredible secrets Dumbledore could tell you if, you know, you became friends with him</em> and even <em>I bet he’s got a reaallly interesting book collection.</em>
 
-€182€{You’re all a bunch of lunatics,} Harry thought at the entire assemblage, but he’d been unanimously outvoted by every component part of himself.
+<em>You’re all a bunch of lunatics,</em> Harry thought at the entire assemblage, but he’d been unanimously outvoted by every component part of himself.
 
 Harry turned, took a step towards the open door, reached out, and deliberately closed it again. It was a costless sacrifice given that he was staying anyway, Dumbledore could control his movements regardless, but maybe it would impress Dumbledore.
 
@@ -743,7 +743,7 @@ When Harry turned back around he saw that the powerful insane wizard was once mo
 
 “Please don’t do that again,” Harry said. “I don’t like being trapped.”
 
-“I €183€{am} sorry about that, Harry,” said Dumbledore in what sounded like tones of sincere apology. “But it would have been terribly unwise to let you leave without your father’s rock.”
+“I <em>am</em> sorry about that, Harry,” said Dumbledore in what sounded like tones of sincere apology. “But it would have been terribly unwise to let you leave without your father’s rock.”
 
 “Of course,” Harry said. “It wasn’t reasonable of me to expect the door to open before I put the quest items in my inventory.”
 
@@ -763,7 +763,7 @@ Dumbledore gazed at him, and then nodded with a slight grin. “I’m flattered 
 
 “Excuse me,” Harry said, “actually I was wondering about those.” Harry pointed to a small cube that was softly whispering “blorple…blorple…blorple”.
 
-“Oh, the little fiddly things?” said Dumbledore. “They came with the Headmaster’s office and I have absolutely no idea what most of them do. Although €184€{this} dial with the eight hands counts the number of, let’s call them sneezes, by left-handed witches within the borders of France, you would not believe how much work it took to nail that down. And €185€{this} one with the golden wibblers is my own invention and Minerva is never, ever going to figure out what it’s doing.”
+“Oh, the little fiddly things?” said Dumbledore. “They came with the Headmaster’s office and I have absolutely no idea what most of them do. Although <em>this</em> dial with the eight hands counts the number of, let’s call them sneezes, by left-handed witches within the borders of France, you would not believe how much work it took to nail that down. And <em>this</em> one with the golden wibblers is my own invention and Minerva is never, ever going to figure out what it’s doing.”
 
 Dumbledore took a step over to the hat rack while Harry was still processing this. “Here of course we have the Sorting Hat, I believe the two of you have met. It told me that it was never again to be placed on your head under any circumstances. You’re only the fourteenth student in history it’s said that about, Baba Yaga was another one and I’ll tell you about the other twelve when you’re older. This is an umbrella. This is another umbrella.” Dumbledore took another few steps and turned around, now smiling quite broadly. “And of course, most people who come to my office want to see Fawkes.”
 
@@ -781,15 +781,15 @@ He was pretty sure he recognised the shape of the bird. It was pretty hard to mi
 
 “Umm…”
 
-€186€{Say something intelligent!} Harry’s mind roared at itself. €187€{Don’t just stand there sounding like a gibbering moron!}
+<em>Say something intelligent!</em> Harry’s mind roared at itself. <em>Don’t just stand there sounding like a gibbering moron!</em>
 
-€188€{Well what the heck am I €189€{supposed} to say?} Harry’s mind fired back.
+<em>Well what the heck am I €30€<b>supposed</em> to say?</b> Harry’s mind fired back.
 
-€190€{Anything!}
+<em>Anything!</em>
 
-€191€{You mean, anything besides “Fawkes is a chicken”—}
+<em>You mean, anything besides “Fawkes is a chicken”—</em>
 
-€192€{Yes! Anything but that!}
+<em>Yes! Anything but that!</em>
 
 “So, ah, what sort of magic do phœnixes do, then?”
 
@@ -811,27 +811,27 @@ There was a violent power struggle going on in the Government of Harry. Slytheri
 
 “Yes, things,” said Harry’s lips. “And then dinner.”
 
-€193€{You’re sounding like a gibbering moron again} observed Harry’s Internal Critic.
+<em>You’re sounding like a gibbering moron again</em> observed Harry’s Internal Critic.
 
 “Well,” Dumbledore said. “I fear I have a confession to make, Harry. A confession and an apology.”
 
-“Apologies are good” €194€{that doesn’t even make sense! What am I talking about?}
+“Apologies are good” <em>that doesn’t even make sense! What am I talking about?</em>
 
 The old wizard sighed deeply. “You may not still think so after understanding what I have to say. I’m afraid, Harry, that I’ve been manipulating you your entire life. It was I who consigned you to the care of your wicked step-parents—”
 
-“My step-parents aren’t wicked!” blurted Harry. “My €195€{parents}, I mean!”
+“My step-parents aren’t wicked!” blurted Harry. “My <em>parents</em>, I mean!”
 
 “They aren’t?” Dumbledore said, looking surprised and disappointed. “Not even a little wicked? That doesn’t fit the pattern…”
 
-Harry’s inner Slytherin screamed at the top of its mental lungs, €196€{€197€{Shut up you idiot he’ll take you away from them!}}
+Harry’s inner Slytherin screamed at the top of its mental lungs, <em>€31€<b>Shut up you idiot he’ll take you away from them!</em></b>
 
 “No, no,” said Harry, lips frozen in a ghastly grimace, “I was just trying to spare your feelings, they’re actually very wicked…”
 
 “They are?” Dumbledore leaned forward, gazing at him intently. “What do they do?”
 
-€198€{Talk fast} “they, ah, I have to do dishes and wash problems and they don’t let me read a lot of books and—”
+<em>Talk fast</em> “they, ah, I have to do dishes and wash problems and they don’t let me read a lot of books and—”
 
-“Ah, good, that’s good to hear,” said Dumbledore, leaning back again. He smiled in a sad sort of way. “I apologise for €199€{that}, then. Now where was I? Ah, yes. I’m sorry to say, Harry, that I am responsible for virtually everything bad that has ever happened to you. I know that this will probably make you very angry.”
+“Ah, good, that’s good to hear,” said Dumbledore, leaning back again. He smiled in a sad sort of way. “I apologise for <em>that</em>, then. Now where was I? Ah, yes. I’m sorry to say, Harry, that I am responsible for virtually everything bad that has ever happened to you. I know that this will probably make you very angry.”
 
 “Yes, I’m very angry!” said Harry. “Grrr!”
 
@@ -843,13 +843,13 @@ Moisture glistened in the old wizard’s eyes.
 
 “And I’m very angry!” said Harry. “So angry that I want to leave right now unless you’ve got anything else to say!”
 
-€200€{Just €201€{go} before he sets you on fire!} shrieked Slytherin, Hufflepuff, and Gryffindor.
+<em>Just €32€<b>go</em> before he sets you on fire!</b> shrieked Slytherin, Hufflepuff, and Gryffindor.
 
-“I understand,” said Dumbledore. “One last thing then, Harry. You are €202€{not} to attempt the forbidden door on the third-floor corridor. There’s no possible way you could get through all the traps, and I wouldn’t want to hear that you’d been hurt trying. Why, I doubt that you could so much as open the first door, since it’s locked and you don’t know the spell €203€{Alohomora—}”
+“I understand,” said Dumbledore. “One last thing then, Harry. You are <em>not</em> to attempt the forbidden door on the third-floor corridor. There’s no possible way you could get through all the traps, and I wouldn’t want to hear that you’d been hurt trying. Why, I doubt that you could so much as open the first door, since it’s locked and you don’t know the spell <em>Alohomora—</em>”
 
 Harry spun around and bolted for the exit at top speed, the doorknob turned agreeably in his hand and then he was racing down the spiral stairs even as they turned, his feet almost stumbling over themselves, in just a moment he was at the bottom and the gargoyle was walking aside and Harry fired out of the stairwell like a cannonball.
 
-€204€
+€33€
 
 Harry Potter.
 
@@ -857,7 +857,7 @@ There must have been something about Harry Potter.
 
 It was Thursday for everyone, after all, and yet this sort of thing didn’t seem to happen to anyone else.
 
-It was 6:21€205€ on Thursday afternoon when Harry Potter, firing out of the stairwell like a cannonball and accelerating at top speed, ran directly into Minerva McGonagall as she was turning a corner on her way to the Headmaster’s office.
+It was 6:21€34€ on Thursday afternoon when Harry Potter, firing out of the stairwell like a cannonball and accelerating at top speed, ran directly into Minerva McGonagall as she was turning a corner on her way to the Headmaster’s office.
 
 Thankfully neither of them were much hurt. As had been explained to Harry a little earlier in the day—back when he was refusing to go anywhere near a broomstick again—Quidditch needed solid iron Bludgers just to stand a decent chance of injuring the players, since wizards tended to be a lot more resistant than Muggles to impacts.
 
@@ -865,11 +865,11 @@ Harry and Professor McGonagall did both end up on the floor, and the parchments 
 
 There was a terrible, terrible pause.
 
-“Harry Potter,” breathed Professor McGonagall from where she was lying on the floor right next to Harry. Her voice rose to nearly a shriek. “€206€{What were you doing in the Headmaster’s office?}”
+“Harry Potter,” breathed Professor McGonagall from where she was lying on the floor right next to Harry. Her voice rose to nearly a shriek. “<em>What were you doing in the Headmaster’s office?</em>”
 
 “Nothing!” squeaked Harry.
 
-“€207€{Were you talking about the Defence Professor?}”
+“<em>Were you talking about the Defence Professor?</em>”
 
 “No! Dumbledore called me up there and he gave me this big rock and said it was my father’s and I should carry it everywhere!”
 
@@ -877,17 +877,17 @@ There was another terrible pause.
 
 “I see,” said Professor McGonagall, her voice a little calmer. She stood up, brushed herself off, and glared at the scattered parchments, which jumped into a neat stack and scurried back against the corridor wall as though to hide from her gaze. “My sympathies, Mr~Potter, and I apologise for doubting you.”
 
-“Professor McGonagall,” Harry said. His voice was wavering. He pushed himself off the floor, stood, and looked up at her trustworthy, €208€{sane} face. “Professor McGonagall…”
+“Professor McGonagall,” Harry said. His voice was wavering. He pushed himself off the floor, stood, and looked up at her trustworthy, <em>sane</em> face. “Professor McGonagall…”
 
 “Yes, Mr~Potter?”
 
 “Do you think I should?” Harry said in a small voice. “Carry my father’s rock everywhere?”
 
-Professor McGonagall sighed. “That is between you and the Headmaster, I’m afraid.” She hesitated. “I will say that ignoring the Headmaster completely is almost never wise. I €209€{am} sorry to hear of your dilemma, Mr~Potter, and if there’s any way I €210€{can} help you with whatever you decide to do—”
+Professor McGonagall sighed. “That is between you and the Headmaster, I’m afraid.” She hesitated. “I will say that ignoring the Headmaster completely is almost never wise. I <em>am</em> sorry to hear of your dilemma, Mr~Potter, and if there’s any way I <em>can</em> help you with whatever you decide to do—”
 
 “Um,” Harry said. “Actually I was thinking that once I know how, I could Transfigure the rock into a ring and wear it on my finger. If you could teach me how to sustain a Transfiguration—”
 
-“It is good that you asked me first,” Professor McGonagall said, her face growing a bit stern. “If you lost control of the Transfiguration the reversal would cut off your finger and probably rip your hand in half. And at your age, even a ring is too large a target for you to sustain indefinitely without it being a serious drain on your magic. But I can have a ring forged for you with a setting for a jewel, a €211€{small} jewel, in contact with your skin, and you can practise sustaining a safe subject, like a marshmallow. When you have kept it up successfully, even in your sleep, for a full month, I will allow you to Transfigure, ah, your father’s rock…” Professor McGonagall’s voice trailed off. “Did the Headmaster €212€{really—}”
+“It is good that you asked me first,” Professor McGonagall said, her face growing a bit stern. “If you lost control of the Transfiguration the reversal would cut off your finger and probably rip your hand in half. And at your age, even a ring is too large a target for you to sustain indefinitely without it being a serious drain on your magic. But I can have a ring forged for you with a setting for a jewel, a <em>small</em> jewel, in contact with your skin, and you can practise sustaining a safe subject, like a marshmallow. When you have kept it up successfully, even in your sleep, for a full month, I will allow you to Transfigure, ah, your father’s rock…” Professor McGonagall’s voice trailed off. “Did the Headmaster <em>really—</em>”
 
 “Yes. Ah…um…”
 
@@ -901,8 +901,8 @@ Professor McGonagall sighed. “That’s a bit strange even for him.” She stoo
 
 Professor McGonagall walked over to the gargoyle, inaudibly spoke the password, and stepped through into the revolving spiral stairs. She began to rise out of sight, and the gargoyle started back—
 
-“€213€{Professor McGonagall the Headmaster set fire to a chicken!}”
+“<em>Professor McGonagall the Headmaster set fire to a chicken!</em>”
 
-“He €214€{wha—}”
+“He <em>wha—</em>”
 
-€217€
+€37€

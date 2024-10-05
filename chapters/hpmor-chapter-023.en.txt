@@ -1,14 +1,14 @@
-€15€{Belief in Belief}
+€15€<b>Belief in Belief</b>
 
 €1€
 Everybody wants a rock to wind a piece of string around J.~K.~Rowling.
-€173€[ante=“]{A}{nd} then Janet was a Squib,” said the portrait of a short young woman with a gold-trimmed hat.
+€82€[ante=“]<b>A</b><b>nd</b> then Janet was a Squib,” said the portrait of a short young woman with a gold-trimmed hat.
 
 Draco wrote it down. That was only twenty-eight but it was time to go back and meet Harry.
 
 He’d needed to ask other portraits to help translating, English had changed a lot, but the oldest portraits had described first-year spells that sounded an awful lot like the ones they had now. Draco had recognized around half of them and the other half didn’t sound any more powerful.
 
-The sick feeling in his stomach had grown with each answer until finally, unable to take it any more, he’d gone off and asked other portraits Harry Potter’s strange question about Squib marriages, instead. The first five portraits hadn’t known anyone and finally he’d asked those portraits to ask €17€{their} acquaintances to ask €18€{their} acquaintances and so managed to find some people who’d actually admit to being friends with Squibs.
+The sick feeling in his stomach had grown with each answer until finally, unable to take it any more, he’d gone off and asked other portraits Harry Potter’s strange question about Squib marriages, instead. The first five portraits hadn’t known anyone and finally he’d asked those portraits to ask <em>their</em> acquaintances to ask <em>their</em> acquaintances and so managed to find some people who’d actually admit to being friends with Squibs.
 
 (The first-year Slytherin had explained he was working on an important project with a Ravenclaw and the Ravenclaw had told him they needed this information and then run off without saying why. This had garnered many sympathetic looks.)
 
@@ -32,27 +32,27 @@ Draco hit himself on the forehead, realizing.
 
 Draco started to hand the parchment over—
 
-But Harry Potter held up a hand. “Law of science, Draco. First I tell you the theory and the prediction. Then you show me the data. That way you know I’m not just making up a theory to fit; you know that the theory actually predicted the data in €19€{advance}. I have to explain this to you anyway, so I have to explain it €20€{before} you show me the data. That’s the rule. So put on your cloak and let’s sit down.”
+But Harry Potter held up a hand. “Law of science, Draco. First I tell you the theory and the prediction. Then you show me the data. That way you know I’m not just making up a theory to fit; you know that the theory actually predicted the data in <em>advance</em>. I have to explain this to you anyway, so I have to explain it <em>before</em> you show me the data. That’s the rule. So put on your cloak and let’s sit down.”
 
 Harry Potter sat down at a desk with torn scraps of paper arranged across its surface. Draco drew his cloak out of his book bag, drew it on, and sat down across from Harry on the other side, giving the paper scraps a puzzled look. They were arranged in two rows and the rows were about twenty scraps long.
 
-“The secret of blood,” said Harry Potter, an intense look on his face, “is something called deoxyribonucleic acid. You don’t say that name in front of anyone who’s not a scientist. Deoxyribonucleic acid is the recipe that tells your body how to grow, two legs, two arms, short or tall, whether you have brown eyes or green. It’s a material thing, you can €21€{see} it if you have microscopes, which are like telescopes only they look at things that are very small instead of very far away. And that recipe has two copies of everything, always, in case one copy is broken. Imagine two long rows of pieces of paper. At each place in the row, there are two pieces of paper, and when you have children, your body selects one piece of paper at random from each place in the row, and the mother’s body will do the same, and so the child also gets two pieces of paper at each place in the row. Two copies of everything, one from your mother, one from your father, and when you have children they get one piece of paper from you at random in each place.”
+“The secret of blood,” said Harry Potter, an intense look on his face, “is something called deoxyribonucleic acid. You don’t say that name in front of anyone who’s not a scientist. Deoxyribonucleic acid is the recipe that tells your body how to grow, two legs, two arms, short or tall, whether you have brown eyes or green. It’s a material thing, you can <em>see</em> it if you have microscopes, which are like telescopes only they look at things that are very small instead of very far away. And that recipe has two copies of everything, always, in case one copy is broken. Imagine two long rows of pieces of paper. At each place in the row, there are two pieces of paper, and when you have children, your body selects one piece of paper at random from each place in the row, and the mother’s body will do the same, and so the child also gets two pieces of paper at each place in the row. Two copies of everything, one from your mother, one from your father, and when you have children they get one piece of paper from you at random in each place.”
 
 As Harry spoke, his fingers ranged over the paired scraps of paper, pointing to one part of the pair when he said “from your mother”, the other when he said “from your father”. And as Harry talked about picking a piece of paper at random, his hand pulled a Knut out of his robes and flipped it; Harry looked at the coin, and then pointed to the top piece of paper. All without a pause in the speech.
 
-“Now when it comes to something like being short or tall, there’s a €22€{lot} of places in the recipe that make €23€{little} differences. So if a tall father marries a short mother, the child gets some pieces of paper saying ‘tall’ and some pieces of paper saying ‘short’, and usually the child ends up middle-sized. But not always. By luck, the child might get a lot of pieces saying ‘tall’, and not many papers saying ‘short’, and grow up pretty tall. You could have a tall father with five papers saying ‘tall’ and a tall mother with five papers saying ‘tall’ and by amazing luck the child gets €24€{all ten} papers saying ‘tall’ and ends up taller than both of them. You see? Blood isn’t a perfect fluid, it doesn’t mix perfectly. Deoxyribonucleic acid is made up of lots of little pieces, like a glass of pebbles instead of a glass of water. That’s why a child isn’t always exactly in the middle of the parents.”
+“Now when it comes to something like being short or tall, there’s a <em>lot</em> of places in the recipe that make <em>little</em> differences. So if a tall father marries a short mother, the child gets some pieces of paper saying ‘tall’ and some pieces of paper saying ‘short’, and usually the child ends up middle-sized. But not always. By luck, the child might get a lot of pieces saying ‘tall’, and not many papers saying ‘short’, and grow up pretty tall. You could have a tall father with five papers saying ‘tall’ and a tall mother with five papers saying ‘tall’ and by amazing luck the child gets <em>all ten</em> papers saying ‘tall’ and ends up taller than both of them. You see? Blood isn’t a perfect fluid, it doesn’t mix perfectly. Deoxyribonucleic acid is made up of lots of little pieces, like a glass of pebbles instead of a glass of water. That’s why a child isn’t always exactly in the middle of the parents.”
 
-Draco listened with his mouth open. How in Merlin’s name had the Muggles figured all this out? They could €25€{see} the recipe?
+Draco listened with his mouth open. How in Merlin’s name had the Muggles figured all this out? They could <em>see</em> the recipe?
 
-“Now,” Harry Potter said, “suppose that, just like with tallness, there’s lots of little places in the recipe where you can have a piece of paper that says ‘magic’ or ‘not magic’. If you have enough pieces of paper saying ‘magic’ you’re a wizard, if you have a €26€{lot} of pieces of paper you’re a powerful wizard, if you have too few you’re a Muggle, and in between you’re a Squib. Then, when two Squibs marry, most of the time the children should also be Squibs, but once in a while a child will get lucky and get most of the father’s magic papers €27€{and} most of the mother’s magic papers, and be strong enough to be a wizard. But probably not a very powerful one. If you started out with a lot of powerful wizards and they married only each other, they would stay powerful. But if they started marrying Muggle-borns who were just barely magical, or Squibs…you see? The blood wouldn’t mix perfectly, it would be a glass of pebbles, not a glass of water, because that’s just the way blood works. There would still be powerful wizards now and then, when they got a lot of magic papers by luck. But they wouldn’t be as powerful as the most powerful wizards from earlier.”
+“Now,” Harry Potter said, “suppose that, just like with tallness, there’s lots of little places in the recipe where you can have a piece of paper that says ‘magic’ or ‘not magic’. If you have enough pieces of paper saying ‘magic’ you’re a wizard, if you have a <em>lot</em> of pieces of paper you’re a powerful wizard, if you have too few you’re a Muggle, and in between you’re a Squib. Then, when two Squibs marry, most of the time the children should also be Squibs, but once in a while a child will get lucky and get most of the father’s magic papers <em>and</em> most of the mother’s magic papers, and be strong enough to be a wizard. But probably not a very powerful one. If you started out with a lot of powerful wizards and they married only each other, they would stay powerful. But if they started marrying Muggle-borns who were just barely magical, or Squibs…you see? The blood wouldn’t mix perfectly, it would be a glass of pebbles, not a glass of water, because that’s just the way blood works. There would still be powerful wizards now and then, when they got a lot of magic papers by luck. But they wouldn’t be as powerful as the most powerful wizards from earlier.”
 
 Draco nodded slowly. He’d never heard it explained that way before. There was a surprising beauty to how exactly it fit.
 
-“€28€{But,}” Harry said. “That’s only €29€{one} hypothesis. Suppose that instead there’s only a €30€{single} place in the recipe that makes you a wizard. Only €31€{one} place where a piece of paper can say ‘magic’ or ‘not magic’. And there are two copies of everything, always. So then there are only three possibilities. Both copies can say ‘magic’. One copy can say ‘magic’ and one copy can say ‘not magic’. Or both copies can say ‘not magic’. Wizards, Squibs, and Muggles. Two copies and you can cast spells, one copy and you can still use potions or magic devices, and zero copies means you might even have trouble looking straight at magic. Muggle-borns wouldn’t really be born to Muggles, they would be born to two Squibs, two parents each with one magic copy who’d grown up in the Muggle world. Now imagine a witch marries a Squib. Each child will get one paper saying ‘magic’ from the mother, always, it doesn’t matter which piece gets picked at random, both say ‘magic’. But like flipping a coin, half the time the child will get a paper saying ‘magic’ from the father, and half the time the child will get the father’s paper saying ‘not magic’. When a witch marries a Squib, the result won’t be a lot of weak wizarding children. Half the children will be wizards and witches just as powerful as their mother, and half the children will be Squibs. Because if there’s just €32€{one} place in the recipe that makes you a wizard, then magic isn’t like a glass of pebbles that can mix. It’s like a single magical pebble, a sorcerer’s stone.”
+“<em>But,</em>” Harry said. “That’s only <em>one</em> hypothesis. Suppose that instead there’s only a <em>single</em> place in the recipe that makes you a wizard. Only <em>one</em> place where a piece of paper can say ‘magic’ or ‘not magic’. And there are two copies of everything, always. So then there are only three possibilities. Both copies can say ‘magic’. One copy can say ‘magic’ and one copy can say ‘not magic’. Or both copies can say ‘not magic’. Wizards, Squibs, and Muggles. Two copies and you can cast spells, one copy and you can still use potions or magic devices, and zero copies means you might even have trouble looking straight at magic. Muggle-borns wouldn’t really be born to Muggles, they would be born to two Squibs, two parents each with one magic copy who’d grown up in the Muggle world. Now imagine a witch marries a Squib. Each child will get one paper saying ‘magic’ from the mother, always, it doesn’t matter which piece gets picked at random, both say ‘magic’. But like flipping a coin, half the time the child will get a paper saying ‘magic’ from the father, and half the time the child will get the father’s paper saying ‘not magic’. When a witch marries a Squib, the result won’t be a lot of weak wizarding children. Half the children will be wizards and witches just as powerful as their mother, and half the children will be Squibs. Because if there’s just <em>one</em> place in the recipe that makes you a wizard, then magic isn’t like a glass of pebbles that can mix. It’s like a single magical pebble, a sorcerer’s stone.”
 
 Harry arranged three pairs of papers side by side. On one pair he wrote ‘magic’ and ‘magic’. On another pair he wrote ‘magic’ on the top paper only. And the third pair he left blank.
 
-“In which case,” Harry said, “either you have two stones or you don’t. Either you’re a wizard or not. Powerful wizards would get that way by studying harder and practising more. And if wizards get €33€{inherently} less powerful, not because of spells being lost but because people can’t cast them…then maybe they’re eating the wrong foods or something. But if it’s become steadily worse over eight hundred years, then that could mean magic itself is fading out of the world.”
+“In which case,” Harry said, “either you have two stones or you don’t. Either you’re a wizard or not. Powerful wizards would get that way by studying harder and practising more. And if wizards get <em>inherently</em> less powerful, not because of spells being lost but because people can’t cast them…then maybe they’re eating the wrong foods or something. But if it’s become steadily worse over eight hundred years, then that could mean magic itself is fading out of the world.”
 
 Harry arranged another two pairs of papers side by side, and took out a quill. Soon each pair had one piece of paper saying ‘magic’ and the other paper blank.
 
@@ -82,19 +82,19 @@ Harry’s look was fierce. “Yes you can, because you have to. I thought about 
 
 Draco’s mind was just blank.
 
-“Anything that affects magic affects wizards,” said Harry. “But then we can’t tell if it’s the wizards or the magic. What does magic affect that €34€{isn’t} a wizard?”
+“Anything that affects magic affects wizards,” said Harry. “But then we can’t tell if it’s the wizards or the magic. What does magic affect that <em>isn’t</em> a wizard?”
 
 “Magical creatures, obviously,” said Draco without even thinking about it.
 
-Harry Potter slowly smiled. “Draco, that’s €35€{brilliant}.”
+Harry Potter slowly smiled. “Draco, that’s <em>brilliant</em>.”
 
-€36€{It’s the sort of dumb question you’d only ask in the first place if you’d been raised by Muggles.}
+<em>It’s the sort of dumb question you’d only ask in the first place if you’d been raised by Muggles.</em>
 
-Then the sickness in Draco’s stomach got even worse as he realized what it would mean if magical creatures €37€{were} getting weaker. They would know for certain then that magic was fading, and there was a part of Draco that was already sure that was exactly what they would find. He didn’t want to see this, he didn’t want to know…
+Then the sickness in Draco’s stomach got even worse as he realized what it would mean if magical creatures <em>were</em> getting weaker. They would know for certain then that magic was fading, and there was a part of Draco that was already sure that was exactly what they would find. He didn’t want to see this, he didn’t want to know…
 
-Harry Potter was already halfway to the door. “Come €38€{on}, Draco! There’s a portrait not far from here, we’ll just ask them to go get someone old and find out right away! We’re cloaked, if someone sees us we can just run away! Let’s go!”
+Harry Potter was already halfway to the door. “Come <em>on</em>, Draco! There’s a portrait not far from here, we’ll just ask them to go get someone old and find out right away! We’re cloaked, if someone sees us we can just run away! Let’s go!”
 
-€39€
+€17€
 
 It didn’t take long after that.
 
@@ -122,41 +122,41 @@ Then Harry thanked all the portraits for helping—Draco, pretty much on automat
 
 And Harry brought out the original parchment with the hypotheses, and began scribbling.
 
-€40€ 1€41€ plus .5€42€ minus 1€174€{€46€}{0pt}
-€47€{€48€}{0pt}
+€18€ 1€19€ plus .5€20€ minus 1€83€<b>€24€</b><b>0pt</b>
+€25€<b>€26€</b><b>0pt</b>
 
-€175€ Observation:
+€84€ Observation:
 
-€50€ Wizardry isn’t as powerful now as it was when Hogwarts was founded.
-€176€ 1€52€ plus .5€53€ minus 1€177€ Hypotheses:
+€28€ Wizardry isn’t as powerful now as it was when Hogwarts was founded.
+€85€ 1€30€ plus .5€31€ minus 1€86€ Hypotheses:
 
-€178€[1.]
- €179€{€59€}{€60€}
- €61€{€62€}{€63€}
- €64€ Magic itself is fading.
- €65€ Wizards are interbreeding with Muggles and Squibs.
- €66€ Knowledge to cast powerful spells is being lost.
- €67€ Wizards are eating the wrong foods as children, or something else besides blood is making them grow up weaker.
- €68€ Muggle technology is interfering with magic. (Since 800 years ago?)
- €69€ Stronger wizards are having fewer children. (Draco = only child? Check if 3 powerful wizards, Quirrell / Dumbledore / Dark Lord, had any children.)
- €180€ 1€71€ plus .5€72€ minus 1€181€ Tests:
-€182€[A.]{
- €183€{€78€}{€79€}
- €80€{€81€}{1cm}}
- €82€ Are there spells we know but can’t cast (1 or 2) or are the lost spells no longer known (3)? {€83€ Result:} Inconclusive due to Interdict of Merlin. No known uncastable spell, but could simply have not been passed on.
+€87€[1.]
+ €88€<b>€37€</b><b>€38€</b>
+ €39€<b>€40€</b><b>€41€</b>
+ €42€ Magic itself is fading.
+ €43€ Wizards are interbreeding with Muggles and Squibs.
+ €44€ Knowledge to cast powerful spells is being lost.
+ €45€ Wizards are eating the wrong foods as children, or something else besides blood is making them grow up weaker.
+ €46€ Muggle technology is interfering with magic. (Since 800 years ago?)
+ €47€ Stronger wizards are having fewer children. (Draco = only child? Check if 3 powerful wizards, Quirrell / Dumbledore / Dark Lord, had any children.)
+ €89€ 1€49€ plus .5€50€ minus 1€90€ Tests:
+€91€[A.]<b>
+ €92€<b>€56€</b><b>€57€</b>
+ €58€<b>€59€</b><b>1cm</b></b>
+ €60€ Are there spells we know but can’t cast (1 or 2) or are the lost spells no longer known (3)? <b>€61€ Result:</b> Inconclusive due to Interdict of Merlin. No known uncastable spell, but could simply have not been passed on.
 
- €84€ Did ancient first-year students cast the same sort of spells, with the same power, as now? (Weak evidence for 1 over 2, but blood could also be losing powerful wizardry only.) {€85€ Result:} Same level of first-year spells then as now.
+ €62€ Did ancient first-year students cast the same sort of spells, with the same power, as now? (Weak evidence for 1 over 2, but blood could also be losing powerful wizardry only.) <b>€63€ Result:</b> Same level of first-year spells then as now.
 
- €86€ Additional test that distinguishes 1 and 2 using scientific knowledge of blood, will explain later. {€87€ Result:} There’s only one place in the recipe that makes you a wizard, and either you have two papers saying ‘magic’ or you don’t.
+ €64€ Additional test that distinguishes 1 and 2 using scientific knowledge of blood, will explain later. <b>€65€ Result:</b> There’s only one place in the recipe that makes you a wizard, and either you have two papers saying ‘magic’ or you don’t.
 
- €88€ Are magical creatures losing their powers? Distinguishes 1 from (2 or 3). {€89€ Result:} Magical creatures seem to be as strong as they ever were.
- €184€ 1€91€ plus .5€92€ minus 1€185€
+ €66€ Are magical creatures losing their powers? Distinguishes 1 from (2 or 3). <b>€67€ Result:</b> Magical creatures seem to be as strong as they ever were.
+ €93€ 1€69€ plus .5€70€ minus 1€94€
 
 “A failed,” said Harry Potter. “B is weak evidence for 1 over 2. C falsifies 2. D falsifies 1. 4 was unlikely and B argues against 4 as well. 5 was unlikely and D argues against it. 6 is falsified along with 2. That leaves 3. Interdict of Merlin or not, I didn’t actually find any known spell that couldn’t be cast. So when you add it all up, it looks like knowledge is being lost.”
 
 And the trap snapped shut.
 
-As soon as the panic went away, as soon as Draco understood that magic €95€{wasn’t} fading out, it took all of five seconds to realize.
+As soon as the panic went away, as soon as Draco understood that magic <em>wasn’t</em> fading out, it took all of five seconds to realize.
 
 Draco shoved himself away from the desk and stood up so hard that his chair skittered with a scraping noise across the floor and fell over.
 
@@ -166,53 +166,53 @@ Harry Potter stared at him for a moment, still sitting. When he spoke, his voice
 
 “Oh,” Draco said, the anger starting to come out into his voice, “you didn’t know how the whole thing was going to come out?”
 
-“I didn’t €96€{know} anything you didn’t know,” Harry said, still quietly. “I admit that I suspected. Hermione Granger was too powerful, she should have been barely magical and she wasn’t, how can a Muggle-born be the best spell-caster in Hogwarts? And she’s getting the best grades on her essays too, it’s too much coincidence for one girl to be the strongest magically €97€{and} academically unless there’s a single cause. Hermione Granger’s existence pointed to there being only one thing that makes you a wizard, something you either have or you don’t, and the power differences coming from how much we know and how much we practise. And there weren’t different classes for purebloods and Muggle-borns, and so on. There were too many ways the world didn’t look the way it would look if you were right. But Draco, I didn’t see anything you couldn’t see too. I didn’t perform any tests I didn’t tell you about. I didn’t cheat, Draco. I wanted us to work out the answer together. And I never thought that magic might be fading out of the world until you said it. It was a scary idea for me, too.”
+“I didn’t <em>know</em> anything you didn’t know,” Harry said, still quietly. “I admit that I suspected. Hermione Granger was too powerful, she should have been barely magical and she wasn’t, how can a Muggle-born be the best spell-caster in Hogwarts? And she’s getting the best grades on her essays too, it’s too much coincidence for one girl to be the strongest magically <em>and</em> academically unless there’s a single cause. Hermione Granger’s existence pointed to there being only one thing that makes you a wizard, something you either have or you don’t, and the power differences coming from how much we know and how much we practise. And there weren’t different classes for purebloods and Muggle-borns, and so on. There were too many ways the world didn’t look the way it would look if you were right. But Draco, I didn’t see anything you couldn’t see too. I didn’t perform any tests I didn’t tell you about. I didn’t cheat, Draco. I wanted us to work out the answer together. And I never thought that magic might be fading out of the world until you said it. It was a scary idea for me, too.”
 
 “Whatever,” Draco said. He was working very hard to control his voice and not just start screaming at Harry. “You claim you’re not going to run off and tell anyone else about this.”
 
-“Not without consulting you first,” Harry said. He opened his hands in a pleading gesture. “Draco, I’m being as nice as I can but €98€{the world turned out to just not be that way}.”
+“Not without consulting you first,” Harry said. He opened his hands in a pleading gesture. “Draco, I’m being as nice as I can but <em>the world turned out to just not be that way</em>.”
 
 “Fine. Then you and I are through. I’m going to just walk away and forget any of this ever happened.”
 
-Draco spun around, feeling the burning sensation in his throat, the sense of betrayal, and that was when he realized he really €99€{had} liked Harry Potter, and that thought didn’t slow him down for a moment as he strode toward the classroom door.
+Draco spun around, feeling the burning sensation in his throat, the sense of betrayal, and that was when he realized he really <em>had</em> liked Harry Potter, and that thought didn’t slow him down for a moment as he strode toward the classroom door.
 
 And Harry Potter’s voice came, now louder, and worried:
 
-“Draco…you €100€{can’t} forget. Don’t you understand? That was your sacrifice.”
+“Draco…you <em>can’t</em> forget. Don’t you understand? That was your sacrifice.”
 
-Draco stopped in mid-stride and turned around. “€101€{What} are you talking about?”
+Draco stopped in mid-stride and turned around. “<em>What</em> are you talking about?”
 
 But there was already a freezing coldness in Draco’s spine.
 
 He knew even before Harry Potter said it.
 
-“To become a scientist. You questioned one of your beliefs, not just a small belief but something that had great significance to you. You did experiments, gathered data, and the outcome proved the belief was wrong. You saw the results and understood what they meant.” Harry Potter’s voice was faltering. “Remember, Draco, you can’t sacrifice a €102€{true} belief that way, because the experiments will confirm it instead of falsifying it. Your sacrifice to become a scientist was your €103€{false} belief that wizard blood was mixing and getting weaker.”
+“To become a scientist. You questioned one of your beliefs, not just a small belief but something that had great significance to you. You did experiments, gathered data, and the outcome proved the belief was wrong. You saw the results and understood what they meant.” Harry Potter’s voice was faltering. “Remember, Draco, you can’t sacrifice a <em>true</em> belief that way, because the experiments will confirm it instead of falsifying it. Your sacrifice to become a scientist was your <em>false</em> belief that wizard blood was mixing and getting weaker.”
 
-“€104€{That’s not true!}” said Draco. “I didn’t sacrifice the belief. I still believe that!” His voice was getting louder, and the chill was getting worse.
+“<em>That’s not true!</em>” said Draco. “I didn’t sacrifice the belief. I still believe that!” His voice was getting louder, and the chill was getting worse.
 
-Harry Potter shook his head. His voice came in a whisper. “Draco…I’m sorry, Draco, you €105€{don’t} believe it, not any more.” Harry’s voice rose again. “I’ll prove it to you. Imagine that someone tells you they’re keeping a dragon in their house. You tell them you want to see it. They say it’s an invisible dragon. You say fine, you’ll listen to it move. They say it’s an inaudible dragon. You say you’ll throw some cooking flour into the air and see the outline of the dragon. They say the dragon is permeable to flour. And the telling thing is that they know, in €106€{advance}, exactly which experimental results they’ll have to explain away. They €107€{know} everything will come out the way it does if there’s no dragon, they know in €108€{advance} just which excuses they’ll have to make. So maybe they €109€{say} there’s a dragon. Maybe they €110€{believe} they believe there’s a dragon, it’s called “belief in belief”. But they don’t actually believe it. You can be mistaken about what you believe, most people never realize there’s a difference between believing something and thinking it’s good to believe it.” Harry Potter had risen from the desk now, and taken a few steps toward Draco. “And Draco, you don’t believe any more in blood purism, I’ll show you that you don’t. If blood purism is true, then Hermione Granger doesn’t make sense, so what could explain her? Maybe she’s a wizarding orphan raised by Muggles, just like I was? I could go to Granger and ask to see pictures of her parents, to see if she looks like them. Would you expect her to look different? Should we go perform that test?”
+Harry Potter shook his head. His voice came in a whisper. “Draco…I’m sorry, Draco, you <em>don’t</em> believe it, not any more.” Harry’s voice rose again. “I’ll prove it to you. Imagine that someone tells you they’re keeping a dragon in their house. You tell them you want to see it. They say it’s an invisible dragon. You say fine, you’ll listen to it move. They say it’s an inaudible dragon. You say you’ll throw some cooking flour into the air and see the outline of the dragon. They say the dragon is permeable to flour. And the telling thing is that they know, in <em>advance</em>, exactly which experimental results they’ll have to explain away. They <em>know</em> everything will come out the way it does if there’s no dragon, they know in <em>advance</em> just which excuses they’ll have to make. So maybe they <em>say</em> there’s a dragon. Maybe they <em>believe</em> they believe there’s a dragon, it’s called “belief in belief”. But they don’t actually believe it. You can be mistaken about what you believe, most people never realize there’s a difference between believing something and thinking it’s good to believe it.” Harry Potter had risen from the desk now, and taken a few steps toward Draco. “And Draco, you don’t believe any more in blood purism, I’ll show you that you don’t. If blood purism is true, then Hermione Granger doesn’t make sense, so what could explain her? Maybe she’s a wizarding orphan raised by Muggles, just like I was? I could go to Granger and ask to see pictures of her parents, to see if she looks like them. Would you expect her to look different? Should we go perform that test?”
 
 “They would have put her with relatives,” Draco said, his voice trembling. “They’ll still look the same.”
 
 “You see. You already know what experimental result you’ll have to excuse. If you still believed in blood purism you would say, sure, let’s go take a look, I bet she won’t look like her parents, she’s too powerful to be a real Muggle-born—”
 
-“They €111€{would} have put her with relatives!”
+“They <em>would</em> have put her with relatives!”
 
-“Scientists can do tests to check for sure if someone is the true child of a father. Granger would probably do it if I paid her family enough. €112€{She} wouldn’t be afraid of the results. So what do you expect that test to show? Tell me to run it and we will. But you already know what the test will say. You’ll always know. You won’t ever be able to forget. You might €113€{wish} you believed in blood purism, but you’ll always €114€{expect to see happen} just exactly what would happen if there was only one thing that made you a wizard. That was your sacrifice to become a scientist.”
+“Scientists can do tests to check for sure if someone is the true child of a father. Granger would probably do it if I paid her family enough. <em>She</em> wouldn’t be afraid of the results. So what do you expect that test to show? Tell me to run it and we will. But you already know what the test will say. You’ll always know. You won’t ever be able to forget. You might <em>wish</em> you believed in blood purism, but you’ll always <em>expect to see happen</em> just exactly what would happen if there was only one thing that made you a wizard. That was your sacrifice to become a scientist.”
 
-Draco’s breathing was ragged. “Do you realize €115€{what you’ve done?}” Draco surged forward and he seized Harry by the collar of his robes. His voice rose to a scream, it sounded unbearably loud in the closed classroom and the silence. “€116€{Do you realize what you’ve done?}”
+Draco’s breathing was ragged. “Do you realize <em>what you’ve done?</em>” Draco surged forward and he seized Harry by the collar of his robes. His voice rose to a scream, it sounded unbearably loud in the closed classroom and the silence. “<em>Do you realize what you’ve done?</em>”
 
 Harry’s voice was shaky. “You had a belief. The belief was false. I helped you see that. What’s true is already so, owning up to it doesn’t make it worse—”
 
 The fingers on Draco’s right hand clenched into a fist and that hand dropped down and blasted up unstoppably and punched Harry Potter in the jaw so hard that his body went crashing back into a desk and then to the floor.
 
-“€117€{Idiot!}” screamed Draco. “€118€{Idiot! Idiot!}”
+“<em>Idiot!</em>” screamed Draco. “<em>Idiot! Idiot!</em>”
 
 “Draco,” whispered Harry from the floor, “Draco, I’m sorry, I didn’t think this would happen for months, I didn’t expect you to awaken as a scientist this quickly, I thought I would have longer to prepare you, teach you the techniques that make it hurt less to admit you’re wrong—”
 
-“What about Father?” Draco said. His voice trembled with rage. “Were you going to prepare €119€{him} or did you just not €120€{care} what happened after this?”
+“What about Father?” Draco said. His voice trembled with rage. “Were you going to prepare <em>him</em> or did you just not <em>care</em> what happened after this?”
 
-“You can’t tell €121€{him}!” Harry said, his voice rising in alarm. “He’s not a scientist! You promised, Draco!”
+“You can’t tell <em>him</em>!” Harry said, his voice rising in alarm. “He’s not a scientist! You promised, Draco!”
 
 For a moment the thought of Father not knowing came as a relief.
 
@@ -220,17 +220,17 @@ And then the real anger started to rise.
 
 “So you planned for me to lie to him and tell him I still believe,” Draco said, voice shaking. “I’ll always have to lie to him, and now when I grow up I can’t be a Death Eater, and I won’t even be able to tell him why not.”
 
-“If your father really loves you,” whispered Harry from the floor, “he’ll still love you even if you don’t become a Death Eater, and it sounds like your father €122€{does} really love you, Draco—”
+“If your father really loves you,” whispered Harry from the floor, “he’ll still love you even if you don’t become a Death Eater, and it sounds like your father <em>does</em> really love you, Draco—”
 
-“€123€{Your} stepfather is a scientist,” Draco said. The words coming out like biting knives. “If €124€{you} weren’t going to be a scientist, he would still love you. But you’d be a €125€{little less special} to him.”
+“<em>Your</em> stepfather is a scientist,” Draco said. The words coming out like biting knives. “If <em>you</em> weren’t going to be a scientist, he would still love you. But you’d be a <em>little less special</em> to him.”
 
 Harry flinched. The boy opened his mouth, as if to say ‘I’m sorry’, and then closed his mouth, seeming to think better of it, which was either very smart of him or very lucky, because Draco might have tried to kill him.
 
-“You should have warned me,” Draco said. His voice rose. “€126€{You should have warned me!}”
+“You should have warned me,” Draco said. His voice rose. “<em>You should have warned me!</em>”
 
 “I…I did…every time I told you about the power, I told you about the price. I said, you have to admit you’re wrong. I said this would be the hardest path for you. That this was the sacrifice anyone had to make to become a scientist. I said, what if the experiment says one thing and your family and friends say another—”
 
-“€127€{You call that a warning?}” Draco was screaming now. “€128€{You call that a warning? When we’re doing a ritual that calls for a permanent sacrifice?}”
+“<em>You call that a warning?</em>” Draco was screaming now. “<em>You call that a warning? When we’re doing a ritual that calls for a permanent sacrifice?</em>”
 
 “I…I…” The boy on the floor swallowed. “I guess maybe it wasn’t clear. I’m sorry. But that which can be destroyed by the truth should be.”
 
@@ -242,11 +242,11 @@ Sudden shock showed in Harry’s face, and he tried to roll quickly to his feet�
 
 It was already too late for him.
 
-“€129€{Expelliarmus!}”
+“<em>Expelliarmus!</em>”
 
 Harry’s wand flew across the room.
 
-“€130€{Gom jabbar!}”
+“<em>Gom jabbar!</em>”
 
 A pulse of inky blackness struck Harry’s left hand.
 
@@ -258,7 +258,7 @@ The pain was already showing in Harry Potter’s face as he spoke. “Malfoys ar
 
 Draco’s hand whitened on his wand, but his aim stayed steady.
 
-“Just so you know,” Harry said through gritted teeth, “if you’d told me I was wrong I would have listened. €131€{I} won’t ever torture €132€{you} when you show me that I’m wrong. And you €133€{will}. Someday. You’re awakened as a scientist now, and even if you never learn to use your power, you’ll always,” Harry gasped, “be looking, for ways, to test, your beliefs—”
+“Just so you know,” Harry said through gritted teeth, “if you’d told me I was wrong I would have listened. <em>I</em> won’t ever torture <em>you</em> when you show me that I’m wrong. And you <em>will</em>. Someday. You’re awakened as a scientist now, and even if you never learn to use your power, you’ll always,” Harry gasped, “be looking, for ways, to test, your beliefs—”
 
 Draco’s backing away was less smooth, now, a little faster, and he had to work to keep his wand on Harry as he reached back to open the door and stepped back out of the classroom.
 
@@ -266,19 +266,19 @@ Then Draco shut the door again.
 
 He cast the most powerful locking Charm he knew.
 
-Draco waited until he heard Harry’s first scream before casting the €134€{Quietus.}
+Draco waited until he heard Harry’s first scream before casting the <em>Quietus.</em>
 
 And then he walked away.
 
-€135€
+€73€
 
-“€136€{Aaahhhhh! Finite Incantatem! Aaaahhh!}”
+“<em>Aaahhhhh! Finite Incantatem! Aaaahhh!</em>”
 
-Harry’s left hand had been put into a pot of boiling cooking oil and left there. He’d put everything he had into the €137€{Finite Incantatem} and it still wasn’t working.
+Harry’s left hand had been put into a pot of boiling cooking oil and left there. He’d put everything he had into the <em>Finite Incantatem</em> and it still wasn’t working.
 
 Some hexes required specific counters or you couldn’t undo them, or maybe it was just that Draco was that much stronger.
 
-“€138€{Aaaaahhhh!}”
+“<em>Aaaaahhhh!</em>”
 
 Harry’s hand was really starting to hurt, now, and that was interfering with his attempts to think creatively.
 
@@ -286,19 +286,19 @@ But a few screams later, Harry realized what he had to do.
 
 His pouch, unfortunately, was on the wrong side of his body, and it took some twisting to reach into it, especially with his other arm flailing around in a reflex, unstoppable attempt to fling off the source of pain. By the time he managed it his other arm had chucked his wand away again.
 
-“Medical €139€{ahhhhh} kit! Medical kit!”
+“Medical <em>ahhhhh</em> kit! Medical kit!”
 
 On the floor, the green light was too dim to see by.
 
 Harry couldn’t stand. He couldn’t crawl. He rolled across the floor to where he thought his wand was, and it wasn’t there, and with one hand he managed to raise himself high enough to see his wand, and he rolled there, and got the wand, and rolled back to where the medical kit was opened. There was also a good deal of screaming, and a bit of throwing up.
 
-It took eight tries before Harry could cast €140€{Lumos.}
+It took eight tries before Harry could cast <em>Lumos.</em>
 
 And then, well, the package wasn’t designed to be opened one-handed, because all wizards were idiots, that was why. Harry had to use his teeth and so it took a while before Harry finally managed to wrap the Numbcloth over his left hand.
 
 When all feeling in his left hand was finally gone, Harry let his mind come apart, and lay motionless on the floor, and cried for a while.
 
-€141€{Well,} Harry’s mind said silently into itself, when it had recovered enough to think in words again. €142€{Was it worth it?}
+<em>Well,</em> Harry’s mind said silently into itself, when it had recovered enough to think in words again. <em>Was it worth it?</em>
 
 Slowly, Harry’s functional hand reached up to a desk.
 
@@ -312,21 +312,21 @@ Smiled.
 
 It wasn’t much of a smile, but it was a smile nonetheless.
 
-€143€{Thank you, Professor Quirrell, I couldn’t have lost without you.}
+<em>Thank you, Professor Quirrell, I couldn’t have lost without you.</em>
 
 He hadn’t redeemed Draco yet, not even close. Contrary to what Draco himself might now believe, Draco was still the child of a Death Eater, through and through. Still a boy who’d grown up thinking “rape” was something the cool older kids did. But it was one heck of a start.
 
-Harry couldn’t claim it had all gone just as planned. It had all gone just as completely made up on the spot. The €144€{plan} hadn’t called for this to happen until December or thereabouts, after Harry had taught Draco the techniques not to deny the evidence when he saw it.
+Harry couldn’t claim it had all gone just as planned. It had all gone just as completely made up on the spot. The <em>plan</em> hadn’t called for this to happen until December or thereabouts, after Harry had taught Draco the techniques not to deny the evidence when he saw it.
 
-But he’d seen the look of fear on Draco’s face, realized that Draco was €145€{already} taking an alternative hypothesis seriously, and seized the moment. One case of true curiosity had the same sort of redeeming power in rationality that one case of true love had in films.
+But he’d seen the look of fear on Draco’s face, realized that Draco was <em>already</em> taking an alternative hypothesis seriously, and seized the moment. One case of true curiosity had the same sort of redeeming power in rationality that one case of true love had in films.
 
 In retrospect, Harry had given himself hours to make the most important discovery in the history of magic, and months to break through the undeveloped mental barriers of an eleven-year-old boy. This could indicate that Harry had some sort of major cognitive deficit with respect to estimating task completion times.
 
 Was Harry going to Science Hell for what he’d done? Harry wasn’t sure. He’d contrived to keep Draco’s mind on the possibility that magic was fading, made sure Draco would carry out the part of the experiment that would seem at first to point in that direction. He’d waited until after explaining genetics to prompt Draco into realizing about magical creatures (though Harry had thought in terms of ancient artifacts like the Sorting Hat, which no-one could duplicate any more, but which continued to function). But Harry hadn’t actually exaggerated any evidence, hadn’t distorted the meaning of any results. When the Interdict of Merlin had invalidated the test that should have been definitive, he’d told Draco up front.
 
-And then there was the part €146€{after} that…
+And then there was the part <em>after</em> that…
 
-But he hadn’t actually €147€{lied} to Draco. Draco had believed it, and €148€{that would make it true}.
+But he hadn’t actually <em>lied</em> to Draco. Draco had believed it, and <em>that would make it true</em>.
 
 The end, admittedly, had not been fun.
 
@@ -338,13 +338,13 @@ The first step was simply trying to turn the doorknob. Draco could have been blu
 
 Draco hadn’t been bluffing.
 
-“€149€{Finite Incantatem.}” Harry’s voice came out rather hoarse, and he could feel that the spell hadn’t taken.
+“<em>Finite Incantatem.</em>” Harry’s voice came out rather hoarse, and he could feel that the spell hadn’t taken.
 
 So Harry tried it again, and that time it felt true. But another twist at the doorknob showed it hadn’t worked. No surprise there.
 
 Time to bring out the big guns. Harry drew a deep breath. This spell was one of the most powerful he’d learned so far.
 
-“€150€{Alohomora!}”
+“<em>Alohomora!</em>”
 
 Harry staggered a little after saying it.
 
@@ -352,13 +352,13 @@ And the classroom door still didn’t open.
 
 That shocked Harry. Harry hadn’t been planning to go anywhere near Dumbledore’s forbidden corridor, of course. But a spell to open magical locks had seemed like a useful sort of spell anyway, and so Harry had learned it. Was Dumbledore’s forbidden corridor meant to lure people so stupid that they didn’t notice the security was worse than what Draco Malfoy could put on it?
 
-Fear was creeping back into Harry’s system. The placard in the medical kit had said the Numbcloth could only safely be used for up to thirty minutes. After that it would come off automatically, and not be reusable for 24 hours. Right now it was 6:51€151€ He’d put on the Numbcloth about five minutes ago.
+Fear was creeping back into Harry’s system. The placard in the medical kit had said the Numbcloth could only safely be used for up to thirty minutes. After that it would come off automatically, and not be reusable for 24 hours. Right now it was 6:51€74€ He’d put on the Numbcloth about five minutes ago.
 
 So Harry took a step back, and considered the door. It was a solid panel of dark oaken wood, interrupted only by the brass metal doorknob.
 
 Harry didn’t know any explosive or cutting or smashing spells, and Transfiguring explosive would have violated the rule against Transfiguring things to be burned. Acid was a liquid and would have made fumes…
 
-But that was no obstacle to a €152€{creative thinker}.
+But that was no obstacle to a <em>creative thinker</em>.
 
 Harry laid his wand against one of the door’s brass hinges, and concentrated on the form of cotton as a pure abstraction apart from any material cotton, and also on the pure material apart from the pattern that made it a brass hinge, and brought the two concepts together, imposing shape on substance. An hour of Transfiguration practice every day for a month had got Harry to the point where he could Transfigure a subject of five cubic centimetres in just under a minute.
 
@@ -368,7 +368,7 @@ Whoever had designed Draco’s locking spell, they’d thought of that, too. Or 
 
 A glance showed the walls to be solid stone. So was the floor. So was the ceiling. You couldn’t separately Transfigure a part of something that was a solid whole; Harry would have needed to try Transfiguring the whole wall, which would have taken hours or maybe days of continuous effort, if he could have done it at all, and if the wall wasn’t contiguous with the rest of the whole castle…
 
-Harry’s Time-Turner wouldn’t open until 9€153€ After that he could go back to 6€154€, before the door was locked.
+Harry’s Time-Turner wouldn’t open until 9€75€ After that he could go back to 6€76€, before the door was locked.
 
 How long would the torture spell last?
 
@@ -380,11 +380,11 @@ And that was obviously a hideously stupid idea that Harry would regret the rest 
 
 But Harry didn’t know if he could hold out for two hours under torture.
 
-He wanted €155€{out} of this classroom, he wanted out of this classroom €156€{now}, he didn’t want to wait in here screaming for two hours until he could use the Time-Turner, he needed to €157€{get out} and find someone to get the torture spell off his hand…
+He wanted <em>out</em> of this classroom, he wanted out of this classroom <em>now</em>, he didn’t want to wait in here screaming for two hours until he could use the Time-Turner, he needed to <em>get out</em> and find someone to get the torture spell off his hand…
 
-€158€{Think!} Harry screamed at his brain. €159€{Think! Think!}
+<em>Think!</em> Harry screamed at his brain. <em>Think! Think!</em>
 
-€160€
+€77€
 
 The Slytherin dorm was mostly empty. People were at dinner. For some reason Draco himself wasn’t feeling very hungry.
 
@@ -394,7 +394,7 @@ It wasn’t fair.
 
 It wasn’t fair.
 
-It was the first time Draco had ever really €161€{lost}, Father had warned him that losing for real would hurt the first time it happened, but he’d lost €162€{so much}, it wasn’t fair, it wasn’t fair for him to lose €163€{everything} the very first time he lost.
+It was the first time Draco had ever really <em>lost</em>, Father had warned him that losing for real would hurt the first time it happened, but he’d lost <em>so much</em>, it wasn’t fair, it wasn’t fair for him to lose <em>everything</em> the very first time he lost.
 
 Somewhere in the dungeons, a boy Draco had actually liked was screaming in pain. Draco had never hurt anyone he’d liked before. Punishing people who deserved it was supposed to be fun, but this just felt sick inside. Father hadn’t warned him about that, and Draco wondered if it was a hard lesson everyone had to learn when they grew up, or if Draco was just weak.
 
@@ -410,7 +410,7 @@ The trap had been perfectly set, perfectly executed. Father had warned Draco ove
 
 Draco started crying harder, then.
 
-He didn’t want this, he €164€{didn’t want this} but there was no turning back. It was too late. He was already a scientist.
+He didn’t want this, he <em>didn’t want this</em> but there was no turning back. It was too late. He was already a scientist.
 
 Draco knew he should go back and free Harry Potter and apologize. It would have been the smart thing to do.
 
@@ -420,13 +420,13 @@ He’d already hurt Harry Potter. It might be the only time Draco ever got to hu
 
 Let him keep screaming.
 
-€165€
+€78€
 
 Harry dropped the remnants of his hacksaw to the ground. The brass hinges had proved impervious, not even scratched, and Harry was beginning to suspect that even the desperation act of trying to Transfigure acid or explosives would have failed to open this door. On the plus side, the attempt had destroyed the hacksaw.
 
-His watch said it was 7:02€166€, with less than fifteen minutes left, and Harry tried to remember if there were any other sharp things in his pouch that needed destroying, and felt another fit of tears welling up. If only, when his Time-Turner opened, he could go back and €167€{prevent}—
+His watch said it was 7:02€79€, with less than fifteen minutes left, and Harry tried to remember if there were any other sharp things in his pouch that needed destroying, and felt another fit of tears welling up. If only, when his Time-Turner opened, he could go back and <em>prevent</em>—
 
-And that was when Harry realized he was being €168€{silly}.
+And that was when Harry realized he was being <em>silly</em>.
 
 It wasn’t the first time he’d been locked in a room.
 
@@ -434,15 +434,15 @@ Professor McGonagall had already told him the correct way to do this.
 
 …she’d also told him not to use the Time-Turner for this sort of thing.
 
-Would Professor McGonagall realize that this occasion really €169€{did} warrant a special exception? Or just take away the Time-Turner entirely?
+Would Professor McGonagall realize that this occasion really <em>did</em> warrant a special exception? Or just take away the Time-Turner entirely?
 
-Harry gathered up all his things, all the evidence, into his pouch. A €170€{Scourgify} took care of the vomit on the floor, though not the sweat that had soaked his robes. He left the overturned desks overturned, it wasn’t important enough to be worth doing with one hand.
+Harry gathered up all his things, all the evidence, into his pouch. A <em>Scourgify</em> took care of the vomit on the floor, though not the sweat that had soaked his robes. He left the overturned desks overturned, it wasn’t important enough to be worth doing with one hand.
 
-When he was done, Harry glanced down at his watch. 7:04€171€
+When he was done, Harry glanced down at his watch. 7:04€80€
 
 And then Harry waited. Seconds passed, feeling like years.
 
-At 7:07€172€, the door opened.
+At 7:07€81€, the door opened.
 
 Professor Flitwick’s puff-bearded face looked rather concerned. “Are you all right, Harry?” said the squeaky voice of Ravenclaw’s Head of House. “I got a note saying you’d been locked in here—”
 

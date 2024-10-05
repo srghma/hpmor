@@ -1,30 +1,17 @@
-€111€{bookpagecount}
-€30€{€38€"€39€"}
-€112€{€41€} €113€{€43€}{€44€ * €45€{bookpagecount} / €46€{2.0}}
-€47€{€48€} €114€{€50€}{€51€ + 5mm}
-€115€@=€55€{€56€"€57€"€58€}
-€59€{€60€} €116€{€62€}{€117€@ + 8mm}
-€66€{€67€} €118€{€69€}{€119€@ + 1mm}
-€120€{color}{bg whole}{black}
-€75€{center}{above front}{€121€DUST JACKET}
-€77€{picture}{front}{images/cover0.jpg}
-€78€{normal}{front}{€79€[€80€]{€81€{€82€}}}
+€82€ / €34€<b>2.0</b></b>
+€35€<b>€36€</b> €83€<b>€38€</b><b>€39€ + 5mm</b>
+€84€@=€43€<b>€44€"€45€"€46€</b>
+€47€<b>€48€</b> €85€<b>€50€</b><b>€86€@ + 8mm</b>
+€54€<b>€55€</b> €87€<b>€57€</b><b>€88€@ + 1mm</b>
+€89€<b>€90€<b>images/cover0.jpg</b>
+€63€<b>normal</b><b>front</b><b>€64€[€65€]<b>€66€<b>€67€</b></b></b>
 
-€122€{normal}{spine}
-€123€{0.5cm}€124€[origin=c]{90}{€91€[120]{black}{€92€}}
-€125€{normal}{back}
-  €126€{20mm}
-  €96€{110mm}{€127€
-Petunia married a biochemist, and Harry grew up reading science and science fiction. Then came the Hogwarts letter, and a world of intriguing new possibilities to exploit. And new friends, like Hermione Granger, and Professor McGonagall, and Professor Quirrell…
-}
-€128€{normal}{front flap}
-€129€{20mm}
-€101€{40mm}{€130€
-  HPMOR comes from the world of fan-fiction. With J.~K.~Rowling’s approval, it tells the story of an alternate Harry, an auto-didact rationalist who brings all his powers to bear on the strange new vistas of the world of magic.
-
-  €104€ The books introduce the reader to the ways of thinking Yudkowsky lays out in his blog, €105€{lesswrong.com}.}
-€131€{normal}{back flap}
-€132€{20mm}
-€108€{40mm}{€133€
-}
-€134€
+€91€<b>normal</b><b>spine</b>
+€92€<b>€69€</b></b>
+€93€<b>normal</b><b>back</b>
+  €94€<b>20mm</b>
+  €73€<b>110mm</b><b>€95€<b>20mm</b>
+€76€<b>40mm</b><b>€96€<b>20mm</b>
+€79€<b>40mm</b><b>€97€
+</b>
+€98€

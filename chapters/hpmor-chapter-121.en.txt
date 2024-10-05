@@ -1,6 +1,6 @@
-€0€{Something to Protect: Severus Snape}
+€0€<b>Something to Protect: Severus Snape</b>
 
-€1€{A}{} sombre mood pervaded the Headmistress’s office. Minerva had returned after dropping off Draco and Narcissa/Nancy at St. Mungo’s, where the Lady Malfoy was being examined to see if a decade living as a Muggle had done any damage to her health; and Harry had come up to the Headmistress’s office again and then…not been able to think of priorities. There was so €2€{much} to do, so many things, that even Headmistress McGonagall didn’t seem to know where to start, and certainly not Harry. Right now Minerva was repeatedly writing words on parchment and then erasing them with a hand-wave, and Harry had closed his eyes for clarity. Was there any €3€{next} first thing that needed to happen…
+€1€<b>A</b><b></b> sombre mood pervaded the Headmistress’s office. Minerva had returned after dropping off Draco and Narcissa/Nancy at St. Mungo’s, where the Lady Malfoy was being examined to see if a decade living as a Muggle had done any damage to her health; and Harry had come up to the Headmistress’s office again and then…not been able to think of priorities. There was so <em>much</em> to do, so many things, that even Headmistress McGonagall didn’t seem to know where to start, and certainly not Harry. Right now Minerva was repeatedly writing words on parchment and then erasing them with a hand-wave, and Harry had closed his eyes for clarity. Was there any <em>next</em> first thing that needed to happen…
 
 There came a knock upon the great oaken door that had been Dumbledore’s, and the Headmistress opened it with a word.
 
@@ -16,7 +16,7 @@ Severus Snape inclined his head to her.
 
 “I resign my position as the Potions Master of Hogwarts,” the man said simply. “I will not stay to draw my last month’s salary. If there are students who have been particularly harmed by me, you may use the money for their benefit.”
 
-€4€{He knows.} The thought came to Harry, and he couldn’t have said in words just €5€{what} the Potions Master now knew; except that it was clear that Severus knew it.
+<em>He knows.</em> The thought came to Harry, and he couldn’t have said in words just <em>what</em> the Potions Master now knew; except that it was clear that Severus knew it.
 
 “Severus…” Headmistress McGonagall began. Her voice sounded hollow. “Professor Severus Snape, you may not realize how difficult it is to find Potions Masters who can safely teach Muggle-borns, or Professors sharp enough to keep Slytherin House in any semblance of order…”
 
@@ -26,7 +26,7 @@ Again the man inclined his head. “I think it need not be said to you, Headmist
 
 “Headmistress,” Harry said. His own voice seemed also hollow, and Harry wondered at it, for he hadn’t known Severus Snape that well. “If he wants to go, I think you should let him go.”
 
-€6€{Dumbledore was using him. Maybe not exactly the way Professor Quirrell thought, maybe it was prophecy rather than sabotaging Slytherin, but Dumbledore was still using him. There were things that could have been said long ago to Severus, to free him. It’s clear why Dumbledore didn’t risk that, but still, Severus wasn’t being used kindly. Even his blindness and grief were being used, the way he didn’t grasp the consequences of his actions as Potions Master…}
+<em>Dumbledore was using him. Maybe not exactly the way Professor Quirrell thought, maybe it was prophecy rather than sabotaging Slytherin, but Dumbledore was still using him. There were things that could have been said long ago to Severus, to free him. It’s clear why Dumbledore didn’t risk that, but still, Severus wasn’t being used kindly. Even his blindness and grief were being used, the way he didn’t grasp the consequences of his actions as Potions Master…</em>
 
 “It is well to find you here, Mr~Potter,” Severus said. “There is unfinished business between us.”
 
@@ -38,7 +38,7 @@ Severus seemed to be having some difficulty speaking, as he stood before the two
 
 “Lily was a fine upstanding witch, Mr~Potter. I would not have you think otherwise from any words I said to you.”
 
-“€7€{Severus?}” said Minerva McGonagall, looking as shocked as if she’d been bitten by her own shoes.
+“<em>Severus?</em>” said Minerva McGonagall, looking as shocked as if she’d been bitten by her own shoes.
 
 The former Potions Master kept his eyes on Harry. “More than one bar lay between myself and Lily, most notably my ill-advised attempts to curry favour with the purebloods of my house. If I made it sound like one mistake upon a muddy field ended it all, if I pretended that she had no reason but shallowness not to love me, I hope your books have also told you why fools may say such things.”
 
@@ -46,7 +46,7 @@ The former Potions Master kept his eyes on Harry. “More than one bar lay betwe
 
 “However,” the former Potions Master continued, “I’m afraid I have nothing more to say about your father than what I’ve already told you.”
 
-“€8€{Severus!}”
+“<em>Severus!</em>”
 
 The former Potions Master seemed to have eyes only for Harry. “The Dark Mark upon my arm is not dead, nor is the prophecy fulfilled by that story you recounted before the crowd. How did you destroy all but a remnant of the Dark Lord?”
 

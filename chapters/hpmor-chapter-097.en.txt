@@ -1,9 +1,9 @@
-€1€{Roles}{VIII}
+€1€<b>Roles</b><b>VIII</b>
 
-€2€{F}{or} the second time that day, Harry’s eyes filled with tears. Heedless of the puzzled eyes of the Ravenclaws in the common room, he reached out to the silver creature which Draco Malfoy had sent, cradling it in his arms like a live thing; and stumbled off in the direction of his dorm, heading half-blindly for the bottom of his trunk, as the silver snake waited silently in his arms.
+€2€<b>F</b><b>or</b> the second time that day, Harry’s eyes filled with tears. Heedless of the puzzled eyes of the Ravenclaws in the common room, he reached out to the silver creature which Draco Malfoy had sent, cradling it in his arms like a live thing; and stumbled off in the direction of his dorm, heading half-blindly for the bottom of his trunk, as the silver snake waited silently in his arms.
 
-€3€{The fifth meeting\\
-10:12€4€, Sunday, April 19th.}
+€3€<b>The fifth meeting\\
+10:12€4€, Sunday, April 19th.</b>
 
 The debtor’s meeting which Lord Malfoy had demanded from Harry Potter, who owed Lucius Malfoy a debt of some 58,203 Galleons, was held within the Gringotts Central Bank, in accordance with the laws of Britain.
 
@@ -19,15 +19,15 @@ The Wizengamot had overruled the Chief Warlock.
 
 And so the Boy-Who-Lived had departed under the heavy guard of Mad-Eye Moody and an Auror trio for the Gringotts Central Bank; with Moody’s bright-blue eye rotating wildly in every direction, as though to signal to any possible attacker that he was On Guard and Constantly Vigilant and would cheerfully incinerate the kidneys of anyone who sneezed in the general direction of the Boy-Who-Lived.
 
-Harry Potter watched more keenly than before, as they marched through the wide-open front doors of Gringotts, beneath the motto €5€{Fortius Quo Fidelius}. On Harry’s last three visits to Gringotts he had merely admired the marble pillars, the gold-burning torches, the architecture not quite like the human parts of magical Britain. Since then had come the Incident at Azkaban and other things; and now, on his fourth visit, Harry was thinking about the Goblin Rebellions and goblins’ ongoing resentment at not being allowed to own wands and certain facts which hadn’t been in the first-year History textbook, which Harry had guessed at by pattern matching and which Professor Flitwick had confirmed in a very quiet voice. Lord Voldemort had killed goblins as well as wizards—an incredibly stupid move on Lord Voldemort’s part, unless Harry was really missing something—but what goblins thought of the Boy-Who-Lived, Harry had no idea. Goblins had a reputation for paying what they owed and taking what they thought owed them, along with a reputation for interpreting those accounts in a somewhat prejudiced fashion.
+Harry Potter watched more keenly than before, as they marched through the wide-open front doors of Gringotts, beneath the motto <em>Fortius Quo Fidelius</em>. On Harry’s last three visits to Gringotts he had merely admired the marble pillars, the gold-burning torches, the architecture not quite like the human parts of magical Britain. Since then had come the Incident at Azkaban and other things; and now, on his fourth visit, Harry was thinking about the Goblin Rebellions and goblins’ ongoing resentment at not being allowed to own wands and certain facts which hadn’t been in the first-year History textbook, which Harry had guessed at by pattern matching and which Professor Flitwick had confirmed in a very quiet voice. Lord Voldemort had killed goblins as well as wizards—an incredibly stupid move on Lord Voldemort’s part, unless Harry was really missing something—but what goblins thought of the Boy-Who-Lived, Harry had no idea. Goblins had a reputation for paying what they owed and taking what they thought owed them, along with a reputation for interpreting those accounts in a somewhat prejudiced fashion.
 
 Today, the guards standing upright in armour at regular intervals around the bank were staring at the Boy-Who-Lived with blank faces, and glaring at Moody and the Aurors with flashes of bitter contempt. At the stands and counters of the bank’s foyer, goblin tellers stared with equal contempt at the wizards whose hands they were filling with Galleons; one teller smiled a sharp-toothed grin at a witch who was looking angry and desperate.
 
-€6€{If I understand human nature correctly—and if I’m right that all the humanoid magical species are genetically human plus a heritable magical effect—then you’re not likely to become friends with a wizard just because I’m polite to you, or say that I’m sympathetic. But I wonder if you would back the Boy-Who-Lived in a bid to overthrow the Ministry, if I promised to revoke the Wand Law afterwards…or if I quietly gave you wands, and spell books, in exchange for your support…is that why the secret of wand-making is restricted to people like Ollivander? Though if you really are human, just plain human, then the goblin nation probably has its own internal horrors, its own Azkabans, for that is also human nature; in which case sooner or later I must overthrow or reform your own government as well. Hm.}
+<em>If I understand human nature correctly—and if I’m right that all the humanoid magical species are genetically human plus a heritable magical effect—then you’re not likely to become friends with a wizard just because I’m polite to you, or say that I’m sympathetic. But I wonder if you would back the Boy-Who-Lived in a bid to overthrow the Ministry, if I promised to revoke the Wand Law afterwards…or if I quietly gave you wands, and spell books, in exchange for your support…is that why the secret of wand-making is restricted to people like Ollivander? Though if you really are human, just plain human, then the goblin nation probably has its own internal horrors, its own Azkabans, for that is also human nature; in which case sooner or later I must overthrow or reform your own government as well. Hm.</em>
 
 An aged goblin appeared before them, and Harry inclined his head with careful courtesy, a gesture that the aged goblin returned with an abrupt half-nod. There was no wild train ride; instead the aged goblin ushered them into a short hallway that terminated in a small waiting room, with three goblin-sized benches and one wizard-sized chair, within which nobody sat.
 
-“Do not sign anything that Lucius Malfoy gives you,” Mad-Eye Moody said. “€7€{Nothing,} do you understand me, lad? If Malfoy hands you a copy of €8€{The Wonderful Adventures of the Boy-Who-Lived} and asks you for an autograph, tell him that you’ve sprained a finger. Don’t pick up a quill for a single second while you’re in Gringotts. If someone hands you a quill, break the quill and then break your own fingers. Do I need to explain further, son?”
+“Do not sign anything that Lucius Malfoy gives you,” Mad-Eye Moody said. “<em>Nothing,</em> do you understand me, lad? If Malfoy hands you a copy of <em>The Wonderful Adventures of the Boy-Who-Lived</em> and asks you for an autograph, tell him that you’ve sprained a finger. Don’t pick up a quill for a single second while you’re in Gringotts. If someone hands you a quill, break the quill and then break your own fingers. Do I need to explain further, son?”
 
 “Not particularly,” Harry said. “We also have lawyers in Muggle Britain, and they’d think your lawyers are cute.”
 
@@ -35,25 +35,25 @@ A short time later Harry Potter handed his wand over to an armoured goblin guard
 
 And then Harry stepped through another door, and a brief waterfall of Thief’s Downfall, which evaporated from his skin as soon as he stepped out.
 
-On the other side of the door was a larger room, richly panelled and appointed, with a great golden table stretching across it; two huge leather chairs on one side of the table, and a small wooden stool on the other, the debtor’s perch. Two goblins in full armour, wearing ornate earpieces and glasses, stood watch around the room. Neither side would have wands or any other device of magic, and the goblin guards would attack immediately if anyone dared to use wandless magic within this peaceable meeting supervised by Gringotts Bank. The ornate earpieces would prevent the goblin guards from hearing the conversation unless directly addressed, the eyepieces would leave the wizards’ faces as blurs. It was, in short, something along the lines of €9€{actual} security, at least if you were an Occlumens.
+On the other side of the door was a larger room, richly panelled and appointed, with a great golden table stretching across it; two huge leather chairs on one side of the table, and a small wooden stool on the other, the debtor’s perch. Two goblins in full armour, wearing ornate earpieces and glasses, stood watch around the room. Neither side would have wands or any other device of magic, and the goblin guards would attack immediately if anyone dared to use wandless magic within this peaceable meeting supervised by Gringotts Bank. The ornate earpieces would prevent the goblin guards from hearing the conversation unless directly addressed, the eyepieces would leave the wizards’ faces as blurs. It was, in short, something along the lines of <em>actual</em> security, at least if you were an Occlumens.
 
-Harry climbed up onto his uncomfortable wooden stool, thinking €10€{Subtle} in a tone of some mental sarcasm, and awaited his creditors.
+Harry climbed up onto his uncomfortable wooden stool, thinking <em>Subtle</em> in a tone of some mental sarcasm, and awaited his creditors.
 
 It was only a brief interval later, much shorter than the time a debtor could legally be made to wait, when Lucius Malfoy entered into the room, taking up his leather chair with motions worn smooth by practice. His snake-headed cane was missing from his hands, his long white mane drifted behind him the same as ever, his face could not be read.
 
 Quietly following behind him was a young boy with white-blonde hair, now wearing black robes far finer than any Hogwarts uniform, who followed in his father’s footsteps with a controlled face. A boy who was also Harry’s creditor to the tune of forty Galleons, and also of House Malfoy, and therefore, technically, covered by the Wizengamot resolution enabling this meeting.
 
-€11€{Draco.} Harry didn’t say it aloud, didn’t let his own expression change. He could not think of what to say. Not even €12€{I’m sorry} seemed appropriate. Harry hadn’t dared say any of that to Draco’s Patronus either, when they had set up this meeting in a few brief exchanges; and not only because Lucius might be listening. It had been enough to know that Draco’s happy thought was still happy, and that he had still been able to want Harry to know it.
+<em>Draco.</em> Harry didn’t say it aloud, didn’t let his own expression change. He could not think of what to say. Not even <em>I’m sorry</em> seemed appropriate. Harry hadn’t dared say any of that to Draco’s Patronus either, when they had set up this meeting in a few brief exchanges; and not only because Lucius might be listening. It had been enough to know that Draco’s happy thought was still happy, and that he had still been able to want Harry to know it.
 
 Lucius Malfoy spoke first, his voice level, his face set. “I do not understand what is happening at Hogwarts, Harry Potter. Would you care to explain it to me?”
 
 “I don’t know,” Harry said. “If I understood these events I would not have let them happen, Lord Malfoy.”
 
-“Then answer me this question. €13€{Who} are you?”
+“Then answer me this question. <em>Who</em> are you?”
 
-Harry gazed evenly at the face of his creditor. “I’m not You-Know-Who, like you thought I was,” Harry said. Not being a €14€{complete} idiot, he’d eventually worked out who Lucius Malfoy had thought he was talking to in front of the Wizengamot. “Obviously I’m not a normal boy. Equally obviously, that probably has €15€{something} to do with the Boy-Who-Lived business. But I don’t know what, or why, any more than you do. I asked the Sorting Hat and it didn’t know either.”
+Harry gazed evenly at the face of his creditor. “I’m not You-Know-Who, like you thought I was,” Harry said. Not being a <em>complete</em> idiot, he’d eventually worked out who Lucius Malfoy had thought he was talking to in front of the Wizengamot. “Obviously I’m not a normal boy. Equally obviously, that probably has <em>something</em> to do with the Boy-Who-Lived business. But I don’t know what, or why, any more than you do. I asked the Sorting Hat and it didn’t know either.”
 
-Lucius Malfoy nodded distantly. “I could not think of any reason why you would pay a hundred thousand Galleons to save a mudblood’s life. No reason save one, which would account for her power and blood thirst alike; but then she died at the hands of a troll, and yet you lived. And also my €16€{son} has told me €17€{much} of you, Harry Potter, which €18€{did not make the tiniest bit of sense}, I have heard the ravings of the mad in St. Mungo’s and they were more sensible by far than the events which my €19€{son} told me under €20€{Veritaserum} that you enacted, and that portion of this €21€{raving lunacy}, which you €22€{personally carried out}, I would have you explain to me, and now.”
+Lucius Malfoy nodded distantly. “I could not think of any reason why you would pay a hundred thousand Galleons to save a mudblood’s life. No reason save one, which would account for her power and blood thirst alike; but then she died at the hands of a troll, and yet you lived. And also my <em>son</em> has told me <em>much</em> of you, Harry Potter, which <em>did not make the tiniest bit of sense</em>, I have heard the ravings of the mad in St. Mungo’s and they were more sensible by far than the events which my <em>son</em> told me under <em>Veritaserum</em> that you enacted, and that portion of this <em>raving lunacy</em>, which you <em>personally carried out</em>, I would have you explain to me, and now.”
 
 Harry turned to look at Draco, who looked back at him with a face that was screwing up, being controlled, and then tensing up again.
 
@@ -65,17 +65,17 @@ Harry closed his eyes, and spoke without looking. “A boy raised by Muggles who
 
 Harry opened his eyes and looked at Draco. “I would prefer to say,” Harry said, not quite with a steady voice, “that the things I told you were true from a certain point of view.”
 
-“€23€{A certain point of view?}” Draco Malfoy looked every bit as angry as Luke Skywalker’d had the right to be, and not in a mood to accept Kenobi’s excuses, either. “There’s a word for things that are true from a certain point of view. They’re called €24€{lies}!”
+“<em>A certain point of view?</em>” Draco Malfoy looked every bit as angry as Luke Skywalker’d had the right to be, and not in a mood to accept Kenobi’s excuses, either. “There’s a word for things that are true from a certain point of view. They’re called <em>lies</em>!”
 
-“Or tricks,” Harry said evenly. “Statements which are technically true but which deceive the listener into forming further beliefs which are false. I think it’s worth making that distinction. What I told you was a self-fulfilling prophecy; you believed that you couldn’t deceive yourself, so you didn’t try. The skills you’ve learned are real, and it would have been very bad for you to start fighting against them internally. People can’t make themselves believe that blue is green by an act of will, but they €25€{think} they can, and that can be almost as bad.”
+“Or tricks,” Harry said evenly. “Statements which are technically true but which deceive the listener into forming further beliefs which are false. I think it’s worth making that distinction. What I told you was a self-fulfilling prophecy; you believed that you couldn’t deceive yourself, so you didn’t try. The skills you’ve learned are real, and it would have been very bad for you to start fighting against them internally. People can’t make themselves believe that blue is green by an act of will, but they <em>think</em> they can, and that can be almost as bad.”
 
-“You €26€{used} me,” said Draco Malfoy.
+“You <em>used</em> me,” said Draco Malfoy.
 
 “I only used you in ways that made you stronger. That’s what it means to be used by a friend.”
 
-“€27€{Even I know that’s not what friendship is!}”
+“<em>Even I know that’s not what friendship is!</em>”
 
-Now Lucius Malfoy spoke again. “For what purpose? To what end?” Even the elder Malfoy’s voice was not quite steady. “€28€{Why?}”
+Now Lucius Malfoy spoke again. “For what purpose? To what end?” Even the elder Malfoy’s voice was not quite steady. “<em>Why?</em>”
 
 Harry regarded him for a moment, and then turned to Draco. “Your father’s probably not going to believe this,” Harry said. “But you, Draco, should be able to see that everything which has happened is compatible with this hypothesis. And that any more cynical hypothesis wouldn’t explain why I didn’t press you harder when you thought I had leverage, or why I taught you so much. I thought that the heir of House Malfoy, who’d been publicly seen to grab a Muggle-born girl to stop her falling off the roof of Hogwarts, would be a good compromise candidate to lead magical Britain after the reformation.”
 
@@ -83,15 +83,15 @@ Harry regarded him for a moment, and then turned to Draco. “Your father’s pr
 
 “I don’t know,” Harry said.
 
-“Tell me who you €29€{suspect}, Harry Potter.”
+“Tell me who you <em>suspect</em>, Harry Potter.”
 
 “I have four suspects. One of them is Professor Snape—”
 
-“€30€{Snape?}” Draco burst out.
+“<em>Snape?</em>” Draco burst out.
 
-“The second, of course, is the Defence Professor of Hogwarts, just because he’s the Defence Professor.” Harry would have left him out, not wanting to bring Professor Quirrell to the Malfoys’ attention if he was innocent, but Draco might have challenged him on that. “The third, you wouldn’t believe me about. The fourth is a catch-all category called Everything Else.” €31€{And the fifth, Lord Voldemort, I do not think I should name to you.}
+“The second, of course, is the Defence Professor of Hogwarts, just because he’s the Defence Professor.” Harry would have left him out, not wanting to bring Professor Quirrell to the Malfoys’ attention if he was innocent, but Draco might have challenged him on that. “The third, you wouldn’t believe me about. The fourth is a catch-all category called Everything Else.” <em>And the fifth, Lord Voldemort, I do not think I should name to you.</em>
 
-Lucius Malfoy’s face contorted in a snarl. “Do you think I cannot recognize bait upon your hook? Tell me about this third possibility, Potter, the one you wish me to believe is the €32€{true} answer, and leave aside games.”
+Lucius Malfoy’s face contorted in a snarl. “Do you think I cannot recognize bait upon your hook? Tell me about this third possibility, Potter, the one you wish me to believe is the <em>true</em> answer, and leave aside games.”
 
 Harry regarded Lord Malfoy steadily. “I once read a book I wasn’t supposed to read, and it told me this: communication is an event that takes place between equals. Employees lie to their bosses, who, in turn, expect to be lied to. I’m not playing coy, I’m observing that it’s simply not possible, in our present situation, for me to tell you about the third suspect, and have you believe that my story was anything but a lure.”
 
@@ -101,23 +101,23 @@ Harry gave Draco a startled look.
 
 Draco spoke evenly. “You suspect that Father sent the troll into Hogwarts to get at Granger, don’t you? That’s what you’re thinking, isn’t it!”
 
-Harry opened his mouth to say, €33€{Actually, no,} and then managed to think ahead and stop himself for once in his life.
+Harry opened his mouth to say, <em>Actually, no,</em> and then managed to think ahead and stop himself for once in his life.
 
-“I see…” Harry said slowly. “€34€{That’s} what this is about. Lucius Malfoy publicly says that Hermione won’t get away with what she’s done, and lo and behold, a troll kills her.” Harry smiled then, in a way that bared his teeth. “And if I deny that here, then Draco, who isn’t an Occlumens, can then testify under Veritaserum that the Boy-Who-Lived does €35€{not} suspect Lucius Malfoy of having sent a troll into Hogwarts to kill Hermione Granger, sworn to the Noble House of Potter, whose blood debt was recently purchased for a hundred thousand Galleons et cetera.” Harry leaned back slightly, though his wooden stool had no back with which to do it properly. “But now that it’s been pointed out, I see that it’s very reasonable. Obviously €36€{you} killed Hermione Granger, just like you threatened to do in front of the whole Wizengamot.”
+“I see…” Harry said slowly. “<em>That’s</em> what this is about. Lucius Malfoy publicly says that Hermione won’t get away with what she’s done, and lo and behold, a troll kills her.” Harry smiled then, in a way that bared his teeth. “And if I deny that here, then Draco, who isn’t an Occlumens, can then testify under Veritaserum that the Boy-Who-Lived does <em>not</em> suspect Lucius Malfoy of having sent a troll into Hogwarts to kill Hermione Granger, sworn to the Noble House of Potter, whose blood debt was recently purchased for a hundred thousand Galleons et cetera.” Harry leaned back slightly, though his wooden stool had no back with which to do it properly. “But now that it’s been pointed out, I see that it’s very reasonable. Obviously <em>you</em> killed Hermione Granger, just like you threatened to do in front of the whole Wizengamot.”
 
 “I did not,” Lucius Malfoy said, expressionless once more.
 
-Harry bared his teeth again in that non-smile. “Well then, in €37€{that} case, there must be someone €38€{else} out there who killed Hermione and messed with the Hogwarts wards, the same person who €39€{earlier} tried to €40€{frame Hermione for Draco Malfoy’s murder.} Either you killed Hermione Granger after being paid for her life, or you blamed your son’s attempted murder on an innocent girl and took all my family’s money under false pretences, one of those two things must be true.”
+Harry bared his teeth again in that non-smile. “Well then, in <em>that</em> case, there must be someone <em>else</em> out there who killed Hermione and messed with the Hogwarts wards, the same person who <em>earlier</em> tried to <em>frame Hermione for Draco Malfoy’s murder.</em> Either you killed Hermione Granger after being paid for her life, or you blamed your son’s attempted murder on an innocent girl and took all my family’s money under false pretences, one of those two things must be true.”
 
-“Perhaps €41€{you} killed her in hopes of your money being returned.” Lucius Malfoy had leaned forward, and was staring hard at Harry.
+“Perhaps <em>you</em> killed her in hopes of your money being returned.” Lucius Malfoy had leaned forward, and was staring hard at Harry.
 
-“Then €42€{I} would not have given away my money for her in the first place. As you already know. Don’t insult my intelligence, Lord Malfoy—no, wait, sorry, you just had to €43€{say} that in case Draco had to testify to it, never mind.”
+“Then <em>I</em> would not have given away my money for her in the first place. As you already know. Don’t insult my intelligence, Lord Malfoy—no, wait, sorry, you just had to <em>say</em> that in case Draco had to testify to it, never mind.”
 
 Lucius Malfoy sat back in his chair and stared.
 
-“I tried to tell you, Father,” Draco said under his breath, “but nobody can imagine Harry Potter until they’ve actually €44€{met} him…”
+“I tried to tell you, Father,” Draco said under his breath, “but nobody can imagine Harry Potter until they’ve actually <em>met</em> him…”
 
-Harry tapped a finger on his cheek. “So people are starting to figure out the blatantly obvious? I’m surprised, actually. I wouldn’t have predicted that would happen.” Harry had by now caught the general rhythm of Professor Quirrell’s cynicism and was able to generate it independently. “I wouldn’t think a newspaper would be able to report on a concept like ‘Either X or Y must be true, but we don’t know which.’ I would only expect journalists to report stories consisting of series of atomic propositions, like ‘X is true’, ‘Y is false’, or ‘X is true and Y is false’. Not more complex logical connectors like ‘If X is true then Y is true, but we don’t know whether X is true’. And all your supporters ought to be rapidly switching between ‘You can’t prove that Lord Malfoy killed Granger, it could’ve been someone else’ and ‘You can’t prove there was someone else to frame Granger’, so long as it’s uncertain they should be trying to have it both ways at once…wait, don’t you €45€{own} the Daily Prophet?”
+Harry tapped a finger on his cheek. “So people are starting to figure out the blatantly obvious? I’m surprised, actually. I wouldn’t have predicted that would happen.” Harry had by now caught the general rhythm of Professor Quirrell’s cynicism and was able to generate it independently. “I wouldn’t think a newspaper would be able to report on a concept like ‘Either X or Y must be true, but we don’t know which.’ I would only expect journalists to report stories consisting of series of atomic propositions, like ‘X is true’, ‘Y is false’, or ‘X is true and Y is false’. Not more complex logical connectors like ‘If X is true then Y is true, but we don’t know whether X is true’. And all your supporters ought to be rapidly switching between ‘You can’t prove that Lord Malfoy killed Granger, it could’ve been someone else’ and ‘You can’t prove there was someone else to frame Granger’, so long as it’s uncertain they should be trying to have it both ways at once…wait, don’t you <em>own</em> the Daily Prophet?”
 
 “The Daily Prophet,” Lucius Malfoy said thinly, “which I certainly do not own, is far too respectable to publish any such scurrilous nonsense. Unfortunately, not all wizards of influence are so reasonable.”
 
@@ -133,7 +133,7 @@ Harry regarded Lucius Malfoy steadily. “Lucius Malfoy. You are now perfectly a
 
 There was a brief silence in the room, except for the two goblin guards who went on breathing regardless.
 
-“You €46€{are} mad,” Lucius Malfoy said coldly.
+“You <em>are</em> mad,” Lucius Malfoy said coldly.
 
 “It’s called justice, Lord Malfoy. You cannot possibly expect me to cooperate with you while you are holding the wealth of House Potter under what you now know to be false pretences. I understand how it looked to you at the time, but you know better now.”
 
@@ -149,19 +149,19 @@ Harry shrugged. “Depends what sort of coalition government gets put together w
 
 “Yes, it’s silly to think I could scare you. After all, you’re not a Dementor.”
 
-And Harry went on smiling. He’d looked it up, and apparently a bezoar €47€{would} heal almost any poison if you shoved it into someone’s mouth fast enough. Maybe that wouldn’t repair radiation damage from Transfigured polonium, but then again, maybe it would. So Harry had looked up the freezing points of various acids, and it turned out that sulphuric acid would freeze at just ten degrees Celsius, which meant Harry could buy a litre of acid on the Muggle market, freeze it solid, and Transfigure it down to a tiny little unnoticeable water-ice chip to be flipped into someone’s mouth and ingested. No bezoar would compensate for that, once the Transfiguration wore off. Harry had no intention of saying it out loud, of course, but now that he’d failed decisively to prevent any deaths during his quest, he had no further intention of being restrained by the law or even the code of Batman.
+And Harry went on smiling. He’d looked it up, and apparently a bezoar <em>would</em> heal almost any poison if you shoved it into someone’s mouth fast enough. Maybe that wouldn’t repair radiation damage from Transfigured polonium, but then again, maybe it would. So Harry had looked up the freezing points of various acids, and it turned out that sulphuric acid would freeze at just ten degrees Celsius, which meant Harry could buy a litre of acid on the Muggle market, freeze it solid, and Transfigure it down to a tiny little unnoticeable water-ice chip to be flipped into someone’s mouth and ingested. No bezoar would compensate for that, once the Transfiguration wore off. Harry had no intention of saying it out loud, of course, but now that he’d failed decisively to prevent any deaths during his quest, he had no further intention of being restrained by the law or even the code of Batman.
 
-€48€{Last chance to live, Lucius. Ethically speaking, your life was bought and paid for the day you committed your first atrocity for the Death Eaters. You’re still human and your life still has intrinsic value, but you no longer have the deontological protection of an innocent. Any good person is licensed to kill you now, if they think it’ll save net lives in the long run; and I will conclude as much of you, if you begin to get in my way. Whoever sent the troll after Granger must have targeted you too and hit you with some curse that makes former Death Eaters melt into a pile of goo. Very sad.}
+<em>Last chance to live, Lucius. Ethically speaking, your life was bought and paid for the day you committed your first atrocity for the Death Eaters. You’re still human and your life still has intrinsic value, but you no longer have the deontological protection of an innocent. Any good person is licensed to kill you now, if they think it’ll save net lives in the long run; and I will conclude as much of you, if you begin to get in my way. Whoever sent the troll after Granger must have targeted you too and hit you with some curse that makes former Death Eaters melt into a pile of goo. Very sad.</em>
 
 “Father,” Draco said in a small voice. “I think you should consider it, father.”
 
 Lucius Malfoy looked at his son. “You jest.”
 
-“It’s true. I don’t think Potter just made up his books, nobody could have written all that and there were things in them that I could check for myself. And if even half of all that is true, he’s right, a hundred thousand Galleons won’t mean much. If we give it to him he really will be friends with House Malfoy again—the way €49€{he} thinks of being friends, anyway. And if we don’t, he’ll be your enemy, whether it’s in his own interests or not, he’ll just go after you. Harry Potter really does think like that. It’s not about money to him, it’s about what he thinks is honour.”
+“It’s true. I don’t think Potter just made up his books, nobody could have written all that and there were things in them that I could check for myself. And if even half of all that is true, he’s right, a hundred thousand Galleons won’t mean much. If we give it to him he really will be friends with House Malfoy again—the way <em>he</em> thinks of being friends, anyway. And if we don’t, he’ll be your enemy, whether it’s in his own interests or not, he’ll just go after you. Harry Potter really does think like that. It’s not about money to him, it’s about what he thinks is honour.”
 
 Harry Potter inclined his head, still smiling.
 
-“But let’s get one part of it straight,” Draco said, now staring directly at him. There was a fierce light in his eyes. “€50€{You wronged me. €51€{And} you owe me.}”
+“But let’s get one part of it straight,” Draco said, now staring directly at him. There was a fierce light in his eyes. “<em>You wronged me. €5€<b>And</em> you owe me.</b>”
 
 “Acknowledged,” Harry said quietly. “Conditional on the rest of it, of course.”
 
@@ -177,7 +177,7 @@ Finally Lucius Malfoy’s eyes turned to gaze at Harry. “And you believe,” L
 
 Harry nodded. “They’ll be suspicious of your involvement, of course. But I’ll tell them that it was my plan to start with, and that should help.”
 
-“I suppose,” Lucius Malfoy said after a pause, “that I could have a contract drawn up, absolving you of €52€{almost} all the remaining debt, if by some chance I do go along with this mad idea. It shall need more guarantees, of course—”
+“I suppose,” Lucius Malfoy said after a pause, “that I could have a contract drawn up, absolving you of <em>almost</em> all the remaining debt, if by some chance I do go along with this mad idea. It shall need more guarantees, of course—”
 
 Harry promptly reached into his robes and drew out a parchment, unfolding it and spreading it across the golden table. “I’ve taken the liberty myself, actually,” Harry said. He’d spent some careful hours in the Hogwarts library with the law books available. Thankfully, so far as Harry could tell, the laws of magical Britain were charmingly simple by Muggle standards. Writing that the original blood debt and payment was cancelled, the Potters’ wealth and all other vault items would be returned, and the remaining debt annulled, all with no fault to the Malfoys, was only a few more lines than it took to say out loud. “I had to promise my keepers not to sign anything you gave me. So I made sure to compose this myself, and sign it before I left.”
 
@@ -187,7 +187,7 @@ Lucius read through the contract, smiling humourlessly. “How charmingly straig
 
 “I also promised not to touch a quill while I was in Gringotts,” Harry said. He reached into his robes again and drew out a Muggle pen, along with a sheet of normal paper. “Will this wording be all right?” Harry rapidly scribbled down a legal-sounding statement to the effect that House Potter didn’t hold House Malfoy responsible in any way for Hermione Granger’s murder and didn’t believe they had anything to do with it, then held up the paper in the air for Lord Malfoy’s inspection.
 
-Lord Malfoy looked at the paper, rolled his eyes slightly, and said, “Good enough, I suppose. Though to have the proper meaning, you should use the legal term €53€{indemnify} rather than €54€{exonerate}—”
+Lord Malfoy looked at the paper, rolled his eyes slightly, and said, “Good enough, I suppose. Though to have the proper meaning, you should use the legal term <em>indemnify</em> rather than <em>exonerate</em>—”
 
 “Nice try, but no. I know exactly what that word means, Lord Malfoy.” Harry took his parchment and began copying down his original wording more carefully.
 
@@ -211,13 +211,13 @@ The tapping pen stilled on the parchment. “A strange allegation,” Lucius dra
 
 “He is one suspect among several, Lord Malfoy, and not necessarily the most plausible. But the reason I was able to kill a full-grown mountain troll was that I had a weapon which Dumbledore gave to me, at the start of the school year. It’s not strong evidence, but it’s suspicious. And if you’re thinking that murdering one of his students is not Dumbledore’s style, well, the same thought had occurred to me.”
 
-“It’s €55€{not} his style?” Draco Malfoy said.
+“It’s <em>not</em> his style?” Draco Malfoy said.
 
 Lucius Malfoy shook his head in a measured, careful movement. “Not quite, my son. Dumbledore is particular in his evils.” Lord Malfoy leaned back into his chair, and then sat quite still. “Tell me of this weapon.”
 
-“I am not yet certain I should go into details about that in your presence, Lord Malfoy.” Harry took a breath. “Let €56€{me} be clear on this. I am not trying to sell you on the idea that Dumbledore is behind this, just raising the possibility—”
+“I am not yet certain I should go into details about that in your presence, Lord Malfoy.” Harry took a breath. “Let <em>me</em> be clear on this. I am not trying to sell you on the idea that Dumbledore is behind this, just raising the possibility—”
 
-Then Draco Malfoy spoke. “The device Dumbledore gave you—was it something to kill trolls? I mean, €57€{just} trolls? Can you tell us that?”
+Then Draco Malfoy spoke. “The device Dumbledore gave you—was it something to kill trolls? I mean, <em>just</em> trolls? Can you tell us that?”
 
 Lucius turned his head to look at his son with some surprise.
 
@@ -225,11 +225,11 @@ Lucius turned his head to look at his son with some surprise.
 
 Draco’s eyes were intent. “Would the device have worked against an assassin?”
 
-€58€{Not if they had shields raised.} “No.”
+<em>Not if they had shields raised.</em> “No.”
 
 “A fight in school?”
 
-€59€{An expanding rock in the throat is inherently lethal.} “No. I don’t think it was meant for use against humans.”
+<em>An expanding rock in the throat is inherently lethal.</em> “No. I don’t think it was meant for use against humans.”
 
 Draco nodded. “So just magical creatures. Would it have been a good weapon against an angry Hippogriff, or something like that?”
 
@@ -239,35 +239,35 @@ Draco nodded. “So just magical creatures. Would it have been a good weapon aga
 
 “Yes,” said Lucius Malfoy.
 
-€60€{Compared to trying to target a Wingardium Leviosa and Finite Incantatem—} “Then a Stunning Hex would be a better way of dealing with a Hippogriff.” Put that way, it did seem increasingly like a Transfigured rock was an optimal weapon €61€{only} against a flesh-and-blood magical creature with spell-resistant skin. “But…I mean, it might not have €62€{been} intended as a weapon at all, I used it in a strange way, it could have just been a crazy whim—”
+<em>Compared to trying to target a Wingardium Leviosa and Finite Incantatem—</em> “Then a Stunning Hex would be a better way of dealing with a Hippogriff.” Put that way, it did seem increasingly like a Transfigured rock was an optimal weapon <em>only</em> against a flesh-and-blood magical creature with spell-resistant skin. “But…I mean, it might not have <em>been</em> intended as a weapon at all, I used it in a strange way, it could have just been a crazy whim—”
 
-“No,” Lucius Malfoy said quietly. “€63€{Not} a whim. Not coincidence. Not Dumbledore.”
+“No,” Lucius Malfoy said quietly. “<em>Not</em> a whim. Not coincidence. Not Dumbledore.”
 
-“Then it’s him,” Draco said. Slowly Draco’s eyes narrowed, and he gave a vicious nod. “It’s been him €64€{since the beginning}. The court Legilimens €65€{said} that someone had used Legilimency on Granger. Dumbledore €66€{admitted} that it was him. And I bet the wards €67€{did} go off when Granger cursed me and Dumbledore just €68€{ignored} them.”
+“Then it’s him,” Draco said. Slowly Draco’s eyes narrowed, and he gave a vicious nod. “It’s been him <em>since the beginning</em>. The court Legilimens <em>said</em> that someone had used Legilimency on Granger. Dumbledore <em>admitted</em> that it was him. And I bet the wards <em>did</em> go off when Granger cursed me and Dumbledore just <em>ignored</em> them.”
 
-“But—” Harry said. He looked at Lucius, wondering if it was really to his advantage to question this idea. “What would be his €69€{motive}? Are we going to say he’s evil and leave it at that?”
+“But—” Harry said. He looked at Lucius, wondering if it was really to his advantage to question this idea. “What would be his <em>motive</em>? Are we going to say he’s evil and leave it at that?”
 
-Draco Malfoy jumped out of his chair and began pacing around the room, black robes swishing behind the young boy, the goblin guards staring at him in some surprise through their enchanted goggles. “To figure out a strange plot, look at what happens, then ask who benefits. Except that Dumbledore didn’t plan on you trying to save Granger at her trial, he tried to stop you from doing that. What would’ve happened if Granger €70€{had} gone to Azkaban? House Malfoy and House Potter would’ve hated each other forever. Of all the suspects, the only one who wants €71€{that} is Dumbledore. So it fits. It €72€{all} fits. The one who really committed the murder is—Albus Dumbledore!”
+Draco Malfoy jumped out of his chair and began pacing around the room, black robes swishing behind the young boy, the goblin guards staring at him in some surprise through their enchanted goggles. “To figure out a strange plot, look at what happens, then ask who benefits. Except that Dumbledore didn’t plan on you trying to save Granger at her trial, he tried to stop you from doing that. What would’ve happened if Granger <em>had</em> gone to Azkaban? House Malfoy and House Potter would’ve hated each other forever. Of all the suspects, the only one who wants <em>that</em> is Dumbledore. So it fits. It <em>all</em> fits. The one who really committed the murder is—Albus Dumbledore!”
 
-“Um,” Harry said. “But why give €73€{me} an anti-troll weapon? I said it was suspicious, I didn’t say that it made any sense.”
+“Um,” Harry said. “But why give <em>me</em> an anti-troll weapon? I said it was suspicious, I didn’t say that it made any sense.”
 
-Draco nodded thoughtfully. “Maybe Dumbledore thought you’d stop the troll before it got Granger and then he could blame Father for sending it. A lot of people would be very angry if they thought Father had even €74€{tried} to do something like that, in Hogwarts. Like Father said, Dumbledore must’ve lost face when people found out that a student had actually died in Hogwarts, being safe is what Hogwarts is famous for. So that part probably wasn’t supposed to happen.”
+Draco nodded thoughtfully. “Maybe Dumbledore thought you’d stop the troll before it got Granger and then he could blame Father for sending it. A lot of people would be very angry if they thought Father had even <em>tried</em> to do something like that, in Hogwarts. Like Father said, Dumbledore must’ve lost face when people found out that a student had actually died in Hogwarts, being safe is what Hogwarts is famous for. So that part probably wasn’t supposed to happen.”
 
 Harry’s mind involuntarily flashed back to the horror in Dumbledore’s eyes when he’d seen Hermione Granger’s body.
 
-€75€{Would I have got there in time, if the Weasley twins hadn’t had their magic map stolen? Could that have been the plan? And then, though Dumbledore didn’t know it, somebody stole their map, and I was too late…but no, that doesn’t make much sense, I found out too late, how could Dumbledore have guessed that I’d use a broomstick…well, he did know I had one…}
+<em>Would I have got there in time, if the Weasley twins hadn’t had their magic map stolen? Could that have been the plan? And then, though Dumbledore didn’t know it, somebody stole their map, and I was too late…but no, that doesn’t make much sense, I found out too late, how could Dumbledore have guessed that I’d use a broomstick…well, he did know I had one…</em>
 
 There was no way a plan like that could work.
 
 And it hadn’t.
 
-But someone going a little bit senile might €76€{expect} it to work, and a phœnix might not know the difference.
+But someone going a little bit senile might <em>expect</em> it to work, and a phœnix might not know the difference.
 
-“Or,” Draco Malfoy continued, still pacing energetically, “maybe Dumbledore had an enchanted troll around, and he expected you to defeat it some other time, for some other plot, and then he used the troll on Granger instead. I can’t imagine Dumbledore had this €77€{all} planned since the first week of lessons—”
+“Or,” Draco Malfoy continued, still pacing energetically, “maybe Dumbledore had an enchanted troll around, and he expected you to defeat it some other time, for some other plot, and then he used the troll on Granger instead. I can’t imagine Dumbledore had this <em>all</em> planned since the first week of lessons—”
 
 “I can imagine,” Lucius Malfoy said in low tones. “I have seen such, from Dumbledore.”
 
-Draco nodded decisively. “Then I was never €78€{supposed} to die in the first plot. Dumbledore knew Professor Quirrell was checking on me, or Dumbledore planned to have someone else find me in time—I couldn’t have testified against Granger if I was dead, and he’d have lost face if I’d died. But my leaving Hogwarts and not being around to lead Slytherin would be just right for him. And then the next time Harry was supposed to stop the troll before it got Granger and everyone was supposed to blame you, Father, only that time it didn’t go the way Dumbledore planned.”
+Draco nodded decisively. “Then I was never <em>supposed</em> to die in the first plot. Dumbledore knew Professor Quirrell was checking on me, or Dumbledore planned to have someone else find me in time—I couldn’t have testified against Granger if I was dead, and he’d have lost face if I’d died. But my leaving Hogwarts and not being around to lead Slytherin would be just right for him. And then the next time Harry was supposed to stop the troll before it got Granger and everyone was supposed to blame you, Father, only that time it didn’t go the way Dumbledore planned.”
 
 Lucius Malfoy lifted his grey eyes, from where he’d been gazing with open surprise at his son. “If this is true—but I wonder if Harry Potter is only playing at being reluctant to believe it.”
 
@@ -275,7 +275,7 @@ Lucius Malfoy lifted his grey eyes, from where he’d been gazing with open surp
 
 “Then, if it is true…” Lucius Malfoy’s voice trailed off. A slow fury was lighting in his eyes.
 
-“What €79€{would} we do, exactly?” Harry said.
+“What <em>would</em> we do, exactly?” Harry said.
 
 “That, too, is clear to me,” Draco said. He whirled on them and raised a finger high in the air. “We shall find the proof to convict Dumbledore of this crime, and bring him to justice!”
 
@@ -291,13 +291,13 @@ Neither of them quite knew what to say.
 
 Some of the light went out of Draco’s eyes. “Oh.”
 
-“I, ah, do have a sentimental fondness for trials,” Harry interjected. €80€{I cannot believe I am having this conversation.} He needed to go home and take a sheet of paper and a pencil and try to figure out whether Draco’s reasoning €81€{actually} made sense. “And evidence.”
+“I, ah, do have a sentimental fondness for trials,” Harry interjected. <em>I cannot believe I am having this conversation.</em> He needed to go home and take a sheet of paper and a pencil and try to figure out whether Draco’s reasoning <em>actually</em> made sense. “And evidence.”
 
 Lucius Malfoy turned his gaze to Harry Potter then, and his eyes simmered in pure grey fury.
 
 “If you have deceived me,” Lucius Malfoy said in tones of low anger, “if all this is a lie, then I will not forgive. But if this is not deception…. Bring me the proof to convict Dumbledore of this murder before the Wizengamot, or evidence enough to have him cast down, and there is nothing that House Malfoy will not do for you, Harry Potter. Nothing.”
 
-Harry took a deep breath. He needed to sort all this out and figure out the actual probabilities, but he didn’t have €82€{time}. “If it €83€{is} Dumbledore, then removing him from the game board leaves a huge hole in Britain’s power structure.”
+Harry took a deep breath. He needed to sort all this out and figure out the actual probabilities, but he didn’t have <em>time</em>. “If it <em>is</em> Dumbledore, then removing him from the game board leaves a huge hole in Britain’s power structure.”
 
 “So it does,” Lucius Malfoy said with a grim smile. “Did you have ambitions of filling it yourself, Harry Potter?”
 
@@ -307,17 +307,17 @@ Harry took a deep breath. He needed to sort all this out and figure out the actu
 
 “So this is what I’d want House Malfoy to do for me, Lord Malfoy, if Dumbledore gets removed because of me. When the opposition is most frightened—that’s when they’ll be offered a last-minute arrangement to avoid a civil war. Some of your allies might not prefer it, but there’ll be a lot of neutrals who’ll be glad to see stability. The bargain will be that instead of you taking over right away, Draco Malfoy will take power when he comes of age.”
 
-“€84€{What?}” Draco said.
+“<em>What?</em>” Draco said.
 
 “Draco has testified under Veritaserum that he tried to help Hermione Granger. I bet there’d be a lot of people in the opposition who’d take a chance on him rather than fight. I’m not sure how exactly you’d enforce it—Unbreakable Vows or Gringotts contracts or what—but there’ll be some sort of enforceable compact about power going to Draco after he graduates Hogwarts. I’ll throw any support the Boy-Who-Lived has behind that bargain. Try to persuade Longbottom and Bones and so on. Our first plan paves the way for that later, if you’re careful to act honourable when you deal with Longbottom and Bones this time around.”
 
-“Father, I €85€{swear} I didn’t—”
+“Father, I <em>swear</em> I didn’t—”
 
 Lucius’s face twisted into a grim smile. “I know you didn’t, son. Well.” The white-haired man stared across the mighty golden table at Harry Potter. “Those terms are acceptable to me. But fail in any part of our agreement, whether our first bargain, or the second, and there shall be consequences for you, Harry Potter. Clever words will not halt that.”
 
 And Lucius Malfoy signed the parchment.
 
-€86€
+€6€
 
 Mad-Eye Moody had been staring at the bronze door of the Gringotts meeting room for what seemed like hours, insofar as a man could stare at any one thing when his gaze always saw in all directions.
 
@@ -329,6 +329,6 @@ The door cracked open and Harry Potter trudged out, small beads of sweat still o
 
 Harry Potter looked at him silently, then reached into his robes and drew out a folded parchment. “The goblins are already executing this,” said Harry Potter. “They made three copies before I left.”
 
-“€87€{Merlin damn it son}—” Moody paused as his Eye caught sight of the second half of the document as Harry Potter slowly, as though reluctantly, began to unfold the top upward. A glance sufficed to take in the paragraphs drawn in careful handwriting, Lucius Malfoy’s elegant signature below Harry Potter’s. And then Moody exploded, even as the top half of the document also began to enter his Sight. “You €88€{exonerate House Malfoy} of €89€{any involvement in Hermione Granger’s death?} Do you have any idea what you’ve done, you little fool? Why in Merlin’s name would you do something like WHAT—”
+“€7€<b>Merlin damn it son</b>—” Moody paused as his Eye caught sight of the second half of the document as Harry Potter slowly, as though reluctantly, began to unfold the top upward. A glance sufficed to take in the paragraphs drawn in careful handwriting, Lucius Malfoy’s elegant signature below Harry Potter’s. And then Moody exploded, even as the top half of the document also began to enter his Sight. “You <em>exonerate House Malfoy</em> of <em>any involvement in Hermione Granger’s death?</em> Do you have any idea what you’ve done, you little fool? Why in Merlin’s name would you do something like WHAT—”
 
 €0€

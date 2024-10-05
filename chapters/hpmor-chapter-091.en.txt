@@ -1,10 +1,10 @@
-€3€{Roles}{II}
+€3€<b>Roles</b><b>II</b>
 
 €1€
-This chapter does €4€{not} contain a spoiler for any particular Orson Scott Card novel. It’s a metaphor.
-€38€{S}{hortly} after, there was another knock upon the storeroom door.
+This chapter does <em>not</em> contain a spoiler for any particular Orson Scott Card novel. It’s a metaphor.
+€10€<b>S</b><b>hortly</b> after, there was another knock upon the storeroom door.
 
-€6€
+€5€
 “If you actually care about my mental health,” the boy said without looking up, “you will go away, leave me alone, and wait for me to come down to dinner. This isn’t helping.”
 
 The door opened, and the one who had waited outside stepped in.
@@ -37,7 +37,7 @@ The boy did not react to this at all. Finally he spoke. “Because you dislike b
 
 “Then there is very little advice that I can give you,” said Severus Snape.
 
-The boy nodded distantly. “On Hermione’s behalf, thank you for helping her with the bullies. She would tell you that it was the right thing to do. And now I would be much obliged if you could tell them to €7€{leave me alone}.”
+The boy nodded distantly. “On Hermione’s behalf, thank you for helping her with the bullies. She would tell you that it was the right thing to do. And now I would be much obliged if you could tell them to <em>leave me alone</em>.”
 
 The Potions Master turned to the door, and when his face was unseen, his voice came in a whisper. “I truly am sorry for your loss.”
 
@@ -45,11 +45,11 @@ Severus Snape departed.
 
 The boy stared after him, trying to remember, as best as he could at this distance, words which had been spoken some time earlier.
 
-€8€{Your books betrayed you, Potter. They did not tell you the one thing you needed to know. You cannot learn from books what it is like to lose the one you love. That is something you could never know without experiencing it for yourself.}
+<em>Your books betrayed you, Potter. They did not tell you the one thing you needed to know. You cannot learn from books what it is like to lose the one you love. That is something you could never know without experiencing it for yourself.</em>
 
 It had gone something like that, the boy thought, if he was remembering correctly.
 
-€9€
+€6€
 
 Hours had passed now, in the infirmary section with its closed door and a body lying in state behind it.
 
@@ -61,7 +61,7 @@ The spell hadn’t worked though, so that particular test had failed to provide 
 
 Time passed, and yet more time. From the outside you would’ve just seen a boy, sitting, staring at his wand with an abstracted gaze, looking at his watch every two minutes or so.
 
-The door to the infirmary section opened once €10€{again}.
+The door to the infirmary section opened once <em>again</em>.
 
 The boy sitting there looked up with a deadly, chilling glare.
 
@@ -97,13 +97,13 @@ The woman was looking at the boy, her face asking a question.
 
 The boy gazed back at her and nodded.
 
-The woman’s voice was thin when she spoke. “€11€{They} won’t let us, Michael.”
+The woman’s voice was thin when she spoke. “<em>They</em> won’t let us, Michael.”
 
 “They have no legal right to stop us—”
 
-“€12€{Right?} You’re €13€{Muggles,}” said the boy, his smile a grimace. “You have as much standing in the magical British legal system as mice. No wizard is going to care about any arguments you make about €14€{rights}, about €15€{fairness}, they won’t even take the time to listen. You don’t have any €16€{power}, see, so they don’t have to bother. No, Mum, I’m not smiling like this because I agree with their Muggle policies, I’m smiling because I disagree with your children policies.”
+“<em>Right?</em> You’re <em>Muggles,</em>” said the boy, his smile a grimace. “You have as much standing in the magical British legal system as mice. No wizard is going to care about any arguments you make about <em>rights</em>, about <em>fairness</em>, they won’t even take the time to listen. You don’t have any <em>power</em>, see, so they don’t have to bother. No, Mum, I’m not smiling like this because I agree with their Muggle policies, I’m smiling because I disagree with your children policies.”
 
-“Then,” Professor Michael Verres-Evans said firmly, “we shall see what the €17€{real} government has to say about that. I know an MP or three—”
+“Then,” Professor Michael Verres-Evans said firmly, “we shall see what the <em>real</em> government has to say about that. I know an MP or three—”
 
 “They’ll say, you’re crazy, have a nice stay in this asylum. That’s assuming the Ministry Obliviators don’t get to you first and erase your memories. They do that to Muggles a lot, I hear. I figure the real higher-ups in our government have formed some cosy accommodations of their own. Maybe they get a few healing Charms now and then, if someone important manages to get cancer.” The boy gave that twisted smile again. “And that’s the situation, Dad, as Mum already knows. They’d never have brought you here or told you anything, if there was a single thing you could do about it.”
 
@@ -121,11 +121,11 @@ The boy looked at her.
 
 The woman nodded, though she didn’t speak.
 
-“I’ve got…you know how that school psychiatrist thought I had anger management problems? Well—” The boy stopped, and swallowed. “I don’t know how to explain this to you, Mum. It’s something magical instead. Probably something to do with whatever happened on the night my parents died. I have…well, I was calling it a mysterious dark side and I know it sounds like a joke and I €18€{did} check with…with an ancient telepathic magical hat to make sure my scar wasn’t €19€{actually} inhabited by the Dark Lord’s spirit and it said that there was only one person under its brim and I don’t think wizards have actual souls anyway since they can still suffer from brain damage, only—”
+“I’ve got…you know how that school psychiatrist thought I had anger management problems? Well—” The boy stopped, and swallowed. “I don’t know how to explain this to you, Mum. It’s something magical instead. Probably something to do with whatever happened on the night my parents died. I have…well, I was calling it a mysterious dark side and I know it sounds like a joke and I <em>did</em> check with…with an ancient telepathic magical hat to make sure my scar wasn’t <em>actually</em> inhabited by the Dark Lord’s spirit and it said that there was only one person under its brim and I don’t think wizards have actual souls anyway since they can still suffer from brain damage, only—”
 
 “Harry, slow down!” said the man.
 
-“—only, only whatever it is, it’s still €20€{real}, there’s something inside me, it gave me willpower when things were bad, I could face down anything so long as I was angry, Snape, Dumbledore, the entire Wizengamot, my dark side wasn’t afraid of anything but Dementors. And I wasn’t stupid, I knew that there might be a price for using my dark side and I kept on looking to see what the price might be. It didn’t change my magic, it didn’t seem to cause permanent alignment shift, it didn’t try to take me away from my friends or anything like that, so I kept on using it whenever I had to and I only figured out too late what the price really was—” The boy’s voice had become almost a whisper. “I only figured out today…every time I call on it…it uses up my childhood. I killed the thing that got Hermione. And it wasn’t my dark side that did it, it was me. Oh, Mum, Dad, I’m sorry.”
+“—only, only whatever it is, it’s still <em>real</em>, there’s something inside me, it gave me willpower when things were bad, I could face down anything so long as I was angry, Snape, Dumbledore, the entire Wizengamot, my dark side wasn’t afraid of anything but Dementors. And I wasn’t stupid, I knew that there might be a price for using my dark side and I kept on looking to see what the price might be. It didn’t change my magic, it didn’t seem to cause permanent alignment shift, it didn’t try to take me away from my friends or anything like that, so I kept on using it whenever I had to and I only figured out too late what the price really was—” The boy’s voice had become almost a whisper. “I only figured out today…every time I call on it…it uses up my childhood. I killed the thing that got Hermione. And it wasn’t my dark side that did it, it was me. Oh, Mum, Dad, I’m sorry.”
 
 There was a long silence filled with the sound of broken masks.
 
@@ -145,7 +145,7 @@ The boy looked up at him, grimacing in bitter anticipation.
 
 “And son—” The man rubbed at his temples. “Maybe I shouldn’t say this now…but are you sure that what you’re talking about is really a magical dark side, and not something normal for a boy your age?”
 
-“Normal,” the boy said with elaborate patience. “Normal how, exactly? I could check again, but I’m reasonably sure there wasn’t anything about this in €21€{Childcraft: A Guide For Parents.} My dark side isn’t just an emotional state, it €22€{makes me smarter}. In some ways, anyhow. You can’t just €23€{pretend} yourself smarter.”
+“Normal,” the boy said with elaborate patience. “Normal how, exactly? I could check again, but I’m reasonably sure there wasn’t anything about this in <em>Childcraft: A Guide For Parents.</em> My dark side isn’t just an emotional state, it <em>makes me smarter</em>. In some ways, anyhow. You can’t just <em>pretend</em> yourself smarter.”
 
 The man rubbed at his head again. “Well…there’s a certain well-known phenomenon wherein children undergo a biological process which can sometimes make them angry and dark and grim, and this process also significantly increases their intelligence and their height—”
 
@@ -157,7 +157,7 @@ The boy slumped back against the wall. “No, Dad, it’s not that I’m turning
 
 The man swallowed visibly. “Anyway, son, you keep yourself safe while we work on getting you out of here, is that understood? Don’t you go actually thinking that you’ve turned to the dark side. I know you’ve had, ah, what I used to call your Ender Wiggin moments—”
 
-“I think we are now €24€{well} past Ender and on to Ender after the buggers kill Valentine.”
+“I think we are now <em>well</em> past Ender and on to Ender after the buggers kill Valentine.”
 
 “Language!” said the woman, and then her hand flew to cover her mouth.
 
@@ -167,11 +167,11 @@ The boy spoke wearily. “Not that kind of bugger, Mum. They’re insectoid alie
 
 The boy closed his eyes. “That’d be wonderful advice, Dad, if only I were in a comic book.”
 
-“€25€{Harry—}” the man began.
+“<em>Harry—</em>” the man began.
 
 “Police can’t do that. Soldiers can’t do that. The most powerful wizard in the world couldn’t do that, and he tried. It’s not fair to the innocent bystanders to play at being Batman if you can’t actually protect everyone under that code. And I’ve just proven that I can’t.”
 
-Beads of sweat were glistening on Professor Michael Verres-Evans’s forehead. “Now you listen to me. No matter what you’ve read in books, you aren’t €26€{supposed} to be protecting anyone! Or involving yourself in anything dangerous! Absolutely anything dangerous whatsoever! Just stay out of the way of €27€{everything}, every bit of craziness going on in this madhouse, while we get you out of here the first instant we possibly can!”
+Beads of sweat were glistening on Professor Michael Verres-Evans’s forehead. “Now you listen to me. No matter what you’ve read in books, you aren’t <em>supposed</em> to be protecting anyone! Or involving yourself in anything dangerous! Absolutely anything dangerous whatsoever! Just stay out of the way of <em>everything</em>, every bit of craziness going on in this madhouse, while we get you out of here the first instant we possibly can!”
 
 The boy looked searchingly at his father, then his mother. Then he looked at his wristwatch again.
 
@@ -179,11 +179,11 @@ The boy looked searchingly at his father, then his mother. Then he looked at his
 
 The boy marched over to the door leading outward, and flung it open.
 
-€28€
+€7€
 
 The door flew open with a crack that caused Minerva to jump, and before she had time to think, Harry Potter marched out of the room, glaring directly at her.
 
-“You brought my parents €29€{here},” the Boy-Who-Lived said. “To €30€{Hogwarts.} Where You-Know-Who or €31€{someone} is lurking around, targeting my friends. What exactly were you thinking?”
+“You brought my parents <em>here</em>,” the Boy-Who-Lived said. “To <em>Hogwarts.</em> Where You-Know-Who or <em>someone</em> is lurking around, targeting my friends. What exactly were you thinking?”
 
 She did not reply that she had been thinking about Harry sitting in front of the door to the storeroom containing Hermione’s body, refusing to move.
 
@@ -191,7 +191,7 @@ She did not reply that she had been thinking about Harry sitting in front of the
 
 “The Headmaster brought them here—”
 
-“I want them out of here €32€{immediately} before anyone else notices, especially You-Know-Who, but also including Professor Quirrell or Professor Snape. Please send your Patronus to the Headmaster and tell him that he needs to bring it back at once. Do not mention my parents by name, or as people, in case somebody else is listening.”
+“I want them out of here <em>immediately</em> before anyone else notices, especially You-Know-Who, but also including Professor Quirrell or Professor Snape. Please send your Patronus to the Headmaster and tell him that he needs to bring it back at once. Do not mention my parents by name, or as people, in case somebody else is listening.”
 
 “Indeed,” said Professor Verres-Evans, nodding sternly along with this from where he stood directly behind the boy, Petunia a step behind him. His hand rested firmly on Harry’s shoulder. “We’ll finish talking to our son at home.”
 
@@ -221,7 +221,7 @@ Minerva looked at Harry.
 
 Words did not come to her.
 
-“Clever move, bringing them here,” Harry Potter said. “Probably damaged our relationship permanently. All I wanted was to be bloody left alone until bloody dinner time. Which,” the boy looked at his wristwatch, “it now is €33€{anyway}. I’m going to go say goodbye to Hermione by myself, which I promise will take less than two minutes, and then after that I’ll come out and go eat something like I would have done regardless. Do €34€{not} disturb me for those two bloody minutes or I will snap and try to kill someone, I mean it, Professor.”
+“Clever move, bringing them here,” Harry Potter said. “Probably damaged our relationship permanently. All I wanted was to be bloody left alone until bloody dinner time. Which,” the boy looked at his wristwatch, “it now is <em>anyway</em>. I’m going to go say goodbye to Hermione by myself, which I promise will take less than two minutes, and then after that I’ll come out and go eat something like I would have done regardless. Do <em>not</em> disturb me for those two bloody minutes or I will snap and try to kill someone, I mean it, Professor.”
 
 The boy turned and strode into the small room, opened the rear door to where Hermione Granger’s body was being kept, and strode inside before she could think to speak. Through the doorway she saw a flash of a sight she knew no child ought to see—
 
@@ -231,11 +231,11 @@ She started forwards, unthinking.
 
 Halfway to the door, she stopped herself.
 
-Her mind was still slow, and hurting, and the part of her that Harry Potter would have called €35€{the picture of a stern disciplinarian} was lifelessly mouthing words about inappropriate behaviour from children. The rest of her didn’t think it was a good idea to leave any child, even Harry Potter, alone in a room with the bloody corpse of his best friend. But the act of opening the door, or asserting any sort of authority, did not seem to her wise. There was no right thing to do, and no right thing to say; or if there was any right path, she did not know it.
+Her mind was still slow, and hurting, and the part of her that Harry Potter would have called <em>the picture of a stern disciplinarian</em> was lifelessly mouthing words about inappropriate behaviour from children. The rest of her didn’t think it was a good idea to leave any child, even Harry Potter, alone in a room with the bloody corpse of his best friend. But the act of opening the door, or asserting any sort of authority, did not seem to her wise. There was no right thing to do, and no right thing to say; or if there was any right path, she did not know it.
 
 Very slowly, a minute and a half passed.
 
-€36€
+€8€
 
 When the door opened again, Harry seemed to have changed, as though that minute and a half had passed over the course of lifetimes.
 
@@ -263,7 +263,7 @@ The boy promised (barring exceptional and unforeseen circumstances, a clause wit
 
 What lay ahead of her…would be no easier, certainly, and might well be harder.
 
-€37€
+€9€
 
 Minerva walked to her office at a swift pace; not slowly, for that would have been a discourtesy.
 
